@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар",
+			"Исмаил Садуев"
+		]
+	},
+	"pagetriage-hist": "истори",
+	"pagetriage-bytes": "$1 {{PLURAL:$1|байт}}",
+	"pagetriage-no-reference": "Билгалдаккхар яц",
+	"pagetriage-author-blocked": "Блоктоьхна",
+	"pagetriage-author-bot": "Бот",
+	"pagetriage-triage": "Хьажа",
+	"pagetriage-filter-unreviewed-edits": "Хьажанза агӀонаш",
+	"pagetriage-filter-username": "Декъашхочун цӀе",
+	"pagetriage-filter-ns-all": "Массо",
+	"pagetriage-more": "Дукха",
+	"pagetriage-filter-stat-all": "Массо",
+	"pagetriage-filter-stat-nominated-for-deletion": "дӀаяха кховдинарш",
+	"pagetriage-filter-stat-blocked": "блоктоьхна декъашхой",
+	"pagetriage-filter-stat-username": "декъашхочун цӀе: $1",
+	"pagetriage-welcome": "Дехар до, лахарчу керла агӀонашка хьажар а уьш таян а {{SITENAME}}. <a href=\"$1\">Мадарра</a> · <a href=\"$2\">Язде хьайна хетарг</a>",
+	"pagetriage-note-reviewed": "ХӀокху агӀоне хьаьжина.",
+	"pagetriage-note-not-reviewed": "ХӀара агӀо хӀинца а хьажаза ю.",
+	"pagetriage-button-edit-details": "Хийца мадарра дерш",
+	"pagetriage-characters-left": "$1 {{PLURAL:$1|символ йисина|$1 символаш йисина}}",
+	"pagetriage-tags-cat-common-label": "Викигулам",
+	"pagetriage-del-tags-dbg7-label": "Авторо доьху дӀаяккхар",
+	"pagetriage-tags-param-free-yes-label": "ХӀаъ",
+	"pagetriage-info-title": "АгӀонах лаьцна хаам",
+	"pagetriage-info-history-header": "Истори",
+	"pagetriage-info-help": "гӀо",
+	"pagetriage-info-problem-no-categories-desc": "ХӀокху агӀона цхьаа категори яц.",
+	"pagetriage-del-tooltip": "Кховдае хӀара агӀо дӀаяккхаре",
+	"pagetriage-notification-mark-as-reviewed2": "[[$2]] агӀо {{GENDER:$1|декъашхочо}} [[User:$1|$1]] теллина",
+	"pagetriage-notification-mark-as-reviewed-email-subject2": "Хьан агӀо  {{SITENAME}} сайтан тӀехь {{GENDER:$1|теллина}}",
+	"pagetriage-notification-mark-as-reviewed-email-batch-body": "$1 агӀо {{GENDER:$2|декъашхочо}} теллина ($2)."
+}

@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"AlnashPiyash2",
+			"Kaganer"
+		]
+	},
+	"coll-remove": "Быдтоно",
+	"coll-show": "Возьматыны",
+	"coll-print_export": "Печать/поттон",
+	"coll-create_a_book": "Книга кылдытыны",
+	"coll-download_as": "$1 форматэн кысконо"
+}

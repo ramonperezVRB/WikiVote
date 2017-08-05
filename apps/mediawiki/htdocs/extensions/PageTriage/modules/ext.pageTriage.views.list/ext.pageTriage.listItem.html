@@ -1,0 +1,70 @@
+<!-- individual list item template -->
+<% if ( position % 2 == 0 ) { %>
+	<div class="mwe-pt-article-row mwe-pt-article-row-even">
+<% } else { %>
+	<div class="mwe-pt-article-row mwe-pt-article-row-odd">
+<% } %>
+	<div class="mwe-pt-status-icon">
+		<% if ( afd_status == "1" || blp_prod_status == "1" || csd_status == "1" || prod_status == "1" ) { %>
+			<img src="<%= mw.config.get( 'wgExtensionAssetsPath' ) + '/PageTriage/modules/ext.pageTriage.views.list/images/icon_marked_for_deletion.png' %>" width="21" height="21" />
+		<% } else if ( patrol_status != "0" ) { %>
+			<img src="<%= mw.config.get( 'wgExtensionAssetsPath' ) + '/PageTriage/modules/ext.pageTriage.views.list/images/icon_reviewed.png' %>" width="21" height="21" />
+		<% } else { %>
+			<img src="<%= mw.config.get( 'wgExtensionAssetsPath' ) + '/PageTriage/modules/ext.pageTriage.views.list/images/icon_not_reviewed.png' %>" width="21" height="21" />
+		<% } %>
+	</div>
+	<div class="mwe-pt-info-pane">
+		<div class="mwe-pt-article">
+			<span class="mwe-pt-creation-date"><%= creation_date_pretty %></span>
+			<a class="mwe-pt-list-triage-button ui-button-blue" style="display:none;" href="<%= title_url %>" target="_blank" title='<%= reviewRightHelpText %>'></a>
+			<span class="mwe-pt-page-title"><a href="<%= title_url %>" target="_blank"><%= mw.html.escape( title ) %></a></span>
+			<span class="mwe-pt-histlink">
+				(<a href="<%= mw.config.get("wgScriptPath") + "/index.php?title=" + title_url_format + "&action=history" %>"><%= mw.msg( "pagetriage-hist" ) %></a>)
+			</span>
+			<span class="mwe-pt-metadata">
+				&#xb7;
+				<%= mw.msg( "pagetriage-bytes", page_len ) %>
+				&#xb7;
+				<%= mw.msg( "pagetriage-edits", rev_count ) %>
+				<% if( category_count == "0" ) { %>
+					<% if( is_redirect == "0" ) { %>
+						&#xb7; <span class="mwe-pt-metadata-warning"><%= mw.msg( "pagetriage-no-categories" ) %></span>
+					<% } %>
+				<% } else { %>
+					&#xb7; <%= mw.msg( "pagetriage-categories", category_count ) %>
+				<% } %>
+				<% if( linkcount == "0" && is_redirect == "0" ) { %>
+					&#xb7; <span class="mwe-pt-metadata-warning"><%= mw.msg("pagetriage-orphan") %></span>
+				<% } %>
+				<% if( typeof reference !== "undefined" && reference == "0" && is_redirect == "0" ) { %>
+					&#xb7; <span class="mwe-pt-metadata-warning"><%= mw.msg( "pagetriage-no-reference" ) %></span>
+				<% } %>
+			</span>
+		</div>
+		<div class="mwe-pt-author">
+		<% if( typeof( user_name ) !== "undefined" ) { %>
+			<%= author_byline %>
+			<!-- user_id is undefined or '0' for IP users -->
+			<% if( typeof ( user_id ) != 'undefined' && Number( user_id ) !== 0 ) { %>
+				&#xb7;
+				<%= mw.msg( 'pagetriage-editcount', user_editcount, user_creation_date_pretty ) %>
+				<% if( user_bot == "1" ) { %>
+					&#xb7;
+					<%= mw.msg( 'pagetriage-author-bot' ) %>
+				<% } %>
+			<% } %>
+			<% if( user_block_status == "1" ) { %>
+				&#xb7;
+				<span class="mwe-pt-metadata-warning">
+				<%= mw.msg( 'pagetriage-author-blocked' ) %>
+				</span>
+			<% } %>
+		<% } else { %>
+			<%= mw.msg('pagetriage-no-author') %>
+		<% } %>
+		</div>
+		<div class="mwe-pt-snippet">
+			<%= mw.html.escape( snippet ) %>
+		</div>
+	</div>
+</div>

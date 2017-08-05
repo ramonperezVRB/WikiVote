@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"pagetriage-filter-show-heading": "Prikaži:",
+	"notification-header-pagetriage-mark-as-reviewed": "Stranica '''$3''' je {{GENDER:$2|pregledana}}."
+}

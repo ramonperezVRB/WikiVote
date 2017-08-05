@@ -1,0 +1,7 @@
+#!/bin/sh
+PHPRC=/opt/bitnami/php/etc
+export PHPRC
+PHP_PEAR_SYSCONF_DIR=/opt/bitnami/php/etc
+export PHP_PEAR_SYSCONF_DIR
+. /opt/bitnami/php/../scripts/setenv.sh
+exec /opt/bitnami/php/bin/php-cgi.bin "$@"

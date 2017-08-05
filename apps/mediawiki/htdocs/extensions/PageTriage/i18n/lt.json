@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg",
+			"Zygimantus",
+			"Eitvys200"
+		]
+	},
+	"pagetriage-filter-nominated-for-deletion": "Pasiūlyti ištrinimui",
+	"pagetriage-del-tags-prod-notify-topic-title": "[[Wikipedia:Proposed deletion|Pasiūlė [[$1]] ištrynimą]]",
+	"pagetriage-del-tags-xfd-notify-topic-title": "Trynimo diskusija apie [[$1]]",
+	"pagetriage-tags-talk-page-notify-topic-title": "Būdai patobulinti $1"
+}

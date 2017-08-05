@@ -1,0 +1,24 @@
+resize2fs 1.42.9 (4-Feb-2014)
+The filesystem is already 2618595 blocks long.  Nothing to do!
+
+650000+0 records in
+650000+0 records out
+665600000 bytes (666 MB) copied, 20.3525 s, 32.7 MB/s
+Setting up swapspace version 1, size = 649996 KiB
+no label, UUID=441956a8-5a3e-41dc-ac07-7f9109bb98e8
+micro
+
+#########################################################################
+#                                                                       #
+#        Setting Bitnami application password to 'bbTJfJ56ysCr'         #
+#                                                                       #
+#########################################################################
+
+[Thu Jul 20 00:18:00 UTC 2017] Regenerating keys for mediawiki
+[Thu Jul 20 00:18:07 UTC 2017] Regenerating keys for mediawiki finished
+[Thu Jul 20 00:18:07 UTC 2017] Finished regenerating keys
+[Thu Jul 20 00:18:07 UTC 2017] Setting up password for mysql service
+[Thu Jul 20 00:18:25 UTC 2017] Setting up password for mysql service finished
+[Thu Jul 20 00:18:25 UTC 2017] Setting up password for mediawiki application
+[Thu Jul 20 00:18:30 UTC 2017] Setting up password for mediawiki application finished
+[Thu Jul 20 00:18:30 UTC 2017] Finished setting password

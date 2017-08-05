@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Si Gam Acèh"
+		]
+	},
+	"coll-remove": "Sampôh",
+	"coll-show": "Peuleumah",
+	"coll-move_up": "Peu'ék",
+	"coll-move_down": "Peutren",
+	"coll-print_export": "Rakam/èkspor",
+	"coll-create_a_book": "Peugöt kitab",
+	"coll-download_as": "Andam seubagoë $1",
+	"coll-remove_this_page": "Sampôh laman nyoë nibak kitab droëneuh",
+	"coll-attribution-anons": "Ureuëng ngui hana meusoë: $1",
+	"coll-image-attribution": "<b>$1</b> <i>Nè:</i> $2 <i>Lisènsi:</i> $3 <i>Ureuëng Pasoë:</i> $4 <i>Ureuëng Peugöt:</i> $5"
+}

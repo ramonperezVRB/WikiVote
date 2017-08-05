@@ -1,0 +1,70 @@
+.mwe-pt-article-row-even {
+	background-color: #f1f1f1;
+}
+
+.mwe-pt-article-row-odd {
+	background-color: #fff;
+}
+
+.mwe-pt-info-pane {
+	margin-left: 31px;
+	padding: 0.5em 0.6em 0.6em 0.5em;
+	min-height: 4.8em;
+}
+
+.mwe-pt-status-icon {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	width: 21px;
+	height: 21px;
+}
+
+.mwe-pt-article-row {
+	position: relative;
+	border: 1px solid #ccc;
+	border-top: 0;
+}
+
+.mwe-pt-list-triage-button {
+	float: right;
+	clear: right;
+}
+
+/* info about the article */
+.mwe-pt-article {
+	font-size: 1.1em;
+	line-height: 1.6em;
+}
+
+.mwe-pt-page-title {
+	font-weight: bold;
+}
+
+.mwe-pt-histlink {
+	font-size: 1em;
+}
+
+.mwe-pt-metadata-warning {
+	color: #c00;
+	font-weight: bold;
+}
+
+.mwe-pt-creation-date {
+	float: right;
+	font-weight: bold;
+	font-size: 1em;
+	margin-left: 1em;
+}
+
+/* info about the article's author */
+.mwe-pt-author {
+	margin-left: 25px;
+}
+
+/* the article snippet */
+.mwe-pt-snippet {
+	color: #808080;
+	margin-left: 25px;
+	margin-right: 8em;
+}

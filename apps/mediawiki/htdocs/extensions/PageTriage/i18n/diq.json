@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Mirzali",
+			"Marmase",
+			"Kumkumuk",
+			"Asmen",
+			"1917 Ekim Devrimi"
+		]
+	},
+	"pagetriage-reviewed": "Vêniya",
+	"pagetriage-bytes": "$1 {{PLURAL:$1|bayt|bayti}}",
+	"pagetriage-no-categories": "Kategoriy çıniyê",
+	"pagetriage-sort-by": "Raten:",
+	"pagetriage-oldest": "Tewr kehan",
+	"pagetriage-triage": "Çım berze cı",
+	"pagetriage-filter-show-heading": "Bımotne:",
+	"pagetriage-filter-article": "Meqale",
+	"pagetriage-filter-username": "Nameyê karberi",
+	"pagetriage-filter-ns-all": "Pêro",
+	"pagetriage-more": "Zewbi",
+	"pagetriage-filter-stat-all": "Pêro",
+	"pagetriage-filter-stat-reviewed": "vêniya",
+	"pagetriage-filter-stat-unreviewed": "Nêbarıyaye",
+	"pagetriage-filter-stat-bots": "boti",
+	"pagetriage-filter-stat-no-categories": "kategoriy çıniyê",
+	"pagetriage-refresh-list": "Listi neweke",
+	"pagetriage-tags-cat-all-label": "Etiketi pêro",
+	"pagetriage-tags-param-article-label": "Wesiqe:",
+	"pagetriage-tags-param-free-yes-label": "Eya",
+	"pagetriage-tags-param-free-no-label": "Nê",
+	"log-name-pagetriage-deletion": "Qeydê esterıtışê etiketi",
+	"pagetriage-info-problem-no-categories": "Kategoriy çıniyê"
+}

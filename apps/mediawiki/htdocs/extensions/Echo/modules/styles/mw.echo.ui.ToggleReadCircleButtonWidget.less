@@ -1,0 +1,34 @@
+@import 'mediawiki.mixins';
+@import '../echo.variables';
+
+.mw-echo-ui-toggleReadCircleButtonWidget {
+	&-circle {
+		border-radius: 50%;
+		min-width: 10px;
+		width: @bundle-group-padding;
+		min-height: 10px;
+		height: @bundle-group-padding;
+		margin: @bundle-group-padding;
+		.box-sizing( border-box );
+
+		// Mark as read
+		background-color: #36c;
+		border: 0;
+
+		// Mark as unread
+		&-unread {
+			background-color: #eaecf0;
+			border: 1px solid @grey-light;
+		}
+	}
+
+	&:hover .mw-echo-ui-toggleReadCircleButtonWidget-circle {
+		// Mark as read
+		background-color: #447ff5;
+
+		// Mark as unread
+		&-unread {
+			background-color: #c8ccd1;
+		}
+	}
+}
