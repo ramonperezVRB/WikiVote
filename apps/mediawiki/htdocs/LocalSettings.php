@@ -180,39 +180,40 @@ require_once "$IP/extensions/MultimediaViewer/MultimediaViewer.php";
 
 # Loading the VisualEditor extension.  More information about this extension
 # here: blog.wikimedia.org/2012/06/21/help-us-shape-wikimedias-prototype-visual-editor/
-wfLoadExtension( 'VisualEditor' );
+# The parsoid service is proving brittle, so commenting out for now
+#wfLoadExtension( 'VisualEditor' );
 
  // OPTIONAL: Enable VisualEditor in other namespaces
  // By default, VE is only enabled in NS_MAIN
- $wgVisualEditorNamespaces[] = NS_PROJECT;
+# $wgVisualEditorNamespaces[] = NS_PROJECT;
 
  // Enable by default for everybody
- $wgDefaultUserOptions['visualeditor-enable'] = 1;
+# $wgDefaultUserOptions['visualeditor-enable'] = 1;
 
  // Don't allow users to disable it
- $wgHiddenPrefs[] = 'visualeditor-enable';
+# $wgHiddenPrefs[] = 'visualeditor-enable';
 
  // OPTIONAL: Enable VisualEditor's experimental code features
  //$wgVisualEditorEnableExperimentalCode = true;
 
 # VisualEditor requires a Parsoid service, which is installed in the
 # extensions folder and requires the following config setting
-$wgVirtualRestConfig['modules']['parsoid'] = array(
+#$wgVirtualRestConfig['modules']['parsoid'] = array(
   // URL to the Parsoid instance - use port 8142 if you use the Debian package - the parameter 'URL' was first used but is now deprecated (string)
-  'url' => 'http://localhost:8000',
+#  'url' => 'http://localhost:8000',
   // Parsoid "domain" (string, optional) - MediaWiki >= 1.26
-  'domain' => 'localhost',
+#  'domain' => 'localhost',
   // Parsoid "prefix" (string, optional) - deprecated since MediaWiki 1.26, use 'domain'
-  'prefix' => 'localhost',
+#  'prefix' => 'localhost',
   // Forward cookies in the case of private wikis (string or false, optional)
-  'forwardCookies' => false,
+#  'forwardCookies' => false,
   // request timeout in seconds (integer or null, optional)
-  'timeout' => null,
+#  'timeout' => null,
   // Parsoid HTTP proxy (string or null, optional)
-  'HTTPProxy' => null,
+#  'HTTPProxy' => null,
   // whether to parse URL as if they were meant for RESTBase (boolean or null, optional)
-  'restbaseCompat' => null,
-);
+#  'restbaseCompat' => null,
+#);
 
 # The Parsoid service needs to speak to the Mediawiki API, so we turn that on
 $wgEnableAPI = true;
@@ -264,6 +265,28 @@ wfLoadExtension( 'TitleBlacklist' );
 
 # Activate skins
 #wfLoadSkin( 'MinervaNeue' );
-#wfLoadSkin( 'Cologne Blue' );
-#wfLoadSkin( 'Modern' );
-#wfLoadSkin( 'MonoBook' );
+#require_once "$IP/skins/MinervaNeue/MinervaNeue.php";
+#$wgDefaultSkin = 'minerva';
+wfLoadSkin( 'CologneBlue' );
+wfLoadSkin( 'Modern' );
+wfLoadSkin( 'MonoBook' );
+
+# The ParserFunctions extension enhances the wikitext parser with helpful
+# functions, mostly related to logic and string-handling. Since MediaWiki
+# 1.15, ParserFunctions has incorporated most (but not all) of the functions
+# from the StringFunctions extension, which may be enabled or disabled (See
+# the install instructions below).
+wfLoadExtension( 'ParserFunctions' );
+
+# Since many templates incorporate images, it is helpful to modify
+# LocalSettings.php to allow instant commons import of images:
+$wgUseInstantCommons = true;
+
+# The Tooltip extension provides the ability to add fancy tooltips to wiki text.
+# Unlike other extensions which provide similar functionality (i.e.
+# Extension:Glossary (outdated), Extension:LinkedImage (outdated),
+# Extension:LinkFloatie, etc), this extension allows for multi-line wiki
+# and/or HTML syntax text for the tooltip. Additionally, the tooltip itself
+# is displayed in a fancy semitransparent window. Unfortunately, this
+# extension does not work in conjunction with Extension:Glossary.
+require_once( "$IP/extensions/Tooltip/Tooltip.php" );
