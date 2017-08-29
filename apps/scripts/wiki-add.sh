@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 #Needs curl
-USERNAME="Username"
-USERPASS="UserPass"
-WIKIAPI="http://commons.wikimedia.org/w/api.php"
+USERNAME="${WIKIVOTE_USER}"
+USERPASS="${WIKIVOTE_PASS}"
+WIKIAPI="http://wikivote.co/api.php"
 cookie_jar="wikicj"
 #Will store file in wikifile
 
@@ -13,6 +13,7 @@ echo "Logging into $WIKIAPI as $USERNAME..."
 #Login part 1
 #printf "%s" "Logging in (1/2)..."
 echo "Logging in (1/2)..."
+
 CR=$(curl -S \
 	--location \
 	--retry 2 \
@@ -26,15 +27,19 @@ CR=$(curl -S \
 	--compressed \
 	--data-urlencode "lgname=${USERNAME}" \
 	--data-urlencode "lgpassword=${USERPASS}" \
-	--request "POST" "${WIKIAPI}?action=login&format=txt")
+	--request "POST" "${WIKIAPI}?action=query&meta=tokens&type=login&format=json")
 
-CR2=($CR)
+CR2="${CR}"
+
+#echo "$(sudo mv ${CR} ${CR}.json)"
+#echo "$(jq '.warnings.main' $CR2)"
+
 if [ "${CR2[9]}" = "[token]" ]; then
 	TOKEN=${CR2[11]}
 	echo "Logging in (1/2)...Complete"
 else
 	echo "Login part 1 failed."
-	echo $CR
+	echo $CR2
 	exit
 fi
 
@@ -69,7 +74,7 @@ CR=$(curl -S \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
 	--compressed \
-	--request "POST" "${WIKIAPI}?action=tokens&format=txt")
+	--request "POST" "${WIKIAPI}?action=query&meta=tokens&format=json")
 
 CR2=($CR)
 EDITTOKEN=${CR2[8]}
