@@ -2,10 +2,10 @@
 
 #Needs curl and jq
 
-USERNAME="Smile4ever"
-USERPASS="******"
+USERNAME="${WIKIVOTE_USER}"
+USERPASS="${WIKIVOTE_PASS}"
+WIKIAPI="http://wikivote.co/api.php"
 PAGE="Title of an article"
-WIKIAPI="https://en.wikipedia.org/w/api.php"
 cookie_jar="wikicj"
 #Will store file in wikifile
 
@@ -31,9 +31,9 @@ CR=$(curl -S \
 	--request "GET" "${WIKIAPI}?action=query&meta=tokens&type=login&format=json")
 
 echo "$CR" | jq .
-	
-rm login.json
-echo "$CR" > login.json
+
+#sudo rm login.json
+sudo echo "$CR" > login.json
 TOKEN=$(jq --raw-output '.query.tokens.logintoken' login.json)
 TOKEN="${TOKEN//\"/}" #replace double quote by nothing
 
@@ -97,7 +97,7 @@ CR=$(curl -S \
 echo "$CR" | jq .
 echo "$CR" > edittoken.json
 EDITTOKEN=$(jq --raw-output '.query.tokens.csrftoken' edittoken.json)
-rm edittoken.json
+sudo rm edittoken.json
 
 EDITTOKEN="${EDITTOKEN//\"/}" #replace double quote by nothing
 
