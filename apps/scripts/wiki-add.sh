@@ -5,7 +5,6 @@
 USERNAME="${WIKIVOTE_USER}"
 USERPASS="${WIKIVOTE_PASS}"
 WIKIAPI="http://wikivote.co/api.php"
-PAGE="Title of an article"
 cookie_jar="wikicj"
 #Will store file in wikifile
 
@@ -32,7 +31,7 @@ CR=$(curl -S \
 
 echo "$CR" | jq .
 
-#sudo rm login.json
+sudo rm login.json
 sudo echo "$CR" > login.json
 TOKEN=$(jq --raw-output '.query.tokens.logintoken' login.json)
 TOKEN="${TOKEN//\"/}" #replace double quote by nothing
@@ -66,7 +65,7 @@ CR=$(curl -S \
 	--data-urlencode "password=${USERPASS}" \
 	--data-urlencode "rememberMe=1" \
 	--data-urlencode "logintoken=${TOKEN}" \
-	--data-urlencode "loginreturnurl=http://en.wikipedia.org" \
+	--data-urlencode "loginreturnurl=http://wikivote.co" \
 	--request "POST" "${WIKIAPI}?action=clientlogin&format=json")
 
 echo "$CR" | jq .
@@ -114,7 +113,7 @@ fi
 
 ###############
 #Make a test edit
-#EDITTOKEN="d55014d69f1a8c821073bb6724aced7658904018+\\"
+
 CR=$(curl -S \
 	--location \
 	--cookie $cookie_jar \
@@ -124,8 +123,8 @@ CR=$(curl -S \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
 	--compressed \
-	--data-urlencode "title=${PAGE}" \
-	--data-urlencode "appendtext={{nocat|2017|01|31}}" \
+	--data-urlencode "title=${BILL} " \
+	--data-urlencode "appendtext=${TITLE}" \
 	--data-urlencode "token=${EDITTOKEN}" \
 	--request "POST" "${WIKIAPI}?action=edit&format=json")
 	

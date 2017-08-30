@@ -1,1 +1,0 @@
-{"warnings":{"login":{"*":"Fetching a token via action=login is deprecated. Use action=query&meta=tokens&type=login instead."}},"login":{"result":"NeedToken","token":"ee6d684a530433e860b74acee932031f59a72573+\\"}}
