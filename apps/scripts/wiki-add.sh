@@ -1,19 +1,22 @@
 #!/usr/bin/env bash
 
-#Needs curl
-USERNAME="${WIKIVOTE_USER}"
-USERPASS="${WIKIVOTE_PASS}"
-WIKIAPI="http://wikivote.co/api.php"
+#Needs curl and jq
+
+USERNAME="Smile4ever"
+USERPASS="******"
+PAGE="Title of an article"
+WIKIAPI="https://en.wikipedia.org/w/api.php"
 cookie_jar="wikicj"
 #Will store file in wikifile
 
 echo "UTF8 check: ☠"
 #################login
 echo "Logging into $WIKIAPI as $USERNAME..."
+
+###############
 #Login part 1
 #printf "%s" "Logging in (1/2)..."
-echo "Logging in (1/2)..."
-
+echo "Get login token..."
 CR=$(curl -S \
 	--location \
 	--retry 2 \
@@ -25,26 +28,31 @@ CR=$(curl -S \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
 	--compressed \
-	--data-urlencode "lgname=${USERNAME}" \
-	--data-urlencode "lgpassword=${USERPASS}" \
-	--request "POST" "${WIKIAPI}?action=query&meta=tokens&type=login&format=json")
+	--request "GET" "${WIKIAPI}?action=query&meta=tokens&type=login&format=json")
 
-CR2="${CR}"
+echo "$CR" | jq .
+	
+rm login.json
+echo "$CR" > login.json
+TOKEN=$(jq --raw-output '.query.tokens.logintoken' login.json)
+TOKEN="${TOKEN//\"/}" #replace double quote by nothing
 
-#echo "$(sudo mv ${CR} ${CR}.json)"
-#echo "$(jq '.warnings.main' $CR2)"
+#Remove carriage return!
+printf "%s" "$TOKEN" > token.txt
+TOKEN=$(cat token.txt | sed 's/\r$//')
 
-if [ "${CR2[9]}" = "[token]" ]; then
-	TOKEN=${CR2[11]}
-	echo "Logging in (1/2)...Complete"
+
+if [ "$TOKEN" == "null" ]; then
+	echo "Getting a login token failed."
+	exit	
 else
-	echo "Login part 1 failed."
-	echo $CR2
-	exit
+	echo "Login token is $TOKEN"
+	echo "-----"
 fi
 
+###############
 #Login part 2
-echo "Logging in (2/2)..."
+echo "Logging in..."
 CR=$(curl -S \
 	--location \
 	--cookie $cookie_jar \
@@ -54,13 +62,23 @@ CR=$(curl -S \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
 	--compressed \
-	--data-urlencode "lgname=${USERNAME}" \
-	--data-urlencode "lgpassword=${USERPASS}" \
-	--data-urlencode "lgtoken=${TOKEN}" \
-	--request "POST" "${WIKIAPI}?action=login&format=txt")
-	
-#TODO-Add login part 2 check
-echo "Successfully logged in as $USERNAME."
+	--data-urlencode "username=${USERNAME}" \
+	--data-urlencode "password=${USERPASS}" \
+	--data-urlencode "rememberMe=1" \
+	--data-urlencode "logintoken=${TOKEN}" \
+	--data-urlencode "loginreturnurl=http://en.wikipedia.org" \
+	--request "POST" "${WIKIAPI}?action=clientlogin&format=json")
+
+echo "$CR" | jq .
+
+STATUS=$(echo $CR | jq '.clientlogin.status')
+if [[ $STATUS == *"PASS"* ]]; then
+	echo "Successfully logged in as $USERNAME, STATUS is $STATUS."
+	echo "-----"
+else
+	echo "Unable to login, is logintoken ${TOKEN} correct?"
+	exit
+fi
 
 ###############
 #Get edit token
@@ -76,19 +94,27 @@ CR=$(curl -S \
 	--compressed \
 	--request "POST" "${WIKIAPI}?action=query&meta=tokens&format=json")
 
-CR2=($CR)
-EDITTOKEN=${CR2[8]}
-if [ ${#EDITTOKEN} = 34 ]; then
+echo "$CR" | jq .
+echo "$CR" > edittoken.json
+EDITTOKEN=$(jq --raw-output '.query.tokens.csrftoken' edittoken.json)
+rm edittoken.json
+
+EDITTOKEN="${EDITTOKEN//\"/}" #replace double quote by nothing
+
+#Remove carriage return!
+printf "%s" "$EDITTOKEN" > edittoken.txt
+EDITTOKEN=$(cat edittoken.txt | sed 's/\r$//')
+
+if [[ $EDITTOKEN == *"+\\"* ]]; then
 	echo "Edit token is: $EDITTOKEN"
 else
 	echo "Edit token not set."
-	echo $CR
 	exit
 fi
-#########################
 
-curl "http://bits.wikimedia.org/images/wikimedia-button.png" >wikifile
-
+###############
+#Make a test edit
+#EDITTOKEN="d55014d69f1a8c821073bb6724aced7658904018+\\"
 CR=$(curl -S \
 	--location \
 	--cookie $cookie_jar \
@@ -97,14 +123,10 @@ CR=$(curl -S \
 	--keepalive-time 60 \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
-	--header "Expect:" \
-	--form "token=${EDITTOKEN}" \
-	--form "filename=filename.gif" \
-	--form "text=Filedescription" \
-	--form "comment=commentDetails" \
-	--form "file=@wikifile" \
-	--request "POST" "${WIKIAPI}?action=upload&format=txt&")
-
-echo $CR
-read -p "Done..."
-exit
+	--compressed \
+	--data-urlencode "title=${PAGE}" \
+	--data-urlencode "appendtext={{nocat|2017|01|31}}" \
+	--data-urlencode "token=${EDITTOKEN}" \
+	--request "POST" "${WIKIAPI}?action=edit&format=json")
+	
+echo "$CR" | jq .
