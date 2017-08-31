@@ -130,10 +130,97 @@ CR=$(curl -S \
         --data-urlencode "section=new" \
         --data-urlencode "sectiontitle=Title" \
         --data-urlencode "appendtext=${TITLE}" \
-        --data-urlencode "section=new" \
-        --data-urlencode "sectiontitle=Description" \
-        --data-urlencode "appendtext=${SUMMARY}" \
 	--data-urlencode "token=${EDITTOKEN}" \
 	--request "POST" "${WIKIAPI}?action=edit&format=json")
 	
+echo "$CR" | jq .
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Summary" \
+        --data-urlencode "appendtext=${SUMMARY}." \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+echo "$CR" | jq .
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=What the bill's supporters say" \
+        --data-urlencode "appendtext=Supporters of the bill should edit this section to offer information about the potential positive impacts of the legislation. Be sure to reference the substantive policy components of the specific legislation, rather than general ideological or political positions." \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+echo "$CR" | jq .
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=What the bill's opponents say" \
+        --data-urlencode "appendtext=Opponents of the bill should edit this section to offer information about the potential negative impacts of the legislation. Be sure to reference the substantive policy components of the specific legislation, rather than general ideological or political positions." \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+echo "$CR" | jq .
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Text of the Bill" \
+        --data-urlencode "appendtext=${BILL_TEXT}." \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+echo "$CR" | jq .
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Explanation of the Bill" \
+        --data-urlencode "appendtext=This section is meant for a plain language (not legalese) explanation of how the law is intended to work" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
 echo "$CR" | jq .
