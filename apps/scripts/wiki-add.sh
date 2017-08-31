@@ -113,6 +113,9 @@ fi
 
 ###############
 #Make a test edit
+echo "${BILL}"
+echo " ${TITLE}"
+echo "${SUMMARY}"
 
 CR=$(curl -S \
 	--location \
@@ -123,8 +126,13 @@ CR=$(curl -S \
 	--header "Accept-Language: en-us" \
 	--header "Connection: keep-alive" \
 	--compressed \
-	--data-urlencode "title=${BILL} " \
-	--data-urlencode "appendtext=${TITLE}" \
+	--data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Title" \
+        --data-urlencode "appendtext=${TITLE}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Description" \
+        --data-urlencode "appendtext=${SUMMARY}" \
 	--data-urlencode "token=${EDITTOKEN}" \
 	--request "POST" "${WIKIAPI}?action=edit&format=json")
 	

@@ -25,7 +25,7 @@ SUMMARY="$(jq '.results[].summary' ~/apps/propublica/bills/${OUTPUT2}.json | sed
 echo "${SUMMARY}"
 
 #Call the WikiVote API to create a new Wiki page with the given bill number, title, and summary
-bash wiki-add.sh
+. ./wiki-add.sh
 
 
 done
