@@ -114,7 +114,7 @@ fi
 ###############
 #Make a test edit
 echo "${BILL}"
-echo " ${TITLE}"
+echo "${TITLE}"
 echo "${SUMMARY}"
 echo "${IMAGE}"
 echo "${GPO_TEXT}"
@@ -165,7 +165,7 @@ CR=$(curl -S \
         --data-urlencode "title=${BILL}" \
         --data-urlencode "section=new" \
         --data-urlencode "sectiontitle=Summary" \
-        --data-urlencode "appendtext=${SUMMARY}." \
+        --data-urlencode "appendtext=${SUMMARY} " \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
         

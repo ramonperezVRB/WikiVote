@@ -20,22 +20,27 @@ echo  "${OUTPUT:1:-5}"
 OUTPUT2="${OUTPUT:1:-5}"
 
 #Call the Propublica API to find the given bill, saving the results to disk
-sudo curl "https://api.propublica.org/congress/v1/115/bills/${OUTPUT2}.json" -H "X-API-Key: ${PROPUBLICA_API_KEY}" -o ~/apps/propublica/bills/${OUTPUT2}.json
+sudo curl "https://api.propublica.org/congress/v1/115/bills/${OUTPUT2}.json" -H "X-API-Key: ${PROPUBLICA_API_KEY}" -o ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json
 
 #Parse the bill results to save the bill number, title, and summary as variables
-BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${BILL}"
-TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${TITLE}"
-SUMMARY="$(jq '.results[].summary_short' ~/apps/propublica/bills/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+SUMMARY="$(jq '.results[].summary_short' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${SUMMARY_SHORT}"
-SUMMARY="$(jq '.results[].summary' ~/apps/propublica/bills/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+SUMMARY="$(jq '.results[].summary' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${SUMMARY}"
-GPO_LINK="$(jq '.results[].gpo_pdf_uri' ~/apps/propublica/bills/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+GPO_LINK="$(jq '.results[].gpo_pdf_uri' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${GPO_LINK}"
 GPO_TEXT="Full text of the bill is available through the Government Publishing Office [${GPO_LINK}]"
 echo "${GPO_TEXT}"
+SPONSOR_ID="$(jq '.results[].sposor_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+echo "${SPONSOR_ID}"
 
+
+
+#Set some wiki markup language based on the image of either the House or Senate seal
 if [ "$CHAMBER" == "house" ]; then
 	IMAGE="[[File:Seal of the United States House of Representatives.png|200x200px|${BILL} is currently pending action in the U.S. House of Representatives|thumb]]"
 elif [ "$CHAMBER" == "senate" ]; then
