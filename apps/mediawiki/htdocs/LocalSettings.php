@@ -217,6 +217,7 @@ require_once "$IP/extensions/MultimediaViewer/MultimediaViewer.php";
 
 # The Parsoid service needs to speak to the Mediawiki API, so we turn that on
 $wgEnableAPI = true;
+$wgEnableWriteAPI = true;
 
 # The Echo extension provides an in-wiki notification system that can be 
 # used by other extensions.  Activate Echo extension.
