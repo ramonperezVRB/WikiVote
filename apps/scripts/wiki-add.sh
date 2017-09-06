@@ -55,7 +55,7 @@ echo "Logging in..."
 CR=$(curl -S \
 	--location \
 	--cookie $cookie_jar \
-    --cookie-jar $cookie_jar \
+        --cookie-jar $cookie_jar \
 	--user-agent "Curl Shell Script" \
 	--keepalive-time 60 \
 	--header "Accept-Language: en-us" \
@@ -116,6 +116,24 @@ fi
 echo "${BILL}"
 echo " ${TITLE}"
 echo "${SUMMARY}"
+echo "${IMAGE}"
+echo "${GPO_TEXT}"
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "appendtext=${IMAGE}" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+echo "$CR" | jq .
 
 CR=$(curl -S \
 	--location \
@@ -201,7 +219,7 @@ CR=$(curl -S \
         --data-urlencode "title=${BILL}" \
         --data-urlencode "section=new" \
         --data-urlencode "sectiontitle=Text of the Bill" \
-        --data-urlencode "appendtext=${BILL_TEXT}." \
+        --data-urlencode "appendtext=${GPO_TEXT}" \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
         
