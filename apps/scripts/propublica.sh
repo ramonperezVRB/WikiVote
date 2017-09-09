@@ -48,7 +48,7 @@ sudo curl "https://api.propublica.org/congress/v1/115/bills/${OUTPUT2}.json" -H 
 #Parse the bill results to save the bill number, title, and summary as variables
 BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${BILL}"
-TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/\"//g' -e 's/\\//g')"
 #echo "${TITLE}"
 SUMMARY_SHORT="$(jq '.results[].summary_short' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SUMMARY_SHORT}"

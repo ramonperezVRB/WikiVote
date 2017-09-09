@@ -18,15 +18,15 @@ elif [ "$CHAMBER" == "senate" ]; then
         PAGE_TITLE="U.S. Senate"
 fi
 
-for file in ~/apps/propublica/bills/${CHAMBER}/${SESSION}/*
+for FILE in ~/apps/propublica/bills/${CHAMBER}/${SESSION}/*
 do
 
 #Parse the bill results to save the bill number, title, and summary as variables
-BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+BILL="$(jq '.results[].bill' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 echo "${BILL}"
-TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+TITLE="$(jq '.results[].title' ${FILE} | sed -e 's/\"//g' -e 's/\\//g')"
 #echo "${TITLE}"
-SPONSOR_ID="$(jq '.results[].sposor_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+SPONSOR_ID="$(jq '.results[].sposor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SPONSOR_ID}"
 
 #Once the edit token is retrieved, start editing the page
@@ -45,7 +45,7 @@ CR=$(curl -S \
         --header "Connection: keep-alive" \
         --compressed \
         --data-urlencode "title=${PAGE_TITLE}" \
-        --data-urlencode "appendtext=*${BILL}: ${TITLE}" \
+        --data-urlencode "appendtext="$'\n'"*[[${BILL}]]: ${TITLE}" \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
 
