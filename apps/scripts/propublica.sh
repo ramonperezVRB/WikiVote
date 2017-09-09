@@ -6,14 +6,14 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=house
+CHAMBER=senate
 TYPE=active
 
 #Paginate through recent bills in batches of 20
 COUNT=0
 PAGINATE=20
 
-for NUMBER in {0..24}
+for NUMBER in {0..17}
 do
 
 QUERY=$((NUMBER*PAGINATE))
