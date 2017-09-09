@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Call the WikiVote API to login and retrieve an edit token for the WikiVote page
+. ./wiki-add.sh
+
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
@@ -66,9 +69,6 @@ else
 	IMAGE=" "
 fi
 
-
-#Call the WikiVote API to login and retrieve an edit token for the WikiVote page
-. ./wiki-add.sh
 
 #Once the edit token is retrieved, start editing the page.  Add the appropriate image.
 #echo "${BILL}"
@@ -139,7 +139,7 @@ CR=$(curl -S \
         --data-urlencode "title=${BILL}" \
         --data-urlencode "section=new" \
         --data-urlencode "sectiontitle=What the bill's supporters say" \
-        --data-urlencode "appendtext=Supporters of the bill should edit this section to offer information about the potential positive impacts of the legislation. Be sure to reference the substantive pol$
+        --data-urlencode "appendtext=Supporters of the bill should edit this section to offer information about the potential positive impacts of the legislation. Be sure to reference the substantive policy components of the specific legislation, rather than general ideological or political positions." \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
 
@@ -156,7 +156,7 @@ CR=$(curl -S \
         --data-urlencode "title=${BILL}" \
         --data-urlencode "section=new" \
         --data-urlencode "sectiontitle=What the bill's opponents say" \
-        --data-urlencode "appendtext=Opponents of the bill should edit this section to offer information about the potential negative impacts of the legislation. Be sure to reference the substantive poli$
+        --data-urlencode "appendtext=Opponents of the bill should edit this section to offer information about the potential negative impacts of the legislation. Be sure to reference the substantive policy components of the specific legislation, rather than general ideological or political positions." \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
 
