@@ -10,11 +10,11 @@ TYPE=active
 COUNT=0
 PAGINATE=20
 
-for NUMBER in {0..1}
+for NUMBER in {0..24}
 do
 
 QUERY=$((NUMBER*PAGINATE))
-echo "${QUERY}"
+#echo "${QUERY}"
 
 #Get the most recent 20 bills introduced in Congress from the Propublica API
 sudo curl "https://api.propublica.org/congress/v1/${SESSION}/${CHAMBER}/bills/${TYPE}.json?offset=${QUERY}" -H "X-API-Key: ${PROPUBLICA_API_KEY}" -o ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json
@@ -26,14 +26,14 @@ echo "${COUNT}"
 
 
 #Now pull the content from those 20 bills
-for number2 in {0..1}
+for number2 in {0..19}
 do
 
 #Cycle through each bill in the list  and output the bill name to a variable
 OUTPUT="$(jq '.results[].bills['$number2'].bill_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json)"
 
 #Trim the output to remove quotations and Congressional session indicator"
-echo  "${OUTPUT:1:-5}"
+#echo  "${OUTPUT:1:-5}"
 OUTPUT2="${OUTPUT:1:-5}"
 
 #Call the Propublica API to find the given bill, saving the results to disk
@@ -43,17 +43,17 @@ sudo curl "https://api.propublica.org/congress/v1/115/bills/${OUTPUT2}.json" -H 
 BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 echo "${BILL}"
 TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-echo "${TITLE}"
+#echo "${TITLE}"
 SUMMARY="$(jq '.results[].summary_short' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-echo "${SUMMARY_SHORT}"
+#echo "${SUMMARY_SHORT}"
 SUMMARY="$(jq '.results[].summary' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-echo "${SUMMARY}"
+#echo "${SUMMARY}"
 GPO_LINK="$(jq '.results[].gpo_pdf_uri' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-echo "${GPO_LINK}"
+#echo "${GPO_LINK}"
 GPO_TEXT="Full text of the bill is available through the Government Publishing Office [${GPO_LINK}]"
-echo "${GPO_TEXT}"
+#echo "${GPO_TEXT}"
 SPONSOR_ID="$(jq '.results[].sposor_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-echo "${SPONSOR_ID}"
+#echo "${SPONSOR_ID}"
 
 
 
@@ -67,8 +67,132 @@ else
 fi
 
 
-#Call the WikiVote API to create a new Wiki page with the given bill number, title, and summary
+#Call the WikiVote API to login and retrieve an edit token for the WikiVote page
 . ./wiki-add.sh
+
+#Once the edit token is retrieved, start editing the page.  Add the appropriate image.
+#echo "${BILL}"
+#echo "${TITLE}"
+#echo "${SUMMARY}"
+#echo "${IMAGE}"
+#echo "${GPO_TEXT}"
+
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "appendtext=${IMAGE}" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+        
+
+#Add the title
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Title" \
+        --data-urlencode "appendtext=${TITLE}" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+
+#Add the summary section
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Summary" \
+        --data-urlencode "appendtext=${SUMMARY} " \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+
+#Add the bill supporters section
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=What the bill's supporters say" \
+        --data-urlencode "appendtext=Supporters of the bill should edit this section to offer information about the potential positive impacts of the legislation. Be sure to reference the substantive pol$
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+
+#Add the bills opponents section
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=What the bill's opponents say" \
+        --data-urlencode "appendtext=Opponents of the bill should edit this section to offer information about the potential negative impacts of the legislation. Be sure to reference the substantive poli$
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+
+#Add the bill text section
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Text of the Bill" \
+        --data-urlencode "appendtext=${GPO_TEXT}" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
+
+#Add the bill explanation section
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${BILL}" \
+        --data-urlencode "section=new" \
+        --data-urlencode "sectiontitle=Explanation of the Bill" \
+        --data-urlencode "appendtext=This section is meant for a plain language (not legalese) explanation of how the law is intended to work" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=edit&format=json")
 
 
 done
