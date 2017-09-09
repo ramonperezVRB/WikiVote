@@ -35,6 +35,9 @@ do
 #Cycle through each bill in the list  and output the bill name to a variable
 OUTPUT="$(jq '.results[].bills['$number2'].bill_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json)"
 
+#Remove the temporary file so the file directory only has JSON objects for each relevant bill
+sudo rm ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json
+
 #Trim the output to remove quotations and Congressional session indicator"
 #echo  "${OUTPUT:1:-5}"
 OUTPUT2="${OUTPUT:1:-5}"
@@ -47,7 +50,7 @@ BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUT
 echo "${BILL}"
 TITLE="$(jq '.results[].title' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 #echo "${TITLE}"
-SUMMARY="$(jq '.results[].summary_short' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
+SUMMARY_SHORT="$(jq '.results[].summary_short' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SUMMARY_SHORT}"
 SUMMARY="$(jq '.results[].summary' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SUMMARY}"
