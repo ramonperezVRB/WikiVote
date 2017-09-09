@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Call the WikiVote API to login and retrieve an edit token for the WikiVote page
-. ./wiki-add.sh
+. ./wikivote-login.sh
 
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
