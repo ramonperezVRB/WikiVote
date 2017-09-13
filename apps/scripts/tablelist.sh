@@ -8,7 +8,7 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=senate
+CHAMBER=house
 TYPE=active
 
 #Set some wiki markup language based on the image of either the House or Senate seal

@@ -6,14 +6,14 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=senate
+CHAMBER=house
 TYPE=active
 
 #Paginate through recent bills in batches of 20
 COUNT=0
 PAGINATE=20
 
-for NUMBER in {0..17}
+for NUMBER in {0..24}
 do
 
 QUERY=$((NUMBER*PAGINATE))
@@ -36,7 +36,7 @@ do
 OUTPUT="$(jq '.results[].bills['$number2'].bill_id' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json)"
 
 #Remove the temporary file so the file directory only has JSON objects for each relevant bill
-sudo rm ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json
+#sudo rm ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json
 
 #Trim the output to remove quotations and Congressional session indicator"
 #echo  "${OUTPUT:1:-5}"
