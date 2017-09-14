@@ -6,7 +6,7 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=senate
+CHAMBER=house
 TYPE=active
 
 #Paginate through recent bills in batches of 20
