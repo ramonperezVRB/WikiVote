@@ -6,15 +6,20 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=house
+CHAMBER=$1
 TYPE=active
 
 #Paginate through recent bills in batches of 20
 COUNT=0
 NEW_BILL=0
 PAGINATE=20
+BILL_COUNT=20
+QUERY=0
 
-for NUMBER in {0..24}
+#Identify a log file location
+LOG_FILE="~/apps/propublica/bills/${CHAMBER}/${SESSION}/log.txt"
+
+while [ $BILL_COUNT -eq 20 ]
 do
 
 QUERY=$((NUMBER*PAGINATE))
@@ -26,11 +31,12 @@ sudo curl "https://api.propublica.org/congress/v1/${SESSION}/${CHAMBER}/bills/${
 #Count the number of bills returned, keeping a running tally
 BILL_COUNT="$(jq '.results[].num_results' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${TYPE}.json)"
 COUNT=$((COUNT+BILL_COUNT))
-#echo "${COUNT}"
-
+END=$((BILL_COUNT-1))
+NUMBER=$((NUMBER+1))
+#echo "${END}"
 
 #Now pull the content from those 20 bills
-for number2 in {0..19}
+for number2 in $(seq 0 $END)
 do
 
 #Cycle through each bill in the list  and output the bill name to a variable
@@ -197,16 +203,14 @@ if [ ! -f ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json ]; then
 	        --request "POST" "${WIKIAPI}?action=edit&format=json")
 
 	NEW_BILL=$((NEW_BILL+1))
-
-else
-	BILL="$(jq '.results[].bill' ~/apps/propublica/bills/${CHAMBER}/${SESSION}/${OUTPUT2}.json | sed -e 's/^"//' -e 's/"$//')"
-	echo "${BILL} already exists"
+	echo "Added ${BILL} to WikiVote"
 fi
 
 done
 
 done
-
-echo "Added ${NEW_BILL} new bills to WikiVote"
+#sudo tee -a log.txt < "This script added ${NEW_BILL} new ${CHAMBER} bills to WikiVote for the ${SESSION}th Congress on `date -u`"
+echo "There are ${COUNT} ${TYPE} bills in the ${CHAMBER} for the ${SESSION}th Congress"
+echo "Added ${NEW_BILL} new ${CHAMBER} bills to WikiVote"
 
 exit 0
