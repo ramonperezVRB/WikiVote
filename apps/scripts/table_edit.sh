@@ -8,7 +8,7 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=senate
+CHAMBER=$1
 TYPE=Active
 LIST_FILE=~/apps/scripts/list.txt
 
@@ -22,7 +22,7 @@ ADD_TEXT=$'\n'$'{| class="wikitable sortable"'$'\n'"|-"$'\n'"! Bill !! Title"
 #echo "${ADD_TEXT}"
 echo "$ADD_TEXT" >> "$LIST_FILE"
 
-#Set some wiki markup language based on the image of either the House or Senate seal
+#Identify which page to edit based on the CHAMBER parameter
 if [ "$CHAMBER" == "house" ]; then
         PAGE_TITLE="U.S. House of Representatives"
 elif [ "$CHAMBER" == "senate" ]; then
@@ -44,11 +44,14 @@ SPONSOR_ID="$(jq '.results[].sposor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #Add the bill number and title to a new line in the table
 ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${TITLE} "
 
-if [ -f "$LIST_FILE" ]
-then 
-    echo "$ADD_TEXT" >> "$LIST_FILE"
+if [ "$BILL" != "null" ]; then
+	if [ -f "$LIST_FILE" ]
+	then 
+    		echo "$ADD_TEXT" >> "$LIST_FILE"
+	fi
 fi
 
+#End the loop
 done
 
 #After exiting the loop, close the wikitable template with curly brackets
@@ -64,7 +67,7 @@ fi
 TEXT=$(<"$LIST_FILE")
 #echo "$TEXT"
 
-#Send the contents of the text to WikiVote
+#Delete the current version of the page in order to create a new one
 CR=$(curl -S \
         --location \
         --cookie $cookie_jar \
@@ -74,7 +77,21 @@ CR=$(curl -S \
         --header "Accept-Language: en-us" \
         --header "Connection: keep-alive" \
         --compressed \
-        --data-urlencode "title=Table demo" \
+        --data-urlencode "title=${PAGE_TITLE}" \
+        --data-urlencode "token=${EDITTOKEN}" \
+        --request "POST" "${WIKIAPI}?action=delete&format=json")
+
+#Send the contents of the text to WikiVote as a new page
+CR=$(curl -S \
+        --location \
+        --cookie $cookie_jar \
+        --cookie-jar $cookie_jar \
+        --user-agent "Curl Shell Script" \
+        --keepalive-time 60 \
+        --header "Accept-Language: en-us" \
+        --header "Connection: keep-alive" \
+        --compressed \
+        --data-urlencode "title=${PAGE_TITLE}" \
         --data-urlencode "appendtext=${TEXT}" \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")

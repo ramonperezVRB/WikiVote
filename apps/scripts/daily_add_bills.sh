@@ -17,7 +17,7 @@ BILL_COUNT=20
 QUERY=0
 
 #Identify a log file location
-LOG_FILE="~/apps/propublica/bills/${CHAMBER}/${SESSION}/log.txt"
+LOG_FILE=~/apps/scripts/log.txt
 
 while [ $BILL_COUNT -eq 20 ]
 do
@@ -209,7 +209,14 @@ fi
 done
 
 done
-#sudo tee -a log.txt < "This script added ${NEW_BILL} new ${CHAMBER} bills to WikiVote for the ${SESSION}th Congress on `date -u`"
+
+if [ -f "$LOG_FILE" ]
+then
+    echo "This script added ${NEW_BILL} new ${CHAMBER} bills to WikiVote for the ${SESSION}th Congress on `date -u`" >> "$LOG_FILE"
+else
+    echo "This script added ${NEW_BILL} new ${CHAMBER} bills to WikiVote for the ${SESSION}th Congress on `date -u`" > "$LOG_FILE"
+fi
+
 echo "There are ${COUNT} ${TYPE} bills in the ${CHAMBER} for the ${SESSION}th Congress"
 echo "Added ${NEW_BILL} new ${CHAMBER} bills to WikiVote"
 
