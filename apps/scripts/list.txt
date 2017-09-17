@@ -4,713 +4,1039 @@
 |-
 ! Bill !! Title
 |-
-| [[S.1024]] || Veterans Appeals Improvement and Modernization Act of 2017 
+| [[H.CON.RES.18]] || Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust. 
 |-
-| [[S.1028]] || RAISE Family Caregivers Act 
+| [[H.CON.RES.1]] || Regarding consent to assemble outside the seat of government. 
 |-
-| [[S.102]] || Securing Access to Networks in Disasters Act of 2017 
+| [[H.CON.RES.23]] || Providing for a joint session of Congress to receive a message from the President. 
 |-
-| [[S.1038]] || A bill to require the Administrator of the Small Business Administration to submit to Congress a report on the utilization of small businesses with respect to certain Federal contracts. 
+| [[H.CON.RES.33]] || Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library. 
 |-
-| [[S.1052]] || BENEFIT Act of 2017 
+| [[H.CON.RES.35]] || Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition. 
 |-
-| [[S.1057]] || Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017 
+| [[H.CON.RES.36]] || Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby. 
 |-
-| [[S.1083]] || A bill to amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Board lacks a quorum. 
+| [[H.CON.RES.48]] || Providing for a conditional adjournment of the House of Representatives. 
 |-
-| [[S.1088]] || Federal Agency Customer Experience Act of 2017 
+| [[H.CON.RES.53]] || Providing for a correction in the enrollment of H.R. 244. 
 |-
-| [[S.1094]] || Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017 
+| [[H.CON.RES.67]] || Urging the Government of the People's Republic of China to unconditionally release Liu Xiaobo, together with his wife Liu Xia, to allow them to freely meet with friends, family, and counsel and seek medical treatment wherever they desire. 
 |-
-| [[S.1096]] || Maritime Administration Authorization and Enhancement Act for Fiscal Year 2018 
+| [[H.CON.RES.69]] || Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run. 
 |-
-| [[S.1099]] || Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017 
+| [[H.CON.RES.71]] || Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027. 
 |-
-| [[S.1103]] || Department of Homeland Security Blue Campaign Authorization Act of 2017 
+| [[H.J.RES.111]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
 |-
-| [[S.1107]] || Bankruptcy Judgeship Act of 2017 
+| [[H.J.RES.36]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation. 
 |-
-| [[S.110]] || Digital Coast Act 
+| [[H.J.RES.37]] || Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
 |-
-| [[S.1129]] || Coast Guard Authorization Act of 2017 
+| [[H.J.RES.38]] || Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
 |-
-| [[S.1141]] || Women, Peace, and Security Act of 2017 
+| [[H.J.RES.3]] || Approving the location of a memorial to commemorate and honor the members of the Armed Forces who served on active duty in support of Operation Desert Storm or Operation Desert Shield. 
 |-
-| [[S.114]] || VA Choice and Quality Employment Act of 2017 
+| [[H.J.RES.40]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
 |-
-| [[S.1165]] || A bill to designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel Woody Williams VA Medical Center. 
+| [[H.J.RES.41]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers. 
 |-
-| [[S.117]] || Alex Diekmann Peak Designation Act of 2017 
+| [[H.J.RES.42]] || Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
 |-
-| [[S.1182]] || The American Legion 100th Anniversary Commemorative Coin Act 
+| [[H.J.RES.43]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients. 
 |-
-| [[S.1221]] || Countering Russian Influence in Europe and Eurasia Act of 2017 
+| [[H.J.RES.44]] || Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976. 
 |-
-| [[S.123]] || Kari's Law Act of 2017 
+| [[H.J.RES.57]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965. 
 |-
-| [[S.1282]] || A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana. 
+| [[H.J.RES.58]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
 |-
-| [[S.129]] || National Sea Grant College Program Amendments Act of 2017 
+| [[H.J.RES.66]] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees. 
 |-
-| [[S.12]] || Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017 
+| [[H.J.RES.67]] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
 |-
-| [[S.1311]] || Abolish Human Trafficking Act of 2017 
+| [[H.J.RES.69]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska. 
 |-
-| [[S.1312]] || Trafficking Victims Protection Act of 2017 
+| [[H.J.RES.76]] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission. 
 |-
-| [[S.131]] || Alaska Mental Health Trust Land Exchange Act of 2017 
+| [[H.J.RES.83]] || Disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
 |-
-| [[S.133]] || Intelligence Authorization Act for Fiscal Year 2017 
+| [[H.J.RES.92]] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact. 
 |-
-| [[S.134]] || Spoofing Prevention Act of 2017 
+| [[H.J.RES.99]] || Making further continuing appropriations for fiscal year 2017, and for other purposes. 
 |-
-| [[S.1359]] || John F. Kennedy Center Reauthorization Act of 2017 
+| [[H.R.1003]] || District of Columbia Courts and Public Defender Service Voluntary Separation Incentive Payments Act 
 |-
-| [[S.1393]] || Jobs for Our Heroes Act 
+| [[H.R.1004]] || Regulatory Integrity Act of 2017 
 |-
-| [[S.1395]] || A bill to revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Delaware. 
+| [[H.R.1005]] || To amend title 38, United States Code, to improve the provision of adult day health care services for veterans. 
 |-
-| [[S.139]] || Rapid DNA Act of 2017 
+| [[H.R.1009]] || OIRA Insight, Reform, and Accountability Act 
 |-
-| [[S.140]] || A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund. 
+| [[H.R.1029]] || Pesticide Registration Improvement Extension Act of 2017 
 |-
-| [[S.141]] || Space Weather Research and Forecasting Act 
+| [[H.R.1033]] || Open Book on Equal Access to Justice Act 
 |-
-| [[S.1428]] || Small Business Cyber Training Act of 2017 
+| [[H.R.1039]] || Probation Officer Protection Act of 2017 
 |-
-| [[S.1447]] || Diesel Emissions Reduction Act of 2017 
+| [[H.R.1058]] || VA Provider Equity Act 
 |-
-| [[S.1460]] || Energy and Natural Resources Act of 2017 
+| [[H.R.1073]] || To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes. 
 |-
-| [[S.1519]] || National Defense Authorization Act for Fiscal Year 2018 
+| [[H.R.1074]] || To repeal the Act entitled An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation. 
 |-
-| [[S.1532]] || No Human Trafficking on Our Roads Act 
+| [[H.R.10]] || Financial CHOICE Act of 2017 
 |-
-| [[S.1536]] || Combating Human Trafficking in Commercial Vehicles Act 
+| [[H.R.1101]] || Small Business Health Fairness Act of 2017 
 |-
-| [[S.154]] || Small Business Relief From Disease Induced Economic Hardship Act of 2017 
+| [[H.R.1109]] || To amend section 203 of the Federal Power Act. 
 |-
-| [[S.1557]] || Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 
+| [[H.R.1117]] || To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster. 
 |-
-| [[S.1598]] || Harry W. Colmery Veterans Educational Assistance Act of 2017 
+| [[H.R.1135]] || To reauthorize the Historically Black Colleges and Universities Historic Preservation program. 
 |-
-| [[S.1603]] || Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 
+| [[H.R.115]] || Thin Blue Line Act 
 |-
-| [[S.1609]] || Energy and Water Development and Related Agencies Appropriations Act, 2018 
+| [[H.R.1162]] || No Hero Left Untreated Act 
 |-
-| [[S.1616]] || Bob Dole Congressional Gold Medal Act 
+| [[H.R.1174]] || Fairness For Breastfeeding Mothers Act of 2017 
 |-
-| [[S.1617]] || Javier Vega, Jr. Memorial Act of 2017 
+| [[H.R.1177]] || Removing Outdated Restrictions to Allow for Job Growth Act 
 |-
-| [[S.1631]] || Department of State Authorities Act, Fiscal Year 2018 
+| [[H.R.1180]] || Working Families Flexibility Act of 2017 
 |-
-| [[S.1648]] || Legislative Branch Appropriations Act, 2018 
+| [[H.R.1181]] || Veterans 2nd Amendment Protection Act 
 |-
-| [[S.1655]] || Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018 
+| [[H.R.1188]] || Adam Walsh Reauthorization Act of 2017 
 |-
-| [[S.1662]] || Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018 
+| [[H.R.1214]] || Disaster SAVE Act 
 |-
-| [[S.167]] || National Memorial to Fallen Educators Act 
+| [[H.R.1215]] || Protecting Access to Care Act of 2017 
 |-
-| [[S.168]] || Commercial Vessel Incidental Discharge Act 
+| [[H.R.1219]] || Supporting America's Innovators Act of 2017 
 |-
-| [[S.1697]] || Taylor Force Act 
+| [[H.R.1228]] || To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes. 
 |-
-| [[S.174]] || Federal Communications Commission Consolidated Reporting Act of 2017 
+| [[H.R.1238]] || Securing our Agriculture and Food Act 
 |-
-| [[S.1757]] || A bill to strengthen border security, increase resources for enforcement of immigration laws, and for other purposes. 
+| [[H.R.1242]] || 400 Years of African-American History Commission Act 
 |-
-| [[S.1761]] || Intelligence Authorization Act for Fiscal Year 2018 
+| [[H.R.1249]] || DHS Multiyear Acquisition Strategy Act of 2017 
 |-
-| [[S.1771]] || Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2018 
+| [[H.R.1252]] || DHS Acquisition Authorities Act of 2017 
 |-
-| [[S.1780]] || Department of State, Foreign Operations, and Related Programs Appropriations Act, 2018 
+| [[H.R.1257]] || Securities and Exchange Commission Overpayment Credit Act 
 |-
-| [[S.178]] || Elder Abuse Prevention and Prosecution Act 
+| [[H.R.1258]] || HSA Technical Corrections Act 
 |-
-| [[S.188]] || Eliminating Government-funded Oil-painting Act 
+| [[H.R.1259]] || VA Accountability First Act of 2017 
 |-
-| [[S.189]] || Fort Scott National Historic Site Boundary Modification Act 
+| [[H.R.1282]] || DHS Acquisition Review Board Act of 2017 
 |-
-| [[S.190]] || Power And Security Systems (PASS) Act 
+| [[H.R.1293]] || To amend title 5, United States Code, to require that the Office of Personnel Management submit an annual report to Congress relating to the use of official time by Federal employees. 
 |-
-| [[S.199]] || A bill to authorize the use of the active capacity of the Fontenelle Reservoir. 
+| [[H.R.1294]] || Reducing DHS Acquisition Cost Growth Act 
 |-
-| [[S.19]] || MOBILE NOW Act 
+| [[H.R.1297]] || Quadrennial Homeland Security Review Technical Corrections Act of 2017 
 |-
-| [[S.204]] || Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017 
+| [[H.R.1301]] || Department of Defense Appropriations Act, 2017 
 |-
-| [[S.213]] || Jay S. Hammond Wilderness Act of 2017 
+| [[H.R.1302]] || Terrorist and Foreign Fighter Travel Exercise Act of 2017 
 |-
-| [[S.214]] || A bill to authorize the expansion of an existing hydroelectric project. 
+| [[H.R.1304]] || Self-Insurance Protection Act 
 |-
-| [[S.215]] || A bill to authorize the Federal Energy Regulatory Commission to issue an order continuing a stay of a hydroelectric license for the Mahoney Lake hydroelectric project in the State of Alaska, and for other purposes. 
+| [[H.R.1306]] || Western Oregon Tribal Fairness Act 
 |-
-| [[S.216]] || Bureau of Reclamation Transparency Act 
+| [[H.R.1309]] || TSA Administrator Modernization Act of 2017 
 |-
-| [[S.217]] || A bill to amend the Denali National Park Improvement Act to clarify certain provisions relating to the natural gas pipeline authorized in the Denali National Park and Preserve. 
+| [[H.R.1312]] || Small Business Capital Formation Enhancement Act 
 |-
-| [[S.218]] || Social Security Fraud Prevention Act of 2017 
+| [[H.R.1329]] || Veterans' Compensation Cost-of-Living Adjustment Act of 2017 
 |-
-| [[S.225]] || Mount Hood Cooper Spur Land Exchange Clarification Act 
+| [[H.R.132]] || Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017 
 |-
-| [[S.226]] || A bill to exclude power supply circuits, drivers, and devices to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination or ceiling fans using direct current motors from energy conservation standards for external power supplies. 
+| [[H.R.1343]] || Encouraging Employee Ownership Act of 2017 
 |-
-| [[S.239]] || Energy Savings Through Public-Private Partnerships Act of 2017 
+| [[H.R.1346]] || To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled Metropolitan Planning Organization Coordination and Planning Area Reform. 
 |-
-| [[S.245]] || Indian Tribal Energy Development and Self-Determination Act Amendments of 2017 
+| [[H.R.1351]] || Strengthening Oversight of TSA Employee Misconduct Act 
 |-
-| [[S.249]] || A bill to provide that the pueblo of Santa Clara may lease for 99 years certain restricted land, and for other purposes. 
+| [[H.R.1353]] || Transparency in Technological Acquisitions Act of 2017 
 |-
-| [[S.254]] || Esther Martinez Native American Languages Preservation Act 
+| [[H.R.1362]] || To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa'aua'a Hunkin VA Clinic. 
 |-
-| [[S.267]] || A bill to provide for the correction of a survey of certain land in the State of Alaska. 
+| [[H.R.1365]] || Department of Homeland Security Acquisition Innovation Act 
 |-
-| [[S.269]] || A bill to provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, and to the Bristol Bay Area Health Corporation located in Dillingham, Alaska, and for other purposes. 
+| [[H.R.1366]] || U.S. Territories Investor Protection Act of 2017 
 |-
-| [[S.274]] || A bill to nullify the effect of the recent executive order that temporarily restricted individuals from certain countries from entering the United States. 
+| [[H.R.1367]] || To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes. 
 |-
-| [[S.280]] || Crags, Colorado Land Exchange Act 
+| [[H.R.1370]] || Department of Homeland Security Blue Campaign Authorization Act of 2017 
 |-
-| [[S.285]] || Bolts Ditch Access and Use Act 
+| [[H.R.1372]] || Homeland Security for Children Act 
 |-
-| [[S.286]] || Elkhorn Ranch and White River National Forest Conveyance Act 
+| [[H.R.1387]] || SOAR Reauthorization Act 
 |-
-| [[S.287]] || A bill to update the map of, and modify the maximum acreage available for inclusion in, the Florissant Fossil Beds National Monument. 
+| [[H.R.1393]] || Mobile Workforce State Income Tax Simplification Act of 2017 
 |-
-| [[S.289]] || Arapaho National Forest Boundary Adjustment Act of 2017 
+| [[H.R.1397]] || To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land, and for other purposes. 
 |-
-| [[S.302]] || John P. Smith Act 
+| [[H.R.1404]] || Pascua Yaqui Tribe Land Conveyance Act 
 |-
-| [[S.304]] || Tribal Veterans Health Care Enhancement Act 
+| [[H.R.1422]] || Private Flood Insurance Market Development Act of 2017 
 |-
-| [[S.305]] || Vietnam War Veterans Recognition Act of 2017 
+| [[H.R.1428]] || American Law Enforcement Heroes Act of 2017 
 |-
-| [[S.317]] || Taxpayers Right-To-Know Act 
+| [[H.R.1430]] || HONEST Act 
 |-
-| [[S.327]] || Fair Access to Investment Research Act of 2017 
+| [[H.R.1431]] || EPA Science Advisory Board Reform Act of 2017 
 |-
-| [[S.331]] || A bill to remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes. 
+| [[H.R.1461]] || VET Protection Act of 2017 
 |-
-| [[S.343]] || RESPECT Act 
+| [[H.R.1492]] || Medical Controlled Substances Transportation Act of 2017 
 |-
-| [[S.346]] || National Volcano Early Warning and Monitoring System Act 
+| [[H.R.1500]] || Robert Emmet Park Act of 2017 
 |-
-| [[S.35]] || Black Hills National Cemetery Boundary Expansion Act 
+| [[H.R.1541]] || To authorize the Secretary of the Interior to acquire certain property related to the Fort Scott National Historic Site in Fort Scott, Kansas, and for other purposes. 
 |-
-| [[S.363]] || North Country National Scenic Trail Route Adjustment Act 
+| [[H.R.1545]] || VA Prescription Data Accountability Act 2017 
 |-
-| [[S.371]] || Department of State Authorities Act, Fiscal Year 2017, Improvements Act 
+| [[H.R.1547]] || Udall Park Land Exchange Completion Act 
 |-
-| [[S.381]] || A bill to repeal the Act entitled An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation. 
+| [[H.R.1551]] || To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities. 
 |-
-| [[S.385]] || Energy Savings and Industrial Competitiveness Act 
+| [[H.R.1558]] || Repeatedly Flooded Communities Preparation Act 
 |-
-| [[S.392]] || 400 Years of African-American History Commission Act 
+| [[H.R.1616]] || Strengthening State and Local Cyber Crime Fighting Act of 2017 
 |-
-| [[S.39]] || Little Shell Tribe of Chippewa Indians Restoration Act of 2017 
+| [[H.R.1624]] || Municipal Finance Support Act of 2017 
 |-
-| [[S.416]] || Small Business Capital Formation Enhancement Act 
+| [[H.R.1625]] || Targeted Rewards for the Global Eradication of Human Trafficking 
 |-
-| [[S.419]] || Public Safety Officers' Benefits Improvement Act of 2017 
+| [[H.R.1628]] || American Health Care Act of 2017 
 |-
-| [[S.432]] || Cerros del Norte Conservation Act 
+| [[H.R.1644]] || Korean Interdiction and Modernization of Sanctions Act 
 |-
-| [[S.442]] || National Aeronautics and Space Administration Transition Authorization Act of 2017 
+| [[H.R.1654]] || Water Supply Permitting Coordination Act 
 |-
-| [[S.444]] || Supporting America's Innovators Act of 2017 
+| [[H.R.1665]] || Disaster Declaration Improvement Act 
 |-
-| [[S.459]] || A bill to designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as Boris Nemtsov Plaza, and for other purposes. 
+| [[H.R.1667]] || Financial Institution Bankruptcy Act of 2017 
 |-
-| [[S.462]] || Securities and Exchange Commission Overpayment Credit Act 
+| [[H.R.1677]] || Caesar Syria Civilian Protection Act of 2017 
 |-
-| [[S.466]] || A bill to clarify the description of certain Federal land under the Northern Arizona Land Exchange and Verde River Basin Partnership Act of 2005 to include additional land in the Kaibab National Forest. 
+| [[H.R.1678]] || To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes. 
 |-
-| [[S.484]] || U.S. Territories Investor Protection Act of 2017 
+| [[H.R.1679]] || FEMA Accountability, Modernization and Transparency Act of 2017 
 |-
-| [[S.488]] || Encouraging Employee Ownership Act 
+| [[H.R.1684]] || Disaster Assistance Support for Communities and Homeowners Act of 2017 
 |-
-| [[S.490]] || A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving the Gibson Dam. 
+| [[H.R.1690]] || Department of Veterans Affairs Bonus Transparency Act 
 |-
-| [[S.491]] || A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Clark Canyon Dam. 
+| [[H.R.1694]] || Fannie and Freddie Open Records Act of 2017 
 |-
-| [[S.496]] || A bill to repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled Metropolitan Planning Organization Coordination and Planning Area Reform. 
+| [[H.R.1695]] || Register of Copyrights Selection and Accountability Act of 2017 
 |-
-| [[S.500]] || Securing our Agriculture and Food Act 
+| [[H.R.1715]] || Medgar Evers House Study Act 
 |-
-| [[S.501]] || East Rosebud Wild and Scenic Rivers Act 
+| [[H.R.1719]] || John Muir National Historic Site Expansion Act 
 |-
-| [[S.502]] || A bill to modify the boundary of Voyageurs National Park in the State of Minnesota, and for other purposes. 
+| [[H.R.1725]] || To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary. 
 |-
-| [[S.504]] || APEC Business Travel Cards Reauthorization Act of 2017 
+| [[H.R.1726]] || Coast Guard Improvement and Reform Act of 2017 
 |-
-| [[S.508]] || Western Oregon Tribal Fairness Act 
+| [[H.R.1761]] || Protecting Against Child Exploitation Act of 2017 
 |-
-| [[S.512]] || Nuclear Energy Innovation and Modernization Act 
+| [[H.R.1807]] || Public Water Supply Invasive Species Compliance Act of 2017 
 |-
-| [[S.513]] || Frank and Jeanne Moore Wild Steelhead Special Management Area Designation Act 
+| [[H.R.1808]] || Improving Support for Missing and Exploited Children Act of 2017 
 |-
-| [[S.518]] || Small and Rural Community Clean Water Technical Assistance Act 
+| [[H.R.1809]] || Juvenile Justice Reform Act of 2017 
 |-
-| [[S.534]] || Protecting Young Victims from Sexual Abuse Act of 2017 
+| [[H.R.1842]] || Strengthening Children's Safety Act of 2017 
 |-
-| [[S.544]] || A bill to amend the Veterans Access, Choice, and Accountability Act of 2014 to modify the termination date for the Veterans Choice Program, and for other purposes. 
+| [[H.R.1843]] || Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act 
 |-
-| [[S.55]] || Fort Ontario Study Act 
+| [[H.R.1848]] || Veterans Affairs Medical Scribe Pilot Act of 2017 
 |-
-| [[S.566]] || Methow Headwaters Protection Act 
+| [[H.R.1862]] || Global Child Protection Act of 2017 
 |-
-| [[S.576]] || Follow the Rules Act 
+| [[H.R.1873]] || Electricity Reliability and Forest Protection Act 
 |-
-| [[S.577]] || Providing Accountability Through Transparency Act of 2017 
+| [[H.R.1892]] || Honoring Hometown Heroes Act 
 |-
-| [[S.579]] || Early Participation in Regulations Act of 2017 
+| [[H.R.1913]] || Clear Creek National Recreation Area and Conservation Act 
 |-
-| [[S.581]] || Jessie's Law 
+| [[H.R.1927]] || African American Civil Rights Network Act of 2017 
 |-
-| [[S.582]] || Office of Special Counsel Reauthorization Act of 2017 
+| [[H.R.194]] || Federal Agency Mail Management Act of 2017 
 |-
-| [[S.583]] || American Law Enforcement Heroes Act of 2017 
+| [[H.R.195]] || Federal Register Printing Savings Act of 2017 
 |-
-| [[S.585]] || Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017 
+| [[H.R.1967]] || Bureau of Reclamation Pumped Storage Hydropower Development Act 
 |-
-| [[S.590]] || A bill to authorize the Secretary of Agriculture to maintain or replace certain facilities and structures for commercial recreation services at Smith Gulch in Idaho, and for other purposes. 
+| [[H.R.1973]] || Protecting Young Victims from Sexual Abuse Act of 2017 
 |-
-| [[S.595]] || Anti-Border Corruption Reauthorization Act of 2017 
+| [[H.R.1988]] || To designate the facility of the United States Postal Service located at 1730 18th Street in Bakersfield, California, as the Merle Haggard Post Office Building. 
 |-
-| [[S.597]] || Children of Fallen Heroes Scholarship Act 
+| [[H.R.2006]] || VA Procurement Efficiency and Transparency Act 
 |-
-| [[S.617]] || Lower Farmington River and Salmon Brook Wild and Scenic River Act 
+| [[H.R.2052]] || PRIVATE Act 
 |-
-| [[S.61]] || A bill to remove the sunset provision of section 203 of Public Law 105-384 and for other purposes. 
+| [[H.R.2053]] || Mining Schools Enhancement Act 
 |-
-| [[S.63]] || Tribal Labor Sovereignty Act of 2017 
+| [[H.R.2056]] || Microloan Modernization Act of 2017 
 |-
-| [[S.644]] || Medgar Evers House Study Act 
+| [[H.R.2075]] || Crooked River Ranch Fire Protection Act 
 |-
-| [[S.650]] || Support Small Business R & D Act of 2017 
+| [[H.R.2083]] || Endangered Salmon and Fisheries Predation Prevention Act 
 |-
-| [[S.652]] || Early Hearing Detection and Intervention Act of 2017 
+| [[H.R.2122]] || To reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Jennings Randolph Dam. 
 |-
-| [[S.669]] || Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act 
+| [[H.R.2131]] || Fixing Internal Response to Misconduct Act 
 |-
-| [[S.675]] || Long Island Sound Restoration and Stewardship Act 
+| [[H.R.2132]] || Traveler Redress Improvement Act of 2017 
 |-
-| [[S.690]] || HUBZone Investment Protection Act 
+| [[H.R.2154]] || To rename the Red River Valley Agricultural Research Center in Fargo, North Dakota, as the Edward T. Schafer Agricultural Research Center. 
 |-
-| [[S.691]] || Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 
+| [[H.R.2156]] || Saint Francis Dam Disaster National Memorial Act 
 |-
-| [[S.692]] || Water Infrastructure Flexibility Act 
+| [[H.R.2169]] || Improving Fusion Centers' Access to Information Act 
 |-
-| [[S.696]] || Stop Improper Federal Bonuses Act 
+| [[H.R.2182]] || Plum Island Preservation Act 
 |-
-| [[S.703]] || Wichita Project Equus Beds Division Authorization Extension Act 
+| [[H.R.2188]] || Community Counterterrorism Preparedness Act 
 |-
-| [[S.705]] || Child Protection Improvements Act of 2017 
+| [[H.R.218]] || King Cove Road Land Exchange Act 
 |-
-| [[S.710]] || A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Jennings Randolph Dam. 
+| [[H.R.2190]] || Streamlining DHS Overhead Act 
 |-
-| [[S.713]] || National Heritage Area Authorization Act of 2017 
+| [[H.R.2192]] || To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff. 
 |-
-| [[S.714]] || Yakima River Basin Water Enhancement Project Phase III Act of 2017 
+| [[H.R.2195]] || OSC Access Act 
 |-
-| [[S.717]] || POWER Act 
+| [[H.R.21]] || Midnight Rules Relief Act of 2017 
 |-
-| [[S.722]] || Countering Iran's Destabilizing Activities Act of 2017 
+| [[H.R.2200]] || Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2017 
 |-
-| [[S.723]] || A bill to extend the deadline for commencement of construction of a hydroelectric project. 
+| [[H.R.220]] || To authorize the expansion of an existing hydroelectric project, and for other purposes. 
 |-
-| [[S.724]] || A bill to amend the Federal Power Act to modernize authorizations for necessary hydropower approvals. 
+| [[H.R.2210]] || To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the Sergeant Joseph George Kusick VA Community Living Center. 
 |-
-| [[S.729]] || John Muir National Historic Site Expansion Act 
+| [[H.R.2213]] || Anti-Border Corruption Reauthorization Act of 2017 
 |-
-| [[S.730]] || A bill to extend the deadline for commencement of construction of certain hydroelectric projects. 
+| [[H.R.2227]] || MGT Act 
 |-
-| [[S.733]] || Sportsmen's Act 
+| [[H.R.2246]] || Taxpayer Exposure Mitigation Act of 2017 
 |-
-| [[S.734]] || A bill to extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam. 
+| [[H.R.2258]] || ADVANCE Act 
 |-
-| [[S.756]] || SOS Act of 2017 
+| [[H.R.2266]] || Bankruptcy Judgeship Act of 2017 
 |-
-| [[S.760]] || Open, Public, Electronic, and Necessary Government Data Act 
+| [[H.R.2274]] || HYPE Act 
 |-
-| [[S.765]] || Private Corrado Piccoli Purple Heart Preservation Act 
+| [[H.R.2281]] || Border Enforcement Security Task Force Reauthorization Act of 2017 
 |-
-| [[S.770]] || MAIN STREET Cybersecurity Act of 2017 
+| [[H.R.2283]] || Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017 
 |-
-| [[S.772]] || AMBER Alert in Indian Country Act of 2017 
+| [[H.R.2288]] || Veterans Appeals Improvement and Modernization Act of 2017 
 |-
-| [[S.782]] || Providing Resources, Officers, and Technology To Eradicate Cyber Threats to Our Children Act of 2017 
+| [[H.R.228]] || Indian Employment, Training and Related Services Consolidation Act of 2017 
 |-
-| [[S.810]] || A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes. 
+| [[H.R.2292]] || To extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam. 
 |-
-| [[S.81]] || Seniors Fraud Prevention Act of 2017 
+| [[H.R.2316]] || Cooperative Management of Mineral Rights Act of 2017 
 |-
-| [[S.822]] || BUILD Act 
+| [[H.R.2333]] || Small Business Investment Opportunity Act of 2017 
 |-
-| [[S.826]] || WILD Act 
+| [[H.R.2353]] || Strengthening Career and Technical Education for the 21st Century Act 
 |-
-| [[S.829]] || AFG and SAFER Program Reauthorization Act of 2017 
+| [[H.R.2364]] || Small Business Investment Opportunity Act of 2017 
 |-
-| [[S.831]] || A bill to designate the facility of the United States Postal Service located at 120 West Pike Street in Canonsburg, Pennsylvania, as the Police Officer Scott Bashioum Post Office Building. 
+| [[H.R.2370]] || Escambia County Land Conveyance Act 
 |-
-| [[S.849]] || SMASH Act 
+| [[H.R.2371]] || Western Area Power Administration Transparency Act 
 |-
-| [[S.84]] || A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
+| [[H.R.2372]] || VETERAN Act 
 |-
-| [[S.860]] || Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017 
+| [[H.R.2374]] || Eastern Nevada Economic Development and Land Management Improvement Act 
 |-
-| [[S.861]] || Federal Employee Fair Treatment Act of 2017 
+| [[H.R.238]] || Commodity End-User Relief Act 
 |-
-| [[S.867]] || Law Enforcement Mental Health and Wellness Act of 2017 
+| [[H.R.239]] || Support for Rapid Innovation Act of 2017 
 |-
-| [[S.870]] || Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017 
+| [[H.R.23]] || Gaining Responsibility on Water Act of 2017 
 |-
-| [[S.88]] || DIGIT Act 
+| [[H.R.240]] || Leveraging Emerging Technologies Act of 2017 
 |-
-| [[S.89]] || A bill to amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the areas of the vessels that are not constructed of fire-retardant materials and for other purposes. 
+| [[H.R.2423]] || Washington County, Utah, Public Lands Management Implementation Act 
 |-
-| [[S.905]] || Syrian War Crimes Accountability Act of 2017 
+| [[H.R.2427]] || Pathways to Improving Homeland Security At the Local Level Act 
 |-
-| [[S.90]] || Red River Gradient Boundary Survey Act 
+| [[H.R.2430]] || FDA Reauthorization Act of 2017 
 |-
-| [[S.916]] || Protecting Patient Access to Emergency Medications Act of 2017 
+| [[H.R.2433]] || Homeland Security Assessment of Terrorists Use of Virtual Currencies Act 
 |-
-| [[S.917]] || Silver Star Service Banner Day Act 
+| [[H.R.2442]] || FIRST State and Local Law Enforcement Act 
 |-
-| [[S.91]] || Indian Employment, Training and Related Services Consolidation Act of 2017 
+| [[H.R.2443]] || Department of Homeland Security Classified Facility Inventory Act 
 |-
-| [[S.920]] || National Clinical Care Commission Act 
+| [[H.R.244]] || Consolidated Appropriations Act, 2017 
 |-
-| [[S.929]] || Invest in Rural Small Business Act of 2017 
+| [[H.R.2453]] || DHS Intelligence Rotational Assignment Program Act of 2017 
 |-
-| [[S.934]] || FDA Reauthorization Act of 2017 
+| [[H.R.2454]] || Department of Homeland Security Data Framework Act of 2017 
 |-
-| [[S.96]] || Improving Rural Call Quality and Reliability Act of 2017 
+| [[H.R.2457]] || J. Bennett Johnston Waterway Hydropower Extension Act of 2017 
 |-
-| [[S.97]] || Nuclear Energy Innovation Capabilities Act of 2017 
+| [[H.R.2468]] || Unifying DHS Intelligence Enterprise Act 
 |-
-| [[S.987]] || 100 by '50 Act 
+| [[H.R.2470]] || Homeland Threat Assessment Act 
 |-
-| [[S.99]] || James K. Polk Presidential Home Study Act 
+| [[H.R.2471]] || TRACER Act 
 |-
-| [[S.CON.RES.14]] || A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I. 
+| [[H.R.2473]] || Put Trafficking Victims First Act of 2017 
 |-
-| [[S.CON.RES.15]] || A concurrent resolution expressing support for the designation of October 28, 2017, as Honoring the Nation's First Responders Day. 
+| [[H.R.2480]] || Empowering Law Enforcement to Fight Sex Trafficking Demand Act 
 |-
-| [[S.CON.RES.1]] || A concurrent resolution extending the life of the Joint Congressional Committee on Inaugural Ceremonies. 
+| [[H.R.2484]] || Women, Peace, and Security Act of 2017 
 |-
-| [[S.CON.RES.23]] || A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal to the Filipino Veterans of World War II. 
+| [[H.R.2518]] || Coast Guard Authorization Act of 2017 
 |-
-| [[S.CON.RES.24]] || Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017 
+| [[H.R.2547]] || Veterans Expanded Trucking Opportunities Act of 2017 
 |-
-| [[S.CON.RES.2]] || A concurrent resolution to provide for the counting on January 6, 2017, of the electoral votes for President and Vice President of the United States. 
+| [[H.R.2548]] || FEMA Reauthorization Act of 2017 
 |-
-| [[S.CON.RES.3]] || A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026. 
+| [[H.R.255]] || Promoting Women in Entrepreneurship Act 
 |-
-| [[S.J.RES.19]] || A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to prepaid accounts under the Electronic Fund Transfer Act and the Truth in Lending Act. 
+| [[H.R.2565]] || To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes. 
 |-
-| [[S.J.RES.1]] || A joint resolution approving the location of a memorial to commemorate and honor the members of the Armed Forces who served on active duty in support of Operation Desert Storm or Operation Desert Shield. 
+| [[H.R.2579]] || Broader Options for Americans Act 
 |-
-| [[S.J.RES.22]] || A joint resolution granting the consent and approval of Congress to the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission. 
+| [[H.R.2581]] || Verify First Act 
 |-
-| [[S.J.RES.30]] || A joint resolution providing for the reappointment of Steve Case as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+| [[H.R.2582]] || Confirming State Land Grants for Education Act 
 |-
-| [[S.J.RES.34]] || A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
+| [[H.R.2611]] || Little Rock Central High School National Historic Site Boundary Modification Act 
 |-
-| [[S.J.RES.35]] || A joint resolution providing for the appointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+| [[H.R.2615]] || Gulf Islands National Seashore Land Exchange Act of 2017 
 |-
-| [[S.J.RES.36]] || A joint resolution providing for the appointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution. 
+| [[H.R.2664]] || Enhancing Detection of Human Trafficking Act 
 |-
-| [[S.J.RES.41]] || An original joint resolution providing for an exception to the limitation on the appointment of certain persons as the United States Trade Representative. 
+| [[H.R.267]] || Martin Luther King, Jr. National Historical Park Act of 2017 
 |-
-| [[S.J.RES.42]] || A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Saudi Arabia of certain defense articles. 
+| [[H.R.26]] || Regulations from the Executive in Need of Scrutiny Act of 2017 
 |-
-| [[S.J.RES.45]] || A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence. 
+| [[H.R.2742]] || Modernizing the Interstate Placement of Children in Foster Care Act 
 |-
-| [[S.J.RES.49]] || A joint resolution condemning the violence and domestic terrorist attack that took place during events between August 11 and August 12, 2017 in Charlottesville, Virginia, recognizing the first responders who lost their lives while monitoring the events, offering deepest condolences to the families and friends of those individuals who were killed and deepest sympathies and support to those individuals who were injured by the violence, expressing support for the Charlottesville community, rejecting White nationalists, White supremacists, the Ku Klux Klan, neo-Nazis, and other hate groups, and urging the President and the President's Cabinet to use all available resources to address the threats posed by those groups. 
+| [[H.R.2749]] || Protecting Business Opportunities for Veterans Act of 2017 
 |-
-| [[S.RES.101]] || A resolution providing for members on the part of the Senate of the Joint Committee on Printing and the Joint Committee of Congress on the Library. 
+| [[H.R.274]] || Modernizing Government Travel Act 
 |-
-| [[S.RES.103]] || A resolution designating March 29, 2017, as Vietnam Veterans Day. 
+| [[H.R.2763]] || Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017 
 |-
-| [[S.RES.105]] || A resolution recognizing 2017 as the 100th anniversary of the creation of the 41st Division. 
+| [[H.R.2768]] || Fowler and Boskoff Peaks Designation Act 
 |-
-| [[S.RES.107]] || A resolution congratulating the rifle team of West Virginia University on winning the 2017 National Collegiate Athletic Association Rifle Championship. 
+| [[H.R.276]] || To amend title 49, United States Code, to ensure reliable air service in American Samoa. 
 |-
-| [[S.RES.111]] || A resolution celebrating the 150th anniversary of the Alaska Purchase. 
+| [[H.R.2772]] || SEA Act 
 |-
-| [[S.RES.112]] || A resolution designating April 5, 2017, as Gold Star Wives Day. 
+| [[H.R.2781]] || Ensuring Veteran Enterprise Participation in Strategic Sourcing Act 
 |-
-| [[S.RES.113]] || A resolution recognizing and celebrating the 50th anniversary of the Center on Human Development and Disability at the University of Washington in Seattle, Washington. 
+| [[H.R.2786]] || To amend the Federal Power Act with respect to the criteria and process to qualify as a qualifying conduit hydropower facility. 
 |-
-| [[S.RES.114]] || A resolution expressing the sense of the Senate on humanitarian crises in Nigeria, Somalia, South Sudan, and Yemen. 
+| [[H.R.27]] || Ensuring VA Employee Accountability Act 
 |-
-| [[S.RES.115]] || A resolution commemorating the 100th anniversary of the 1st Infrantry Division. 
+| [[H.R.2805]] || Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017 
 |-
-| [[S.RES.116]] || A resolution condemning the Assad regime for its continued use of chemical weapons against the Syrian people. 
+| [[H.R.2810]] || National Defense Authorization Act for Fiscal Year 2018 
 |-
-| [[S.RES.117]] || A resolution designating the week of April 15, 2017, through April 23, 2017, as National Park Week. 
+| [[H.R.2825]] || Department of Homeland Security Authorization Act 
 |-
-| [[S.RES.118]] || A resolution condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States. 
+| [[H.R.2828]] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[S.RES.122]] || A resolution designating April 2017 as National 9-1-1 Education Month. 
+| [[H.R.282]] || Military Residency Choice Act 
 |-
-| [[S.RES.123]] || A resolution designating May 20, 2017, as Kids to Parks Day. 
+| [[H.R.2834]] || Partnership Grants to Strengthen Families Affected by Parental Substance Abuse Act 
 |-
-| [[S.RES.127]] || A resolution supporting the goals and ideals of Take Our Daughters and Sons To Work Day. 
+| [[H.R.2842]] || Accelerating Individuals into the Workforce Act 
 |-
-| [[S.RES.128]] || A resolution designating April 2017 as National Congenital Diaphragmatic Hernia Awareness Month. 
+| [[H.R.2847]] || Improving Services for Older Youth in Foster Care Act 
 |-
-| [[S.RES.129]] || A resolution designating April 2017 as Second Chance Month. 
+| [[H.R.2857]] || Supporting Families in Substance Abuse Treatment Act 
 |-
-| [[S.RES.130]] || A resolution expressing gratitude and appreciation for the entry of the United States into World War I. 
+| [[H.R.2864]] || Improving Access to Capital Act 
 |-
-| [[S.RES.131]] || A resolution supporting the mission and goals of National Crime Victims' Rights Week in 2017, which include increasing public awareness of the rights, needs, and concerns of, and services available to assist, victims and survivors of crime in the United States. 
+| [[H.R.2866]] || Reducing Unnecessary Barriers for Relative Foster Parents Act 
 |-
-| [[S.RES.132]] || A resolution congratulating the Ashland University women's basketball team for winning the 2017 National Collegiate Athletic Association division II championship. 
+| [[H.R.2868]] || National Flood Insurance Program Policyholder Protection Act of 2017 
 |-
-| [[S.RES.133]] || A resolution congratulating the University of North Carolina Tar Heels basketball team for winning the 2016-2017 National Collegiate Athletic Association men's basketball national championship. 
+| [[H.R.2874]] || 21st Century Flood Reform Act 
 |-
-| [[S.RES.135]] || A resolution expressing support for the designation of May 1, 2017, as Silver Star Service Banner Day. 
+| [[H.R.2875]] || National Flood Insurance Program Administrative Reform Act of 2017 
 |-
-| [[S.RES.137]] || A resolution supporting the goals and ideals of National Safe Digging Month. 
+| [[H.R.2883]] || Promoting Cross-Border Energy Infrastructure Act 
 |-
-| [[S.RES.140]] || A resolution supporting the designation of April 2017 as Parkinson's Awareness Month. 
+| [[H.R.288]] || Small Business Broadband Deployment Act 
 |-
-| [[S.RES.141]] || A resolution congratulating the University of South Carolina women's basketball team for winning the 2017 National Collegiate Athletic Association Division I Women's Basketball Tournament Championship. 
+| [[H.R.28]] || Biological Implant Tracking and Veteran Safety Act of 2017 
 |-
-| [[S.RES.142]] || A resolution commemorating the 10th anniversary of the tragic events at Virginia Polytechnic Institute and State University on April 16, 2007. 
+| [[H.R.290]] || Federal Communications Commission Process Reform Act of 2017 
 |-
-| [[S.RES.145]] || A resolution designating April 2017 as Financial Literacy Month. 
+| [[H.R.2910]] || Promoting Interagency Coordination for Review of Natural Gas Pipelines Act 
 |-
-| [[S.RES.146]] || A resolution designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans. 
+| [[H.R.2937]] || Community Reclamation Partnerships Act 
 |-
-| [[S.RES.148]] || A resolution congratulating the students, parents, teachers, and leaders of charter schools across the United States for making ongoing contributions to education, and supporting the ideals and goals of the 18th annual National Charter Schools Week, to be held May 1 through May 5, 2017. 
+| [[H.R.2939]] || Water Rights Protection Act of 2017 
 |-
-| [[S.RES.149]] || A resolution supporting the goals and ideals of World Malaria Day. 
+| [[H.R.2997]] || 21st Century AIRR Act 
 |-
-| [[S.RES.14]] || A resolution commending the Clemson University Tigers football team for winning the 2017 College Football Playoff National Championship. 
+| [[H.R.2998]] || Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.151]] || A resolution commending the Northwest Missouri State University Bearcats on their National Collegiate Athletic Association Division II national championship victories. 
+| [[H.R.3003]] || No Sanctuary for Criminals Act 
 |-
-| [[S.RES.152]] || A resolution expressing support for the designation of April 2017 as National Donate Life Month. 
+| [[H.R.3004]] || Kate's Law 
 |-
-| [[S.RES.153]] || A resolution expressing the sense of the Senate that, during Public Service Recognition Week, public servants should be commended for their dedication and continued service to the United States. 
+| [[H.R.302]] || Sports Medicine Licensure Clarity Act of 2017 
 |-
-| [[S.RES.156]] || A resolution recognizing National Foster Care Month as an opportunity to raise awareness about the challenges of children in the foster-care system, and encouraging Congress to implement policy to improve the lives of children in the foster-care system. 
+| [[H.R.304]] || Protecting Patient Access to Emergency Medications Act of 2017 
 |-
-| [[S.RES.158]] || A resolution recognizing the cultural and historical significance of the Cinco de Mayo holiday. 
+| [[H.R.3050]] || Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017 
 |-
-| [[S.RES.159]] || A resolution recognizing and supporting the goals and ideals of National Sexual Assault Awareness Month. 
+| [[H.R.305]] || Presidential Tax Transparency Act 
 |-
-| [[S.RES.160]] || A resolution honoring the service to United States Armed Forces provided by military working dogs and contract working dogs, also known as war dogs. 
+| [[H.R.306]] || Energy Efficient Government Technology Act 
 |-
-| [[S.RES.163]] || A resolution recognizing the roles and contributions of the teachers of the United States in building and enhancing the civic, cultural, and economic well-being of the United States. 
+| [[H.R.309]] || National Clinical Care Commission Act 
 |-
-| [[S.RES.164]] || A resolution recognizing the contributions of senior volunteers and designating the week of May 15 through 19, 2017, as National Senior Corps Week. 
+| [[H.R.3110]] || Financial Stability Oversight Council Insurance Member Continuity Act 
 |-
-| [[S.RES.165]] || A resolution celebrating April 30 through May 6, 2017, as National Small Business Week and commending the entrepreneurial spirit of small businesses owners in the United States. 
+| [[H.R.3115]] || Superior National Forest Land Exchange Act of 2017 
 |-
-| [[S.RES.166]] || A resolution supporting the goals and ideals of National Nurses Week, to be observed from May 6 through May 12, 2017. 
+| [[H.R.315]] || Improving Access to Maternity Care Act 
 |-
-| [[S.RES.16]] || A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.3162]] || Legislative Branch Appropriations Act, 2018 
 |-
-| [[S.RES.170]] || A resolution expressing the sense of the Senate that defense laboratories are on the cutting-edge of scientific and technological advancement, and supporting the designation of May 18, 2017, as Department of Defense Laboratory Day. 
+| [[H.R.3178]] || Medicare Part B Improvement Act of 2017 
 |-
-| [[S.RES.171]] || A resolution supporting the goals and ideals of National Travel and Tourism Week and honoring the valuable contributions of travel and tourism to the United States. 
+| [[H.R.3180]] || Intelligence Authorization Act for Fiscal Year 2018 
 |-
-| [[S.RES.172]] || A resolution designating May 2017 as Older Americans Month. 
+| [[H.R.3202]] || Cyber Vulnerability Disclosure Reporting Act 
 |-
-| [[S.RES.173]] || A resolution designating the week of May 15 through May 21, 2017, as National Police Week. 
+| [[H.R.3210]] || SECRET Act of 2017 
 |-
-| [[S.RES.174]] || A resolution recognizing the 100th anniversary of Lions Clubs International and celebrating the Lions Clubs International for a long history of humanitarian service. 
+| [[H.R.3218]] || Harry W. Colmery Veterans Educational Assistance Act of 2017 
 |-
-| [[S.RES.175]] || A resolution recognizing the 100th anniversary of the commissioned officer corps of the National Oceanic and Atmospheric Administration. 
+| [[H.R.3219]] || Make America Secure Appropriations Act, 2018 
 |-
-| [[S.RES.176]] || A resolution commemorating the 50th anniversary of the reunification of Jerusalem. 
+| [[H.R.321]] || Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act 
 |-
-| [[S.RES.177]] || A resolution congratulating the Webster University chess team for winning a record-breaking fifth consecutive national title at the President's Cup collegiate chess championship in New York City. 
+| [[H.R.3262]] || Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017 
 |-
-| [[S.RES.178]] || A resolution to authorize testimony, document production, and representation in United States v. Kevin Lee Olson. 
+| [[H.R.3266]] || Energy and Water Development and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.17]] || A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.3267]] || Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.181]] || A resolution designating the week of May 21 through May 27, 2017, as National Public Works Week. 
+| [[H.R.3268]] || Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.182]] || A resolution designating May 2017 as Melanoma Awareness Month. 
+| [[H.R.3280]] || Financial Services and General Government Appropriations Act, 2018 
 |-
-| [[S.RES.183]] || A resolution recognizing the significance of May 2017 as Asian/Pacific American Heritage Month and as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States. 
+| [[H.R.3284]] || Joint Counterterrorism Awareness Workshop Series Act of 2017 
 |-
-| [[S.RES.184]] || A resolution relative to the death of James Paul David Jim Bunning, former United States Senator for the Commonwealth of Kentucky. 
+| [[H.R.3298]] || Wounded Officers Recovery Act of 2017 
 |-
-| [[S.RES.187]] || A resolution congratulating and honoring Fermi National Accelerator Laboratory on 50 years of groundbreaking discoveries. 
+| [[H.R.3326]] || World Bank Accountability Act of 2017 
 |-
-| [[S.RES.188]] || A resolution condemning the recent terrorist attacks in the United Kingdom, the Philippines, Indonesia, Egypt, Iraq, Australia, and Iran and offering thoughts and prayers and sincere condolences to all of the victims, their families, and the people of their countries. 
+| [[H.R.3328]] || Cuban Airport Security Act of 2017 
 |-
-| [[S.RES.189]] || A resolution designating the week of June 5 through June 11, 2017, as Hemp History Week. 
+| [[H.R.3353]] || Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.18]] || A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms. 
+| [[H.R.3354]] || Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.190]] || A resolution honoring the memory of the victims of the terrorist attack on the Pulse Orlando nightclub one year ago. 
+| [[H.R.3355]] || Department of Homeland Security Appropriations Act, 2018 
 |-
-| [[S.RES.191]] || A resolution designating June 20, 2017, as American Eagle Day and celebrating the recovery and restoration of the bald eagle, the national symbol of the United States. 
+| [[H.R.3358]] || Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2018 
 |-
-| [[S.RES.192]] || A resolution congratulating the Golden State Warriors for their historic championship victory in the 2017 National Basketball Association Finals. 
+| [[H.R.3362]] || Department of State, Foreign Operations, and Related Programs Appropriations Act, 2018 
 |-
-| [[S.RES.193]] || A resolution commending the bravery of the United States Capitol Police, the Police Department of Alexandria, Virginia, and all first responders who protected Members of Congress, their staff, and others during the shooting on June 14, 2017, at Eugene Simpson Stadium Park in the Del Ray neighborhood of Alexandria, Virginia. 
+| [[H.R.3364]] || Countering America's Adversaries Through Sanctions Act 
 |-
-| [[S.RES.194]] || A resolution designating June 15, 2017, as World Elder Abuse Awareness Day. 
+| [[H.R.337]] || Black Hills National Cemetery Boundary Expansion Act 
 |-
-| [[S.RES.199]] || A resolution designating June 2017 as Great Outdoors Month. 
+| [[H.R.3388]] || SELF DRIVE Act 
 |-
-| [[S.RES.19]] || A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and emergency response personnel in responding to the incident. 
+| [[H.R.338]] || To promote a 21st century energy and manufacturing workforce. 
 |-
-| [[S.RES.1]] || A resolution informing the President of the United States that a quorum of each House is assembled. 
+| [[H.R.339]] || Northern Mariana Islands Economic Expansion Act 
 |-
-| [[S.RES.203]] || A resolution designating the month of June 2017, as National Post-Traumatic Stress Awareness Month and June 27, 2017, as National Post-Traumatic Stress Awareness Day. 
+| [[H.R.347]] || DHS Acquisition Documentation Integrity Act of 2017 
 |-
-| [[S.RES.209]] || A resolution commemorating the 40th Anniversary of the Silicon Valley Leadership Group, the preeminent public policy trade association in Silicon Valley. 
+| [[H.R.353]] || Weather Research and Forecasting Innovation Act of 2017 
 |-
-| [[S.RES.210]] || A resolution to correct the engrossment of S. 722. 
+| [[H.R.356]] || Protecting Our Democracy Act 
 |-
-| [[S.RES.213]] || A resolution honoring the memory of Dallas Police Department Senior Corporal Lorne Ahrens, Sergeant Michael Smith, Officer Michael Krol, Officer Patrick Zamarripa, and Dallas Area Rapid Transit Police Officer Brent Thompson, who were killed during the attack in Dallas, Texas, that occurred 1 year ago, on July 7, 2016. 
+| [[H.R.366]] || DHS SAVE Act 
 |-
-| [[S.RES.214]] || A resolution designating June 19, 2017, as Juneteenth Independence Day in recognition of June 19, 1865, the date on which slavery legally came to an end in the United States. 
+| [[H.R.3697]] || Criminal Alien Gang Member Removal Act 
 |-
-| [[S.RES.215]] || A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. 
+| [[H.R.369]] || To eliminate the sunset of the Veterans Choice Program, and for other purposes. 
 |-
-| [[S.RES.221]] || A resolution designating September 25, 2017, as National Lobster Day. 
+| [[H.R.372]] || Competitive Health Insurance Reform Act of 2017 
 |-
-| [[S.RES.222]] || A resolution designating July 26, 2017, as United States Intelligence Professionals Day. 
+| [[H.R.3732]] || Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act 
 |-
-| [[S.RES.225]] || A resolution designating July 22, 2017, as National Day of the American Cowboy. 
+| [[H.R.374]] || To remove the sunset provision of section 203 of Public Law 105-384, and for other purposes. 
 |-
-| [[S.RES.227]] || A resolution recognizing National Youth Sports Week and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development. 
+| [[H.R.375]] || To designate the Federal building and United States courthouse located at 719 Church Street in Nashville, Tennessee, as the Fred D. Thompson Federal Building and United States Courthouse. 
 |-
-| [[S.RES.230]] || A resolution designating the week of September 16 through September 23, 2017, as National Estuaries Week. 
+| [[H.R.381]] || To designate a mountain in the John Muir Wilderness of the Sierra National Forest as Sky Point. 
 |-
-| [[S.RES.231]] || A resolution designating July 30, 2017, as National Whistleblower Appreciation Day. 
+| [[H.R.382]] || 100 Years of Women in Congress Act 
 |-
-| [[S.RES.233]] || A resolution designating August 16, 2017, as National Airborne Day. 
+| [[H.R.387]] || Email Privacy Act 
 |-
-| [[S.RES.237]] || A resolution to authorize the production of records by the Permanent Subcommittee on Investigations of the Committee on Homeland Security and Governmental Affairs. 
+| [[H.R.390]] || Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017 
 |-
-| [[S.RES.238]] || A resolution recognizing the 10th anniversary and honoring the victims of the collapse of the Interstate 35W Mississippi River bridge. 
+| [[H.R.391]] || Asylum Reform and Border Protection Act of 2017 
 |-
-| [[S.RES.239]] || A resolution congratulating the Pittsburgh Penguins for winning the 2017 Stanley Cup hockey championship. 
+| [[H.R.392]] || Fairness for High-Skilled Immigrants Act of 2017 
 |-
-| [[S.RES.240]] || A resolution congratulating the University of Florida baseball team for winning the 2017 National Collegiate Athletic Association College World Series. 
+| [[H.R.393]] || To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
 |-
-| [[S.RES.241]] || A resolution supporting the goals and ideals of National Purple Heart Recognition Day. 
+| [[H.R.39]] || TALENT Act of 2017 
 |-
-| [[S.RES.243]] || A resolution expressing the sense of the Senate that Joseph Leon George should be honored for heroism at Pearl Harbor, Hawaii, on December 7, 1941. 
+| [[H.R.423]] || Anti-Spoofing Act of 2017 
 |-
-| [[S.RES.244]] || A resolution to authorize testimony, document production, and representation in United States of America v. Robert Menendez, et al. 
+| [[H.R.428]] || Red River Gradient Boundary Survey Act 
 |-
-| [[S.RES.247]] || A resolution designating July 29, 2017, as Paralympic and Adaptive Sport Day. 
+| [[H.R.437]] || Medical Preparedness Allowable Use Act 
 |-
-| [[S.RES.248]] || A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as American Grown Flower Month. 
+| [[H.R.446]] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[S.RES.249]] || A resolution designating September 2017 as National Child Awareness Month to promote awareness of charities that benefit children and youth-serving organizations throughout the United States and recognizing the efforts made by those charities and organizations on behalf of children and youth as critical contributions to the future of the United States. 
+| [[H.R.447]] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[S.RES.252]] || A resolution designating September 2017 as National Spinal Cord Injury Awareness Month. 
+| [[H.R.455]] || To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the R. Jess Brown United States Courthouse. 
 |-
-| [[S.RES.253]] || A resolution designating the week beginning September 18, 2017, as National Hispanic-Serving Institutions Week. 
+| [[H.R.460]] || Improving Rural Call Quality and Reliability Act of 2017 
 |-
-| [[S.RES.254]] || A resolution relative to the death of Pietro Pete Vichi Domenici, former United States Senator for the State of New Mexico. 
+| [[H.R.467]] || VA Scheduling Accountability Act 
 |-
-| [[S.RES.256]] || A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States. 
+| [[H.R.46]] || Fort Ontario Study Act 
 |-
-| [[S.RES.257]] || A resolution designating September 16, 2017, as Isaac M. Wise Temple Day. 
+| [[H.R.479]] || North Korea State Sponsor of Terrorism Designation Act of 2017 
 |-
-| [[S.RES.258]] || A resolution designating the week beginning September 10, 2017, as National Direct Support Professionals Recognition Week. 
+| [[H.R.494]] || Fort Frederica National Monument Boundary Expansion Act 
 |-
-| [[S.RES.259]] || A resolution expressing support for the designation of the week of September 11 through September 15, 2017, as National Family Service Learning Week. 
+| [[H.R.496]] || BRIDGE Act 
 |-
-| [[S.RES.26]] || A resolution designating the week of January 22 through January 28, 2017, as National School Choice Week. 
+| [[H.R.497]] || Santa Ana River Wash Plan Land Exchange Act 
 |-
-| [[S.RES.27]] || A resolution honoring the life and achievements of Eugene A. Gene Cernan. 
+| [[H.R.505]] || Border Security Technology Accountability Act of 2017 
 |-
-| [[S.RES.2]] || A resolution informing the House of Representatives that a quorum of the Senate is assembled. 
+| [[H.R.510]] || Rapid DNA Act of 2017 
 |-
-| [[S.RES.35]] || A resolution expressing profound concern about the ongoing political, economic, social and humanitarian crisis in Venezuela, urging the release of political prisoners, and calling for respect of constitutional and democratic processes, including free and fair elections. 
+| [[H.R.511]] || Power And Security Systems (PASS) Act 
 |-
-| [[S.RES.3]] || A resolution fixing the hour of daily meeting of the Senate. 
+| [[H.R.512]] || WINGMAN Act 
 |-
-| [[S.RES.40]] || A resolution designating the week beginning on February 5, 2017, as National Tribal Colleges and Universities Week. 
+| [[H.R.518]] || EPS Improvement Act of 2017 
 |-
-| [[S.RES.41]] || A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as National Stalking Awareness Month. 
+| [[H.R.526]] || Counterterrorism Advisory Board Act of 2017 
 |-
-| [[S.RES.43]] || A resolution recognizing January 2017 as National Mentoring Month. 
+| [[H.R.534]] || U.S. Wants to Compete for a World Expo Act 
 |-
-| [[S.RES.44]] || A resolution designating February 6 through 10, 2017, as National School Counseling Week. 
+| [[H.R.538]] || Ocmulgee Mounds National Historical Park Boundary Revision Act 
 |-
-| [[S.RES.45]] || A resolution designating February 2017 as American Heart Month and February 3, 2017, as National Wear Red Day. 
+| [[H.R.549]] || Transit Security Grant Program Flexibility Act 
 |-
-| [[S.RES.47]] || A resolution supporting the contributions of Catholic schools. 
+| [[H.R.555]] || Amateur Radio Parity Act of 2017 
 |-
-| [[S.RES.4]] || A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.558]] || Kennesaw Mountain National Battlefield Park Boundary Adjustment Act 
 |-
-| [[S.RES.55]] || A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska. 
+| [[H.R.560]] || To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes. 
 |-
-| [[S.RES.57]] || A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.582]] || Kari's Law Act of 2017 
 |-
-| [[S.RES.58]] || A resolution congratulating the New England Patriots on their victory in Super Bowl LI. 
+| [[H.R.584]] || Cyber Preparedness Act of 2017 
 |-
-| [[S.RES.60]] || A resolution designating May 5, 2017, as the National Day of Awareness for Missing and Murdered Native Women and Girls. 
+| [[H.R.587]] || Fair RATES Act 
 |-
-| [[S.RES.62]] || An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2017 through September 30, 2017, October 1, 2017 through September 30, 2018, and October 1, 2018 through February 28, 2019. 
+| [[H.R.588]] || Securing Access to Networks in Disasters Act 
 |-
-| [[S.RES.65]] || A resolution designating March 3, 2017, as National Speech and Debate Education Day. 
+| [[H.R.589]] || Department of Energy Research and Innovation Act 
 |-
-| [[S.RES.66]] || A resolution supporting the goals and ideals of Career and Technical Education Month. 
+| [[H.R.58]] || FRIENDS Act 
 |-
-| [[S.RES.67]] || A resolution expressing support for health and wellness coaches and for the designation of February 13, 2017, through February 19, 2017, as National Health and Wellness Coach Recognition Week. 
+| [[H.R.590]] || Advanced Nuclear Technology Development Act of 2017 
 |-
-| [[S.RES.68]] || A resolution raising awareness of modern slavery. 
+| [[H.R.597]] || Lytton Rancheria Homelands Act of 2017 
 |-
-| [[S.RES.69]] || A resolution celebrating Black History Month. 
+| [[H.R.599]] || Federal Communications Commission Consolidated Reporting Act of 2017 
 |-
-| [[S.RES.6]] || A resolution objecting to United Nations Security Council Resolution 2334 and to all efforts that undermine direct negotiations between Israel and the Palestinians for a secure and peaceful settlement. 
+| [[H.R.5]] || Regulatory Accountability Act of 2017 
 |-
-| [[S.RES.73]] || A resolution designating February 28, 2017, as Rare Disease Day. 
+| [[H.R.600]] || Digital GAP Act 
 |-
-| [[S.RES.74]] || A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States. 
+| [[H.R.601]] || Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017 
 |-
-| [[S.RES.76]] || A resolution expressing support for the designation of March 21, 2017, as National Rosie the Riveter Day. 
+| [[H.R.609]] || To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the Abie Abraham VA Clinic. 
 |-
-| [[S.RES.77]] || A resolution supporting the goals and ideals of Multiple Sclerosis Awareness Week. 
+| [[H.R.612]] || United States-Israel Cybersecurity Cooperation Enhancement Act of 2017 
 |-
-| [[S.RES.79]] || A resolution designating March 2, 2017, as Read Across America Day. 
+| [[H.R.618]] || Crags, Colorado Land Exchange Act of 2017 
 |-
-| [[S.RES.7]] || A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.622]] || Local Enforcement for Local Lands Act 
 |-
-| [[S.RES.80]] || A resolution designating March 3, 2017, as World Wildlife Day. 
+| [[H.R.624]] || Social Security Number Fraud Prevention Act of 2017 
 |-
-| [[S.RES.81]] || A resolution recognizing the 196th anniversary of the independence of Greece and celebrating democracy in Greece and the United States. 
+| [[H.R.625]] || REPORT Act 
 |-
-| [[S.RES.82]] || A resolution congratulating the Johns Hopkins University Applied Physics Laboratory on the 75th anniversary of the founding of the Laboratory. 
+| [[H.R.627]] || Streamlining Energy Efficiency for Schools Act of 2017 
 |-
-| [[S.RES.83]] || A resolution expressing the sense of the Senate regarding the trafficking of illicit fentanyl into the United States from Mexico and China. 
+| [[H.R.642]] || Fusion Center Enhancement Act of 2017 
 |-
-| [[S.RES.84]] || A resolution supporting the goals of International Women's Day. 
+| [[H.R.648]] || To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir. 
 |-
-| [[S.RES.86]] || A resolution recognizing the contributions of AmeriCorps members and alumni to the lives of the people of the United States. 
+| [[H.R.653]] || Federal Intern Protection Act of 2017 
 |-
-| [[S.RES.89]] || A resolution supporting the designation of March 2017 as National Colorectal Cancer Awareness Month. 
+| [[H.R.654]] || Pacific Northwest Earthquake Preparedness Act of 2017 
 |-
-| [[S.RES.8]] || A resolution to constitute the minority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen. 
+| [[H.R.655]] || Securing the Cities Act of 2017 
 |-
-| [[S.RES.94]] || A resolution designating March 2017 as National Read Aloud Month. 
+| [[H.R.657]] || Follow the Rules Act 
 |-
-| [[S.RES.95]] || A resolution designating March 22, 2017, as National Rehabilitation Counselors Appreciation Day. 
+| [[H.R.660]] || Bureau of Reclamation Transparency Act 
 |-
-| [[S.RES.96]] || A resolution designating March 25, 2017, as National Cerebral Palsy Awareness Day. 
+| [[H.R.665]] || Airport Perimeter and Access Control Security Act of 2017 
 |-
-| [[S.RES.97]] || A resolution authorizing the printing of a collection of the rules of the committees of the Senate. 
+| [[H.R.666]] || Department of Homeland Security Insider Threat and Mitigation Act of 2017 
 |-
-| [[S.RES.98]] || A resolution designating the first week of April 2017 as National Asbestos Awareness Week. 
+| [[H.R.672]] || Combating European Anti-Semitism Act of 2017 
 |-
-| [[S.RES.9]] || A resolution honoring in praise and remembrance the extraordinary life, steady leadership, and remarkable, 70-year reign of King Bhumibol Adulyadej of Thailand. 
+| [[H.R.677]] || CBRN Intelligence and Information Sharing Act of 2017 
+|-
+| [[H.R.678]] || Department of Homeland Security Support to Fusion Centers Act of 2017 
+|-
+| [[H.R.679]] || Construction Consensus Procurement Improvement Act of 2017 
+|-
+| [[H.R.680]] || Eliminating Pornography from Agencies Act 
+|-
+| [[H.R.687]] || First Responder Access to Innovative Technologies Act 
+|-
+| [[H.R.688]] || Arapaho National Forest Boundary Adjustment Act of 2017 
+|-
+| [[H.R.689]] || Bolts Ditch Access and Use Act 
+|-
+| [[H.R.690]] || Gains in Global Nuclear Detection Architecture Act 
+|-
+| [[H.R.695]] || Child Protection Improvements Act of 2017 
+|-
+| [[H.R.697]] || Department of Homeland Security Clearance Management and Administration Act 
+|-
+| [[H.R.698]] || Elkhorn Ranch and White River National Forest Conveyance Act of 2017 
+|-
+| [[H.R.699]] || Mount Hood Cooper Spur Land Exchange Clarification Act 
+|-
+| [[H.R.69]] || Thoroughly Investigating Retaliation Against Whistleblowers Act 
+|-
+| [[H.R.702]] || Federal Employee Antidiscrimination Act of 2017 
+|-
+| [[H.R.70]] || Federal Advisory Committee Act Amendments of 2017 
+|-
+| [[H.R.71]] || Taxpayers Right-To-Know Act 
+|-
+| [[H.R.720]] || Lawsuit Abuse Reduction Act of 2017 
+|-
+| [[H.R.725]] || Innocent Party Protection Act 
+|-
+| [[H.R.72]] || GAO Access and Oversight Act of 2017 
+|-
+| [[H.R.732]] || Stop Settlement Slush Funds Act of 2017 
+|-
+| [[H.R.73]] || Presidential Library Donation Reform Act of 2017 
+|-
+| [[H.R.78]] || SEC Regulatory Accountability Act 
+|-
+| [[H.R.79]] || HALOS Act 
+|-
+| [[H.R.7]] || No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017 
+|-
+| [[H.R.806]] || Ozone Standards Implementation Act of 2017 
+|-
+| [[H.R.863]] || To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes. 
+|-
+| [[H.R.873]] || Global War on Terrorism War Memorial Act 
+|-
+| [[H.R.876]] || Aviation Employee Screening and Security Enhancement Act of 2017 
+|-
+| [[H.R.883]] || Targeting Child Predators Act of 2017 
+|-
+| [[H.R.88]] || Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battlefield Designation Act 
+|-
+| [[H.R.906]] || Furthering Asbestos Claim Transparency (FACT) Act of 2017 
+|-
+| [[H.R.910]] || Fair Access to Investment Research Act of 2017 
+|-
+| [[H.R.91]] || Building Supportive Networks for Women Veterans Act 
+|-
+| [[H.R.931]] || Firefighter Cancer Registry Act of 2017 
+|-
+| [[H.R.951]] || To extend the deadline for commencement of construction of a hydroelectric project. 
+|-
+| [[H.R.953]] || Reducing Regulatory Burdens Act of 2017 
+|-
+| [[H.R.954]] || To remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes. 
+|-
+| [[H.R.95]] || Veterans' Access to Child Care Act 
+|-
+| [[H.R.965]] || Saint-Gaudens National Historical Park Redesignation Act 
+|-
+| [[H.R.974]] || BRAVE Act 
+|-
+| [[H.R.984]] || Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 
+|-
+| [[H.R.985]] || Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017 
+|-
+| [[H.R.998]] || SCRUB Act 
+|-
+| [[H.RES.111]] || Of inquiry directing the Attorney General to transmit certain documents to the House of Representatives relating to the financial practices of the President. 
+|-
+| [[H.RES.116]] || Providing for consideration of the joint resolution (H.J. Res. 66) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees, and providing for consideration of the joint resolution (H.J. Res. 67) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
+|-
+| [[H.RES.11]] || Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
+|-
+| [[H.RES.123]] || Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska; and providing for proceedings during the period from February 17, 2017, through February 24, 2017. 
+|-
+| [[H.RES.127]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.131]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.145]] || Expressing the sense of the House of Representatives regarding the fight against corruption in Central America. 
+|-
+| [[H.RES.150]] || Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
+|-
+| [[H.RES.151]] || Honoring the life of former Minority Leader of the House of Representatives, Robert Henry Bob Michel. 
+|-
+| [[H.RES.154]] || Of inquiry requesting the President of the United States and directing the Secretary of Health and Human Services to transmit certain information to the House of Representatives relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health-related measures of the Health Care and Education Reconciliation Act of 2010. 
+|-
+| [[H.RES.156]] || Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes. 
+|-
+| [[H.RES.173]] || Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress. 
+|-
+| [[H.RES.174]] || Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes. 
+|-
+| [[H.RES.175]] || Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder. 
+|-
+| [[H.RES.180]] || Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes. 
+|-
+| [[H.RES.184]] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to communications with the government of Russia. 
+|-
+| [[H.RES.186]] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax returns and other specified financial information of President Donald J. Trump. 
+|-
+| [[H.RES.187]] || Relating to efforts to respond to the famine in South Sudan. 
+|-
+| [[H.RES.198]] || Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes. 
+|-
+| [[H.RES.1]] || Electing officers of the House of Representatives. 
+|-
+| [[H.RES.203]] || Of inquiry requesting the President, and directing the Attorney General, to transmit, respectively, certain documents to the House of Representatives relating to certain communications by the President of the United States. 
+|-
+| [[H.RES.209]] || Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers. 
+|-
+| [[H.RES.210]] || Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees. 
+|-
+| [[H.RES.221]] || Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules. 
+|-
+| [[H.RES.228]] || Providing for consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+|-
+| [[H.RES.229]] || Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible. 
+|-
+| [[H.RES.22]] || Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
+|-
+| [[H.RES.230]] || Providing for consideration of the joint resolution (S.J. Res. 34) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
+|-
+| [[H.RES.233]] || Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes. 
+|-
+| [[H.RES.235]] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to the Department of Homeland Security's research, integration, and analysis activities relating to Russian Government interference in the elections for Federal office held in 2016. 
+|-
+| [[H.RES.240]] || Providing for consideration of the bill (H.R. 1343) to direct the Securities and Exchange Commission to revise its rules so as to increase the threshold amount for requiring issuers to provide certain disclosures relating to compensatory benefit plans. 
+|-
+| [[H.RES.241]] || Providing for consideration of the bill (H.R. 1304) to amend the Employee Retirement Income Security Act of 1974, the Public Health Service Act, and the Internal Revenue Code of 1986 to exclude from the definition of health insurance coverage certain medical stop-loss insurance obtained by certain plan sponsors of group health plans. 
+|-
+| [[H.RES.242]] || Providing for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017. 
+|-
+| [[H.RES.254]] || Providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+|-
+| [[H.RES.25]] || Electing a Member to a certain standing committee of the House of Representatives. 
+|-
+| [[H.RES.275]] || Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes. 
+|-
+| [[H.RES.280]] || Providing for consideration of the bill (H.R. 1694) to require additional entities to be subject to the requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
+|-
+| [[H.RES.289]] || Providing for consideration of the joint resolution (H.J. Res. 99) making further continuing appropriations for fiscal year 2017, and for other purposes. 
+|-
+| [[H.RES.299]] || Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for other purposes. 
+|-
+| [[H.RES.29]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.2]] || To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. 
+|-
+| [[H.RES.303]] || Electing a Member to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.305]] || Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes. 
+|-
+| [[H.RES.308]] || Providing for consideration of the bill (H.R. 2192) to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff, and providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+|-
+| [[H.RES.317]] || Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran. 
+|-
+| [[H.RES.323]] || Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim. 
+|-
+| [[H.RES.324]] || Providing for consideration of the bill (H.R. 1039) to amend section 3606 of title 18, United States Code, to grant probation officers authority to arrest hostile third parties who obstruct or impede a probation officer in the performance of official duties. 
+|-
+| [[H.RES.33]] || Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law. 
+|-
+| [[H.RES.348]] || Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes. 
+|-
+| [[H.RES.34]] || Electing Members to Certain Standing Committees of the House of Representatives. 
+|-
+| [[H.RES.350]] || Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker. 
+|-
+| [[H.RES.351]] || Condemning the violence and persecution in Chechnya. 
+|-
+| [[H.RES.352]] || Providing for consideration of the bill (H.R. 1973) to prevent the sexual abuse of minors and amateur athletes by requiring the prompt reporting of sexual abuse to law enforcement authorities, and for other purposes; providing for consideration of the bill (H.R. 1761) to amend title 18, United States Code, to criminalize the knowing consent of the visual depiction, or live transmission, of a minor engaged in sexually explicit conduct, and for other purposes; and providing for proceedings during the period from May 26, 2017, through June 5, 2017. 
+|-
+| [[H.RES.354]] || Condemning the violence against peaceful protesters outside the Turkish Ambassador's residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future. 
+|-
+| [[H.RES.355]] || Condemning in the strongest terms the terrorist attacks in Manchester, United Kingdom, on May 22, 2017, and in London, United Kingdom, on June 3, 2017, expressing heartfelt condolences, and reaffirming unwavering support for the special relationship between our peoples and nations in the wake of these attacks. 
+|-
+| [[H.RES.36]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.374]] || Providing for consideration of the bill (H.R. 2213) to amend the Anti-Border Corruption Act of 2010 to authorize certain polygraph waiver authority, and for other purposes. 
+|-
+| [[H.RES.375]] || Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes. 
+|-
+| [[H.RES.378]] || Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes. 
+|-
+| [[H.RES.379]] || Providing for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage. 
+|-
+| [[H.RES.37]] || Providing for the attendance of the House at the Inaugural Ceremonies of the President and Vice President of the United States. 
+|-
+| [[H.RES.381]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.382]] || Providing for consideration of the bill (H.R. 1215) to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system. 
+|-
+| [[H.RES.385]] || Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured. 
+|-
+| [[H.RES.392]] || Providing for consideration of the bill (H.R. 1873) to amend the Federal Land Policy and Management Act of 1976 to enhance the reliability of the electricity grid and reduce the threat of wildfires to and from electric transmission and distribution facilities on Federal lands by facilitating vegetation management on such lands, and providing for consideration of the bill (H.R. 1654) to authorize the Secretary of the Interior to coordinate Federal and State permitting processes related to the construction of new surface water storage projects on lands under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture and to designate the Bureau of Reclamation as the lead agency for permit processing, and for other purposes. 
+|-
+| [[H.RES.396]] || Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules. 
+|-
+| [[H.RES.397]] || Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization's principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty. 
+|-
+| [[H.RES.39]] || Electing a Member to a certain standing Committee of the House of Representatives. 
+|-
+| [[H.RES.3]] || Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. 
+|-
+| [[H.RES.40]] || Providing for consideration of the bill (H.R. 78) to improve the consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and orders; providing for consideration of the bill (H.R. 238) to reauthorize the Commodity Futures Trading Commission, to better protect futures customers, to provide end-users with market certainty, to make basic reforms to ensure transparency and accountability at the Commission, to help farmers, ranchers, and end-users manage risks, to help keep consumer costs low, and for other purposes; and for other purposes. 
+|-
+| [[H.RES.410]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.411]] || Adjusting the amount of the Members' Representational Allowance. 
+|-
+| [[H.RES.412]] || Electing a Member to a certain standing committee of the House of Representatives. 
+|-
+| [[H.RES.414]] || Providing for consideration of the bill (H.R. 3003) to amend the Immigration and Nationality Act to modify provisions relating to assistance by States, and political subdivision of States, in the enforcement of Federal immigration laws, and for other purposes. 
+|-
+| [[H.RES.415]] || Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017. 
+|-
+| [[H.RES.431]] || Providing for consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes, and providing for consideration of the bill (H.R. 23) to provide drought relief in the State of California, and for other purposes. 
+|-
+| [[H.RES.437]] || Of inquiry requesting the President to provide certain documents in the President's possession. 
+|-
+| [[H.RES.439]] || Electing a Member to a certain standing committee of the House of Representatives. 
+|-
+| [[H.RES.440]] || Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes. 
+|-
+| [[H.RES.442]] || Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to President Trump's financial connections to Russia, certain illegal financial schemes, and related information. 
+|-
+| [[H.RES.446]] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey. 
+|-
+| [[H.RES.447]] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump. 
+|-
+| [[H.RES.451]] || Providing for consideration of the bill (H.R. 806) to facilitate efficient State implementation of ground-level ozone standards, and for other purposes. 
+|-
+| [[H.RES.453]] || Electing a Member to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.454]] || Providing for consideration of the bill (H.R. 2910) to provide for Federal and State agency coordination in the approval of certain authorizations under the Natural Gas Act, and for other purposes; providing for consideration of the bill (H.R. 2883) to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity; providing for consideration of the bill (H.R. 218) to provide for the exchange of Federal land and non-Federal land in the State of Alaska for the construction of a road between King Cove and Cold Bay; and for other purposes. 
+|-
+| [[H.RES.458]] || Providing for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+|-
+| [[H.RES.45]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.468]] || Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
+|-
+| [[H.RES.469]] || Requesting the Senate to return to the House of Representatives House Joint Resolution 76. 
+|-
+| [[H.RES.473]] || Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes. 
+|-
+| [[H.RES.478]] || Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules. 
+|-
+| [[H.RES.479]] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e. 
+|-
+| [[H.RES.480]] || Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs. 
+|-
+| [[H.RES.481]] || Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017. 
+|-
+| [[H.RES.48]] || Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
+|-
+| [[H.RES.4]] || Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk. 
+|-
+| [[H.RES.500]] || Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
+|-
+| [[H.RES.502]] || Providing for the concurrence by the House in the Senate amendments to H.R. 601, with an amendment. 
+|-
+| [[H.RES.504]] || Providing for further consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes. 
+|-
+| [[H.RES.509]] || Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 601) to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes. 
+|-
+| [[H.RES.513]] || Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017. 
+|-
+| [[H.RES.51]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.52]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.54]] || Reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms. 
+|-
+| [[H.RES.55]] || Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions. 
+|-
+| [[H.RES.56]] || Electing Members to a certain standing committee of the House of Representatives. 
+|-
+| [[H.RES.59]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.5]] || Adopting rules for the One Hundred Fifteenth Congress. 
+|-
+| [[H.RES.6]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.70]] || Providing for consideration of the joint resolution (H.J. Res. 38) disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
+|-
+| [[H.RES.71]] || Providing for consideration of the joint resolution (H.J. Res. 41) providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers, and providing for consideration of the joint resolution (H.J. Res. 40) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
+|-
+| [[H.RES.74]] || Providing for consideration of the joint resolution (H.J. Res. 36) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation, and providing for consideration of the joint resolution (H.J. Res. 37) disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
+|-
+| [[H.RES.7]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.82]] || Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing. 
+|-
+| [[H.RES.8]] || Providing for the designation of certain minority employees. 
+|-
+| [[H.RES.91]] || Providing for consideration of the joint resolution (H.J. Res. 44) disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976; providing for consideration of the joint resolution (H.J. Res. 57) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965; and providing for consideration of the joint resolution (H.J. Res. 58) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
+|-
+| [[H.RES.92]] || Condemning North Korea's development of multiple intercontinental ballistic missiles, and for other purposes. 
+|-
+| [[H.RES.95]] || Electing Members to certain standing committees of the House of Representatives. 
+|-
+| [[H.RES.98]] || Ranking a certain Member of a certain standing committee of the House of Representatives. 
+|-
+| [[H.RES.99]] || Providing for consideration of the bill (H.R. 428) to survey the gradient boundary along the Red River in the States of Oklahoma and Texas, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 42) disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
+|-
+| [[H.RES.9]] || Fixing the daily hour of meeting of the First Session of the One Hundred Fifteenth Congress. 
 |}

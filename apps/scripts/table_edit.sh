@@ -1,4 +1,5 @@
 #!/bin/bash
+#PATH=~/apps/scripts/
 
 #This script updates the table of legislation that links to the main page
 
@@ -97,5 +98,5 @@ CR=$(curl -S \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
 
-
-exit 0
+#Comment this out if table_edit script is being called by daily_add_bills script
+#exit 0

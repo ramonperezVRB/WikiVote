@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
+source $HOME/.bash_profile
 
 #Needs curl and jq
 
 USERNAME="${WIKIVOTE_USER}"
 USERPASS="${WIKIVOTE_PASS}"
 WIKIAPI="http://wikivote.co/api.php"
+FILE_PATH=~/apps/scripts
 cookie_jar="wikicj"
 #Will store file in wikifile
 
@@ -16,7 +18,8 @@ echo "Logging into $WIKIAPI as $USERNAME..."
 #Login part 1
 #printf "%s" "Logging in (1/2)..."
 echo "Get login token..."
-CR=$(curl -S \
+
+CR=$(sudo curl -S \
 	--location \
 	--retry 2 \
 	--retry-delay 5\
@@ -31,19 +34,18 @@ CR=$(curl -S \
 
 echo "$CR" | jq .
 
-sudo rm login.json
-sudo echo "$CR" > login.json
-TOKEN=$(jq --raw-output '.query.tokens.logintoken' login.json)
+#sudo rm login.json
+sudo echo "$CR" > $FILE_PATH/login.json
+TOKEN=$(jq --raw-output '.query.tokens.logintoken' $FILE_PATH/login.json)
 TOKEN="${TOKEN//\"/}" #replace double quote by nothing
 
 #Remove carriage return!
-printf "%s" "$TOKEN" > token.txt
-TOKEN=$(cat token.txt | sed 's/\r$//')
-
+printf "%s" "$TOKEN" > $FILE_PATH/token.txt
+TOKEN=$(cat $FILE_PATH/token.txt | sed 's/\r$//')
 
 if [ "$TOKEN" == "null" ]; then
 	echo "Getting a login token failed."
-	exit	
+	exit
 else
 	echo "Login token is $TOKEN"
 	echo "-----"
@@ -52,7 +54,8 @@ fi
 ###############
 #Login part 2
 echo "Logging in..."
-CR=$(curl -S \
+
+CR=$(sudo curl -S \
 	--location \
 	--cookie $cookie_jar \
         --cookie-jar $cookie_jar \
@@ -82,7 +85,8 @@ fi
 ###############
 #Get edit token
 echo "Fetching edit token..."
-CR=$(curl -S \
+
+CR=$(sudo curl -S \
 	--location \
 	--cookie $cookie_jar \
 	--cookie-jar $cookie_jar \
@@ -94,15 +98,16 @@ CR=$(curl -S \
 	--request "POST" "${WIKIAPI}?action=query&meta=tokens&format=json")
 
 echo "$CR" | jq .
-echo "$CR" > edittoken.json
-EDITTOKEN=$(jq --raw-output '.query.tokens.csrftoken' edittoken.json)
-sudo rm edittoken.json
+
+echo "$CR" > $FILE_PATH/edittoken.json
+EDITTOKEN=$(jq --raw-output '.query.tokens.csrftoken' $FILE_PATH/edittoken.json)
+#sudo rm edittoken.json
 
 EDITTOKEN="${EDITTOKEN//\"/}" #replace double quote by nothing
 
 #Remove carriage return!
-printf "%s" "$EDITTOKEN" > edittoken.txt
-EDITTOKEN=$(cat edittoken.txt | sed 's/\r$//')
+printf "%s" "$EDITTOKEN" > $FILE_PATH/edittoken.txt
+EDITTOKEN=$(cat $FILE_PATH/edittoken.txt | sed 's/\r$//')
 
 if [[ $EDITTOKEN == *"+\\"* ]]; then
 	echo "Edit token is: $EDITTOKEN"

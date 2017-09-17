@@ -1,7 +1,8 @@
 #!/bin/bash
+#PATH=~/apps/scripts/
 
 #Call the WikiVote API to login and retrieve an edit token for the WikiVote page
-. ./wikivote-login.sh
+. ~/apps/scripts/wikivote-login.sh
 
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
@@ -211,7 +212,7 @@ done
 done
 
 #Run the table_edit script to update the Senate and House table pages
-. ./table_edit.sh ${CHAMBER}
+. ~/apps/scripts/table_edit.sh ${CHAMBER}
 
 if [ -f "$LOG_FILE" ]
 then
