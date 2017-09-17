@@ -8,16 +8,19 @@
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
 SESSION=115
-CHAMBER=$1
-TYPE=active
-LIST_FILE=~/apps/propublica/bills/${CHAMBER}/${SESSION}/list.txt
-ADD_TEXT=$'{| class="wikitable sortable"'
-echo "${ADD_TEXT}"
+CHAMBER=senate
+TYPE=Active
+LIST_FILE=~/apps/scripts/list.txt
 
-if [ -f "$LIST_FILE" ]
-then 
-    echo "$ADD_TEXT" > "$LIST_FILE"
-fi
+#Build a text file that will ultimately be uploaded to WikiVote
+ADD_TEXT="== ${TYPE} Legislation in the ${SESSION}th Congress =="
+#echo "${ADD_TEXT}"
+sudo echo "$ADD_TEXT" > "$LIST_FILE"
+
+#Add the template headers to indicate that it is a sortable wikitable"
+ADD_TEXT=$'\n'$'{| class="wikitable sortable"'$'\n'"|-"$'\n'"! Bill !! Title"
+#echo "${ADD_TEXT}"
+echo "$ADD_TEXT" >> "$LIST_FILE"
 
 #Set some wiki markup language based on the image of either the House or Senate seal
 if [ "$CHAMBER" == "house" ]; then
@@ -26,6 +29,7 @@ elif [ "$CHAMBER" == "senate" ]; then
         PAGE_TITLE="U.S. Senate"
 fi
 
+#Look through all of the bills on file that have been pulled from Propublica and stored locally
 for FILE in ~/apps/propublica/bills/${CHAMBER}/${SESSION}/*
 do
 
@@ -37,30 +41,30 @@ TITLE="$(jq '.results[].title' ${FILE} | sed -e 's/\"//g' -e 's/\\//g')"
 SPONSOR_ID="$(jq '.results[].sposor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SPONSOR_ID}"
 
-#Once the edit token is retrieved, start editing the page
-#echo "${BILL}"
-#echo "${TITLE}"
-#echo "${SPONSOR_ID}"
-
-ADD_TEXT="|-'\n'| ${BILL} || ${TITLE} '\n'"
-echo $"{ADD_TEXT}"
+#Add the bill number and title to a new line in the table
+ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${TITLE} "
 
 if [ -f "$LIST_FILE" ]
 then 
-    echo "$ADD_TEXT" > "$LIST_FILE"
+    echo "$ADD_TEXT" >> "$LIST_FILE"
 fi
 
 done
 
+#After exiting the loop, close the wikitable template with curly brackets
 ADD_TEXT="|}"
-echo "${ADD_TEXT}"
+#echo "${ADD_TEXT}"
 
 if [ -f "$LIST_FILE" ]
 then 
-    echo "$ADD_TEXT" > "$LIST_FILE"
+    echo "$ADD_TEXT" >> "$LIST_FILE"
 fi
 
-#Go to the table page and add a new bullet to the list, including the bill number and title
+#Pull the contents of the file into a string to pass through curl
+TEXT=$(<"$LIST_FILE")
+#echo "$TEXT"
+
+#Send the contents of the text to WikiVote
 CR=$(curl -S \
         --location \
         --cookie $cookie_jar \
@@ -71,10 +75,9 @@ CR=$(curl -S \
         --header "Connection: keep-alive" \
         --compressed \
         --data-urlencode "title=Table demo" \
-        --data-urlencode "prependtext="$'\e[D \t \f \r \v < \e[[D \n \b \B \n'"" \
+        --data-urlencode "appendtext=${TEXT}" \
         --data-urlencode "token=${EDITTOKEN}" \
         --request "POST" "${WIKIAPI}?action=edit&format=json")
 
-#done
 
 exit 0
