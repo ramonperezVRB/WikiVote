@@ -210,6 +210,9 @@ done
 
 done
 
+#Run the table_edit script to update the Senate and House table pages
+. ./table_edit.sh ${CHAMBER}
+
 if [ -f "$LOG_FILE" ]
 then
     echo "This script added ${NEW_BILL} new ${CHAMBER} bills to WikiVote for the ${SESSION}th Congress on `date -u`" >> "$LOG_FILE"

@@ -3,7 +3,8 @@
 #This script updates the table of legislation that links to the main page
 
 #Call the WikiVote API to login and retrieve an edit token for the WikiVote page
-. ./wikivote-login.sh
+#This is commented out if table_edit script is called by daily_add_bills script where edit token is already retrieved
+#. ./wikivote-login.sh
 
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed
