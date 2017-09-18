@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres36-115",
+         "bill_slug": "sjres36",
+         "congress": "115",
+         "bill": "S.J.RES.36",
+         "bill_type": "sjres",
+         "number": "S.J.RES.36",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres36.json",
+         "title": "A joint resolution providing for the appointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+         "short_title": "A joint resolution providing for the appointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Boozman",
+         "sponsor_id": "B001236",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001236.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres36enr/pdf/BILLS-115sjres36enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/36",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres36",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": "2017-04-05",
+         "senate_passage": "2017-03-26",
+         "enacted": "2017-04-06",
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House House Administration Committee",
+         "committee_codes": ["HSHA","SSRA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-19",
+         "latest_major_action": "Became Public Law No: 115-29.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-04-05",
+         "senate_passage_vote": "2017-03-26",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution appoints Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution appoints Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-04-19",
+           "description": "Became Public Law No: 115-29."
+         },
+                  {
+           "id": 13,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-04-19",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-07",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "On passage Passed without objection. (text: CR H2767)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Considered by unanimous consent. (consideration: CR H2767)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-06",
+           "description": "Committee on House Administration discharged."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Mr. Harper asked unanimous consent to discharge from committee and consider."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-28",
+           "description": "Referred to the House Committee on House Administration."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "Passed Senate without amendment by Unanimous Consent. (text: CR S2004)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-27",
+           "description": "Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S2004)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Read twice and referred to the Committee on Rules and Administration."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres67-115",
+         "bill_slug": "sres67",
+         "congress": "115",
+         "bill": "S.RES.67",
+         "bill_type": "sres",
+         "number": "S.RES.67",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres67.json",
+         "title": "A resolution expressing support for health and wellness coaches and for the designation of February 13, 2017, through February 19, 2017, as \"National Health and Wellness Coach Recognition Week\".",
+         "short_title": "A resolution expressing support for health and wellness coaches and for the designation of February 13, 2017, through February 19, 2017, as \"National Health and Wellness Coach Recognition Week\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Martin Heinrich",
+         "sponsor_id": "H001046",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001046.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NM",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres67ats/pdf/BILLS-115sres67ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/67",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres67",
+         "introduced_date": "2017-02-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-17",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1399)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Expresses support for the designation of February 13-February 19, 2017, as National Health and Wellness Coach Recognition Week and for the efforts of health and wellness coaches.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Expresses support for the designation of February 13-February 19, 2017, as National Health and Wellness Coach Recognition Week and for the efforts of health and wellness coaches.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1399)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

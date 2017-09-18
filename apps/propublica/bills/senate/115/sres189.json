@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres189-115",
+         "bill_slug": "sres189",
+         "congress": "115",
+         "bill": "S.RES.189",
+         "bill_type": "sres",
+         "number": "S.RES.189",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres189.json",
+         "title": "A resolution designating the week of June 5 through June 11, 2017, as \"Hemp History Week\".",
+         "short_title": "A resolution designating the week of June 5 through June 11, 2017, as \"Hemp History Week\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres189ats/pdf/BILLS-115sres189ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/189",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres189",
+         "introduced_date": "2017-06-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-06-07",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Agriculture and Food",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3375; text as passed Senate: CR S3366)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-06-07",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of June 5-June 11, 2017, as Hemp History Week. Recognizes the historical relevance and growing economic potential of industrial hemp.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of June 5-June 11, 2017, as Hemp History Week. Recognizes the historical relevance and growing economic potential of industrial hemp.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-08",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3375; text as passed Senate: CR S3366)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

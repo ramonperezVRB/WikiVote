@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres193-115",
+         "bill_slug": "sres193",
+         "congress": "115",
+         "bill": "S.RES.193",
+         "bill_type": "sres",
+         "number": "S.RES.193",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres193.json",
+         "title": "A resolution commending the bravery of the United States Capitol Police, the Police Department of Alexandria, Virginia, and all first responders who protected Members of Congress, their staff, and others during the shooting on June 14, 2017, at Eugene Simpson Stadium Park in the Del Ray neighborhood of Alexandria, Virginia.",
+         "short_title": "A resolution commending the bravery of the United States Capitol Police, the Police Department of Alexandria, Virginia, and all first responders who protected Members of Congress, their staff, and others during the shooting on June 14, 2017, at Eugene Sim",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tim Kaine",
+         "sponsor_id": "K000384",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000384.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres193ats/pdf/BILLS-115sres193ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/193",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres193",
+         "introduced_date": "2017-06-15",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 99,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-15",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3560-3561; text: CR S3559-3560)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3560-3561; text: CR S3559-3560)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

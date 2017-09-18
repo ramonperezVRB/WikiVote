@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres9-115",
+         "bill_slug": "hres9",
+         "congress": "115",
+         "bill": "H.RES.9",
+         "bill_type": "hres",
+         "number": "H.RES.9",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres9.json",
+         "title": "Fixing the daily hour of meeting of the First Session of the One Hundred Fifteenth Congress.",
+         "short_title": "Fixing the daily hour of meeting of the First Session of the One Hundred Fifteenth Congress.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Pete Sessions",
+         "sponsor_id": "S000250",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000250.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres9eh/pdf/BILLS-115hres9eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/9",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres9",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-03",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-02",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Fixes the daily hour of meeting for the House of Representatives for the first session of the 115th Congress.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Fixes the daily hour of meeting for the House of Representatives for the first session of the 115th Congress.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-03",
+           "description": "On agreeing to the resolution Agreed to without objection. (text: CR H29)"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-03",
+           "description": "Considered as privileged matter. (consideration: CR H29)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

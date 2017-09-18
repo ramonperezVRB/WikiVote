@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1545-115",
+         "bill_slug": "hr1545",
+         "congress": "115",
+         "bill": "H.R.1545",
+         "bill_type": "hr",
+         "number": "H.R.1545",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1545.json",
+         "title": "VA Prescription Data Accountability Act 2017",
+         "short_title": "VA Prescription Data Accountability Act 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ann McLane Kuster",
+         "sponsor_id": "K000382",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000382.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1545rfs/pdf/BILLS-115hr1545rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1545",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1545",
+         "introduced_date": "2017-03-15",
+         "active": true,
+         "house_passage": "2017-05-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR03"],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) VA Prescription Data Accountability Act 2017 (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to disclose information about an individual who is dispensed medication prescribed by a VA employee or by a non-VA provider authorized to prescribe such medication by the VA (currently, about a veteran or the dependent of a veteran) to a state controlled substance monitoring program to the extent necessary to prevent misuse and diversion of prescription medicines.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) VA Prescription Data Accountability Act 2017 (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to disclose information about an individual who is dispensed medication prescribed by a VA employee or by a non-VA provider authorized to prescribe such medication by the VA (currently, about a veteran or the dependent of a veteran) to a state controlled ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4473)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1545."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4473-4475)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-22",
+           "description": "Placed on the Union Calendar, Calendar No. 93."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-22",
+           "description": "Reported by the Committee on Veterans' Affairs. H. Rept. 115-144."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-27",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-15",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

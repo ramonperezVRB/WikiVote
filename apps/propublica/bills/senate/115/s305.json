@@ -1,0 +1,157 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s305-115",
+         "bill_slug": "s305",
+         "congress": "115",
+         "bill": "S.305",
+         "bill_type": "s",
+         "number": "S.305",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s305.json",
+         "title": "Vietnam War Veterans Recognition Act of 2017",
+         "short_title": "Vietnam War Veterans Recognition Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Patrick J. Toomey",
+         "sponsor_id": "T000461",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000461.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s305enr/pdf/BILLS-115s305enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/305",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s305",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": "2017-03-20",
+         "senate_passage": "2017-02-02",
+         "enacted": "2017-03-22",
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": ["HSJU10"],
+         "latest_major_action_date": "2017-03-28",
+         "latest_major_action": "Became Public Law No: 115-15.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-03-20",
+         "senate_passage_vote": "2017-02-02",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.) Vietnam War Veterans Recognition Act of 2017 (Sec. 2) This bill includes National Vietnam War Veterans Day, March 29, among those days on which the flag should especially be displayed.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.) Vietnam War Veterans Recognition Act of 2017 (Sec. 2) This bill includes National Vietnam War Veterans Day, March 29, among those days on which the flag should especially be displayed.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-28",
+           "description": "Became Public Law No: 115-15."
+         },
+                  {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-28",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "On passage Passed by voice vote. (text of measure as passed: CR H2267)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Considered by unanimous consent. (consideration: CR H2267)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-03-21",
+           "description": "Committee on the Judiciary discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Mr. Goodlatte asked unanimous consent to discharge from committee and consider."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-16",
+           "description": "Ordered to be Reported."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-16",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-14",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-06",
+           "description": "Referred to the House Committee on the Judiciary."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S683; text as passed Senate: CR S683)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

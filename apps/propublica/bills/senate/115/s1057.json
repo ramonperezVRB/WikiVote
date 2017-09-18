@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1057-115",
+         "bill_slug": "s1057",
+         "congress": "115",
+         "bill": "S.1057",
+         "bill_type": "s",
+         "number": "S.1057",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1057.json",
+         "title": "Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017",
+         "short_title": "Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bill Nelson",
+         "sponsor_id": "N000032",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000032.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1057is/pdf/BILLS-115s1057is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1057",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1057",
+         "introduced_date": "2017-05-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 205.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-03",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 205."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-03",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-145."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

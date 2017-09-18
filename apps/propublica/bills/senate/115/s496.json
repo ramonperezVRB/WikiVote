@@ -1,0 +1,183 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s496-115",
+         "bill_slug": "s496",
+         "congress": "115",
+         "bill": "S.496",
+         "bill_type": "s",
+         "number": "S.496",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s496.json",
+         "title": "A bill to repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".",
+         "short_title": "A bill to repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tammy Duckworth",
+         "sponsor_id": "D000622",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000622.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s496enr/pdf/BILLS-115s496enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/496",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s496",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": "2017-04-26",
+         "senate_passage": "2017-03-07",
+         "enacted": "2017-05-01",
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW","SSBK"],
+         "subcommittee_codes": ["HSPW12"],
+         "latest_major_action_date": "2017-05-12",
+         "latest_major_action": "Became Public Law No: 115-33.",
+         "last_vote_date": "2017-04-27",
+         "house_passage_vote": "2017-04-26",
+         "senate_passage_vote": "2017-03-07",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.)(Sec. 1) This bill nullifies the Federal Highway Administration's and the Federal Transit Administration's rule published on December 20, 2016, that revises transportation planning regulations with regard to the alignment of planning regulations with statutory provisions relating to the establishment of metropolitan planning area boundaries and the designation of metropolitan planning organizations.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.)(Sec. 1) This bill nullifies the Federal Highway Administration's and the Federal Transit Administration's rule published on December 20, 2016, that revises transportation planning regulations with regard to the alignment of planning regulations with statutory provisions relating to the establishment of metropolitan planning area boundaries and the designation of met...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 17,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-05-12",
+           "description": "Became Public Law No: 115-33."
+         },
+                  {
+           "id": 16,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-05-12",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 231)."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "Considered as unfinished business. (consideration: CR H2919-2920)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on S. 496."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H2823-2825)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Mr. Lewis (MN) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-10",
+           "description": "Referred to the Subcommittee on Highways and Transit."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-09",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S1695; text: CR S1695)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-08",
+           "description": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-27",
+             "time": "14:17:00",
+             "roll_call": "231",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 417,
+             "total_no": 3,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/231.json"
+           }
+         ]
+
+      }
+   ]
+}

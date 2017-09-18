@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres127-115",
+         "bill_slug": "sres127",
+         "congress": "115",
+         "bill": "S.RES.127",
+         "bill_type": "sres",
+         "number": "S.RES.127",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres127.json",
+         "title": "A resolution supporting the goals and ideals of Take Our Daughters and Sons To Work Day.",
+         "short_title": "A resolution supporting the goals and ideals of Take Our Daughters and Sons To Work Day.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Richard M. Burr",
+         "sponsor_id": "B001135",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001135.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres127ats/pdf/BILLS-115sres127ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/127",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres127",
+         "introduced_date": "2017-04-07",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-27",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Recognizes the goals of introducing our daughters and sons to the workplace. Commends participants of Take Our Daughters And Sons To Work Day.",
+         "summary_short": "Recognizes the goals of introducing our daughters and sons to the workplace. Commends participants of Take Our Daughters And Sons To Work Day.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-04-27",
+           "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S2630)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-07",
+           "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2458-2459)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2169-115",
+         "bill_slug": "hr2169",
+         "congress": "115",
+         "bill": "H.R.2169",
+         "bill_type": "hr",
+         "number": "H.R.2169",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2169.json",
+         "title": "Improving Fusion Centers' Access to Information Act",
+         "short_title": "Improving Fusion Centers' Access to Information Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "John Katko",
+         "sponsor_id": "K000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2169rfs/pdf/BILLS-115hr2169rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2169",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2169",
+         "introduced_date": "2017-04-26",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on May 16, 2017. The summary of that version is repeated here.) Improving Fusion Centers' Access to Information Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security State, Local, and Regional Fusion Center Initiative to: (1) conduct outreach to state, local, and regional fusion centers to identify any gaps in information sharing and consult with other federal agencies to develop methods to address such gaps; and (2) identify federal databases and datasets that are appropriate to address any such gaps, for inclusion in the information sharing environment and coordinate with the appropriate federal agency to deploy or access such databases and datasets.  A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on May 16, 2017. The summary of that version is repeated here.) Improving Fusion Centers' Access to Information Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security State, Local, and Regional Fusion Center Initiative to: (1) conduct outreach to state, local, and regional fusion centers to identify any gaps in information sharing and consult with other federal agencies...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4269)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2169."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4269-4271)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Katko moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-16",
+           "description": "Placed on the Union Calendar, Calendar No. 73."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-16",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-120."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-26",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

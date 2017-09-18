@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres239-115",
+         "bill_slug": "sres239",
+         "congress": "115",
+         "bill": "S.RES.239",
+         "bill_type": "sres",
+         "number": "S.RES.239",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres239.json",
+         "title": "A resolution congratulating the Pittsburgh Penguins for winning the 2017 Stanley Cup hockey championship.",
+         "short_title": "A resolution congratulating the Pittsburgh Penguins for winning the 2017 Stanley Cup hockey championship.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bob Casey",
+         "sponsor_id": "C001070",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001070.json",
+         "sponsor_party": "D",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/239",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres239",
+         "introduced_date": "2017-08-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Sports and Recreation",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-01",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text of measure as introduced: CR S4672-4673)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text of measure as introduced: CR S4672-4673)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

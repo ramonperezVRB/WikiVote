@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s491-115",
+         "bill_slug": "s491",
+         "congress": "115",
+         "bill": "S.491",
+         "bill_type": "s",
+         "number": "S.491",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s491.json",
+         "title": "A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Clark Canyon Dam.",
+         "short_title": "A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Clark Canyon Dam.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Steve Daines",
+         "sponsor_id": "D000618",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000618.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s491rs/pdf/BILLS-115s491rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/491",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s491",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill requires the Federal Energy Regulatory Commission, upon request, to reinstate the construction license for the Clark Canyon Dam Hydroelectric Project located on the Beaverhead River in Beaverhead County, Montana. Construction on the project must commence within three years.",
+         "summary_short": "This bill requires the Federal Energy Regulatory Commission, upon request, to reinstate the construction license for the Clark Canyon Dam Hydroelectric Project located on the Beaverhead River in Beaverhead County, Montana. Construction on the project must commence within three years.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 131."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-101."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1579; text of measure as introduced: CR S1580)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

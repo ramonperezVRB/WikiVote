@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres22-115",
+         "bill_slug": "sjres22",
+         "congress": "115",
+         "bill": "S.J.RES.22",
+         "bill_type": "sjres",
+         "number": "S.J.RES.22",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres22.json",
+         "title": "A joint resolution granting the consent and approval of Congress to the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission.",
+         "short_title": "A joint resolution granting the consent and approval of Congress to the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tim Kaine",
+         "sponsor_id": "K000384",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000384.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres22es/pdf/BILLS-115sjres22es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/22",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres22",
+         "introduced_date": "2017-02-15",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-15",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-17",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-15",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Interstate Compact This joint resolution grants congressional consent and approval for the Commonwealth of Virginia, the state of Maryland, and the District of Columbia to enter into a Metrorail Safety Commission (MSC) Interstate Compact. The MSC Compact establishes a Washington Metrorail Safety Commission for the safety oversight of the Washington Metropolitan Area Transit Authority (WMATA) Rail (Metrorail) system. The commission shall:  distribute a written State Safety Oversight Program; enforce implementation of WMATA's Public Transportation Agency Safety Plan, as well as audit triennially WMATA's compliance with such plan; enforce implementation of any Corrective Action Plans; enforce relevant federal and state laws and regulations relating to Metrorail safety; publish annually a Metrorail safety report, including updates of Corrective Action Plans, Commission directives, and on-going investigations; and publish annually a report on commission operations.  An independent annual audit shall be made of commission financial accounts. Any signatory may withdraw from the MSC Compact, which shall constitute its termination.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Interstate Compact This joint resolution grants congressional consent and approval for the Commonwealth of Virginia, the state of Maryland, and the District of Columbia to enter into a Metrorail Safety Commission (MSC) Interstate Compact. The MSC Compact establishes a Washington Metrorail Safety Commission for the safety oversight of the Washington Metropolitan Ar...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Passed Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2956-2959)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-05-16",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2955-2959)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-15",
+           "description": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S1220)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3262-115",
+         "bill_slug": "hr3262",
+         "congress": "115",
+         "bill": "H.R.3262",
+         "bill_type": "hr",
+         "number": "H.R.3262",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3262.json",
+         "title": "Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017",
+         "short_title": "Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ann McLane Kuster",
+         "sponsor_id": "K000382",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000382.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3262ih/pdf/BILLS-115hr3262ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3262",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3262",
+         "introduced_date": "2017-07-17",
+         "active": true,
+         "house_passage": "2017-07-27",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-31",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-27",
+         "senate_passage_vote": null,
+         "summary": "Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017 This bill directs the Department of Veterans Affairs (VA) to carry out the Grow Our Own Directive or G.O.O.D. pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as VA physician assistants.  An individual is eligible to participate in the program if the individual:   has medical or military health experience gained while serving in the Armed Forces;  has received a certificate, associate degree, baccalaureate degree, master's degree, or postbaccalaureate training in a science relating to health care;  has participated in the delivery of health care services or related medical services; and  does not have a degree of doctor of medicine, doctor of osteopathy, or doctor of dentistry.   The VA shall:   provide educational assistance to program participants for the costs of obtaining a master's degree in physician assistant studies or a similar master's degree,   ensure that mentors are available for program participants at each VA facility at which a participant is employed, and  seek to partner with specified government programs and with appropriate educational institutions that offer degrees in physician assistant studies.  The VA shall:   establish specified standards to improve the education and and hiring of VA physician assistants, and  implement a national plan for the retention and recruitment of VA physician assistants that includes the adoption of competitive pay standards.   VA physician assistant pay grades are established.",
+         "summary_short": "Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017 This bill directs the Department of Veterans Affairs (VA) to carry out the Grow Our Own Directive or G.O.O.D. pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as VA physician assistants.  An individual is eligible to participate in the program if the individual:   has medical or military health experience gained while serving in the Armed For...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-31",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3262."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-28",
+           "description": "Placed on the Union Calendar, Calendar No. 192."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-267."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6540-6542)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under suspension of the rules. (consideration: CR H6540-6543)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-17",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

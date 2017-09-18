@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr587-115",
+         "bill_slug": "hr587",
+         "congress": "115",
+         "bill": "H.R.587",
+         "bill_type": "hr",
+         "number": "H.R.587",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr587.json",
+         "title": "Fair RATES Act",
+         "short_title": "Fair RATES Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Joseph P. Kennedy III",
+         "sponsor_id": "K000379",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000379.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr587ih/pdf/BILLS-115hr587ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/587",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr587",
+         "introduced_date": "2017-01-17",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 15,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Fair Ratepayer Accountability, Transparency, and Efficiency Standards Act or the Fair RATES Act  (Sec.2)This bill amends the Federal Power Act to permit a party to seek a rehearing and subsequent judicial review of any rate change filed by a public utility that takes effect without the Federal Energy Regulatory Commission (FERC) issuing an order making such change effective. (Public utilities must give FERC and the public a 60-day notice before a proposed rate change can take effect.)",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Fair Ratepayer Accountability, Transparency, and Efficiency Standards Act or the Fair RATES Act  (Sec.2)This bill amends the Federal Power Act to permit a party to seek a rehearing and subsequent judicial review of any rate change filed by a public utility that takes effect without the Federal Energy Regulatory Commission (FERC) issuing an order making such change...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H568)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 587."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H568-569)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

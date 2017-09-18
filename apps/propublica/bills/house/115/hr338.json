@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr338-115",
+         "bill_slug": "hr338",
+         "congress": "115",
+         "bill": "H.R.338",
+         "bill_type": "hr",
+         "number": "H.R.338",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr338.json",
+         "title": "To promote a 21st century energy and manufacturing workforce.",
+         "short_title": "To promote a 21st century energy and manufacturing workforce.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bobby L. Rush",
+         "sponsor_id": "R000515",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000515.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr338ih/pdf/BILLS-115hr338ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/338",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr338",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-06-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Labor and Employment",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSIF","HSED"],
+         "subcommittee_codes": ["HSIF03"],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-11",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill directs the Department of Energy (DOE), in awarding grants, to prioritize education and training for energy and manufacturing jobs, including by encouraging state and local education agencies to equip students for those jobs and strengthening DOE programs and labs carrying out workforce development initiatives. DOE must prioritize educating and training workers from underrepresented groups such as minorities, women, and veterans. DOE may encourage, but not incentivize, require, or coerce any state or school district to adopt a curriculum to equip students with the skills and training necessary to fill employment opportunities in the energy and manufacturing industries. In addition, DOE is directed to:   establish a clearinghouse for information and guidance on job training and other workforce development programs for energy and manufacturing jobs; and work with the energy and manufacturing industries, educational institutions, and other government agencies to identify areas of workforce need and develop guidelines to implement the best practices for effective job training programs.  The bill requires DOE to consider increasing outreach to institutions that serve minority populations. The Minorities in Energy Initiative provides for DOE to:  make existing resources available to minority serving institutions with the objective of increasing the number of minorities and women trained to work in the energy and manufacturing industries; encourage the energy and manufacturing industries to improve the amount of internships and cooperative work study programs available for minority students; and increase underrepresented groups' participation in internships, fellowships, and employment at DOE laboratories.  DOE must give special consideration to dislocated energy and manufacturing workers by:  increasing outreach to employers and job trainers who train unemployed energy and manufacturing workers for re-entry into the job market, making existing resources available to institutions that provide job training to unemployed energy and manufacturing workers, encouraging the energy and manufacturing industries to improve opportunities for energy and manufacturing workers to participate in career pathway programs, and working with the energy and manufacturing industries to identify energy and manufacturing operations scheduled for closure and provide early intervention assistance to affected workers through partnerships with state and local workforce boards.  This bill does not authorize the creation of a new workforce development program. (Sec. 2) DOE is required to submit a report to Congress, within five years, on the national outlook for the energy and manufacturing industries. The report must include a summary of energy and manufacturing jobs that have been created by this bill. In addition, the report must contain the:  number of workforce training program participants served, percentage of workforce training program participants in competitive employment, median income of workforce training program participants, and percentage of workforce training program participants receiving industry-recognized credentials.  (Sec. 3) This bill does not authorize additional funding to carry out its requirements.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill directs the Department of Energy (DOE), in awarding grants, to prioritize education and training for energy and manufacturing jobs, including by encouraging state and local education agencies to equip students for those jobs and strengthening DOE programs and labs carrying out workforce development initiatives. DOE must prioritize educating and ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4831-4832)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 338."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H4831-4834)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported by the Committee on Energy and Commerce. H. Rept. 115-168, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Subcommittee on Energy Discharged."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-25",
+           "description": "Referred to the Subcommittee on Energy."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Energy and Commerce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Education and the Workforce"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

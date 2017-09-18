@@ -1,0 +1,357 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr601-115",
+         "bill_slug": "hr601",
+         "congress": "115",
+         "bill": "H.R.601",
+         "bill_type": "hr",
+         "number": "H.R.601",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr601.json",
+         "title": "Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017",
+         "short_title": "Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Nita M. Lowey",
+         "sponsor_id": "L000480",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000480.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr601eah/pdf/BILLS-115hr601eah.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/601",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr601",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": "2017-01-23",
+         "senate_passage": "2017-07-31",
+         "enacted": "2017-09-07",
+         "vetoed": null,
+         "cosponsors": 9,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSAP","SSFR","HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-08",
+         "latest_major_action": "Presented to President.",
+         "last_vote_date": "2017-09-08",
+         "house_passage_vote": "2017-01-23",
+         "senate_passage_vote": "2017-07-31",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reinforcing Education Accountability in Development Act or the READ Act  (Sec. 3) This bill amends the Foreign Assistance Act of 1961 to state that it shall be U.S. policy to work with partner countries, other donors, multilateral institutions, the private sector, and nongovernmental and civil society organizations (including faith-based organizations) to promote basic education through programs that: (1) respond to the needs and capacities of developing countries to improve literacy and other basic skills; (2) strengthen educational systems, expand access to safe learning environments (including by breaking down barriers to basic education for women and girls), and support the engagement of parents in their children's education; (3) promote education as a foundation for economic growth; and (4) monitor and evaluate the effectiveness and quality of basic education programs in partner countries.  (Sec. 4) The President shall: (1) seek to improve the effectiveness of assistance by coordinating relevant executive branch efforts, (2) ensure that assistance is aligned with U.S. foreign policy and economic interests, and (3) submit to Congress by October 1, 2017, a comprehensive FY2018 through FY2022 strategy to promote basic education in partner countries.  (Sec. 5) The bill establishes within the U.S. Agency for International Development the position of Senior Coordinator of United States International Basic Education Assistance, who shall have primary responsibility for the oversight and coordination of U.S. government resources and activities relating to the promotion of international basic education.   (Sec. 6) The President shall ensure that programs carried out under the comprehensive strategy: (1) apply monitoring and evaluation methodologies to determine if programs and activities accomplish measurable improvements in literacy, numeracy, or other basic skills development; and (2) include funding for both short- and long-term monitoring and evaluation.   (Sec. 7) The President shall submit to Congress an annual implementation report. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reinforcing Education Accountability in Development Act or the READ Act  (Sec. 3) This bill amends the Foreign Assistance Act of 1961 to state that it shall be U.S. policy to work with partner countries, other donors, multilateral institutions, the private sector, and nongovernmental and civil society organizations (including faith-based organizations) to promote ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-09-08",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-09-08",
+           "description": "On motion that the House agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: 316 - 90 (Roll no. 480)."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-09-08",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 509, the House proceeded with one hour of debate on the Senate amendment to the House amendment to the Senate amendment to H.R. 601."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-09-08",
+           "description": "Pursuant to the provisons of H.Res. 509, Mr. Frelinghuysen moved that the House agree to the Senate amendment to the House amendment to the Senate amendment."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 29,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 28,
+           "chamber": "Senate",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-09-07",
+           "description": "Senate concurred in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) by Yea-Nay Vote. 80 - 17. Record Vote Number: 192."
+         },
+                  {
+           "id": 27,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) invoked in Senate by Yea-Nay Vote. 79 - 18. Record Vote Number: 191. (consideration: CR S5037)"
+         },
+                  {
+           "id": 26,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report the same back to the Senate with changes that (1) are in the jurisdiction of such committee; and (2) do not include any provision that was not contained in the House message accompanying the bill tabled in Senate by Yea-Nay Vote. 72 - 25. Record Vote Number: 190. (consideration: CR S5035-5036)"
+         },
+                  {
+           "id": 25,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report back forthwith with the following amendment (SA 816) tabled in Senate by Yea-Nay Vote. 87 - 10. Record Vote Number: 189. (consideration: CR S5035)"
+         },
+                  {
+           "id": 24,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Motion by Senator McConnell to refer to Senate Committee on Appropriations the House message to accompany the bill (H.R. 601) with instructions to report back forthwith with the following amendment (SA 816) made in Senate. (consideration: CR S5035)"
+         },
+                  {
+           "id": 23,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Considered by Senate (Message from the House considered). (consideration: CR S5031-5038)"
+         },
+                  {
+           "id": 22,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) presented in Senate. (consideration: CR S5020)"
+         },
+                  {
+           "id": 21,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S5020-5021)"
+         },
+                  {
+           "id": 20,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 601 with an amendment (SA 808) presented in Senate."
+         },
+                  {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Motion by Senator McConnell to concur in the House amendment to the Senate amendment numbered 6 to H.R. 601 with an amendment (SA 808) made in Senate."
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Message on House action received in Senate and at desk: House amendment to Senate amendment numbered 6."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "House agreed to Senate amendments with amendment pursuant to H. Res. 502."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4684-4686)"
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Passed Senate with amendments by Voice Vote."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "The committee amendments agreed to by Unanimous Consent."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-05",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 116."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-05",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with amendments. Without written report."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported with an amendment favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H662-664)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 601."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H662-666)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-09-08",
+             "time": "10:33:00",
+             "roll_call": "480",
+             "question": "On Motion to Concur in the Senate Adt to the House Adt to the Senate Adt",
+             "result": "Passed",
+             "total_yes": 316,
+             "total_no": 90,
+             "total_not_voting": 27,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/480.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-09-07",
+             "time": "14:23:00",
+             "roll_call": "192",
+             "question": "On the Motion",
+             "result": "Motion Agreed to",
+             "total_yes": 80,
+             "total_no": 17,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/192.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-09-07",
+             "time": "13:50:00",
+             "roll_call": "191",
+             "question": "On the Cloture Motion",
+             "result": "Cloture Motion Agreed to",
+             "total_yes": 79,
+             "total_no": 18,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/191.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-09-07",
+             "time": "13:11:00",
+             "roll_call": "190",
+             "question": "On the Motion to Table",
+             "result": "Motion to Table Agreed to",
+             "total_yes": 72,
+             "total_no": 25,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/190.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-09-07",
+             "time": "12:40:00",
+             "roll_call": "189",
+             "question": "On the Motion to Table",
+             "result": "Motion to Table Agreed to",
+             "total_yes": 87,
+             "total_no": 10,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/189.json"
+           }
+         ]
+
+      }
+   ]
+}

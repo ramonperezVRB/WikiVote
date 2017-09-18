@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1625-115",
+         "bill_slug": "hr1625",
+         "congress": "115",
+         "bill": "H.R.1625",
+         "bill_type": "hr",
+         "number": "H.R.1625",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1625.json",
+         "title": "Targeted Rewards for the Global Eradication of Human Trafficking",
+         "short_title": "TARGET Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Edward Royce",
+         "sponsor_id": "R000487",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000487.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1625rfs/pdf/BILLS-115hr1625rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1625",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1625",
+         "introduced_date": "2017-03-20",
+         "active": true,
+         "house_passage": "2017-05-21",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 40,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-23",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-21",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Targeted Rewards for the Global Eradication of Human Trafficking or the TARGET Act  (Sec. 2) This bill expresses the sense of Congress that the Department of State's rewards program is a powerful tool in combating sophisticated international crime and that the State Department and federal law enforcement should work in concert to offer rewards that target human traffickers who threaten U.S. national security and humanitarian interests by preying on the most vulnerable people.   (Sec. 3) The State Department Basic Authorities Act of 1956 is amended to include severe forms of human trafficking in the definition of \"transnational organized crime\" for purposes of such program.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Targeted Rewards for the Global Eradication of Human Trafficking or the TARGET Act  (Sec. 2) This bill expresses the sense of Congress that the Department of State's rewards program is a powerful tool in combating sophisticated international crime and that the State Department and federal law enforcement should work in concert to offer rewards that target human tr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-23",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4411-4412)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1625."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "Considered under suspension of the rules. (consideration: CR H4411-4414)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-20",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

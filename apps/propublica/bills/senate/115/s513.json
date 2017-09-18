@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s513-115",
+         "bill_slug": "s513",
+         "congress": "115",
+         "bill": "S.513",
+         "bill_type": "s",
+         "number": "S.513",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s513.json",
+         "title": "Frank and Jeanne Moore Wild Steelhead Special Management Area Designation Act",
+         "short_title": "Frank and Jeanne Moore Wild Steelhead Special ManagementArea Designation Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s513rs/pdf/BILLS-115s513rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/513",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s513",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-16",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Frank and Jeanne Moore Wild Steelhead Special Management Area Designation Act   (Sec. 4) This bill designates approximately 99,653 acres of Forest Service land in Oregon as the \"Frank and Jeanne Moore Wild Steelhead Special Management Area.\" The special management area shall be administered by the Forest Service to:   conserve and enhance the natural character, scientific use, and the botanical, recreational, ecological, fish and wildlife, scenic, drinking water, and cultural values of the special management area;  maintain and seek to enhance the wild salmonid habitat of the special management area;  maintain or enhance the watershed as a thermal refuge for wild salmonids; and  preserve opportunities for recreation, including primitive recreation.    The bill withdraws the federal land within the boundaries of the special management area's river segments from:   entry, appropriation, or disposal under the public land laws;  location, entry, and patent under the mining laws; and  disposition under all laws relating to mineral and geothermal leasing or mineral materials.  ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Frank and Jeanne Moore Wild Steelhead Special Management Area Designation Act   (Sec. 4) This bill designates approximately 99,653 acres of Forest Service land in Oregon as the \"Frank and Jeanne Moore Wild Steelhead Special Management Area.\" The special management area shall be administered by the Forest Service to:   conserve and enhance the natural character, sc...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-16",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 84."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-16",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-66."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1581; text of measure as introduced: CR S1581-1582)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

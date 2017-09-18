@@ -1,0 +1,127 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres187-115",
+         "bill_slug": "hres187",
+         "congress": "115",
+         "bill": "H.RES.187",
+         "bill_type": "hres",
+         "number": "H.RES.187",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres187.json",
+         "title": "Relating to efforts to respond to the famine in South Sudan.",
+         "short_title": "Relating to efforts to respond to the famine in South Sudan.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Karen Bass",
+         "sponsor_id": "B001270",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001270.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres187eh/pdf/BILLS-115hres187eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/187",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres187",
+         "introduced_date": "2017-03-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 42,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-25",
+         "latest_major_action": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 222). (text: CR H2832)",
+         "last_vote_date": "2017-04-25",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Expresses the sense of the House of Representatives that the U.S. Agency for International Development should: (1) continue to provide immediate and robust assistance to respond to the famine in South Sudan by providing food and other essential resources and to collaborate with international relief organizations to reach vulnerable populations, and (2) be encouraged to continue to provide needed and locally appropriate food aid through the Food for Peace and Emergency Food Security Programs. Calls upon the government of South Sudan to: (1) declare and observe a cessation of hostilities to allow food and essential supplies to reach affected civilians; and (2) allow immediate and unrestricted humanitarian access to southern Unity, where the famine is underway. Condemns: (1) all threats and violence against civilian populations and aid workers, including the over 70 humanitarian aid workers killed since the conflict began and the brutal attack by the South Sudanese military on humanitarian aid workers at the Terrain Camp in July 2016; and (2) the looting by security forces of humanitarian assistance destined for civilians in need. Supports the U.S. government effort, with partners in the international community, to facilitate humanitarian access to affected areas and encourages greater diplomatic pressure on the parties to return to the negotiation table to stop the violence and allow full humanitarian access.",
+         "summary_short": "Expresses the sense of the House of Representatives that the U.S. Agency for International Development should: (1) continue to provide immediate and robust assistance to respond to the famine in South Sudan by providing food and other essential resources and to collaborate with international relief organizations to reach vulnerable populations, and (2) be encouraged to continue to provide needed and locally appropriate food aid through the Food for Peace and Emergency Food Security Programs. ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2 (Roll no. 222). (text: CR H2832)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered as unfinished business. (consideration: CR H2837-2838)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 187."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H2832-2837)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-09",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-25",
+             "time": "18:52:00",
+             "roll_call": "222",
+             "question": "On Motion to Suspend the Rules and Agree, as Amended",
+             "result": "Passed",
+             "total_yes": 411,
+             "total_no": 2,
+             "total_not_voting": 16,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/222.json"
+           }
+         ]
+
+      }
+   ]
+}

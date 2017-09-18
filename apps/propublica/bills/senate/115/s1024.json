@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1024-115",
+         "bill_slug": "s1024",
+         "congress": "115",
+         "bill": "S.1024",
+         "bill_type": "s",
+         "number": "S.1024",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1024.json",
+         "title": "Veterans Appeals Improvement and Modernization Act of 2017",
+         "short_title": "Veterans Appeals Improvement and Modernization Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Johnny Isakson",
+         "sponsor_id": "I000055",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/I000055.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1024rs/pdf/BILLS-115s1024rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1024",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1024",
+         "introduced_date": "2017-05-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 31,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-10",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-10",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 166."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-10",
+           "description": "Committee on Veterans' Affairs. Reported by Senator Isakson with an amendment in the nature of a substitute. With written report No. 115-126."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee on Veterans' Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Veterans' Affairs. Hearings held."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Read twice and referred to the Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

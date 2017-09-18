@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s826-115",
+         "bill_slug": "s826",
+         "congress": "115",
+         "bill": "S.826",
+         "bill_type": "s",
+         "number": "S.826",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s826.json",
+         "title": "WILD Act",
+         "short_title": "WILD Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Barrasso",
+         "sponsor_id": "B001261",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001261.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s826rfh/pdf/BILLS-115s826rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/826",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s826",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-06-07",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "House Agriculture Committee",
+         "committee_codes": ["HSII","SSEV"],
+         "subcommittee_codes": ["HSAG15","HSPW02"],
+         "latest_major_action_date": "2017-09-01",
+         "latest_major_action": "Referred to the Subcommittee on Conservation and Forestry.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-06-07",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-01",
+           "description": "Referred to the Subcommittee on Conservation and Forestry."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-09",
+           "description": "Referred to the Subcommittee on Water Resources and Environment."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-08",
+           "description": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-09",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-08",
+           "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3375-3380; text of amendment in the nature of a substitute: CR S3375-3380)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-17",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 91."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-73."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S2217)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

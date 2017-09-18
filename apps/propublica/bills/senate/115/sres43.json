@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres43-115",
+         "bill_slug": "sres43",
+         "congress": "115",
+         "bill": "S.RES.43",
+         "bill_type": "sres",
+         "number": "S.RES.43",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres43.json",
+         "title": "A resolution recognizing January 2017 as National Mentoring Month.",
+         "short_title": "A resolution recognizing January 2017 as National Mentoring Month.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Johnny Isakson",
+         "sponsor_id": "I000055",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/I000055.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres43ats/pdf/BILLS-115sres43ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/43",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres43",
+         "introduced_date": "2017-02-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-02-01",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-02",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S661; text as passed Senate: CR S660)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-02-01",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes: (1) January 2017 as National Mentoring Month, and (2) the staff and volunteers at quality mentoring programs who help young people reach their full potential. Acknowledges that mentoring is beneficial in that it encourages educational achievement and self-confidence, reduces juvenile delinquency, improves life outcomes, and strengthens communities. Expresses support for: (1) the creation and expansion of quality mentoring programs across the United States, and (2) initiatives to increase the percentage of young people who have a mentor.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes: (1) January 2017 as National Mentoring Month, and (2) the staff and volunteers at quality mentoring programs who help young people reach their full potential. Acknowledges that mentoring is beneficial in that it encourages educational achievement and self-confidence, reduces juvenile delinquency, improves life outcomes, and strengthens communities. Expresses support for: (1) ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S661; text as passed Senate: CR S660)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

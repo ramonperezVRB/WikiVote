@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres118-115",
+         "bill_slug": "sres118",
+         "congress": "115",
+         "bill": "S.RES.118",
+         "bill_type": "sres",
+         "number": "S.RES.118",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres118.json",
+         "title": "A resolution condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.",
+         "short_title": "A resolution condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Kamala Harris",
+         "sponsor_id": "H001075",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001075.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres118ats/pdf/BILLS-115sres118ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/118",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres118",
+         "introduced_date": "2017-04-05",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Civil Rights and Liberties, Minority Issues",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-05",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2371-2372; text: CR S2371)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Condemns hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States. Affirms that the United States stands united in condemning hate and evil in all forms. Rejects hate-motivated crime as an attack on the fabric of society and the ideals of pluralism and respect.  Calls on federal law enforcement officials, working with state and local officials, to: (1) expeditiously investigate all credible reports of hate crimes and incidents and threats against minorities in the United States, and (2) bring the perpetrators to justice.. Encourages: (1) the Department of Justice (DOJ) and other federal agencies to work to improve the reporting of hate crimes, and to emphasize the importance of the agencies' collection and reporting of data pursuant to federal law; and (2) the development of an interagency task force led by the Attorney General to collaborate on the development of effective strategies and efforts to detect and deter hate crime in order to protect minority communities. Calls on the executive branch to continue to: (1) offer federal assistance that may be available for victims of hate crimes; and (2) carry out safety and preparedness programs for religious institutions, places of worship, and other institutions that have been targeted because of their affiliation with any particular religious, racial, or ethnic minority in the United States.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Condemns hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States. Affirms that the United States stands united in condemning hate and evil in all forms. Rejects hate-motivated crime as an attack on the fabric of society and the ideals of pluralism and respect.  Calls on federal law enfo...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2371-2372; text: CR S2371)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

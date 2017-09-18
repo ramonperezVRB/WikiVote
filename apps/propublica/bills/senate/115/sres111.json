@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres111-115",
+         "bill_slug": "sres111",
+         "congress": "115",
+         "bill": "S.RES.111",
+         "bill_type": "sres",
+         "number": "S.RES.111",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres111.json",
+         "title": "A resolution celebrating the 150th anniversary of the Alaska Purchase.",
+         "short_title": "A resolution celebrating the 150th anniversary of the Alaska Purchase.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Dan Sullivan",
+         "sponsor_id": "S001198",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001198.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres111ats/pdf/BILLS-115sres111ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/111",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres111",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-04",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2220; text: CR S2218-2219)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Celebrates the 150th anniversary of the Alaska Purchase.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Celebrates the 150th anniversary of the Alaska Purchase.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2220; text: CR S2218-2219)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

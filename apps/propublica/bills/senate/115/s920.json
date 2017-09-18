@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s920-115",
+         "bill_slug": "s920",
+         "congress": "115",
+         "bill": "S.920",
+         "bill_type": "s",
+         "number": "S.920",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s920.json",
+         "title": "National Clinical Care Commission Act",
+         "short_title": "National Clinical Care Commission Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jeanne Shaheen",
+         "sponsor_id": "S001181",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001181.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s920es/pdf/BILLS-115s920es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/920",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s920",
+         "introduced_date": "2017-04-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-09-05",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-07",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-09-05",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) National Clinical Care Commission Act (Sec. 2) This bill establishes within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and make recommendations regarding improvements to the coordination and leveraging of federal programs related to complex metabolic or autoimmune diseases that result from issues related to insulin and represent a significant disease burden (e.g., diabetes). The commission must report on: (1) HHS programs that focus on prevention, (2) current activities and gaps in federal efforts to support clinicians in providing integrated care, (3) improvement in federal education and awareness activities related to prevention and treatment, and (4) methods for outreach and dissemination of education and awareness materials. The commission must submit an operating plan to HHS and Congress within 90 days of its first meeting. The commission is terminated after it submits a final report, but not later than the end of FY2021.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) National Clinical Care Commission Act (Sec. 2) This bill establishes within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and make recommendations regarding improvements to the coordination and leveraging of federal programs related to complex metabolic or autoimmune diseases that result from issues related to in...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Passed Senate with amendments by Unanimous Consent."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Passed Senate with amendments by Unanimous Consent. (text: CR S5019-5020)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S5019-5020)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 47."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-26",
+           "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-24",
+           "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

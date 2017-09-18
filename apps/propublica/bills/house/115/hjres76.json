@@ -1,0 +1,267 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres76-115",
+         "bill_slug": "hjres76",
+         "congress": "115",
+         "bill": "H.J.RES.76",
+         "bill_type": "hjres",
+         "number": "H.J.RES.76",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres76.json",
+         "title": "Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission.",
+         "short_title": "Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steny H. Hoyer",
+         "sponsor_id": "H000874",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000874.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MD",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres76enr/pdf/BILLS-115hjres76enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/76",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres76",
+         "introduced_date": "2017-02-16",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": "2017-08-10",
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": ["HSJU05"],
+         "latest_major_action_date": "2017-08-22",
+         "latest_major_action": "Became Public Law No: 115-54.",
+         "last_vote_date": "2017-07-17",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 17, 2017. The summary of that version is repeated here.) Interstate Compact (Sec. 1) This joint resolution grants congressional consent and approval for the Commonwealth of Virginia, the state of Maryland, and the District of Columbia to enter into a Metrorail Safety Commission (MSC) Interstate Compact. The MSC Compact establishes a Washington Metrorail Safety Commission for the safety oversight of the Washington Metropolitan Area Transit Authority (WMATA) Rail (Metrorail) system. The commission shall:  distribute a written State Safety Oversight Program; enforce implementation of WMATA's Public Transportation Agency Safety Plan, as well as audit triennially WMATA's compliance with such plan; enforce implementation of any Corrective Action Plans; enforce relevant federal and state laws and regulations relating to Metrorail safety; publish annually a Metrorail safety report, including updates of Corrective Action Plans, Commission directives, and on-going investigations; and publish annually a report on commission operations.  An independent annual audit shall be made of commission financial accounts. Any signatory may withdraw from the MSC Compact, which shall constitute its termination.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 17, 2017. The summary of that version is repeated here.) Interstate Compact (Sec. 1) This joint resolution grants congressional consent and approval for the Commonwealth of Virginia, the state of Maryland, and the District of Columbia to enter into a Metrorail Safety Commission (MSC) Interstate Compact. The MSC Compact establishes a Washington Metrorail Safety Commission for the safety oversight of the Washington Me...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 29,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-08-22",
+           "description": "Became Public Law No: 115-54."
+         },
+                  {
+           "id": 28,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-08-22",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-11",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 26,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR 8/3/2017 S4806)"
+         },
+                  {
+           "id": 25,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "UNANIMOUS CONSENT REQUEST - The Chair directed the Clerk to make changes in the engrossment of H.J.Res. 76 that was placed at the desk. Agreed to without objection."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "ENGROSSMENT CORRECTION - Unanimous consent was granted for the Clerk to make changes in the engrossment of H.J.Res. 76 that was placed at the desk. Agreed to without objection."
+         },
+                  {
+           "id": 22,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 21,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 20,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Senate returned papers to House, per House request of July 24, 2017, by Unanimous Consent."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "House requested return of papers pursuant to H.Res. 469."
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-18",
+           "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 176."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 381). (text: CR H5894-5897)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered as unfinished business. (consideration: CR H5902-5903)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H5894-5900)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 381)."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 76."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the resolution, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-17",
+           "description": "Placed on the Union Calendar, Calendar No. 162."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-17",
+           "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 115-227."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-16",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-17",
+             "time": "19:09:00",
+             "roll_call": "381",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 399,
+             "total_no": 5,
+             "total_not_voting": 29,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/381.json"
+           }
+         ]
+
+      }
+   ]
+}

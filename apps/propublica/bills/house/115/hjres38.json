@@ -1,0 +1,228 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres38-115",
+         "bill_slug": "hjres38",
+         "congress": "115",
+         "bill": "H.J.RES.38",
+         "bill_type": "hjres",
+         "number": "H.J.RES.38",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres38.json",
+         "title": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+         "short_title": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bill Johnson",
+         "sponsor_id": "J000292",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000292.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres38enr/pdf/BILLS-115hjres38enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/38",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres38",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-01-31",
+         "senate_passage": "2017-02-01",
+         "enacted": "2017-02-05",
+         "vetoed": null,
+         "cosponsors": 71,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-16",
+         "latest_major_action": "Became Public Law No: 115-5.",
+         "last_vote_date": "2017-02-01",
+         "house_passage_vote": "2017-01-31",
+         "senate_passage_vote": "2017-02-01",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the Stream Protection Rule finalized by the Department of the Interior's Office of Surface Mining Reclamation and Enforcement on December 20, 2016. The rule addresses the impacts of surface coal mining operations on surface water, groundwater, and the productivity of mining operation sites.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the Stream Protection Rule finalized by the Department of the Interior's Office of Surface Mining Reclamation and Enforcement on December 20, 2016. The rule addresses the impacts of surface coal mining operations on surface water, groundwater, and the productivity of mining operation sites.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 20,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-16",
+           "description": "Became Public Law No: 115-5."
+         },
+                  {
+           "id": 19,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-16",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Passed Senate without amendment by Yea-Nay Vote. 54 - 45. Record Vote Number: 43."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Considered by Senate. (consideration: CR S611-632)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Considered as unfinished business. (consideration: CR H859)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J.Res. 38, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "The previous question was ordered pursuant to the rule. (consideration: CR H848)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 38."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Considered under the provisions of rule H. Res. 70. (consideration: CR H840-848)"
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Measure laid before Senate by motion. (consideration: CR S562-574)"
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 56 - 42. Record Vote Number: 42. (consideration: CR S561-562)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate, read twice."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "On passage Passed by the Yeas and Nays: 228 - 194 (Roll no. 73). (text: CR H840)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Rule H. Res. 70 passed House."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Rules Committee Resolution H. Res. 70 Reported to House. Rule provides for consideration of H.J. Res. 38 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-01",
+             "time": "16:50:00",
+             "roll_call": "73",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 228,
+             "total_no": 194,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/73.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-02-02",
+             "time": "14:37:00",
+             "roll_call": "43",
+             "question": "On Passage of the Bill",
+             "result": "Bill Passed",
+             "total_yes": 54,
+             "total_no": 45,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/43.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-02-01",
+             "time": "18:24:00",
+             "roll_call": "42",
+             "question": "On the Motion to Proceed",
+             "result": "Motion to Proceed Agreed to",
+             "total_yes": 56,
+             "total_no": 42,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/42.json"
+           }
+         ]
+
+      }
+   ]
+}

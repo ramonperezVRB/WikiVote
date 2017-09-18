@@ -1,0 +1,354 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr218-115",
+         "bill_slug": "hr218",
+         "congress": "115",
+         "bill": "H.R.218",
+         "bill_type": "hr",
+         "number": "H.R.218",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr218.json",
+         "title": "King Cove Road Land Exchange Act",
+         "short_title": "King Cove Road Land Exchange Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Don Young",
+         "sponsor_id": "Y000033",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/Y000033.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr218eh/pdf/BILLS-115hr218eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/218",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr218",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-07-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["HSII","SSEG"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-07-20",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-07-20",
+         "house_passage_vote": "2017-07-19",
+         "senate_passage_vote": null,
+         "summary": "King Cove Road Land Exchange Act (Sec. 4) This bill declares that, if the state of Alaska offers to convey to the Department of the Interior 43,093 acres of state-owned land, Interior shall convey to Alaska, in exchange, 206 acres of federal land within the Izembek National Wildlife Refuge and 131 acres of federal land within the Izembek Wilderness, for purposes of: (1) designating a road corridor through the refuge, and (2) constructing a single-lane gravel road along the road corridor.  The values of the federal and nonfederal lands to be exchanged: (1) shall be equal, or (2) if not equal, shall be equalized in accordance with this bill.  Interior and Alaska shall select an appraiser to conduct appraisals of the federal and nonfederal lands in accordance with nationally recognized appraisal standards.  Upon completion of the exchange of the federal and nonfederal lands: (1) the boundary of the Wilderness shall be adjusted to exclude the federal land, and (2) the nonfederal land shall be added to the Wilderness.  (Sec. 5) The bill requires the route of the road corridor to follow a specified southern road alignment. (Sec. 6) The bill makes the requirements relating to the usage, barrier cables, and dimensions and the limitation on the location of support facilities with regard to the construction of a single-lane gravel road between the communities of King Cove and Cold Bay, Alaska (as set forth under the Omnibus Public Land Management Act of 2009) applicable to the road to be constructed in the road corridor.  (Sec. 7) The bill states that the exchange of the federal and nonfederal lands and the road to be constructed under this bill (including the issuance of any permit that may be required from any federal agency to construct such road) shall not constitute a major federal action requiring environmental impact review under the National Environmental Policy Act of 1969.",
+         "summary_short": "King Cove Road Land Exchange Act (Sec. 4) This bill declares that, if the state of Alaska offers to convey to the Department of the Interior 43,093 acres of state-owned land, Interior shall convey to Alaska, in exchange, 206 acres of federal land within the Izembek National Wildlife Refuge and 131 acres of federal land within the Izembek Wilderness, for purposes of: (1) designating a road corridor through the refuge, and (2) constructing a single-lane gravel road along the road corridor.  The...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On passage Passed by the Yeas and Nays: 248 - 179 (Roll no. 406)."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Mr. Garamendi moved to recommit with instructions to the Committee on Natural Resources."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered under the provisions of rule H. Res. 454."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On motion to recommit with instructions Failed by voice vote."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Garamendi motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a provision to the underlying bill requiring the road to be constructed using only materials and equipment manufactured in the United States."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The previous question was ordered without objection."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 218."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 218 as unfinished business."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Mr. Bishop (UT) moved that the Committee rise."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 3."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 2."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Tsongas amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Tsongas demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment No. 1."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 218."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "The Speaker designated the Honorable Gary J. Palmer to act as Chairman of the Committee."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 454 and Rule XVIII."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On passage Passed by the Yeas and Nays: 248 - 179 (Roll no. 406). (text of amendment in the nature of a substitute: CR H6124-6125)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Mr. Garamendi moved to recommit with instructions to the Committee on Natural Resources. (text: CR H6130)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered as unfinished business. (consideration: CR H6128-6131)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered under the provisions of rule H. Res. 454. (consideration: CR H6120-6128)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Rule H. Res. 454 passed House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Rules Committee Resolution H. Res. 454 Reported to House. Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-13",
+           "description": "Placed on the Union Calendar, Calendar No. 153."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-13",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-218."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by the Yeas and Nays: 23 - 14."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-20",
+             "time": "12:09:00",
+             "roll_call": "406",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 248,
+             "total_no": 179,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/406.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-20",
+             "time": "11:44:00",
+             "roll_call": "405",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 167,
+             "total_no": 260,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/405.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-20",
+             "time": "11:39:00",
+             "roll_call": "404",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 190,
+             "total_no": 234,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/404.json"
+           }
+         ]
+
+      }
+   ]
+}

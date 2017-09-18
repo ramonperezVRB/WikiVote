@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr600-115",
+         "bill_slug": "hr600",
+         "congress": "115",
+         "bill": "H.R.600",
+         "bill_type": "hr",
+         "number": "H.R.600",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr600.json",
+         "title": "Digital GAP Act",
+         "short_title": "Digital GAP Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Edward Royce",
+         "sponsor_id": "R000487",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000487.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr600rfs/pdf/BILLS-115hr600rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/600",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr600",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": "2017-01-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-30",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Digital Global Access Policy Act of 2017 or the Digital GAP Act  (Sec. 4) This bill states that it is U.S. policy to coordinate with foreign governments, international and regional organizations, businesses, and civil society to close the digital gap in developing countries.   (Sec. 5) The President is urged to direct U.S. representatives to international bodies to advocate for: (1) increasing efforts to promote affordable and gender-equitable Internet access and integrating such access data into economic and business assessments, evaluations, and indexes; (2) standardizing inclusion of broadband conduit-fiber optic cables; (3) providing technical assistance to remove investment barriers and strengthen market growth; and (4) protecting human rights online.  (Sec. 6) It is the sense of Congress that: (1) the Department of State should seek to enhance the effectiveness of U.S. foreign assistance efforts in carrying out the policies and objectives of this bill, including by redesignating an existing Assistant Secretary position in the State Department to be the Assistant Secretary for Cyberspace; and (2) the U.S. Agency for International Development should integrate efforts to expand Internet access and establish guidelines for the protection of personal information of individuals served by humanitarian, disaster, and development programs.  (Sec.8) The Peace Corps Act is amended to express the sense of Congress that the Peace Corps should develop volunteer positions focused on leveraging technology for development, education, and social and economic mobility.   (Sec. 9) The President shall transmit plans to Congress to promote U.S. and U.S.-funded agency partnerships with the private and public sectors to provide Internet access or infrastructure in developing countries.   (Sec. 10) The President shall report to Congress on efforts to implement the policies specified in this bill.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Digital Global Access Policy Act of 2017 or the Digital GAP Act  (Sec. 4) This bill states that it is U.S. policy to coordinate with foreign governments, international and regional organizations, businesses, and civil society to close the digital gap in developing countries.   (Sec. 5) The President is urged to direct U.S. representatives to international bodies t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H657-658)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 600."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H657-660)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

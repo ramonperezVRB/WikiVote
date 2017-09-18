@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres47-115",
+         "bill_slug": "sres47",
+         "congress": "115",
+         "bill": "S.RES.47",
+         "bill_type": "sres",
+         "number": "S.RES.47",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres47.json",
+         "title": "A resolution supporting the contributions of Catholic schools.",
+         "short_title": "A resolution supporting the contributions of Catholic schools.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Joe Donnelly",
+         "sponsor_id": "D000607",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000607.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres47ats/pdf/BILLS-115sres47ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/47",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres47",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-10",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses support for: (1) the goals of National Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the United States Conference of Catholic Bishops and established to recognize the contributions of Catholic elementary and secondary schools in the United States; and (2) the continued dedication of Catholic schools, students, parents, and teachers toward academic excellence and the key role they play in promoting and ensuring a brighter, stronger future for the nation.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses support for: (1) the goals of National Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the United States Conference of Catholic Bishops and established to recognize the contributions of Catholic elementary and secondary schools in the United States; and (2) the continued dedication of Catholic schools, students, parents, and teac...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-10",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-10",
+           "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1092)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S682-683)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

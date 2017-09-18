@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s174-115",
+         "bill_slug": "s174",
+         "congress": "115",
+         "bill": "S.174",
+         "bill_type": "s",
+         "number": "S.174",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s174.json",
+         "title": "Federal Communications Commission Consolidated Reporting Act of 2017",
+         "short_title": "Federal Communications Commission Consolidated Reporting Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Dean Heller",
+         "sponsor_id": "H001041",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001041.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NV",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s174es/pdf/BILLS-115s174es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/174",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s174",
+         "introduced_date": "2017-01-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-03",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-04",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-03",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Communications Commission Consolidated Reporting Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to replace various reporting requirements with a communications marketplace report that the Federal Communications Commission (FCC) is required to publish on its website and submit to Congress every two years assessing: (1) competition in the communications marketplace; (2) deployment of communications capabilities, including advanced telecommunications capabilities; and (3) whether laws, regulations, regulatory practices, or demonstrated marketplace practices pose a barrier to competitive entry or expansion of existing providers of communications services. Each report must describe the FCC's agenda for the next two years.  The FCC must: (1) include a list of geographic areas that are not served by any provider of advanced telecommunications capability; and (2) consider market entry barriers for entrepreneurs and small businesses in accordance with national policy favoring diversity of media voices, competition, technological advancement, and promotion of the public interest, convenience, and necessity.  The bill establishes a process for the FCC to publish a report after its deadline if it provides Congress, and posts on the FCC website, a notification letter (within 7 days after the deadline and every 60 days thereafter) regarding the delay and the anticipated date on which the report will be published.  (Sec. 3) The bill repeals or consolidates various existing communications reporting requirements. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Communications Commission Consolidated Reporting Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to replace various reporting requirements with a communications marketplace report that the Federal Communications Commission (FCC) is required to publish on its website and submit to Congress every two years assessing: (1) competition in t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4816-4817; text: CR S4816-4817)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-11",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 77."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-61."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

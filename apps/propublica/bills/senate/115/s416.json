@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s416-115",
+         "bill_slug": "s416",
+         "congress": "115",
+         "bill": "S.416",
+         "bill_type": "s",
+         "number": "S.416",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s416.json",
+         "title": "Small Business Capital Formation Enhancement Act",
+         "short_title": "Small Business Capital Formation Enhancement Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Joe Donnelly",
+         "sponsor_id": "D000607",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000607.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s416rcs/pdf/BILLS-115s416rcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/416",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s416",
+         "introduced_date": "2017-02-16",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","SSSB"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-07",
+         "latest_major_action": "Referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Small Business Capital Formation Enhancement Act This bill amends the Small Business Investment Incentive Act of 1980 with respect to the annual government-business forum of the Securities and Exchange Commission (SEC) to review the current status of problems and programs relating to small business capital formation. The SEC shall review each of the forum's findings and recommendations and issue a public statement promptly assessing it and disclosing the action, if any, the SEC intends to take with respect to it.",
+         "summary_short": "Small Business Capital Formation Enhancement Act This bill amends the Small Business Investment Incentive Act of 1980 with respect to the annual government-business forum of the Securities and Exchange Commission (SEC) to review the current status of problems and programs relating to small business capital formation. The SEC shall review each of the forum's findings and recommendations and issue a public statement promptly assessing it and disclosing the action, if any, the SEC intends to tak...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-07",
+           "description": "Referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-07",
+           "description": "Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-16",
+           "description": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

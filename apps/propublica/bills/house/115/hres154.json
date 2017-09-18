@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres154-115",
+         "bill_slug": "hres154",
+         "congress": "115",
+         "bill": "H.RES.154",
+         "bill_type": "hres",
+         "number": "H.RES.154",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres154.json",
+         "title": "Of inquiry requesting the President of the United States and directing the Secretary of Health and Human Services to transmit certain information to the House of Representatives relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health-related measures of the Health Care and Education Reconciliation Act of 2010.",
+         "short_title": "Of inquiry requesting the President of the United States and directing the Secretary of Health and Human Services to transmit certain information to the House of Representatives relating to plans to repeal or replace the Patient Protection and Affordable ",
+         "sponsor_title": "Rep.",
+         "sponsor": "Joseph P. Kennedy III",
+         "sponsor_id": "K000379",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000379.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres154rh/pdf/BILLS-115hres154rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/154",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres154",
+         "introduced_date": "2017-02-27",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 20,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 24.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requests that the President transmit to the House of Representatives, and directs the Department of Health and Human Services to transmit to the House of Representatives, all documents, memoranda, and advisory legal opinions relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health care provisions of the Health Care and Education Reconciliation Act of 2010.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requests that the President transmit to the House of Representatives, and directs the Department of Health and Human Services to transmit to the House of Representatives, all documents, memoranda, and advisory legal opinions relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health care provisions of the Health Care and Education Reconciliation ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-21",
+           "description": "Placed on the House Calendar, Calendar No. 24."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-21",
+           "description": "Reported adversely by the Committee on Energy and Commerce. H. Rept. 115-54."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-27",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

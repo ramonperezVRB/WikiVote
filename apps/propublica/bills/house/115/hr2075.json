@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2075-115",
+         "bill_slug": "hr2075",
+         "congress": "115",
+         "bill": "H.R.2075",
+         "bill_type": "hr",
+         "number": "H.R.2075",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2075.json",
+         "title": "Crooked River Ranch Fire Protection Act",
+         "short_title": "Crooked River Ranch Fire Protection Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Greg Walden",
+         "sponsor_id": "W000791",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000791.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2075rh/pdf/BILLS-115hr2075rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2075",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2075",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-08-29",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 201.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Crooked River Ranch Fire Protection Act This bill requires the Department of the Interior to adjust the eastern boundary of the Deschutes Canyon-Steelhead Falls Wilderness Study Area in Oregon to exclude approximately 832 acres, as depicted on the map entitled \" \"Deschutes Canyon-Steelhead Falls Wilderness Study Area\" dated April 6, 2017, to facilitate fire prevention and response activities on the excluded public lands and adjacent private property.",
+         "summary_short": "Crooked River Ranch Fire Protection Act This bill requires the Department of the Interior to adjust the eastern boundary of the Deschutes Canyon-Steelhead Falls Wilderness Study Area in Oregon to exclude approximately 832 acres, as depicted on the map entitled \" \"Deschutes Canyon-Steelhead Falls Wilderness Study Area\" dated April 6, 2017, to facilitate fire prevention and response activities on the excluded public lands and adjacent private property.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-08-29",
+           "description": "Placed on the Union Calendar, Calendar No. 201."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-29",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-281."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 13."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

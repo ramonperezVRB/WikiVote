@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1807-115",
+         "bill_slug": "hr1807",
+         "congress": "115",
+         "bill": "H.R.1807",
+         "bill_type": "hr",
+         "number": "H.R.1807",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1807.json",
+         "title": "Public Water Supply Invasive Species Compliance Act of 2017",
+         "short_title": "Public Water Supply Invasive Species Compliance Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Louie Gohmert",
+         "sponsor_id": "G000552",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000552.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1807rh/pdf/BILLS-115hr1807rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1807",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1807",
+         "introduced_date": "2017-03-30",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU","HSII"],
+         "subcommittee_codes": ["HSJU08","HSII13"],
+         "latest_major_action_date": "2017-08-25",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 198.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Public Water Supply Invasive Species Compliance Act of 2017 This bill amends the Lacey Act and the Lacey Act Amendments of 1981 by exempting certain water transfers between public water supplies located on, along, or across the boundaries of Texas, Arkansas, and Louisiana from prohibitions on illegal trade of plants and wildlife. Specifically, the prohibitions do not apply to covered water transfers containing a prohibited species if: (1) the species are present in both public water supplies before the transfer and the water is transferred directly between them; or (2) the water is transferred in a closed conveyance system (a closed system that collects, contains, and transports the flow of water, such as pipe systems) and sent directly to treatment facilities where the species will be destroyed.",
+         "summary_short": "Public Water Supply Invasive Species Compliance Act of 2017 This bill amends the Lacey Act and the Lacey Act Amendments of 1981 by exempting certain water transfers between public water supplies located on, along, or across the boundaries of Texas, Arkansas, and Louisiana from prohibitions on illegal trade of plants and wildlife. Specifically, the prohibitions do not apply to covered water transfers containing a prohibited species if: (1) the species are present in both public water supplies ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-08-25",
+           "description": "Placed on the Union Calendar, Calendar No. 198."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-08-25",
+           "description": "Committee on the Judiciary discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-25",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-278, Part I."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 17."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Water, Power and Oceans Discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-21",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-11",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Referred to House Natural Resources"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,132 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres275-115",
+         "bill_slug": "hres275",
+         "congress": "115",
+         "bill": "H.RES.275",
+         "bill_type": "hres",
+         "number": "H.RES.275",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres275.json",
+         "title": "Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes.",
+         "short_title": "Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Doug Collins",
+         "sponsor_id": "C001093",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001093.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres275eh/pdf/BILLS-115hres275eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/275",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres275",
+         "introduced_date": "2017-04-25",
+         "active": true,
+         "house_passage": "2017-04-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-26",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-04-26",
+         "house_passage_vote": "2017-04-25",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "On agreeing to the resolution Agreed to by recorded vote: 237 - 186 (Roll no. 225). (text: CR H2860)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 234 - 191 (Roll no. 224). (consideration: CR H2867)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 275."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "Considered as privileged matter. (consideration: CR H2860-2868)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-25",
+           "description": "Placed on the House Calendar, Calendar No. 41."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "The resolution makes in order an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-13."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-25",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-95, by Mr. Collins (GA)."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-26",
+             "time": "13:53:00",
+             "roll_call": "225",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 237,
+             "total_no": 186,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/225.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-04-26",
+             "time": "13:45:00",
+             "roll_call": "224",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 234,
+             "total_no": 191,
+             "total_not_voting": 5,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/224.json"
+           }
+         ]
+
+      }
+   ]
+}

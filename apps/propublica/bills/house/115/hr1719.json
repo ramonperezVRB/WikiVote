@@ -1,0 +1,176 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1719-115",
+         "bill_slug": "hr1719",
+         "congress": "115",
+         "bill": "H.R.1719",
+         "bill_type": "hr",
+         "number": "H.R.1719",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1719.json",
+         "title": "John Muir National Historic Site Expansion Act",
+         "short_title": "John Muir National Historic Site Expansion Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mark DeSaulnier",
+         "sponsor_id": "D000623",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000623.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1719pcs/pdf/BILLS-115hr1719pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1719",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1719",
+         "introduced_date": "2017-03-24",
+         "active": true,
+         "house_passage": "2017-07-10",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 21,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-07-13",
+         "latest_major_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.",
+         "last_vote_date": "2017-07-11",
+         "house_passage_vote": "2017-07-10",
+         "senate_passage_vote": null,
+         "summary": "John Muir National Historic Site Expansion Act   (Sec. 3) The Department of the Interior may acquire by donation approximately 44 acres of land to include in the John Muir National Historic Site in Martinez, California.   The acquired land shall be administered as part of such site. ",
+         "summary_short": "John Muir National Historic Site Expansion Act   (Sec. 3) The Department of the Interior may acquire by donation approximately 44 acres of land to include in the John Muir National Historic Site in Martinez, California.   The acquired land shall be administered as part of such site. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-13",
+           "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 172."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Mr. McClintock asked unanimous consent that the Clerk be authorized to make technical corrections in the engrossment of H.R. 1719, to include addition of an enacting clause. Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 401 - 15 (Roll no. 346). (text: CR H5408)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Considered as unfinished business. (consideration: CR H5418-5419)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1719."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Considered under suspension of the rules. (consideration: CR H5408-5409)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Mr. LaHood moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on the Union Calendar, Calendar No. 145."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-208."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported (Amended) by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-03",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-24",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-11",
+             "time": "19:10:00",
+             "roll_call": "346",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 401,
+             "total_no": 15,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/346.json"
+           }
+         ]
+
+      }
+   ]
+}

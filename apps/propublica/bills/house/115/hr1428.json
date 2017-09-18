@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1428-115",
+         "bill_slug": "hr1428",
+         "congress": "115",
+         "bill": "H.R.1428",
+         "bill_type": "hr",
+         "number": "H.R.1428",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1428.json",
+         "title": "American Law Enforcement Heroes Act of 2017",
+         "short_title": "American Law Enforcement Heroes Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Will Hurd",
+         "sponsor_id": "H001073",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001073.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1428rfs/pdf/BILLS-115hr1428rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1428",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1428",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": "2017-05-15",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU"],
+         "subcommittee_codes": ["HSJU08"],
+         "latest_major_action_date": "2017-05-17",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-15",
+         "senate_passage_vote": null,
+         "summary": "American Law Enforcement Heroes Act of 2017 This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to include as an allowable use of grant funds under the Community Oriented Policing Services program prioritizing the hiring and training of veterans as career law enforcement officers.",
+         "summary_short": "American Law Enforcement Heroes Act of 2017 This bill amends the Omnibus Crime Control and Safe Streets Act of 1968 to include as an allowable use of grant funds under the Community Oriented Policing Services program prioritizing the hiring and training of veterans as career law enforcement officers.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-17",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4210)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1428."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Considered under suspension of the rules. (consideration: CR H4210-4211)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-17",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2997-115",
+         "bill_slug": "hr2997",
+         "congress": "115",
+         "bill": "H.R.2997",
+         "bill_type": "hr",
+         "number": "H.R.2997",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2997.json",
+         "title": "21st Century AIRR Act",
+         "short_title": "21st Century AIRR Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bill Shuster",
+         "sponsor_id": "S001154",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001154.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2997rh/pdf/BILLS-115hr2997rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2997",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2997",
+         "introduced_date": "2017-06-22",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 22,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW05"],
+         "latest_major_action_date": "2017-09-06",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 213.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-06",
+           "description": "Placed on the Union Calendar, Calendar No. 213."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-06",
+           "description": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-296."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 25."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported (Amended)."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-23",
+           "description": "Referred to the Subcommittee on Aviation."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-22",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

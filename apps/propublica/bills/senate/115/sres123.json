@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres123-115",
+         "bill_slug": "sres123",
+         "congress": "115",
+         "bill": "S.RES.123",
+         "bill_type": "sres",
+         "number": "S.RES.123",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres123.json",
+         "title": "A resolution designating May 20, 2017, as \"Kids to Parks Day\".",
+         "short_title": "A resolution designating May 20, 2017, as \"Kids to Parks Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres123ats/pdf/BILLS-115sres123ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/123",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres123",
+         "introduced_date": "2017-04-07",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-26",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates May 20, 2017, as Kids to Parks Day. Recognizes the importance of outdoor recreation and the preservation of open spaces to the health and education of young people of the United States. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates May 20, 2017, as Kids to Parks Day. Recognizes the importance of outdoor recreation and the preservation of open spaces to the health and education of young people of the United States. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-04-26",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2564)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-07",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2457)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

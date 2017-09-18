@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s512-115",
+         "bill_slug": "s512",
+         "congress": "115",
+         "bill": "S.512",
+         "bill_type": "s",
+         "number": "S.512",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s512.json",
+         "title": "Nuclear Energy Innovation and Modernization Act",
+         "short_title": "Nuclear Energy Innovation and Modernization Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Barrasso",
+         "sponsor_id": "B001261",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001261.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s512rs/pdf/BILLS-115s512rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/512",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s512",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 17,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-25",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-25",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 108."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-86. Additional views filed."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee on Environment and Public Works. Hearings held. Hearings printed: S.Hrg. 115-52."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee on Environment and Public Works. Hearings held."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Environment and Public Works."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

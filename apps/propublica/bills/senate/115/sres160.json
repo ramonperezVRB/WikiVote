@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres160-115",
+         "bill_slug": "sres160",
+         "congress": "115",
+         "bill": "S.RES.160",
+         "bill_type": "sres",
+         "number": "S.RES.160",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres160.json",
+         "title": "A resolution honoring the service to United States Armed Forces provided by military working dogs and contract working dogs, also known as \"war dogs\".",
+         "short_title": "A resolution honoring the service to United States Armed Forces provided by military working dogs and contract working dogs, also known as \"war dogs\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bill Nelson",
+         "sponsor_id": "N000032",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000032.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres160ats/pdf/BILLS-115sres160ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/160",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres160",
+         "introduced_date": "2017-05-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Armed Services Committee",
+         "committee_codes": ["SSAS"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-06",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Recognizes, on the 75th anniversary of the establishment of the U.S. Army military working dog program: (1) the service that military working dogs and contract working dogs (war dogs) have provided to the U.S. Armed Forces, and (2) that not all war dogs were given due recognition by being allowed to retire honorably from service. Honors the sacrifices made by war dogs in combat and the services war dogs provide in retirement to members of the Armed Forces.  ",
+         "summary_short": "Recognizes, on the 75th anniversary of the establishment of the U.S. Army military working dog program: (1) the service that military working dogs and contract working dogs (war dogs) have provided to the U.S. Armed Forces, and (2) that not all war dogs were given due recognition by being allowed to retire honorably from service. Honors the sacrifices made by war dogs in combat and the services war dogs provide in retirement to members of the Armed Forces.  ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-09-06",
+           "description": "Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S5017)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-09-06",
+           "description": "Senate Committee on Armed Services discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-09",
+           "description": "Referred to the Committee on Armed Services. (text of measure as introduced: CR S2847-2848)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

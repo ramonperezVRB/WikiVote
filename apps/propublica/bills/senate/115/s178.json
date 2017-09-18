@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s178-115",
+         "bill_slug": "s178",
+         "congress": "115",
+         "bill": "S.178",
+         "bill_type": "s",
+         "number": "S.178",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s178.json",
+         "title": "Elder Abuse Prevention and Prosecution Act",
+         "short_title": "Elder Abuse Prevention and Prosecution Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s178rfh/pdf/BILLS-115s178rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/178",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s178",
+         "introduced_date": "2017-01-20",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-07-31",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 15,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSJU","SSJU"],
+         "subcommittee_codes": ["HSIF17"],
+         "latest_major_action_date": "2017-08-11",
+         "latest_major_action": "Referred to the Subcommittee on Digital Commerce and Consumer Protection.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-07-31",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-11",
+           "description": "Referred to the Subcommittee on Digital Commerce and Consumer Protection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Passed Senate with amendments by Voice Vote. (text: CR S4681-4684)"
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4681-4684)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Passed Senate with amendments by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-23",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 23."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-23",
+           "description": "Committee on the Judiciary. Reported by Senator Grassley without amendment. With written report No. 115-9."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-09",
+           "description": "Committee on the Judiciary. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-20",
+           "description": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S361-362)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

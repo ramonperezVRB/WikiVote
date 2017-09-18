@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2246-115",
+         "bill_slug": "hr2246",
+         "congress": "115",
+         "bill": "H.R.2246",
+         "bill_type": "hr",
+         "number": "H.R.2246",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2246.json",
+         "title": "Taxpayer Exposure Mitigation Act of 2017",
+         "short_title": "Taxpayer Exposure Mitigation Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Blaine Luetkemeyer",
+         "sponsor_id": "L000569",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000569.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2246rh/pdf/BILLS-115hr2246rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2246",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2246",
+         "introduced_date": "2017-04-28",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 185.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-25",
+           "description": "Placed on the Union Calendar, Calendar No. 185."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-255."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 24."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-28",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,223 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres40-115",
+         "bill_slug": "hjres40",
+         "congress": "115",
+         "bill": "H.J.RES.40",
+         "bill_type": "hjres",
+         "number": "H.J.RES.40",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres40.json",
+         "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+         "short_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Sam Johnson",
+         "sponsor_id": "J000174",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000174.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres40enr/pdf/BILLS-115hjres40enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/40",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres40",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-02-01",
+         "senate_passage": "2017-02-14",
+         "enacted": "2017-02-15",
+         "vetoed": null,
+         "cosponsors": 120,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": ["HSJU08"],
+         "latest_major_action_date": "2017-02-28",
+         "latest_major_action": "Became Public Law No: 115-8.",
+         "last_vote_date": "2017-02-02",
+         "house_passage_vote": "2017-02-01",
+         "senate_passage_vote": "2017-02-14",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the “Implementation of the NICS Improvement Amendments Act of 2007” rule finalized by the Social Security Administration on December 19, 2016. The rule implements a plan to provide to the National Instant Criminal History Background Check System the name of an individual who meets certain criteria, including that benefit payments are made through a representative payee because the individual is determined to be mentally incapable of managing them. (Current law prohibits firearm sale or transfer to and purchase or possession by a person who has been adjudicated as a mental defective.) ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the “Implementation of the NICS Improvement Amendments Act of 2007” rule finalized by the Social Security Administration on December 19, 2016. The rule implements a plan to provide to the National Instant Criminal History Background Check System the name of an individual who meets certain criteria, including that benefit payments are made through a represe...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 21,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Became Public Law No: 115-8."
+         },
+                  {
+           "id": 20,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-16",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Passed Senate without amendment by Yea-Nay Vote. 57 - 43. Record Vote Number: 66."
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Considered by Senate. (consideration: CR S1167-1169)"
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-14",
+           "description": "Measure laid before Senate by motion. (consideration: CR S1142-1157)"
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-14",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote."
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-02",
+           "description": "Received in the Senate, read twice."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "On passage Passed by recorded vote: 235 - 180 (Roll no. 77). (text: CR H895)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Considered as unfinished business. (consideration: CR H916-917)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 40, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on passage until a time to be announced."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "The previous question was ordered pursuant to the rule. (consideration: CR H907)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 40."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Considered under the provisions of rule H. Res. 71. (consideration: CR H894-907)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Rule H. Res. 71 passed House."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Rules Committee Resolution H. Res. 71 Reported to House. Rule provides for consideration of H.J. Res. 41 and H.J. Res. 40. The resolution provides for one hour of general debate on both H.J.Res. 40 and H.J.Res. 41. All points of order against consideration are waived for both joint resolutions."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-30",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-02",
+             "time": "16:07:00",
+             "roll_call": "77",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 235,
+             "total_no": 180,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/77.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-02-15",
+             "time": "10:31:00",
+             "roll_call": "66",
+             "question": "On the Joint Resolution",
+             "result": "Joint Resolution Passed",
+             "total_yes": 57,
+             "total_no": 43,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/66.json"
+           }
+         ]
+
+      }
+   ]
+}

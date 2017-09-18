@@ -1,0 +1,99 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres176-115",
+         "bill_slug": "sres176",
+         "congress": "115",
+         "bill": "S.RES.176",
+         "bill_type": "sres",
+         "number": "S.RES.176",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres176.json",
+         "title": "A resolution commemorating the 50th anniversary of the reunification of Jerusalem.",
+         "short_title": "A resolution commemorating the 50th anniversary of the reunification of Jerusalem.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mitch McConnell",
+         "sponsor_id": "M000355",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000355.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres176ats/pdf/BILLS-115sres176ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/176",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres176",
+         "introduced_date": "2017-05-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 45,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-05",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 0. Record Vote Number: 138. (consideration: CR S3235-3238)",
+         "last_vote_date": "2017-06-05",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the 50th anniversary of Jerusalem's reunification and extends the Senate's friendship and hopes for peace to Jerusalem's residents and Israel's people.  Reaffirms support for Israel's commitment to religious freedom and administration of holy sites in Jerusalem.  Supports strengthening the mutually beneficial American-Israeli relationship.  Commends Egypt and Jordan, former combatant states of the Six Day War, for embracing a vision of peace and coexistence with Israel and continuing to uphold their respective peace agreements.  Reaffirms: (1) that it is long-standing U.S. bipartisan policy that the permanent status of Jerusalem remains a matter to be decided between the parties through final status negotiations towards a two-state solution; and (2) the Jerusalem Embassy Act of 1995 as U.S. law, and calls upon the President and all U.S. officials to abide by its provisions.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the 50th anniversary of Jerusalem's reunification and extends the Senate's friendship and hopes for peace to Jerusalem's residents and Israel's people.  Reaffirms support for Israel's commitment to religious freedom and administration of holy sites in Jerusalem.  Supports strengthening the mutually beneficial American-Israeli relationship.  Commends Egypt and Jordan, former co...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-05",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 90 - 0. Record Vote Number: 138. (consideration: CR S3235-3238)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-25",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 107."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker without amendment and with a preamble. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S3148)"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "Senate",
+             "date": "2017-06-05",
+             "time": "17:32:00",
+             "roll_call": "138",
+             "question": "On the Resolution",
+             "result": "Resolution Agreed to",
+             "total_yes": 90,
+             "total_no": 0,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/138.json"
+           }
+         ]
+
+      }
+   ]
+}

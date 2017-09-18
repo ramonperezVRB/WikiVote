@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr612-115",
+         "bill_slug": "hr612",
+         "congress": "115",
+         "bill": "H.R.612",
+         "bill_type": "hr",
+         "number": "H.R.612",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr612.json",
+         "title": "United States-Israel Cybersecurity Cooperation Enhancement Act of 2017",
+         "short_title": "United States-Israel Cybersecurity Cooperation Enhancement Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jim Langevin",
+         "sponsor_id": "L000559",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000559.json",
+         "sponsor_party": "D",
+         "sponsor_state": "RI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr612rfs/pdf/BILLS-115hr612rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/612",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr612",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) United States-Israel Cybersecurity Cooperation Enhancement Act of 2017  (Sec. 2) This bill requires the Department of Homeland Security (DHS) to establish a grant program to support cybersecurity research and development, and the demonstration and commercialization of cybersecurity technology, in accordance with the Agreement between the Government of the United States of America and the Government of the State of Israel on Cooperation in Science and Technology for Homeland Security Matters, dated May 29, 2008, or a successor agreement.  Grants may be awarded for social science research and technology intended to identify, protect against, respond to, and recover from cybersecurity threats. To be eligible for a grant, a project must be a joint venture between: (1) for-profit, nonprofit, or academic entities (including U.S. national laboratories) in the United States and Israel; or (2) the governments of the United States and Israel.  Grants shall be awarded only for projects considered unclassified by both the United States and Israel. DHS must require cost sharing of at least 50% from nonfederal sources for grant activities, but it may reduce the nonfederal percentage if necessary on a case-by-case basis.  DHS must establish an advisory board to monitor the impartial scientific and technical merit method by which grants are awarded and provide periodic reviews of the actions taken to carry out the program. The grant program terminates seven years after this bill's enactment. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) United States-Israel Cybersecurity Cooperation Enhancement Act of 2017  (Sec. 2) This bill requires the Department of Homeland Security (DHS) to establish a grant program to support cybersecurity research and development, and the demonstration and commercialization of cybersecurity technology, in accordance with the Agreement between the Government of the United S...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H798-799)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 612."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H798-800)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Ratcliffe moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

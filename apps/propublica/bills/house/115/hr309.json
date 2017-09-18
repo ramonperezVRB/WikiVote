@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr309-115",
+         "bill_slug": "hr309",
+         "congress": "115",
+         "bill": "H.R.309",
+         "bill_type": "hr",
+         "number": "H.R.309",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr309.json",
+         "title": "National Clinical Care Commission Act",
+         "short_title": "National Clinical Care Commission Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Pete Olson",
+         "sponsor_id": "O000168",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/O000168.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr309rfs/pdf/BILLS-115hr309rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/309",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr309",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-01-08",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 26,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-10",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-08",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) National Clinical Care Commission Act (Sec. 2) This bill amends the Public Health Service Act to establish within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and recommend solutions regarding better coordination and leveraging of federal programs that relate to supporting clinical care for individuals with complex metabolic or autoimmune disease, diabetes, or complications caused by such diseases.  The duties of the commission include:  evaluating HHS programs regarding the utilization of preventive health benefits, identifying current activities and gaps in federal efforts to support clinicians in providing integrated care, making recommendations regarding the development and coordination of federally funded clinical practice support tools, recommending clinical pathways for new technologies and treatments, evaluating and expanding education and awareness activities provided to health care professionals, and reviewing and recommending methods for outreach and dissemination of educational resources.  The commission must submit an operating plan to HHS and Congress within 90 days of its first meeting. The commission is terminated after it submits a final report, but not later than the end of FY2021.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) National Clinical Care Commission Act (Sec. 2) This bill amends the Public Health Service Act to establish within the Department of Health and Human Services (HHS) a National Clinical Care Commission to evaluate and recommend solutions regarding better coordination and leveraging of federal programs that relate to supporting clinical care for individuals with comp...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H201-202)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 309."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Considered under suspension of the rules. (consideration: CR H201-203)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Mr. Burgess moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

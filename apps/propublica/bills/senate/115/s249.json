@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s249-115",
+         "bill_slug": "s249",
+         "congress": "115",
+         "bill": "S.249",
+         "bill_type": "s",
+         "number": "S.249",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s249.json",
+         "title": "A bill to provide that the pueblo of Santa Clara may lease for 99 years certain restricted land, and for other purposes.",
+         "short_title": "A bill to provide that the pueblo of Santa Clara may lease for 99 years certain restricted land, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tom Udall",
+         "sponsor_id": "U000039",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/U000039.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NM",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s249rh/pdf/BILLS-115s249rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/249",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s249",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-07",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII","SLIA"],
+         "subcommittee_codes": ["HSII24"],
+         "latest_major_action_date": "2017-07-24",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 174.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-07",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) (Sec. 1) This bill amends the Indian Long-Term Leasing Act to expand the land of the Pueblo of Santa Clara and Ohkay Owingeh pueblo that may be leased for up to 99 years with the approval of the Department of the Interior, from lands held in trust, to all of the lands of the Pueblo of Santa Clara and Ohkay Owingeh pueblo.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) (Sec. 1) This bill amends the Indian Long-Term Leasing Act to expand the land of the Pueblo of Santa Clara and Ohkay Owingeh pueblo that may be leased for up to 99 years with the approval of the Department of the Interior, from lands held in trust, to all of the lands of the Pueblo of Santa Clara and Ohkay Owingeh pueblo.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-24",
+           "description": "Placed on the Union Calendar, Calendar No. 174."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-24",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-242."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-16",
+           "description": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-11",
+           "description": "Referred to the House Committee on Natural Resources."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-11",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-09",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-08",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S2814; text as passed Senate: CR S2814)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-22",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 22."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-8."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-08",
+           "description": "Committee on Indian Affairs. Ordered to be reported favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Read twice and referred to the Committee on Indian Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

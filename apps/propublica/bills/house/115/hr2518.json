@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2518-115",
+         "bill_slug": "hr2518",
+         "congress": "115",
+         "bill": "H.R.2518",
+         "bill_type": "hr",
+         "number": "H.R.2518",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2518.json",
+         "title": "Coast Guard Authorization Act of 2017",
+         "short_title": "Coast Guard Authorization Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Duncan D. Hunter",
+         "sponsor_id": "H001048",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001048.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2518rh/pdf/BILLS-115hr2518rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2518",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2518",
+         "introduced_date": "2017-05-18",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW07"],
+         "latest_major_action_date": "2017-06-26",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 133.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-26",
+           "description": "Placed on the Union Calendar, Calendar No. 133."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-26",
+           "description": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-194."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Subcommittee on Coast Guard and Maritime Transportation Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-19",
+           "description": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

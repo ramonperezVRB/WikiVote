@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres442-115",
+         "bill_slug": "hres442",
+         "congress": "115",
+         "bill": "H.RES.442",
+         "bill_type": "hres",
+         "number": "H.RES.442",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres442.json",
+         "title": "Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to President Trump's financial connections to Russia, certain illegal financial schemes, and related information.",
+         "short_title": "Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to President Trump's financial connections to Russia, certain illegal financial schemes, and related inf",
+         "sponsor_title": "Rep.",
+         "sponsor": "Maxine Waters",
+         "sponsor_id": "W000187",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000187.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres442ih/pdf/BILLS-115hres442ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/442",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres442",
+         "introduced_date": "2017-07-13",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 16,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-28",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 72.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-28",
+           "description": "Placed on the House Calendar, Calendar No. 72."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Reported adversely by the Committee on Financial Services. H. Rept. 115-265."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Ordered to be Reported Unfavorably by the Yeas and Nays: 34 - 26."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-13",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

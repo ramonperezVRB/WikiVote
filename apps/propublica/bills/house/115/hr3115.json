@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3115-115",
+         "bill_slug": "hr3115",
+         "congress": "115",
+         "bill": "H.R.3115",
+         "bill_type": "hr",
+         "number": "H.R.3115",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3115.json",
+         "title": "Superior National Forest Land Exchange Act of 2017",
+         "short_title": "Superior National Forest Land Exchange Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Rick Nolan",
+         "sponsor_id": "N000127",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000127.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3115rh/pdf/BILLS-115hr3115rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3115",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3115",
+         "introduced_date": "2017-06-29",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 9,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10","HSII06"],
+         "latest_major_action_date": "2017-09-05",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 206.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on the Union Calendar, Calendar No. 206."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-287."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 10."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-14",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-07",
+           "description": "Referred to the Subcommittee on Energy and Mineral Resources."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-07",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-29",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

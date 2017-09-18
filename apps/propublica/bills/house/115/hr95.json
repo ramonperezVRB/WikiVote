@@ -1,0 +1,164 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr95-115",
+         "bill_slug": "hr95",
+         "congress": "115",
+         "bill": "H.R.95",
+         "bill_type": "hr",
+         "number": "H.R.95",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr95.json",
+         "title": "Veterans' Access to Child Care Act",
+         "short_title": "Veterans' Access to Child Care Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Julia Brownley",
+         "sponsor_id": "B001285",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001285.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr95ih/pdf/BILLS-115hr95ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/95",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr95",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-07-27",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 15,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR03"],
+         "latest_major_action_date": "2017-07-31",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-27",
+         "senate_passage_vote": null,
+         "summary": "Veterans' Access to Child Care Act This bill directs the Department of Veterans Affairs (VA) to provide child care assistance to an eligible veteran for any period that the veteran: (1) receives covered health care services at a VA facility, and (2) is required to travel to and return from such facility for the receipt of such services. The bill defines: (1) \"covered health care services\" to mean regular mental health care services, intensive mental health care services, or such other intensive health care services to which the VA determines that provision of child care assistance would improve the veteran's access; and (2) \"eligible veteran\" as a veteran who is the primary caretaker of a child and who is receiving covered health care services from the VA or who is in need of, and who would receive, such services from the VA but for lack of child care. Included among child care assistance to be provided under this bill are:  a stipend for the payment of the full cost of child care offered by a licensed child care center, which shall be modeled after the VA's Child Care Subsidy Program; direct provision of child care at an on-site VA facility; a payment made directly to a private child care agency; and  collaboration with a facility or program of another federal department or agency.  ",
+         "summary_short": "Veterans' Access to Child Care Act This bill directs the Department of Veterans Affairs (VA) to provide child care assistance to an eligible veteran for any period that the veteran: (1) receives covered health care services at a VA facility, and (2) is required to travel to and return from such facility for the receipt of such services. The bill defines: (1) \"covered health care services\" to mean regular mental health care services, intensive mental health care services, or such other intensi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-31",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6538)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under suspension of the rules. (consideration: CR H6538-6539)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 95."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-28",
+           "description": "Placed on the Union Calendar, Calendar No. 191."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-266."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-19",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

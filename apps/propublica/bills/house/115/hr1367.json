@@ -1,0 +1,356 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1367-115",
+         "bill_slug": "hr1367",
+         "congress": "115",
+         "bill": "H.R.1367",
+         "bill_type": "hr",
+         "number": "H.R.1367",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1367.json",
+         "title": "To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.",
+         "short_title": "To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Brad Wenstrup",
+         "sponsor_id": "W000815",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000815.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1367rfs/pdf/BILLS-115hr1367rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1367",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1367",
+         "introduced_date": "2017-03-06",
+         "active": true,
+         "house_passage": "2017-03-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSGO","HSVR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": "2017-03-17",
+         "house_passage_vote": "2017-03-16",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 2) This bill provides that the annual determination of the Veterans Health Administration (VHA) staff shortages shall include shortages for five clinical and five non-clinical occupations for each network. (Such determination currently includes the five occupations for which there are the largest Department of Veterans Affairs [VA]-wide shortages.)  (Sec. 3) The bill establishes in the VA an executive management fellowship program to provide eligible employees of: (1) the Veterans Benefits Administration (VBA) and the VHA with private sector training and experience, and (2) a private-sector entity with VA training and experience.  The VA shall: (1) annually select between 18 and 30 eligible VHA and VBA employees and between 18 and 30 eligible private sector employees for such one-year fellowships, and (2) select such employees in a manner that reflects U.S. veteran demographics.  (Sec. 4) The VA shall conduct an annual performance plan for each political appointee that is similar to the plan conducted for VA career senior executive employees.  Each plan shall assess whether an appointee is meeting specified goals, including: (1) recruiting and retaining well-qualified individuals, and (2) motivating and developing employees for future VA leadership roles. (Sec. 5) Veterans federal employment preference provisions are amended to: (1) make all retired members of the armed forces preference eligible, and (2) provide preference eligible individuals with a senior executive position hiring preference. (Sec. 6) The VA may non-competitively appoint a qualified former employee to any VA position within the competitive or excepted service that is one grade higher than the position most recently occupied by the employee.  (Sec. 7) The VA shall: (1) establish a single database that lists each vacant VA position that is critical, difficult to fill, or both; and (2) in the case of a applicant not chosen for a position, and with his or her election, consider such person for other similar vacant positions.  (Sec. 8) The VA shall provide VA and VHA human resources professionals with employee recruitment and retention training.  (Sec. 9) The VA shall establish a promotional track system for employees who are technical experts to advance without being required to transition to management positions.  (Sec. 10) The Government Accountability Office shall conduct a study of succession planning at: (1) each VA medical facility, and (2) the VBA and the VA National Cemetery Administration. (Sec. 11) The VA shall: (1) collect information on hiring effectiveness, and (2) make such information available annually in a machine-readable format to allow for a comparison of hiring effectiveness by the Veterans Integrated Service Network (VISN) or a comparable public or private sector organization. (Sec. 12) The VA shall prescribe regulations to allow for excepted service appointments of qualifying students and recent graduates leading to career or career conditional employment.  (Sec. 13) The VA shall develop, in consultation with an appropriate non-VA entity, and carry out a standardized exit survey for career and noncareer VA employees and executives who voluntarily separate from the VA. Survey results shall be shared annually with directors and managers of VA and VISN facilities. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 2) This bill provides that the annual determination of the Veterans Health Administration (VHA) staff shortages shall include shortages for five clinical and five non-clinical occupations for each network. (Such determination currently includes the five occupations for which there are the largest Department of Veterans Affairs [VA]-wide shortages.)  (Sec. 3)...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 40,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 39,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1367."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Hanabusa amendment No. 11, which was debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 1367 as unfinished business."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "On motion that the committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "Mr. Wenstrup moved that the committee rise."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the O'Rourke amendment No. 14."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Bost amendment No. 13."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 12."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hanabusa amendment No. 11, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Walz demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Hanabusa amendment No. 11."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera Beutler amendment No. 10."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Gottheimer amendment No. 9."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment No. 8."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Brownley (CA) amendment No. 7."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Shea-Porter amendment No. 6."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 5."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Hanabusa amendment No. 4."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Sewell amendment No. 3."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Meng amendment No. 2."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 198, the Committee of the Whole proceeded with 10 minutes of debate on the Wenstrup amendment No. 1."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "Considered as unfinished business. (consideration: CR H2155-1268)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "On passage Passed by the Yeas and Nays: 412 - 0 (Roll no. 171)."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2156-2158)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-17",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 1367 as unfinished business."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "On motion to rise Agreed to by voice vote."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "Mr. Wenstrup moved that the committee rise."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1367."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "The Speaker designated the Honorable Ted Budd to act as Chairman of the Committee."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 198 and Rule XVIII."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-16",
+           "description": "Considered under the provisions of rule H. Res. 198. (consideration: CR H2136-2139)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-10",
+           "description": "Placed on the Union Calendar, Calendar No. 17."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-03-10",
+           "description": "Committee on Oversight and Government discharged."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-10",
+           "description": "Reported by the Committee on Veterans' Affairs. H. Rept. 115-35, Part I."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-06",
+           "description": "Referred to House Oversight and Government Reform"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-06",
+           "description": "Referred to House Veterans' Affairs"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-17",
+             "time": "11:36:00",
+             "roll_call": "171",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 412,
+             "total_no": 0,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/171.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-17",
+             "time": "11:28:00",
+             "roll_call": "170",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 400,
+             "total_no": 8,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/170.json"
+           }
+         ]
+
+      }
+   ]
+}

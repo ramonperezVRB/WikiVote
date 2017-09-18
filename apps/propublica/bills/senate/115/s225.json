@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s225-115",
+         "bill_slug": "s225",
+         "congress": "115",
+         "bill": "S.225",
+         "bill_type": "s",
+         "number": "S.225",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s225.json",
+         "title": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+         "short_title": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s225rs/pdf/BILLS-115s225rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/225",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s225",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-09",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Mount Hood Cooper Spur Land Exchange Clarification Act  (Sec. 2) This bill amends the Omnibus Public Land Management Act of 2009 to revise details of the Cooper Spur-Government Camp land exchange between the United States and Oregon.  After the final appraised value of the federal and nonfederal lands is determined and approved by Department of Agriculture (USDA), the USDA shall not be required to reappraise or update that value for a period of up to three years, unless the condition of any of the lands is significantly and substantially altered by fire, windstorm, or other events.  The bill revises conveyance conditions regarding reservation of a conservation easement to protect identified wetland, reservation of a nonexclusive trail easement, and equalization of values of the exchange properties. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Mount Hood Cooper Spur Land Exchange Clarification Act  (Sec. 2) This bill amends the Omnibus Public Land Management Act of 2009 to revise details of the Cooper Spur-Government Camp land exchange between the United States and Oregon.  After the final appraised value of the federal and nonfederal lands is determined and approved by Department of Agriculture (USDA),...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-09",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 65."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-09",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-52."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

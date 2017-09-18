@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1294-115",
+         "bill_slug": "hr1294",
+         "congress": "115",
+         "bill": "H.R.1294",
+         "bill_type": "hr",
+         "number": "H.R.1294",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1294.json",
+         "title": "Reducing DHS Acquisition Cost Growth Act",
+         "short_title": "Reducing DHS Acquisition Cost Growth Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "John Rutherford",
+         "sponsor_id": "R000609",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000609.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1294rfs/pdf/BILLS-115hr1294rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1294",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1294",
+         "introduced_date": "2017-03-01",
+         "active": true,
+         "house_passage": "2017-03-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-03-20",
+         "house_passage_vote": "2017-03-19",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reducing DHS Acquisition Cost Growth Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the program manager of a major acquisition program (a Department of Homeland Security [DHS] acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300 million over its life cycle cost) to notify the program's Component Acquisition Executive (CAE) (the senior acquisition official within a DHS component who is designated to lead a process and staff to provide acquisition and program management oversight, policy, and guidance to ensure that statutory, regulatory, and higher level policy requirements are fulfilled), the head of the component concerned, the Executive Director of the Program Accountability and Risk Management division, the Under Secretary for Management, and the Deputy Secretary of DHS within 30 days after any breach in such program is identified. If such a breach results in a cost overrun greater than 15%, a schedule delay greater than 180 days, or a failure to meet any of the performance thresholds from the cost, schedule, or performance parameters specified in the most recently approved acquisition program baseline for such program, the CAE must notify the DHS Secretary and Inspector General within five business days after such other officials are notified of the breach. If such a breach occurs, the program manager shall submit to the component head, the Executive Director, and the Under Secretary in writing a remediation plan and root cause analysis relating to such breach and program. The remediation plan shall:   explain the circumstances of the breach;   provide prior cost estimating information;   include a root cause analysis that determines the underlying causes of shortcomings in cost, schedule, or performance of the program; propose corrective action to address such shortcomings;   explain the rationale for a proposed corrective action; and   in coordination with the CAE, discuss all options considered, including the estimated impact on cost, schedule, or performance of such program if no changes are made to current requirements, the estimated cost of such program if requirements are modified, and the extent to which funding from other programs will need to be reduced to cover the cost growth of such program.   The Under Secretary for Management shall review the remediation plan and may approve it or provide an alternative proposed corrective action within 30 days of its submission. The Under Secretary shall notify the congressional homeland security committees of such a breach. If a likely cost overrun is greater than 20% or a likely delay is greater than 12 months from the costs and schedule specified in the acquisition program baseline, the Under Secretary for Management shall include in such notification a written certification that:   such program is essential to the accomplishment of DHS's mission;   there are no alternatives to the capability or asset provided by such program that will provide equal or greater capability in both a more cost-effective and timely manner;   the new acquisition schedule and estimates for total acquisition cost are reasonable; and   the management structure for such program is adequate to manage and control cost, schedule, and performance. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reducing DHS Acquisition Cost Growth Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the program manager of a major acquisition program (a Department of Homeland Security [DHS] acquisition program that is estimated by the Secretary to require an eventual total expenditure of at least $300 million over its life cycle cost) to notify the p...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 173). (text of measure as passed: CR H2213-2214)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Considered as unfinished business. (consideration: CR H2222)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1294."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Considered under suspension of the rules. (consideration: CR H2213-2215)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Mr. Rutherford moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-20",
+           "description": "Placed on the Union Calendar, Calendar No. 25."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-20",
+           "description": "Reported by the Committee on Homeland Security. H. Rept. 115-45."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-01",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-20",
+             "time": "18:51:00",
+             "roll_call": "173",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 408,
+             "total_no": 0,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/173.json"
+           }
+         ]
+
+      }
+   ]
+}

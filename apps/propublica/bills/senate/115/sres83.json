@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres83-115",
+         "bill_slug": "sres83",
+         "congress": "115",
+         "bill": "S.RES.83",
+         "bill_type": "sres",
+         "number": "S.RES.83",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres83.json",
+         "title": "A resolution expressing the sense of the Senate regarding the trafficking of illicit fentanyl into the United States from Mexico and China.",
+         "short_title": "A resolution expressing the sense of the Senate regarding the trafficking of illicit fentanyl into the United States from Mexico and China.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Edward J. Markey",
+         "sponsor_id": "M000133",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000133.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres83ats/pdf/BILLS-115sres83ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/83",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres83",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-15",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the Senate that:   the use of illicit fentanyl in the United States and the resulting overdose deaths are a public health crisis;  the trafficking of illicit fentanyl into the United States, especially by transnational criminal organizations, is a problem that requires close cooperation between the U.S. government and the governments of Mexico and China; and  all three such countries have a shared interest in, and responsibility for, stopping the production of illicit fentanyl and its trafficking into the United States.  Calls for the United States to:  support the efforts by the governments of Mexico and China to stop such production and trafficking into the United States;  take further measures to reduce and prevent heroin and fentanyl consumption through enhanced enforcement to reduce the illegal supply and increased use of evidence-based prevention, treatment, and recovery services; and use its broad diplomatic and law enforcement resources, in partnership with the governments of China and Mexico, to stop such production and trafficking. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the Senate that:   the use of illicit fentanyl in the United States and the resulting overdose deaths are a public health crisis;  the trafficking of illicit fentanyl into the United States, especially by transnational criminal organizations, is a problem that requires close cooperation between the U.S. government and the governments of Mexico and China; and  all t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-15",
+           "description": "Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1848-1849)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1692-1693)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1312-115",
+         "bill_slug": "hr1312",
+         "congress": "115",
+         "bill": "H.R.1312",
+         "bill_type": "hr",
+         "number": "H.R.1312",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1312.json",
+         "title": "Small Business Capital Formation Enhancement Act",
+         "short_title": "Small Business Capital Formation Enhancement Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bruce Poliquin",
+         "sponsor_id": "P000611",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000611.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ME",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1312rfs/pdf/BILLS-115hr1312rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1312",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1312",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": "2017-04-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": "2017-05-01",
+         "house_passage_vote": "2017-04-30",
+         "senate_passage_vote": null,
+         "summary": "Small Business Capital Formation Enhancement Act (Sec. 2) This bill amends the Small Business Investment Incentive Act of 1980 with respect to the annual government-business forum of the Securities and Exchange Commission (SEC) to review the current status of problems and programs relating to small business capital formation. The SEC shall review the forum's findings and recommendations and issue a public statement promptly assessing each submitted finding or recommendation and disclosing any action the SEC intends to take on it. Nothing in this bill shall require the SEC to agree to or act upon any finding or recommendation.",
+         "summary_short": "Small Business Capital Formation Enhancement Act (Sec. 2) This bill amends the Small Business Investment Incentive Act of 1980 with respect to the annual government-business forum of the Securities and Exchange Commission (SEC) to review the current status of problems and programs relating to small business capital formation. The SEC shall review the forum's findings and recommendations and issue a public statement promptly assessing each submitted finding or recommendation and disclosing any...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-02",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 238). (text: CR H2980)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Considered as unfinished business. (consideration: CR H2988-2989)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1312."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H2980-2981)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Mr. Hill moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-01",
+           "description": "Placed on the Union Calendar, Calendar No. 61."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-104."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-01",
+             "time": "19:04:00",
+             "roll_call": "238",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 406,
+             "total_no": 0,
+             "total_not_voting": 24,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/238.json"
+           }
+         ]
+
+      }
+   ]
+}

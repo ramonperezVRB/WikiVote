@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1257-115",
+         "bill_slug": "hr1257",
+         "congress": "115",
+         "bill": "H.R.1257",
+         "bill_type": "hr",
+         "number": "H.R.1257",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1257.json",
+         "title": "Securities and Exchange Commission Overpayment Credit Act",
+         "short_title": "Securities and Exchange Commission Overpayment Credit Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Gregory W. Meeks",
+         "sponsor_id": "M001137",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001137.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1257rh/pdf/BILLS-115hr1257rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1257",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1257",
+         "introduced_date": "2017-02-28",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-15",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 195.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-08-15",
+           "description": "Placed on the Union Calendar, Calendar No. 195."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-15",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-275."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-28",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

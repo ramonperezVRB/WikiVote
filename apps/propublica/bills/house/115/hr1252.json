@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1252-115",
+         "bill_slug": "hr1252",
+         "congress": "115",
+         "bill": "H.R.1252",
+         "bill_type": "hr",
+         "number": "H.R.1252",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1252.json",
+         "title": "DHS Acquisition Authorities Act of 2017",
+         "short_title": "DHS Acquisition Authorities Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Clay Higgins",
+         "sponsor_id": "H001077",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001077.json",
+         "sponsor_party": "R",
+         "sponsor_state": "LA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1252rfs/pdf/BILLS-115hr1252rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1252",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1252",
+         "introduced_date": "2017-02-28",
+         "active": true,
+         "house_passage": "2017-03-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-03-20",
+         "house_passage_vote": "2017-03-19",
+         "senate_passage_vote": null,
+         "summary": "DHS Acquisition Authorities Act of 2017 This bill amends the Homeland Security Act of 2002 to revise acquisition and procurement programs and activities of the Department of Homeland Security (DHS). (Sec. 2) The bill designates the DHS Under Secretary for Management as the DHS Chief Acquisition Officer. It sets forth the duties and responsibilities of the Under Secretary related to acquisition, including:    advising DHS on acquisition management activities; leading DHS's acquisition oversight body, the Acquisition Review Board, and exercising the authority to approve, pause, modify, or cancel a major acquisition program (i.e., a program estimated to require a total expenditure of at least $300 million over its life cycle cost);   establishing policies for acquisition;   ensuring that each major acquisition program has a DHS-approved acquisition program baseline; distributing guidance to ensure that contractors adhere to relevant DHS policies related to physical and information security; and  overseeing the Component Acquisition Executive organizational structure to ensure that such executives have sufficient capabilities and comply with DHS acquisition policies.  The Under Secretary may delegate acquisition decision authority in writing to the relevant Component Acquisition Executive (i.e., senior acquisition official within a DHS Component with authority and responsibility for leading a process and staff to provide acquisition and program management oversight, policy, and guidance) for an acquisition program that has a life cycle cost estimate of: (1) less than $300 million, and (2) between $300 million and $1 billion if specified additional requirements are met. The Under Secretary for Science and Technology shall:  ensure, in coordination with relevant component heads, that major acquisition programs complete operational testing and evaluation of technologies and systems, use independent verification and validation of operational test and evaluation implementation and results, and document whether such programs meet all performance requirements included in their acquisition program baselines; ensure that such testing and evaluation includes all system components and incorporates operators into the testing to make sure that systems perform as intended in the appropriate operational setting; and determine if testing conducted by other federal agencies and private entities is relevant and sufficient in determining whether systems perform as intended in the operational setting.   (Sec. 3) The DHS Office of Program Analysis and Evaluation shall oversee the costs of acquisition programs and related activities to ensure that actual and planned costs are in accordance with budget estimates and are affordable, or can be adequately funded, over the life cycle of such programs and activities.  (Sec. 4) The DHS Chief Information Officer shall: (1) oversee the management of the Homeland Security Enterprise Architecture, (2) make recommendations to the Acquisition Review Board regarding information technology programs, and (3) be responsible for developing information technology acquisition strategic guidance.  (Sec. 5) The bill establishes within the DHS Management Directorate a Program Accountability and Risk Management Office to: (1) provide consistent accountability, standardization, and transparency of major acquisition programs of DHS, and (2) serve as the central oversight function for all DHS acquisition programs. ",
+         "summary_short": "DHS Acquisition Authorities Act of 2017 This bill amends the Homeland Security Act of 2002 to revise acquisition and procurement programs and activities of the Department of Homeland Security (DHS). (Sec. 2) The bill designates the DHS Under Secretary for Management as the DHS Chief Acquisition Officer. It sets forth the duties and responsibilities of the Under Secretary related to acquisition, including:    advising DHS on acquisition management activities; leading DHS's acquisition oversigh...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 175). (text of measure as passed: CR H2219-2220)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Considered as unfinished business. (consideration: CR H2224)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1252."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Considered under suspension of the rules. (consideration: CR H2219-2221)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-20",
+           "description": "Placed on the Union Calendar, Calendar No. 27."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-20",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-47."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-28",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-20",
+             "time": "19:13:00",
+             "roll_call": "175",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 407,
+             "total_no": 1,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/175.json"
+           }
+         ]
+
+      }
+   ]
+}

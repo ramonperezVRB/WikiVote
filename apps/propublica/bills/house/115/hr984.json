@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr984-115",
+         "bill_slug": "hr984",
+         "congress": "115",
+         "bill": "H.R.984",
+         "bill_type": "hr",
+         "number": "H.R.984",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr984.json",
+         "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017",
+         "short_title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Robert J. Wittman",
+         "sponsor_id": "W000804",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000804.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr984rfs/pdf/BILLS-115hr984rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/984",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr984",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA","HSII"],
+         "subcommittee_codes": ["HSII24"],
+         "latest_major_action_date": "2017-05-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 TITLE I--CHICKAHOMINY INDIAN TRIBE (Sec. 103) This bill extends federal recognition to the Chickahominy Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized Indian tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 104) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 106) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 107) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE II--CHICKAHOMINY INDIAN TRIBE--EASTERN DIVISION (Sec. 203) This bill extends federal recognition to the Chickahominy Indian Tribe--Eastern Division. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 204) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 206) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 207) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE III--UPPER MATTAPONI TRIBE (Sec. 303) This bill extends federal recognition to the Upper Mattaponi Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 304) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 306) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 307) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE IV--RAPPAHANNOCK TRIBE, INC. (Sec. 403) This bill extends federal recognition to the Rappahannock Tribe, Inc. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 404) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 406) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 407) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE V--MONACAN INDIAN NATION (Sec. 503) This bill extends federal recognition to the Monacan Indian Nation. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 504) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 506) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 507) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE VI--NANSEMOND INDIAN TRIBE (Sec. 603) This bill extends federal recognition to the Nansemond Indian Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 604) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 606) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 607) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE VII--EMINENT DOMAIN (Sec. 701) Eminent domain may not be used to acquire lands for a tribe recognized under this bill.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 TITLE I--CHICKAHOMINY INDIAN TRIBE (Sec. 103) This bill extends federal recognition to the Chickahominy Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized Indian tribes, without regard to the existen...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4251-4257)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered as unfinished business. (consideration: CR H4266)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 984."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4251-4259)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Wittman moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-23",
+           "description": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

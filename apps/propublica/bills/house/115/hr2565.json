@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2565-115",
+         "bill_slug": "hr2565",
+         "congress": "115",
+         "bill": "H.R.2565",
+         "bill_type": "hr",
+         "number": "H.R.2565",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2565.json",
+         "title": "To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes.",
+         "short_title": "To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Blaine Luetkemeyer",
+         "sponsor_id": "L000569",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000569.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2565rh/pdf/BILLS-115hr2565rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2565",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2565",
+         "introduced_date": "2017-05-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-14",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 156.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill amends the National Flood Insurance Act of 1968 to direct the Federal Emergency Management Agency (FEMA) to incorporate the replacement cost value of a structure insured under the National Flood Insurance Program of 1968 in its consideration of chargeable premium rates. FEMA must conduct a study regarding risk rating redesign utilizing replacement cost and report the findings to Congress.",
+         "summary_short": "This bill amends the National Flood Insurance Act of 1968 to direct the Federal Emergency Management Agency (FEMA) to incorporate the replacement cost value of a structure insured under the National Flood Insurance Program of 1968 in its consideration of chargeable premium rates. FEMA must conduct a study regarding risk rating redesign utilizing replacement cost and report the findings to Congress.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-14",
+           "description": "Placed on the Union Calendar, Calendar No. 156."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-14",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-221."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 25."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-19",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

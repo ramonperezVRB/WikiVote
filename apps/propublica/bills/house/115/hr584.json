@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr584-115",
+         "bill_slug": "hr584",
+         "congress": "115",
+         "bill": "H.R.584",
+         "bill_type": "hr",
+         "number": "H.R.584",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr584.json",
+         "title": "Cyber Preparedness Act of 2017",
+         "short_title": "Cyber Preparedness Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Daniel M. Donovan",
+         "sponsor_id": "D000625",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000625.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr584rfs/pdf/BILLS-115hr584rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/584",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr584",
+         "introduced_date": "2017-01-17",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Cyber Preparedness Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) State, Local, and Regional Fusion Center Initiative to coordinate with the national cybersecurity and communications integration center (NCCIC) to provide state, local, and regional fusion centers with expertise on DHS cybersecurity resources. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.)  DHS must: (1) provide timely access to technical assistance, risk management support, and incident response capabilities for cybersecurity threat indicators, defensive measures, risks, and incidents, including cybersecurity risks to equipment and technology related to the electoral process; (2) review cybersecurity risk information gathered by fusion centers to incorporate into DHS's cybersecurity risk information; and (3) disseminate cybersecurity risk information to fusion centers. Fusion center officers or intelligence analysts may be assigned from the NCCIC. Such officers and analysts must assist fusion centers in using cybersecurity risk information to develop a comprehensive and accurate threat picture. The NCCIC may include, and must share analysis and best practices with, state and major urban area fusion centers. (Sec. 3) States, local or tribal governments, or high-risk urban areas receiving grants to protect against terrorism under the Urban Area Security Initiative or the State Homeland Security Grant Program may use the funds to: (1) prepare for and respond to cybersecurity risks and incidents, and (2) develop statewide cyber threat information analysis and dissemination activities.  (Sec. 4) The bill expresses the sense of Congress that DHS should share actionable information related to cyber threats in an unclassified form to facilitate timely dissemination to state, local, and private sector stakeholders. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Cyber Preparedness Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) State, Local, and Regional Fusion Center Initiative to coordinate with the national cybersecurity and communications integration center (NCCIC) to provide state, local, and regional fusion centers with expertise on DHS...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H793)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 584."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H793-794)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Donovan moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

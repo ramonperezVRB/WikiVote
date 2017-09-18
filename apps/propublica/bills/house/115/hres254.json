@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres254-115",
+         "bill_slug": "hres254",
+         "congress": "115",
+         "bill": "H.RES.254",
+         "bill_type": "hres",
+         "number": "H.RES.254",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres254.json",
+         "title": "Providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "short_title": "Providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Pete Sessions",
+         "sponsor_id": "S000250",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000250.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres254rh/pdf/BILLS-115hres254rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/254",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres254",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-26",
+         "latest_major_action": "Pursuant to the provisions of H. Res. 275, H. Res. 254 is laid on the table.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of H.R. 1628 (American Health Care Act of 2017).",
+         "summary_short": "Sets forth the rule for consideration of H.R. 1628 (American Health Care Act of 2017).",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-26",
+           "description": "Pursuant to the provisions of H. Res. 275, H. Res. 254 is laid on the table."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on the House Calendar, Calendar No. 39."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "The rule provides for further consideration of H.R. 1628. The rule also provides that the further amendment printed Rules Committee Report 115-88 shall be considered as adopted."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-88, by Mr. Sessions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s204-115",
+         "bill_slug": "s204",
+         "congress": "115",
+         "bill": "S.204",
+         "bill_type": "s",
+         "number": "S.204",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s204.json",
+         "title": "Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017",
+         "short_title": "Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Johnson",
+         "sponsor_id": "J000293",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000293.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s204rfh/pdf/BILLS-115s204rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/204",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s204",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-02",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 46,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSIF","SSHR"],
+         "subcommittee_codes": ["HSIF14"],
+         "latest_major_action_date": "2017-08-11",
+         "latest_major_action": "Referred to the Subcommittee on Health.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-02",
+         "summary": "Trickett Wendler Right to Try Act of 2017 This bill requires the federal government to allow unrestricted manufacturing, distribution, prescribing, and dispensing of experimental drugs, biological products, and medical devices that are: (1) intended to treat a patient who has been diagnosed with a terminal illness, and (2) authorized by state law. The federal government must allow unrestricted possession and use of such treatments by patients certified by a physician as having exhausted all other treatment options. A manufacturer, distributor, prescriber, dispenser, possessor, or user of such a treatment has no liability regarding the treatment. The outcome of manufacture, distribution, prescribing, dispensing, possession, or use of such a treatment may not be used by a federal agency to adversely impact review or approval of the treatment. The treatment must: (1) have successfully completed a phase 1 (initial, small scale) clinical trial; (2) remain under investigation in a clinical trial approved by the Food and Drug Administration; and (3) not be approved, licensed, or cleared for sale under the Federal Food, Drug, or Cosmetic Act or the Public Health Service Act.  ",
+         "summary_short": "Trickett Wendler Right to Try Act of 2017 This bill requires the federal government to allow unrestricted manufacturing, distribution, prescribing, and dispensing of experimental drugs, biological products, and medical devices that are: (1) intended to treat a patient who has been diagnosed with a terminal illness, and (2) authorized by state law. The federal government must allow unrestricted possession and use of such treatments by patients certified by a physician as having exhausted all o...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-11",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-03",
+           "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4788-4789)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

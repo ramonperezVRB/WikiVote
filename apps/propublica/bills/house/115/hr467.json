@@ -1,0 +1,197 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr467-115",
+         "bill_slug": "hr467",
+         "congress": "115",
+         "bill": "H.R.467",
+         "bill_type": "hr",
+         "number": "H.R.467",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr467.json",
+         "title": "VA Scheduling Accountability Act",
+         "short_title": "VA Scheduling Accountability Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jackie Walorski",
+         "sponsor_id": "W000813",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000813.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr467rfs/pdf/BILLS-115hr467rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/467",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr467",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": "2017-05-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSGO","HSVR"],
+         "subcommittee_codes": ["HSVR03","HSVR10"],
+         "latest_major_action_date": "2017-05-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": "2017-05-24",
+         "house_passage_vote": "2017-05-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) VA Scheduling Accountability Act  (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to ensure that each VA medical facility annually certifies that it is in full compliance with all provisions of law and regulations relating to scheduling appointments for veterans hospital care and medical services. The VA may not waive any applicable provision of such laws or regulations.  If unable to make such certification, the facility shall provide the VA with an explanation of noncompliance and a description of compliance actions being taken. If a facility does not make a certification for any year, each covered official may not receive specified awards or bonuses during the subsequent year. A covered official is the: (1) director, (2) chief of staff, (3) associate director, (4) associate director for patient care, and (5) deputy chief of staff.   (Sec. 3) The VA shall ensure that its directives and policies apply to, and are implemented by, each VA office or facility in a standardized manner, including at the local level.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) VA Scheduling Accountability Act  (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to ensure that each VA medical facility annually certifies that it is in full compliance with all provisions of law and regulations relating to scheduling appointments for veterans hospital care and medical services. The VA may not waive any applicable provision of ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 278). (text: CR 5/23/2017 H4467)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Considered as unfinished business. (consideration: CR H4527-4528)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 467."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4467-4468)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-23",
+           "description": "Placed on the Union Calendar, Calendar No. 97."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-23",
+           "description": "Committee on Oversight and Government discharged."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-23",
+           "description": "Reported by the Committee on Veterans' Affairs. H. Rept. 115-149, Part I."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Subcommittee on Economic Opportunity."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Referred to House Oversight and Government Reform"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Referred to House Veterans' Affairs"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-24",
+             "time": "14:00:00",
+             "roll_call": "278",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 419,
+             "total_no": 0,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/278.json"
+           }
+         ]
+
+      }
+   ]
+}

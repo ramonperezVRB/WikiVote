@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres6-115",
+         "bill_slug": "sres6",
+         "congress": "115",
+         "bill": "S.RES.6",
+         "bill_type": "sres",
+         "number": "S.RES.6",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres6.json",
+         "title": "A resolution objecting to United Nations Security Council Resolution 2334 and to all efforts that undermine direct negotiations between Israel and the Palestinians for a secure and peaceful settlement.",
+         "short_title": "A resolution objecting to United Nations Security Council Resolution 2334 and to all efforts that undermine direct negotiations between Israel and the Palestinians for a secure and peaceful settlement.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Marco Rubio",
+         "sponsor_id": "R000595",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000595.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres6rs/pdf/BILLS-115sres6rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/6",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres6",
+         "introduced_date": "2017-01-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 78,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-12",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Objects to U.N. Security Council Resolution 2334. Such resolution characterizes Israeli settlements in the West Bank and East Jerusalem as illegal and demands cessation of settlement activities.  Calls for such resolution to be repealed or fundamentally altered and allows all final status issues toward a two-state solution to be resolved through direct bilateral negotiations between the parties. Rejects efforts by outside bodies to impose solutions that set back the cause of peace. Demands that the United States ensure that no action is taken at the Paris Conference on the Israeli-Palestinian conflict scheduled for January 15, 2017, that imposes an agreement or parameters on the parties. Notes that granting membership and statehood standing to the Palestinians at the UN, its specialized agencies, and other international institutions outside of the context of a bilateral peace agreement with Israel would cause severe harm to the peace process, and would likely trigger penalties under the Department of State, Foreign Operations, and Related Agencies Appropriations Act, 2016 regarding limitations on assistance to the Palestinians. Rejects any efforts by international organizations to use such resolution to further isolate Israel and urges the U.S. government to act where needed to counter any such efforts.  Urges: (1) the U.S. presidential Administrations to uphold the practice of vetoing all Security Council resolutions that recognize unilateral Palestinian actions or dictate terms and a time line for a solution to the Israeli-Palestinian conflict; and (2) the incoming presidential Administration to work with Congress to create conditions that facilitate the resumption of negotiations without preconditions between Israelis and Palestinians to achieve a sustainable agreement acceptable to both sides. Reaffirms that it is U.S. policy to seek a sustainable, just, and secure two-state solution to the Israeli-Palestinian conflict.",
+         "summary_short": "Objects to U.N. Security Council Resolution 2334. Such resolution characterizes Israeli settlements in the West Bank and East Jerusalem as illegal and demands cessation of settlement activities.  Calls for such resolution to be repealed or fundamentally altered and allows all final status issues toward a two-state solution to be resolved through direct bilateral negotiations between the parties. Rejects efforts by outside bodies to impose solutions that set back the cause of peace. Demands th...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-01-12",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 3."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-12",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with amendments and with a preamble. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-12",
+           "description": "Committee on Foreign Relations. Ordered to be reported with amendments favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-04",
+           "description": "Referred to the Committee on Foreign Relations."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

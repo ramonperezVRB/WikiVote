@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres45-115",
+         "bill_slug": "sres45",
+         "congress": "115",
+         "bill": "S.RES.45",
+         "bill_type": "sres",
+         "number": "S.RES.45",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres45.json",
+         "title": "A resolution designating February 2017 as \"American Heart Month\" and February 3, 2017, as \"National Wear Red Day\".",
+         "short_title": "A resolution designating February 2017 as \"American Heart Month\" and February 3, 2017, as \"National Wear Red Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mazie K. Hirono",
+         "sponsor_id": "H001042",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001042.json",
+         "sponsor_party": "D",
+         "sponsor_state": "HI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres45ats/pdf/BILLS-115sres45ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/45",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres45",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 16,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-10",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 2017 as American Heart Month and February 3, 2017, as National Wear Red Day. Recognizes and reaffirms the commitment to fighting heart disease and stroke by promoting awareness of causes, risks, and prevention, supporting research, and expanding access to medical treatment. Encourages individuals to learn about their risk for heart disease.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 2017 as American Heart Month and February 3, 2017, as National Wear Red Day. Recognizes and reaffirms the commitment to fighting heart disease and stroke by promoting awareness of causes, risks, and prevention, supporting research, and expanding access to medical treatment. Encourages individuals to learn about their risk for heart disease.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-10",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-10",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1092)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S681-682)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

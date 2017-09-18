@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3178-115",
+         "bill_slug": "hr3178",
+         "congress": "115",
+         "bill": "H.R.3178",
+         "bill_type": "hr",
+         "number": "H.R.3178",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3178.json",
+         "title": "Medicare Part B Improvement Act of 2017",
+         "short_title": "Medicare Part B Improvement Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kevin Brady",
+         "sponsor_id": "B000755",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000755.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3178rfs/pdf/BILLS-115hr3178rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3178",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3178",
+         "introduced_date": "2017-07-11",
+         "active": true,
+         "house_passage": "2017-07-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 10,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI","HSWM","HSIF"],
+         "subcommittee_codes": ["HSIF14","HSWM02"],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-24",
+         "senate_passage_vote": null,
+         "summary": "Medicare Part B Improvement Act of 2017 TITLE I--IMPROVEMENTS IN PROVISION OF HOME INFUSION THERAPY (Sec. 101) This bill amends title XVIII (Medicare) of the Social Security Act to temporarily provide for transitional Medicare payment with respect to certain home infusion services furnished on or after January 1, 2019. Under current law, the Center for Medicare &amp; Medicaid Services (CMS) is required to establish a permanent payment system with respect to such services furnished on or after January 1, 2021. (Sec. 102) The bill extends the Medicare Intravenous Immune Globulin demonstration project through 2020, subject to the availability of funds. A Medicare beneficiary who is enrolled in the project on September 30, 2017 shall be automatically reenrolled, subject to an existing cap on project participants. (Sec. 103)  Documentation created by an orthotist or prosthetist shall be considered part of a Medicare beneficiary's medical record for purposes of determining the reasonableness and medical necessity of orthotics and prosthetics. TITLE II--IMPROVEMENTS IN DIALYSIS SERVICES (Sec. 201) The bill allows renal dialysis facilities to be accredited by a CMS-approved accreditation body for participation in the Medicare program. The bill also establishes a timeframe with respect to initial surveys of renal dialysis facilities.  (Sec. 202) A Medicare beneficiary who has end-stage renal disease (ESRD) and is receiving home dialysis may choose to receive monthly ESRD-related visits via telehealth, provided that the beneficiary also receives face-to-face visits periodically. Specified facility fees and geographic requirements shall not apply with respect to the provision of such services via telehealth. The Government Accountability Office must study and report to Congress on the further expansion of Medicare coverage of renal dialysis services furnished via telehealth. TITLE III--IMPROVEMENTS IN APPLICATION OF STARK RULE  (Sec. 301) The bill codifies certain CMS rules regarding signature requirements and holdover arrangements as they relate to prohibitions against physician self-referrals. (Sec. 302) The bill reduces annual funding available to the Medicare Improvement Fund beginning in FY2021.",
+         "summary_short": "Medicare Part B Improvement Act of 2017 TITLE I--IMPROVEMENTS IN PROVISION OF HOME INFUSION THERAPY (Sec. 101) This bill amends title XVIII (Medicare) of the Social Security Act to temporarily provide for transitional Medicare payment with respect to certain home infusion services furnished on or after January 1, 2019. Under current law, the Center for Medicare &amp; Medicaid Services (CMS) is required to establish a permanent payment system with respect to such services furnished on or after...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-26",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Finance."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6233-6235)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H6233-6239)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3178."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-254, Part I."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-14",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-11",
+           "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Referred to the Subcommittee on Health."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

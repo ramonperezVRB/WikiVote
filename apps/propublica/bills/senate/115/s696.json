@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s696-115",
+         "bill_slug": "s696",
+         "congress": "115",
+         "bill": "S.696",
+         "bill_type": "s",
+         "number": "S.696",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s696.json",
+         "title": "Stop Improper Federal Bonuses Act",
+         "short_title": "Stop Improper Federal Bonuses Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Deb Fischer",
+         "sponsor_id": "F000463",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000463.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s696rs/pdf/BILLS-115s696rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/696",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s696",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-11",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 167."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-127."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

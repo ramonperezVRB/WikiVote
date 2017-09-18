@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr240-115",
+         "bill_slug": "hr240",
+         "congress": "115",
+         "bill": "H.R.240",
+         "bill_type": "hr",
+         "number": "H.R.240",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr240.json",
+         "title": "Leveraging Emerging Technologies Act of 2017",
+         "short_title": "Leveraging Emerging Technologies Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "John Ratcliffe",
+         "sponsor_id": "R000601",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000601.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr240rfs/pdf/BILLS-115hr240rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/240",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr240",
+         "introduced_date": "2017-01-04",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-11",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": null,
+         "summary": "Leveraging Emerging Technologies Act of 2017 (Sec. 2) This bill requires the Department of Homeland Security (DHS) to: (1) engage with innovative and emerging technology developers and firms, including technology-based small businesses and startup ventures, to address homeland security needs; and (2) develop, submit to Congress, and implement a DHS-wide strategy to proactively engage with such developers and firms that focuses on sustainable methods and guidance to build relationships to establish, develop, and enhance DHS capabilities to address such needs. DHS may establish personnel and office space in areas in the United States with high concentrations of such developers and firms, co-located with other assets of DHS or other federal facilities, where possible.     ",
+         "summary_short": "Leveraging Emerging Technologies Act of 2017 (Sec. 2) This bill requires the Department of Homeland Security (DHS) to: (1) engage with innovative and emerging technology developers and firms, including technology-based small businesses and startup ventures, to address homeland security needs; and (2) develop, submit to Congress, and implement a DHS-wide strategy to proactively engage with such developers and firms that focuses on sustainable methods and guidance to build relationships to esta...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H277)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 240."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under suspension of the rules. (consideration: CR H277-279)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mr. Ratcliffe moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-04",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

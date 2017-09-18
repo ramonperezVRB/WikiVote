@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2768-115",
+         "bill_slug": "hr2768",
+         "congress": "115",
+         "bill": "H.R.2768",
+         "bill_type": "hr",
+         "number": "H.R.2768",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2768.json",
+         "title": "Fowler and Boskoff Peaks Designation Act",
+         "short_title": "Fowler and Boskoff Peaks Designation Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Scott Tipton",
+         "sponsor_id": "T000470",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000470.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2768rh/pdf/BILLS-115hr2768rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2768",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2768",
+         "introduced_date": "2017-05-30",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-09-05",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 78.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on the House Calendar, Calendar No. 78."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-291."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-30",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

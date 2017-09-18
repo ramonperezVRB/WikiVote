@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1242-115",
+         "bill_slug": "hr1242",
+         "congress": "115",
+         "bill": "H.R.1242",
+         "bill_type": "hr",
+         "number": "H.R.1242",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1242.json",
+         "title": "400 Years of African-American History Commission Act",
+         "short_title": "400 Years of African-American History Commission Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Robert C. Scott",
+         "sponsor_id": "S000185",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000185.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1242rds/pdf/BILLS-115hr1242rds.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1242",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1242",
+         "introduced_date": "2017-02-28",
+         "active": true,
+         "house_passage": "2017-04-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 53,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Civil Rights and Liberties, Minority Issues",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-02",
+         "latest_major_action": "Received in the Senate.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-04-30",
+         "senate_passage_vote": null,
+         "summary": "400 Years of African-American History Commission Act (Sec. 3) This bill establishes the 400 Years of African-American History Commission to develop and carry out activities throughout the United States to commemorate the 400th anniversary of the arrival of Africans in the English colonies at Point Comfort, Virginia, in 1619. The commission must:  plan programs to acknowledge the impact that slavery and laws that enforced racial discrimination had on the United States;  encourage civic, patriotic, historical, educational, artistic, religious, and economic organizations to organize and participate in anniversary activities;  assist states, localities, and nonprofit organizations to further the commemoration; and  coordinate for the public scholarly research on the arrival of Africans in the United States and their contributions to this country.  (Sec. 5) The commission may provide: (1) grants to communities and nonprofit organizations for the development of programs; (2) grants to research and scholarly organizations to research, publish, or distribute information relating to the arrival of Africans in the United States; and (3) technical assistance to states, localities, and nonprofit organizations to further the commemoration. (Sec. 7) The commission must prepare a strategic plan and submit a final report to Congress that contains a summary of its activities, an accounting of its received and expended funds, and its recommendations. (Sec. 8) The commission shall terminate on July 1, 2020. (Sec. 9) All expenditures of the commission shall be made solely from donated funds.",
+         "summary_short": "400 Years of African-American History Commission Act (Sec. 3) This bill establishes the 400 Years of African-American History Commission to develop and carry out activities throughout the United States to commemorate the 400th anniversary of the arrival of Africans in the English colonies at Point Comfort, Virginia, in 1619. The commission must:  plan programs to acknowledge the impact that slavery and laws that enforced racial discrimination had on the United States;  encourage civic, patrio...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-02",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2985-2986)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1242."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Considered under suspension of the rules. (consideration: CR H2985-2987)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Mr. Comer moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-01",
+           "description": "Placed on the Union Calendar, Calendar No. 62."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-105."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-28",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

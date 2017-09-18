@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr660-115",
+         "bill_slug": "hr660",
+         "congress": "115",
+         "bill": "H.R.660",
+         "bill_type": "hr",
+         "number": "H.R.660",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr660.json",
+         "title": "Bureau of Reclamation Transparency Act",
+         "short_title": "Bureau of Reclamation Transparency Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Paul Gosar",
+         "sponsor_id": "G000565",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000565.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr660rh/pdf/BILLS-115hr660rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/660",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr660",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 20,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Water Resources Development",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII13"],
+         "latest_major_action_date": "2017-06-02",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 103.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Bureau of Reclamation Transparency Act (Sec. 4) This bill directs the Department of the Interior to submit to Congress, make publicly available, and biennially update an Asset Management Report that describes the Bureau of Reclamation's efforts to maintain in a reliable manner all reserved works (buildings, structures, facilities, or equipment owned by the Bureau for which operations and maintenance are performed by Bureau employees or through a contract with the Bureau) at Reclamation facilities (infrastructure assets that are owned by the Bureau at each Reclamation project owned by the Bureau) and to standardize and streamline data reporting and processes across regions and areas for the purpose of maintaining such works. Such report shall include: (1) a detailed assessment of major repair and rehabilitation needs for all such works; and (2) an itemized list of major repair and rehabilitation needs of individual Reclamation facilities at each Reclamation project, including a budget level cost estimate of appropriations needed to complete each item and an assignment of a categorical rating for each item consistent with existing uniform categorization systems to inform the annual budget process and agency requirements. (Sec. 5) Interior shall: (1) coordinate with the non-federal entities responsible for the operation and maintenance of transferred works (Reclamation facilities at which operations and maintenance are carried out by a non-federal entity under a formal agreement with the Bureau) in developing reporting requirements for Asset Management Reports with respect to major repair and rehabilitation needs for such works; and (2) develop and implement a categorical rating system for transferred works. (Sec. 6) The bill reduces the maximum amount of the federal share of the cost of the Central Valley Water Recycling Project otherwise available as of the date of enactment of this bill by $2 million.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Bureau of Reclamation Transparency Act (Sec. 4) This bill directs the Department of the Interior to submit to Congress, make publicly available, and biennially update an Asset Management Report that describes the Bureau of Reclamation's efforts to maintain in a reliable manner all reserved works (buildings, structures, facilities, or equipment owned by the Bureau ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-02",
+           "description": "Placed on the Union Calendar, Calendar No. 103."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-02",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-156."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Water, Power and Oceans Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

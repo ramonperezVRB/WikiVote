@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres184-115",
+         "bill_slug": "hres184",
+         "congress": "115",
+         "bill": "H.RES.184",
+         "bill_type": "hres",
+         "number": "H.RES.184",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres184.json",
+         "title": "Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to communications with the government of Russia.",
+         "short_title": "Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to communications with the government of Russia.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Hakeem Jeffries",
+         "sponsor_id": "J000294",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000294.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres184rh/pdf/BILLS-115hres184rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/184",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres184",
+         "introduced_date": "2017-03-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 150,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-31",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 31.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Requests the President, and directs the Attorney General, to transmit to the House of Representatives within 14 days after adoption of this resolution copies of any document or other communication in their possession that refers or relates to:  any meeting or communication between Senator Jeff Sessions and any representative of the Russian government, including his meetings with the Russian Ambassador to the United States, Sergey I. Kislyak, on July 18, 2016, and September 8, 2016; Senator Sessions' testimony before the Senate Judiciary Committee on January 10, 2017, his written response to Senator Patrick Leahy's letter of January 17, 2017, his letter of March 6, 2017, to such committee, his preparation for confirmation hearings before such committee with respect to contact between President Trump's campaign and any Russian government representative, and his recusal from any investigation related to the 2016 presidential election and the implementation of that recusal; the application of provisions regarding grounds for appointing a Special Counsel to any case involving the 2016 presidential election or any related matter; and any meeting between any employee of President Trump's campaign or transition team and any Russian government representative, including any meeting that involved Donald J. Trump, Michael Flynn, Jared Kushner, Carter Page, J.D. Gordon, Richard Burt, Paul Manafort, Roger Stone, or Michael Cohen.  ",
+         "summary_short": "Requests the President, and directs the Attorney General, to transmit to the House of Representatives within 14 days after adoption of this resolution copies of any document or other communication in their possession that refers or relates to:  any meeting or communication between Senator Jeff Sessions and any representative of the Russian government, including his meetings with the Russian Ambassador to the United States, Sergey I. Kislyak, on July 18, 2016, and September 8, 2016; Senator Se...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-31",
+           "description": "Placed on the House Calendar, Calendar No. 31."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-31",
+           "description": "Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 115-74."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 15 - 11."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-09",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1725-115",
+         "bill_slug": "hr1725",
+         "congress": "115",
+         "bill": "H.R.1725",
+         "bill_type": "hr",
+         "number": "H.R.1725",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1725.json",
+         "title": "To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary.",
+         "short_title": "Quicker Veterans Benefits Delivery Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tim Walz",
+         "sponsor_id": "W000799",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000799.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1725rfs/pdf/BILLS-115hr1725rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1725",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1725",
+         "introduced_date": "2017-03-24",
+         "active": true,
+         "house_passage": "2017-05-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR09"],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-22",
+         "senate_passage_vote": null,
+         "summary": "Quicker Veterans Benefits Delivery Act of 2017 This bill requires (current law authorizes) the Department of Veterans Affairs (VA) to accept, for purposes of establishing a claim for veterans disability benefits, a report of a medical examination administered by a private physician without requiring confirmation by a Veterans Health Administration physician if the report is sufficiently complete (defined as competent, credible, probative, and containing such information as required to make a decision on the claim for which the report is provided). The VA is required to submit: (1) a report on the progress of the VA's Acceptable Clinical Evidence initiative in reducing the necessity for in-person disability examinations, and (2) an annual report for each VA regional office regarding claims for which private medical evidence was determined to be unacceptable.",
+         "summary_short": "Quicker Veterans Benefits Delivery Act of 2017 This bill requires (current law authorizes) the Department of Veterans Affairs (VA) to accept, for purposes of establishing a claim for veterans disability benefits, a report of a medical examination administered by a private physician without requiring confirmation by a Veterans Health Administration physician if the report is sufficiently complete (defined as competent, credible, probative, and containing such information as required to make a ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4475)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1725."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4475-4476)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-19",
+           "description": "Placed on the Union Calendar, Calendar No. 82."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-19",
+           "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-133."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-24",
+           "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-24",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

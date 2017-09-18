@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2227-115",
+         "bill_slug": "hr2227",
+         "congress": "115",
+         "bill": "H.R.2227",
+         "bill_type": "hr",
+         "number": "H.R.2227",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2227.json",
+         "title": "MGT Act",
+         "short_title": "MGT Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Will Hurd",
+         "sponsor_id": "H001073",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001073.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2227rfs/pdf/BILLS-115hr2227rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2227",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2227",
+         "introduced_date": "2017-04-28",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 18,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSAP","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "Modernizing Government Technology Act of 2017 or the MGT Act (Sec. 3) This bill authorizes each of specified agencies for which there are Chief Financial Officers to establish an information technology system modernization and working capital fund to:  improve, retire, or replace existing information technology systems to enhance cybersecurity and to improve efficiency and effectiveness;  transition legacy information technology systems to cloud computing and other innovative platforms and technologies;  assist and support efforts to provide adequate, risk-based, and cost-effective information technology capabilities that address evolving threats to information security; and  reimburse amounts transferred to the agency from the Technology Modernization Fund (established under this bill), with the approval of such agency's Chief Information Officer.  Each agency shall prioritize amounts within such fund to be used initially for approved cost savings activities. (Sec. 4) The bill establishes a Technology Modernization Fund for technology related activities, to improve information technology, and to enhance cybersecurity across the federal government. The fund shall be administered by the Commissioner of the Technology Transformation Service of the General Services Administration in accordance with guidance issued by the Office of Management and Budget. The Commissioner shall:   transfer amounts from the fund to an agency to improve, retire, or replace existing federal information technology systems to enhance cybersecurity and improve efficiency and effectiveness;  use amounts in the fund for the development, operation, and procurement of information technology products, services, and acquisition vehicles to improve efficiency and cybersecurity; and  use amounts in the fund to provide services or work performed in support of such activities.  The bill establishes a Technology Modernization Board to: (1) evaluate proposals submitted by agencies for funding authorized under the fund; (2) make recommendations to the Commissioner to assist agencies in the further development and refinement of select modernization proposals; (3) monitor progress and performance in executing approved projects and, if necessary, recommend the suspension or termination of funding; and (4) monitor fund operating costs. The Commissioner shall support board activities and provide technical support to, and oversight of, agencies that receive transfers from the fund.",
+         "summary_short": "Modernizing Government Technology Act of 2017 or the MGT Act (Sec. 3) This bill authorizes each of specified agencies for which there are Chief Financial Officers to establish an information technology system modernization and working capital fund to:  improve, retire, or replace existing information technology systems to enhance cybersecurity and to improve efficiency and effectiveness;  transition legacy information technology systems to cloud computing and other innovative platforms and te...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4259-4261)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2227."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4259-4266)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Hurd moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-17",
+           "description": "Placed on the Union Calendar, Calendar No. 79."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-17",
+           "description": "Committee on Appropriations discharged."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-129, Part I."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-02",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-02",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-28",
+           "description": "Referred to House Appropriations"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-28",
+           "description": "Referred to House Oversight and Government Reform"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

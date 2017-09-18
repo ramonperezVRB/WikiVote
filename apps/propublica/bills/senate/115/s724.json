@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s724-115",
+         "bill_slug": "s724",
+         "congress": "115",
+         "bill": "S.724",
+         "bill_type": "s",
+         "number": "S.724",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s724.json",
+         "title": "A bill to amend the Federal Power Act to modernize authorizations for necessary hydropower approvals.",
+         "short_title": "A bill to amend the Federal Power Act to modernize authorizations for necessary hydropower approvals.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s724rs/pdf/BILLS-115s724rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/724",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s724",
+         "introduced_date": "2017-03-27",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 100.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill amends the Federal Power Act to authorize the Federal Energy Regulatory Commission (FERC) to issue a preliminary permit to a hydropower construction license applicant for up to four years, instead of three. FERC may extend a preliminary permit once for no more than four years and may issue a new permit after the end of an extension if it determines there are extraordinary circumstances that warrant the issuance of an additional permit. Additionally, FERC may extend the time a licensee has to commence construction on a project for up to eight years.Under current law, FERC may extend the license for no more than two years.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill amends the Federal Power Act to authorize the Federal Energy Regulatory Commission (FERC) to issue a preliminary permit to a hydropower construction license applicant for up to four years, instead of three. FERC may extend a preliminary permit once for no more than four years and may issue a new permit after the end of an extension if it determine...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 100."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-81."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-27",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

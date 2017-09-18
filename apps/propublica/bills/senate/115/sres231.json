@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres231-115",
+         "bill_slug": "sres231",
+         "congress": "115",
+         "bill": "S.RES.231",
+         "bill_type": "sres",
+         "number": "S.RES.231",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres231.json",
+         "title": "A resolution designating July 30, 2017, as \"National Whistleblower Appreciation Day\".",
+         "short_title": "A resolution designating July 30, 2017, as \"National Whistleblower Appreciation Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres231is/pdf/BILLS-115sres231is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/231",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres231",
+         "introduced_date": "2017-07-25",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 12,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-01",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/25/2017 CR S4195)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695; text: 7/25/2017 CR S4195)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-01",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4195)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

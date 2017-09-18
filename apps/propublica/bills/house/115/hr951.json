@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr951-115",
+         "bill_slug": "hr951",
+         "congress": "115",
+         "bill": "H.R.951",
+         "bill_type": "hr",
+         "number": "H.R.951",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr951.json",
+         "title": "To extend the deadline for commencement of construction of a hydroelectric project.",
+         "short_title": "To extend the deadline for commencement of construction of a hydroelectric project.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Virginia Foxx",
+         "sponsor_id": "F000450",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000450.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr951pcs/pdf/BILLS-115hr951pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/951",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr951",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": "2017-06-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSIF"],
+         "subcommittee_codes": ["HSIF03"],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-11",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill authorizes the Federal Energy Regulatory Commission (FERC) to extend for up to six years the time period during which construction must commence on the W. Kerr Scott Hydropower Project located on the Yadkin River in Wilkes County, North Carolina. Additionally, FERC may reinstate the construction license if it is expired.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill authorizes the Federal Energy Regulatory Commission (FERC) to extend for up to six years the time period during which construction must commence on the W. Kerr Scott Hydropower Project located on the Yadkin River in Wilkes County, North Carolina. Additionally, FERC may reinstate the construction license if it is expired.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-13",
+           "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 144."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4826)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 951."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H4826-4827)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the Union Calendar, Calendar No. 116."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported by the Committee on Energy and Commerce. H. Rept. 115-172."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Subcommittee on Energy Discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Energy."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr687-115",
+         "bill_slug": "hr687",
+         "congress": "115",
+         "bill": "H.R.687",
+         "bill_type": "hr",
+         "number": "H.R.687",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr687.json",
+         "title": "First Responder Access to Innovative Technologies Act",
+         "short_title": "First Responder Access to Innovative Technologies Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Donald M. Payne Jr.",
+         "sponsor_id": "P000604",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000604.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr687rfs/pdf/BILLS-115hr687rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/687",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr687",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) First Responder Access to Innovative Technologies Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Federal Emergency Management Agency (FEMA) to implement a uniform process for reviewing applications that contain explanations to use grants provided under the Urban Area Security Initiative or the State Homeland Security Grant Program to purchase equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under the Post-Katrina Emergency Management Reform Act of 2006.  FEMA must consider:  current or past use of proposed equipment or systems by federal agencies or the Armed Forces; the absence of a national voluntary consensus standard for such equipment or systems; the existence of an international consensus standard for such equipment or systems and whether such equipment or systems meets such standard; the nature of the capability gap identified by the applicant and how such equipment or systems will address such gap; and the degree to which such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed existing consensus standards.  FEMA shall implement a uniform process for reviewing applications to use such grants to purchase equipment or systems not included on the Authorized Equipment List maintained by FEMA. The Inspector General of the Department of Homeland Security shall submit to specified congressional committees a report assessing the implementation of such review process, including information on the number of requests to purchase equipment or systems that do not meet or exceed any applicable consensus standard, the capability gaps identified by applicants, the number of such requests granted and denied, and the processing time for the review of such requests.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) First Responder Access to Innovative Technologies Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Federal Emergency Management Agency (FEMA) to implement a uniform process for reviewing applications that contain explanations to use grants provided under the Urban Area Security Initiative or the State Homeland Security Grant Program to...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H792)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 687."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H792-793)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Donovan moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

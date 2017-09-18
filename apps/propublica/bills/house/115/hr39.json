@@ -1,0 +1,162 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr39-115",
+         "bill_slug": "hr39",
+         "congress": "115",
+         "bill": "H.R.39",
+         "bill_type": "hr",
+         "number": "H.R.39",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr39.json",
+         "title": "TALENT Act of 2017",
+         "short_title": "TALENT Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kevin McCarthy",
+         "sponsor_id": "M001165",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001165.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr39enr/pdf/BILLS-115hr39enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/39",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr39",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-10",
+         "senate_passage": "2017-01-16",
+         "enacted": "2017-01-19",
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-20",
+         "latest_major_action": "Became Public Law No: 115-1.",
+         "last_vote_date": "2017-01-11",
+         "house_passage_vote": "2017-01-10",
+         "senate_passage_vote": "2017-01-16",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Tested Ability to Leverage Exceptional National Talent Act of 2017 or the TALENT Act of 2017  (Sec. 2) This bill codifies provisions establishing the Presidential Innovation Fellows Program (originally established pursuant to Executive Order 13704) to encourage successful entrepreneurs, executives, and innovators to join the government and work in close cooperation with government leaders to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the government serves the American people. The General Services Administration (GSA) shall continue the program in order to enable exceptional individuals with proven track records to serve time-limited appointments in executive agencies to address some of the nation's most significant challenges and improve existing government efforts that would particularly benefit from expertise using innovative techniques and technology.  The program shall be administered by a Director, who shall appoint program fellows and facilitate their placement to participate in projects that have the potential for significant positive effects and that are consistent with the President's goals.  The GSA shall continue an advisory board to recommend priorities and standards for fulfilling the program's mission and to assist in identifying potential projects and placements for fellows. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Tested Ability to Leverage Exceptional National Talent Act of 2017 or the TALENT Act of 2017  (Sec. 2) This bill codifies provisions establishing the Presidential Innovation Fellows Program (originally established pursuant to Executive Order 13704) to encourage successful entrepreneurs, executives, and innovators to join the government and work in close cooperation w...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-01-20",
+           "description": "Became Public Law No: 115-1."
+         },
+                  {
+           "id": 13,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-01-20",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-20",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-18",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-17",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S345-346)"
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Received in the Senate, read twice."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-11",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 17 (Roll no. 34). (text: CR 1/10/2017 H283)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-11",
+           "description": "Considered as unfinished business. (consideration: CR H322-323)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 39."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under suspension of the rules. (consideration: CR H283-285)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mr. Hurd moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-11",
+             "time": "13:46:00",
+             "roll_call": "34",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 386,
+             "total_no": 17,
+             "total_not_voting": 31,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/34.json"
+           }
+         ]
+
+      }
+   ]
+}

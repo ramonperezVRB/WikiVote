@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s81-115",
+         "bill_slug": "s81",
+         "congress": "115",
+         "bill": "S.81",
+         "bill_type": "s",
+         "number": "S.81",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s81.json",
+         "title": "Seniors Fraud Prevention Act of 2017",
+         "short_title": "Seniors Fraud Prevention Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Amy Klobuchar",
+         "sponsor_id": "K000367",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000367.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s81rfh/pdf/BILLS-115s81rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/81",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s81",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-01",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSIF","SSCM"],
+         "subcommittee_codes": ["HSIF17"],
+         "latest_major_action_date": "2017-08-11",
+         "latest_major_action": "Referred to the Subcommittee on Digital Commerce and Consumer Protection.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-01",
+         "summary": "Seniors Fraud Prevention Act of 2017 This bill directs the Federal Trade Commission (FTC) to establish an office within the Bureau of Consumer Protection to advise the FTC on the prevention of fraud targeting seniors and to assist the FTC in monitoring the market for mail, television, Internet, telemarketing, and recorded message telephone call (robocall) fraud targeting seniors. The office must: (1) disseminate to seniors and their families and caregivers information on the most common fraud schemes, including methods of reporting complaints either to the FTC's national toll-free telephone number or to the FTC's Consumer Sentinel Network, where complaints become immediately available to the Federal Bureau of Investigation, state attorneys general, and other appropriate law enforcement agencies; (2) provide, in response to a specific request about a particular entity or individual, publicly available information regarding the FTC's enforcement action; and (3) maintain a website as a resource for information on fraud targeting seniors.  The FTC must establish procedures through such office to: (1) log and acknowledge the receipt of complaints by individuals who believe they have been a victim of such fraud in the Consumer Sentinel Network and to make such complaints immediately available to federal, state, and local law enforcement authorities; and (2) provide individuals with information on such fraud as well as the most common schemes.",
+         "summary_short": "Seniors Fraud Prevention Act of 2017 This bill directs the Federal Trade Commission (FTC) to establish an office within the Bureau of Consumer Protection to advise the FTC on the prevention of fraud targeting seniors and to assist the FTC in monitoring the market for mail, television, Internet, telemarketing, and recorded message telephone call (robocall) fraud targeting seniors. The office must: (1) disseminate to seniors and their families and caregivers information on the most common fraud...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-11",
+           "description": "Referred to the Subcommittee on Digital Commerce and Consumer Protection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Passed Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4715; text: CR S4715)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 191."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-01",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-141."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

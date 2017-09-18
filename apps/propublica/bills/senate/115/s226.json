@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s226-115",
+         "bill_slug": "s226",
+         "congress": "115",
+         "bill": "S.226",
+         "bill_type": "s",
+         "number": "S.226",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s226.json",
+         "title": "A bill to exclude power supply circuits, drivers, and devices to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination or ceiling fans using direct current motors from energy conservation standards for external power supplies.",
+         "short_title": "A bill to exclude power supply circuits, drivers, and devices to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination or ceiling fans using direct current motors from energy conservation standards for e",
+         "sponsor_title": "Sen.",
+         "sponsor": "Rob Portman",
+         "sponsor_id": "P000449",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000449.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s226rs/pdf/BILLS-115s226rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/226",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s226",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 97.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill amends the Energy Policy and Conservation Act to exclude from energy conservation standards for external power supplies any power supply circuit, driver, or device designed to power light-emitting diodes or to power ceiling fans using direct current motors. The Department of Energy may prescribe energy conservation standards for that equipment no earlier than one year after the date on which a test procedure has been prescribed by using its authority to improve the energy efficiency of electric motors and pumps and other industrial equipment.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill amends the Energy Policy and Conservation Act to exclude from energy conservation standards for external power supplies any power supply circuit, driver, or device designed to power light-emitting diodes or to power ceiling fans using direct current motors. The Department of Energy may prescribe energy conservation standards for that equipment n...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 97."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-78."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

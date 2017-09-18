@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s690-115",
+         "bill_slug": "s690",
+         "congress": "115",
+         "bill": "S.690",
+         "bill_type": "s",
+         "number": "S.690",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s690.json",
+         "title": "HUBZone Investment Protection Act",
+         "short_title": "HUBZone Investment Protection Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Benjamin L. Cardin",
+         "sponsor_id": "C000141",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C000141.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MD",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s690rs/pdf/BILLS-115s690rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/690",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s690",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Small Business and Entrepreneurship Committee",
+         "committee_codes": ["SSSB"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-02",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) HUBZone Investment Protection Act (Sec. 2) This bill amends the Small Business Act with respect to Historically Underutilized Business Zones (HUBZones) located in qualified census tracts, qualified nonmetropolitan counties, or redesignated areas, which are census tracts or nonmetropolitan counties that cease to meet the ordinary criteria for the HUBZone program but are \"redesignated\" to qualify for it. The bill increases the length of time a census tract or nonmetropolitan county may be redesignated to qualify for HUBZone status from three years to seven years after the date on which the area ceased to meet the ordinary criteria.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) HUBZone Investment Protection Act (Sec. 2) This bill amends the Small Business Act with respect to Historically Underutilized Business Zones (HUBZones) located in qualified census tracts, qualified nonmetropolitan counties, or redesignated areas, which are census tracts or nonmetropolitan counties that cease to meet the ordinary criteria for the HUBZone program bu...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-02",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 196."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

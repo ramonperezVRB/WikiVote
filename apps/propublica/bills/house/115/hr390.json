@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr390-115",
+         "bill_slug": "hr390",
+         "congress": "115",
+         "bill": "H.R.390",
+         "bill_type": "hr",
+         "number": "H.R.390",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr390.json",
+         "title": "Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017",
+         "short_title": "Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Christopher H. Smith",
+         "sponsor_id": "S000522",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000522.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr390ih/pdf/BILLS-115hr390ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/390",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr390",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": "2017-06-05",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 47,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSFA","HSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-07",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-05",
+         "senate_passage_vote": null,
+         "summary": "Iraq and Syria Genocide Relief and Accountability Act of 2017 This bill directs the Department of State  to provide assistance to entities taking specified criminal and judicial actions against individuals who are suspected of committing genocide, crimes against humanity, or war crimes in Iraq since January 2014 or in Syria since March 2011.  The State Department shall encourage foreign governments to identify and prosecute individuals who are suspected of committing such crimes, including members of foreign terrorist organizations operating in Iraq or Syria.  The Department of Justice shall review existing criminal statutes concerning genocide, crimes against humanity, and war crimes to determine:   the extent to which U.S. courts have jurisdiction over such crimes where the perpetrators or victims are U.S. nationals, residents, or persons present in a U.S. territory;   current statutes that would apply to such conduct and whether additional statutory authorities are necessary; and  the extent to which the absence of criminal statutes defining the crimes or granting jurisdiction impede their prosecution in U.S. courts.  The State Department shall identify:   threats of persecution, genocide, crimes against humanity, and war crimes against members of Iraqi or Syrian religious or ethnic groups that are minorities in Iraq or in Syria with respect to whom the Islamic State of Iraq and Syria (ISIS) has committed such crimes in Iraq or Syria since January 2014, or who are members of other persecuted religious or ethnic groups;  humanitarian, stabilization, and recovery needs of these individuals; and  assistance provided by the United States, the U.N., and other entities, including faith-based entities.   Aliens who are, or were, a national and a resident of Iraq or Syria, and who share common characteristics that identify them as targets of persecution on account of membership in a religious or ethnic minority in that country: (1) are deemed to be of special humanitarian concern to the United States; and (2) shall be eligible for priority-2 processing under the refugee resettlement priority system.   The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 is amended to extend: (1) refugee set-asides for nationals of the former Soviet Union, Estonia, Latvia, or Lithuania; and (2) the period of eligibility for status adjustment from a parolee who was denied refugee status to a lawfully admitted permanent resident for certain aliens from the former Soviet Union, Estonia, Latvia, Lithuania, Vietnam, Laos, or Cambodia.",
+         "summary_short": "Iraq and Syria Genocide Relief and Accountability Act of 2017 This bill directs the Department of State  to provide assistance to entities taking specified criminal and judicial actions against individuals who are suspected of committing genocide, crimes against humanity, or war crimes in Iraq since January 2014 or in Syria since March 2011.  The State Department shall encourage foreign governments to identify and prosecute individuals who are suspected of committing such crimes, including me...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-07",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4632-4633)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 390."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Considered under suspension of the rules. (consideration: CR H4632-4638)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to House Foreign Affairs"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

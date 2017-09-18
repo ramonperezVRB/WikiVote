@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres74-115",
+         "bill_slug": "sres74",
+         "congress": "115",
+         "bill": "S.RES.74",
+         "bill_type": "sres",
+         "number": "S.RES.74",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres74.json",
+         "title": "A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.",
+         "short_title": "A resolution congratulating the State of Nebraska on the 150th anniversary of the admission of that State into the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Deb Fischer",
+         "sponsor_id": "F000463",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000463.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres74ats/pdf/BILLS-115sres74ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/74",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres74",
+         "introduced_date": "2017-03-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-02-28",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-01",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1521-1523; text as passed Senate: CR S1541-1542)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-02-28",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates Nebraska on the 150th anniversary of its admission into the United States.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Congratulates Nebraska on the 150th anniversary of its admission into the United States.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1521-1523; text as passed Senate: CR S1541-1542)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

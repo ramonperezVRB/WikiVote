@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1422-115",
+         "bill_slug": "hr1422",
+         "congress": "115",
+         "bill": "H.R.1422",
+         "bill_type": "hr",
+         "number": "H.R.1422",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1422.json",
+         "title": "Private Flood Insurance Market Development Act of 2017",
+         "short_title": "Flood Insurance Market Parity and Modernization Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Dennis Ross",
+         "sponsor_id": "R000593",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000593.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1422rh/pdf/BILLS-115hr1422rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1422",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1422",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 21,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-14",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 155.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-14",
+           "description": "Placed on the Union Calendar, Calendar No. 155."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-14",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-220."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 58 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

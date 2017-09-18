@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2364-115",
+         "bill_slug": "hr2364",
+         "congress": "115",
+         "bill": "H.R.2364",
+         "bill_type": "hr",
+         "number": "H.R.2364",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2364.json",
+         "title": "Small Business Investment Opportunity Act of 2017",
+         "short_title": "Investing in Main Street Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Judy Chu",
+         "sponsor_id": "C001080",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001080.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2364rfs/pdf/BILLS-115hr2364rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2364",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2364",
+         "introduced_date": "2017-05-04",
+         "active": true,
+         "house_passage": "2017-07-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","HSSM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-24",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Investing in Main Street Act of 2017 (Sec. 2) This bill amends the Small Business Investment Act of 1958 to increase from 5% to 15% of its capital and surplus, the amount a national bank, a member bank of the Federal Reserve System, a nonmember insured bank (to the extent permitted under applicable state law), or a federal savings association may invest in one or more small business investment companies (SBICs), or in any entity established to invest solely in SBICs. The increase is subject to the approval of the appropriate federal banking agency.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Investing in Main Street Act of 2017 (Sec. 2) This bill amends the Small Business Investment Act of 1958 to increase from 5% to 15% of its capital and surplus, the amount a national bank, a member bank of the Federal Reserve System, a nonmember insured bank (to the extent permitted under applicable state law), or a federal savings association may invest in one or m...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6181-6182)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6181-6183)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2364."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Chabot moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-12",
+           "description": "Placed on the Union Calendar, Calendar No. 152."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-12",
+           "description": "Reported by the Committee on Small Business. H. Rept. 115-216."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Ordered to be Reported."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Referred to the House Committee on Small Business."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

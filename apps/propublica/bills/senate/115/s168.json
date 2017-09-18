@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s168-115",
+         "bill_slug": "s168",
+         "congress": "115",
+         "bill": "S.168",
+         "bill_type": "s",
+         "number": "S.168",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s168.json",
+         "title": "Commercial Vessel Incidental Discharge Act",
+         "short_title": "Commercial Vessel Incidental Discharge Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Roger Wicker",
+         "sponsor_id": "W000437",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000437.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s168rs/pdf/BILLS-115s168rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/168",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s168",
+         "introduced_date": "2017-01-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 22,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Commercial Vessel Incidental Discharge Act This bill requires the U.S. Coast Guard to: (1) address the regulation of discharges incidental to the normal operation of a commercial vessel into navigable waters, including ballast water discharges; and (2) preempt applicable state laws and federal regulations issued under the Federal Water Pollution Control Act (commonly known as the Clean Water Act). Ballast water is water and suspended matter taken on board a commercial vessel to control or maintain trim, draught, stability, or stresses of the commercial vessel. This bill requires commercial vessels to meet ballast water discharge standards established by the Coast Guard by applying the best available technology that is economically achievable, unless they are a type of vessel exempted from the standards. By 2022, the Coast Guard must complete an effectiveness review to determine whether revising ballast water discharge standards will result in reducing the risk of introducing or establishing aquatic nuisance species. Further revisions to the standards must be considered every 10 years. If the standard would result in reducing the risk of introducing or establishing aquatic nuisance species, then the Coast Guard must conduct a practicability review to determine whether: (1) a ballast water management system that is capable of achieving the proposed standard is economically achievable and operationally practicable, and (2) testing protocols can accurately measure compliance. The Coast Guard must revise the standard if it meets practicability criteria. The Coast Guard must also issue rules establishing: (1) reasonable and practicable standards for reception facilities to mitigate adverse effects of aquatic nuisance species on navigable waters, and (2) best management practices for certain discharges for commercial vessels that are at least 79 feet in length and are not fishing vessels.",
+         "summary_short": "Commercial Vessel Incidental Discharge Act This bill requires the U.S. Coast Guard to: (1) address the regulation of discharges incidental to the normal operation of a commercial vessel into navigable waters, including ballast water discharges; and (2) preempt applicable state laws and federal regulations issued under the Federal Water Pollution Control Act (commonly known as the Clean Water Act). Ballast water is water and suspended matter taken on board a commercial vessel to control or mai...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 27."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-16."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1028-115",
+         "bill_slug": "s1028",
+         "congress": "115",
+         "bill": "S.1028",
+         "bill_type": "s",
+         "number": "S.1028",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1028.json",
+         "title": "RAISE Family Caregivers Act",
+         "short_title": "RAISE Family Caregivers Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Susan Collins",
+         "sponsor_id": "C001035",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001035.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ME",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1028rs/pdf/BILLS-115s1028rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1028",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1028",
+         "introduced_date": "2017-05-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Families",
+         "committees": "Senate Aging Committee",
+         "committee_codes": ["SPAG","SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-14",
+         "latest_major_action": "Special Committee on Aging. Hearings held.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017 or the RAISE Family Caregivers Act (Sec. 3) This bill directs the Department of Health and Human Services (HHS) to develop, maintain, and periodically update a National Family Caregiving Strategy. (Sec. 4) HHS shall convene a Family Caregiving Advisory Council to advise it on recognizing and supporting family caregivers.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017 or the RAISE Family Caregivers Act (Sec. 3) This bill directs the Department of Health and Human Services (HHS) to develop, maintain, and periodically update a National Family Caregiving Strategy. (Sec. 4) HHS shall convene a Family Caregiving Advisory Council to advise it on recognizing...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Special Committee on Aging. Hearings held."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-11",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 78."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S2724)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

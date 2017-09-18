@@ -1,0 +1,209 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1180-115",
+         "bill_slug": "hr1180",
+         "congress": "115",
+         "bill": "H.R.1180",
+         "bill_type": "hr",
+         "number": "H.R.1180",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1180.json",
+         "title": "Working Families Flexibility Act of 2017",
+         "short_title": "Working Families Flexibility Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Martha Roby",
+         "sponsor_id": "R000591",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000591.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1180rds/pdf/BILLS-115hr1180rds.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1180",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1180",
+         "introduced_date": "2017-02-16",
+         "active": true,
+         "house_passage": "2017-05-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 17,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Labor and Employment",
+         "committees": "House Education and the Workforce Committee",
+         "committee_codes": ["HSED"],
+         "subcommittee_codes": ["HSED10"],
+         "latest_major_action_date": "2017-05-03",
+         "latest_major_action": "Received in the Senate.",
+         "last_vote_date": "2017-05-02",
+         "house_passage_vote": "2017-05-01",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on May 2, 2017. The summary of that version is repeated here.) Working Families Flexibility Act of 2017 (Sec. 2) This bill amends the Fair Labor Standards Act of 1938 to authorize employers to provide compensatory time off to private employees at a rate of not less than 1 1/2 hours for each hour of employment for which overtime compensation is required, but only if it is in accordance with an applicable collective bargaining agreement or, in the absence of such an agreement, an agreement between the employer and employee.  The bill prohibits an employee from accruing more than 160 hours of compensatory time. An employer must provide monetary compensation for any unused compensatory time off accrued during the preceding year.  The bill requires an employer to give employees 30-day notice before discontinuing compensatory time off.  The bill prohibits an employer from intimidating, threatening, or coercing an employee in order to: (1) interfere with the employee's right to request or not to request compensatory time off in lieu of payment of monetary overtime compensation, or (2) require an employee to use such compensatory time.  (Sec. 3) The bill makes an employer who violates such requirements liable to the affected employee in the amount of the compensation rate for each hour of compensatory time accrued, plus an additional equal amount as liquidated damages, reduced for each hour of compensatory time used.  (Sec. 5) The Government Accountability Office must report to Congress on: (1) the extent to which employers provide compensatory time off and employees opt to receive it; (2) the number of complaints filed by employees with the Department of Labor alleging a violation of such requirements and the number of enforcement actions commenced by Labor on behalf of aggrieved employees; (3) the disposition of such complaints and actions; and (4) any unpaid wages, damages, penalties, injunctive relief, or other remedies sought by Labor in connection with such actions. ",
+         "summary_short": "(This measure has not been amended since it was reported to the House on May 2, 2017. The summary of that version is repeated here.) Working Families Flexibility Act of 2017 (Sec. 2) This bill amends the Fair Labor Standards Act of 1938 to authorize employers to provide compensatory time off to private employees at a rate of not less than 1 1/2 hours for each hour of employment for which overtime compensation is required, but only if it is in accordance with an applicable collective bargainin...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "On passage Passed by recorded vote: 229 - 197 (Roll no. 244). (text of amendment in the nature of a substitute: CR H3038-3039)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 192 - 234 (Roll no. 243)."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Scott, VA motion to recommit with instructions. The instructions in the motion seek to report the same back to the House forthwith with the following amendment to add an exemption to the underlying bill for any employee who does not receive fewer than seven paid sick days, which can be used to seek medical care for a pre-existing health condition."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Mr. Scott (VA) moved to recommit with instructions to the Committee on Education and the Workforce. (text: CR H3048)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1180."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Rule provides for consideration of H.R. 1180 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Considered under the provisions of rule H. Res. 299. (consideration: CR H3038-3050)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Rule H. Res. 299 passed House."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "Rules Committee Resolution H. Res. 299 Reported to House. Rule provides for consideration of H.R. 1180 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-28",
+           "description": "Placed on the Union Calendar, Calendar No. 58."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-28",
+           "description": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-101."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-26",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 16."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Hearings Held by the Subcommittee on Workforce Protections Prior to Referral."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-16",
+           "description": "Referred to the House Committee on Education and the Workforce."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-02",
+             "time": "17:25:00",
+             "roll_call": "244",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 229,
+             "total_no": 197,
+             "total_not_voting": 4,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/244.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-05-02",
+             "time": "17:17:00",
+             "roll_call": "243",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 192,
+             "total_no": 234,
+             "total_not_voting": 4,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/243.json"
+           }
+         ]
+
+      }
+   ]
+}

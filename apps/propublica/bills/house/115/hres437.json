@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres437-115",
+         "bill_slug": "hres437",
+         "congress": "115",
+         "bill": "H.RES.437",
+         "bill_type": "hres",
+         "number": "H.RES.437",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres437.json",
+         "title": "Of inquiry requesting the President to provide certain documents in the President's possession.",
+         "short_title": "Of inquiry requesting the President to provide certain documents in the President's possession.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Peter A. DeFazio",
+         "sponsor_id": "D000191",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000191.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres437ih/pdf/BILLS-115hres437ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/437",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres437",
+         "introduced_date": "2017-07-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-07-28",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 73.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Ordered to be Reported Adversely."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-28",
+           "description": "Placed on the House Calendar, Calendar No. 73."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Reported adversely by the Committee on Transportation and Infrastructure. H. Rept. 115-269."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Ordered to be Reported Unfavorably by the Yeas and Nays: 31 - 24."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-13",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

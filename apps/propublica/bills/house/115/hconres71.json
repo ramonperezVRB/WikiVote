@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hconres71-115",
+         "bill_slug": "hconres71",
+         "congress": "115",
+         "bill": "H.CON.RES.71",
+         "bill_type": "hconres",
+         "number": "H.CON.RES.71",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hconres71.json",
+         "title": "Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.",
+         "short_title": "Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Diane Black",
+         "sponsor_id": "B001273",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001273.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hconres71rh/pdf/BILLS-115hconres71rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/71",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hconres71",
+         "introduced_date": "2017-07-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "House Budget Committee",
+         "committee_codes": ["HSBU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-21",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 172.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-21",
+           "description": "Placed on the Union Calendar, Calendar No. 172."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-21",
+           "description": "The House Committee on the Budget reported an original measure, H. Rept. 115-240, by Mrs. Black."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

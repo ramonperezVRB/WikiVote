@@ -1,0 +1,127 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s89-115",
+         "bill_slug": "s89",
+         "congress": "115",
+         "bill": "S.89",
+         "bill_type": "s",
+         "number": "S.89",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s89.json",
+         "title": "A bill to amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the areas of the vessels that are not constructed of fire-retardant materials and for other purposes.",
+         "short_title": "A bill to amend title 46, United States Code, to exempt old vessels that only operate within inland waterways from the fire-retardant materials requirement if the owners of such vessels make annual structural alterations to at least 10 percent of the area",
+         "sponsor_title": "Sen.",
+         "sponsor": "Claire McCaskill",
+         "sponsor_id": "M001170",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001170.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s89es/pdf/BILLS-115s89es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/89",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s89",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-04-02",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-04",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": "2017-04-03",
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-04-02",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) (Sec.1)This bill revises the requirements for passenger vessels that are exempt from fire-retardant materials standards. Vessels in operation before January 1, 1968, that operate within inland waterways are exempted from the new requirements until December 1, 2028. Exempt vessel operators must follow certain requirements including notifying prospective passengers in writing prior to the sale of any ticket for boarding and making annual structural alterations to at least 10% of areas of the vessel that are not constructed of fire-retardant materials. Additionally, the Department of Transportation (DOT)must conduct an annual inspection of any vessel that is exempted from fire-retardant materials standards.DOTmay withdraw a certificate of inspection for any vessel that does not comply with requirements under this bill.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.) (Sec.1)This bill revises the requirements for passenger vessels that are exempt from fire-retardant materials standards. Vessels in operation before January 1, 1968, that operate within inland waterways are exempted from the new requirements until December 1, 2028. Exempt vessel operators must follow certain requirements including notifying prospective passengers ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Passed Senate without amendment by Yea-Nay Vote. 85 - 12. Record Vote Number: 102."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S2159-2163, S2164-2168)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-21",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 18."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-21",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-5."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "Senate",
+             "date": "2017-04-03",
+             "time": "17:31:00",
+             "roll_call": "102",
+             "question": "On Passage of the Bill",
+             "result": "Bill Passed",
+             "total_yes": 85,
+             "total_no": 12,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/102.json"
+           }
+         ]
+
+      }
+   ]
+}

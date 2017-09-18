@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr194-115",
+         "bill_slug": "hr194",
+         "congress": "115",
+         "bill": "H.R.194",
+         "bill_type": "hr",
+         "number": "H.R.194",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr194.json",
+         "title": "Federal Agency Mail Management Act of 2017",
+         "short_title": "Federal Agency Mail Management Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steve Russell",
+         "sponsor_id": "R000604",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000604.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr194ih/pdf/BILLS-115hr194ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/194",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr194",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Federal Agency Mail Management Act of 2017 (Sec. 2) This bill amends the Presidential and Federal Records Act Amendments of 2014 to require the General Services Administration (GSA) to provide guidance and assistance to federal agencies for effective mail processing. The GSA: (1) must promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for federal mail processing facilities; and (2) may inspect the mail processing practices and programs of federal agencies for purposes of recommending improvements.  The bill also provides authority for the GSA to set goals for the establishment and maintenance of federal records management systems or techniques.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Federal Agency Mail Management Act of 2017 (Sec. 2) This bill amends the Presidential and Federal Records Act Amendments of 2014 to require the General Services Administration (GSA) to provide guidance and assistance to federal agencies for effective mail processing. The GSA: (1) must promote economy and efficiency in the selection and utilization of space, staff, ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4266)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 194."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4266-4267)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Russell moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-29",
+           "description": "Placed on the Union Calendar, Calendar No. 37."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-66."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-02",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-02",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

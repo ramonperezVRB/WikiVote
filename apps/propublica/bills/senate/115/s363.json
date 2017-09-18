@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s363-115",
+         "bill_slug": "s363",
+         "congress": "115",
+         "bill": "S.363",
+         "bill_type": "s",
+         "number": "S.363",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s363.json",
+         "title": "North Country National Scenic Trail Route Adjustment Act",
+         "short_title": "North Country National Scenic Trail Route Adjustment Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Amy Klobuchar",
+         "sponsor_id": "K000367",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000367.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s363rs/pdf/BILLS-115s363rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/363",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s363",
+         "introduced_date": "2017-02-13",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 9,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) North Country National Scenic Trail Route Adjustment Act  (Sec. 2) This bill amends the National Trails System Act to revise the authorized route of the North Country National Scenic Trail to extend it to the Appalachian Trail in Vermont and to modify the route in northeastern Minnesota. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) North Country National Scenic Trail Route Adjustment Act  (Sec. 2) This bill amends the National Trails System Act to revise the authorized route of the North Country National Scenic Trail to extend it to the Appalachian Trail in Vermont and to modify the route in northeastern Minnesota. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 129."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-99."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-13",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr672-115",
+         "bill_slug": "hr672",
+         "congress": "115",
+         "bill": "H.R.672",
+         "bill_type": "hr",
+         "number": "H.R.672",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr672.json",
+         "title": "Combating European Anti-Semitism Act of 2017",
+         "short_title": "Combating European Anti-Semitism Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Nita M. Lowey",
+         "sponsor_id": "L000480",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000480.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr672rfs/pdf/BILLS-115hr672rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/672",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr672",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 34,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSFA"],
+         "subcommittee_codes": ["HSFA14","HSFA16"],
+         "latest_major_action_date": "2017-05-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "Combating European Anti-Semitism Act of 2017  (Sec. 3) This bill expresses the sense of Congress that: (1) it is in the U.S. national interest to combat anti-Semitism at home and abroad; (2) there is a need to ensure the security of European Jewish communities, including synagogues, schools, and cemeteries; (3) the United States should continue to emphasize the importance of combating anti-Semitism in multilateral bodies; and (4) the Department of State should continue to document acts of anti-Semitism and anti-Semitic incitement and encourage adoption by national government institutions and multilateral institutions of a working definition of anti-Semitism similar to the one adopted in the International Holocaust Remembrance Alliance context.   (Sec. 4) The International Religious Freedom Act of 1998 is amended to require the State Department's Annual Report on International Religious Freedom to include, for each European country in which threats or attacks against Jewish persons, schools, and religious institutions are particularly significant, a description of:   the security challenges and needs of European Jewish communities and European law enforcement agencies;  U.S. efforts to partner with European law enforcement agencies and civil society groups to combat anti-Semitic incidents; educational programming and public awareness initiatives that impart values of pluralism and tolerance, showcase the positive contributions of Jews, and pay special attention to population segments that exhibit a high degree of anti-Semitic animus; and  efforts by European governments to adopt and apply a working definition of anti-Semitism.",
+         "summary_short": "Combating European Anti-Semitism Act of 2017  (Sec. 3) This bill expresses the sense of Congress that: (1) it is in the U.S. national interest to combat anti-Semitism at home and abroad; (2) there is a need to ensure the security of European Jewish communities, including synagogues, schools, and cemeteries; (3) the United States should continue to emphasize the importance of combating anti-Semitism in multilateral bodies; and (4) the Department of State should continue to document acts of ant...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4275-4276)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 672."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4275-4278)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

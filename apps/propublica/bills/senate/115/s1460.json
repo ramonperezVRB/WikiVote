@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1460-115",
+         "bill_slug": "s1460",
+         "congress": "115",
+         "bill": "S.1460",
+         "bill_type": "s",
+         "number": "S.1460",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1460.json",
+         "title": "Energy and Natural Resources Act of 2017",
+         "short_title": "Energy and Natural Resources Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1460pcs/pdf/BILLS-115s1460pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1460",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1460",
+         "introduced_date": "2017-06-28",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-29",
+         "latest_major_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-29",
+           "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 162."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-28",
+           "description": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

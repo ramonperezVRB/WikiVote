@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr392-115",
+         "bill_slug": "hr392",
+         "congress": "115",
+         "bill": "H.R.392",
+         "bill_type": "hr",
+         "number": "H.R.392",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr392.json",
+         "title": "Fairness for High-Skilled Immigrants Act of 2017",
+         "short_title": "Fairness for High-Skilled Immigrants Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jason Chaffetz",
+         "sponsor_id": "C001076",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001076.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr392ih/pdf/BILLS-115hr392ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/392",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr392",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 253,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Immigration",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": ["HSJU01"],
+         "latest_major_action_date": "2017-07-11",
+         "latest_major_action": "ASSUMING FIRST SPONSORSHIP - Mr. Yoder asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 392, a bill originally introduced by Representative Chaffetz, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Fairness for High-Skilled Immigrants Act of 2017 This bill amends the Immigration and Nationality Act to: (1) eliminate the per country numerical limitation for employment-based immigrants, and (2) increase the per country numerical limitation for family based immigrants from 7% to 15% of the total number of family-sponsored visas.  The Chinese Student Protection Act of 1992 is amended to eliminate the provision requiring the reduction of annual Chinese immigrant visas to offset status adjustments under such Act. The bill establishes the following transition period for employment-based second and third preference (EB-2 and EB-3) immigrant visas:   for FY2017, 15% of such visas allotted to natives of countries other than the two countries with the largest aggregate numbers of natives obtaining such visas in FY2011;  for FY2018, 10% of such visas allotted in each category to natives of countries other than the two with the largest aggregate numbers of natives obtaining such visas in FY2012; and  for FY2019, 10% of such visas allotted in each category to natives of countries other than the two with the largest aggregate numbers of natives obtaining such visas in FY2015.  The bill sets forth the following per country distribution rules: (1) for transition period visas, not more than 25% of the total number of EB-2 and EB-3 visas for natives of a single country; and (2) for non-transition period visas, not more than 85% of EB-2 and EB-3 visas for natives of a single country. Amendments made by this bill shall take place as if enacted on September 30, 2016, and shall apply beginning in FY2017.",
+         "summary_short": "Fairness for High-Skilled Immigrants Act of 2017 This bill amends the Immigration and Nationality Act to: (1) eliminate the per country numerical limitation for employment-based immigrants, and (2) increase the per country numerical limitation for family based immigrants from 7% to 15% of the total number of family-sponsored visas.  The Chinese Student Protection Act of 1992 is amended to eliminate the provision requiring the reduction of annual Chinese immigrant visas to offset status adjust...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "ASSUMING FIRST SPONSORSHIP - Mr. Yoder asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 392, a bill originally introduced by Representative Chaffetz, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-06",
+           "description": "Referred to the Subcommittee on Immigration and Border Security."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

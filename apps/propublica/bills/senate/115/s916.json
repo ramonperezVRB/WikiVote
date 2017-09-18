@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s916-115",
+         "bill_slug": "s916",
+         "congress": "115",
+         "bill": "S.916",
+         "bill_type": "s",
+         "number": "S.916",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s916.json",
+         "title": "Protecting Patient Access to Emergency Medications Act of 2017",
+         "short_title": "Protecting Patient Access to Emergency Medications Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bill Cassidy",
+         "sponsor_id": "C001075",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001075.json",
+         "sponsor_party": "R",
+         "sponsor_state": "LA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s916rs/pdf/BILLS-115s916rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/916",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s916",
+         "introduced_date": "2017-04-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 12,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-01",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Protecting Patient Access to Emergency Medications Act of 2017 This bill amends the Controlled Substances Act to direct the Drug Enforcement Administration (DEA) to register an emergency medical services (EMS) agency to administer controlled substances if the agency submits an application demonstrating that it is authorized to conduct such activity in the state in which the agency practices. The DEA may deny an application if it determines that the registration is inconsistent with the public interest. An EMS agency may obtain a single registration in each state instead of a separate registration for each location. A registered EMS agency may deliver, store, and receive controlled substances, subject to specified conditions. An EMS professional of a registered EMS agency may administer controlled substances in schedules II, III, IV, or V outside the physical presence of a medical director if such administration is authorized under state law and pursuant to a standing or verbal order, subject to specified conditions. The bill specifies that a hospital-based EMS agency (i.e., an EMS agency owned or operated by a hospital) may continue to administer controlled substances under the hospital's DEA registration. A pharmacy may deliver a controlled substance to an administering practitioner in accordance with this bill's requirements, subject to specified conditions.",
+         "summary_short": "Protecting Patient Access to Emergency Medications Act of 2017 This bill amends the Controlled Substances Act to direct the Drug Enforcement Administration (DEA) to register an emergency medical services (EMS) agency to administer controlled substances if the agency submits an application demonstrating that it is authorized to conduct such activity in the state in which the agency practices. The DEA may deny an application if it determines that the registration is inconsistent with the public...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 46."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Alexander with an amendment in the nature of a substitute. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-26",
+           "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-24",
+           "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

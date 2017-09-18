@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sconres15-115",
+         "bill_slug": "sconres15",
+         "congress": "115",
+         "bill": "S.CON.RES.15",
+         "bill_type": "sconres",
+         "number": "S.CON.RES.15",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres15.json",
+         "title": "A concurrent resolution expressing support for the designation of October 28, 2017, as \"Honoring the Nation's First Responders Day\".",
+         "short_title": "A concurrent resolution expressing support for the designation of October 28, 2017, as \"Honoring the Nation's First Responders Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Elizabeth Warren",
+         "sponsor_id": "W000817",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000817.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sconres15rs/pdf/BILLS-115sconres15rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/15",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sconres15",
+         "introduced_date": "2017-05-18",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-04",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Supports the designation of October 28, 2017, as Honoring the Nation's First Responders Day.",
+         "summary_short": "Supports the designation of October 28, 2017, as Honoring the Nation's First Responders Day.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-27",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 183."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with an amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S3047)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

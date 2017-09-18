@@ -1,0 +1,373 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2883-115",
+         "bill_slug": "hr2883",
+         "congress": "115",
+         "bill": "H.R.2883",
+         "bill_type": "hr",
+         "number": "H.R.2883",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2883.json",
+         "title": "Promoting Cross-Border Energy Infrastructure Act",
+         "short_title": "Promoting Cross-Border Energy Infrastructure Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Markwayne Mullin",
+         "sponsor_id": "M001190",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001190.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2883rfs/pdf/BILLS-115hr2883rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2883",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2883",
+         "introduced_date": "2017-06-12",
+         "active": true,
+         "house_passage": "2017-07-18",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSIF","HSII","HSPW"],
+         "subcommittee_codes": ["HSIF03","HSPW14"],
+         "latest_major_action_date": "2017-07-20",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-07-19",
+         "house_passage_vote": "2017-07-18",
+         "senate_passage_vote": null,
+         "summary": "Promoting Cross-Border Energy Infrastructure Act This bill prohibits any person from constructing, connecting, operating, or maintaining a border-crossing facility for the import or export of oil, natural gas, or electricity across an international border of the United States without obtaining a certificate of crossing. The Federal Energy Regulatory Commission (FERC), with respect to oil or natural gas pipelines, or the Department of Energy (DOE), with respect to electric transmission facilities, must issue a certificate of crossing for the border-crossing facility within 120 days after final action is taken under the National Environmental Policy Act of 1969, unless it is not in the public interest. DOE, as a condition of issuing a certificate, must require that the border-crossing facility be constructed, connected, operated, or maintained consistent with specified policies and standards. The bill amends the Natural Gas Act to require FERC to approve within 30 days after receipt any application for the importation or exportation of natural gas to or from Canada or Mexico. No presidential permit as required under specified executive orders shall be necessary for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, including any border-crossing facility. No certificate of crossing shall be required for a modification to an existing facility that is operating for the import or export of oil, natural gas, or electricity prior to the enactment of this bill. FERC and DOE must publish a final rule in the Federal Register within one year to carry out the requirements of this bill.",
+         "summary_short": "Promoting Cross-Border Energy Infrastructure Act This bill prohibits any person from constructing, connecting, operating, or maintaining a border-crossing facility for the import or export of oil, natural gas, or electricity across an international border of the United States without obtaining a certificate of crossing. The Federal Energy Regulatory Commission (FERC), with respect to oil or natural gas pipelines, or the Department of Energy (DOE), with respect to electric transmission facilit...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 39,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "On passage Passed by the Yeas and Nays: 254 - 175 (Roll no. 398)."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Mr. O'Halleran moved to recommit with instructions to the Committee on Energy and Commerce."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Considered under the provisions of rule H. Res. 454."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 193 - 232 (Roll no. 397)."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the O'Halleran motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to a requirement that all iron and steel products used in construction, connection, operation, and maintenance of the border-crossing facility be produced in the United States."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2883."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the question of adoption of amendments, which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Gene Green (TX) amendment No. 3."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Tsongas amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Tsongas demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Tsongas amendment No. 2."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Engel amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Engel demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 454, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 1."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2883."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "The Speaker designated the Honorable John J. Duncan, Jr. to act as Chairman of the Committee."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 454 and Rule XVIII."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "On passage Passed by the Yeas and Nays: 254 - 175 (Roll no. 398). (text of amendment in the nature of a substitute: CR H6017-6018)"
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Mr. O'Halleran moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H6021)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-19",
+           "description": "Considered under the provisions of rule H. Res. 454. (consideration: CR H6010-6023)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Rules Committee Resolution H. Res. 454 Reported to House. Rule provides for consideration of H.R. 2910, H.R. 2883 and H.R. 218. The resolution makes in order at anytime on the legislative day of July 20, 2017, for the Speaker to entertain motions that the House suspend the rules, relating to the bill H.R. 2825. Also the rule provides that the Committee on Appropriations may at any time before 5 p.m. on Friday, July 21, 2017, file privileged reports to accompany measures making appropriations for the fiscal year ending September 30, 2018."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-17",
+           "description": "Placed on the Union Calendar, Calendar No. 160."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-07-17",
+           "description": "Committee on Natural Resources discharged."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-07-17",
+           "description": "Committee on Transportation discharged."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-17",
+           "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-225, Part I."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 20."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 19 - 12 ."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-16",
+           "description": "Referred to the Subcommittee on Energy."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-13",
+           "description": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to House Natural Resources"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to House Transportation and Infrastructure"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to House Energy and Commerce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-19",
+             "time": "17:24:00",
+             "roll_call": "398",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 254,
+             "total_no": 175,
+             "total_not_voting": 4,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/398.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-19",
+             "time": "17:18:00",
+             "roll_call": "397",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 193,
+             "total_no": 232,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/397.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-19",
+             "time": "17:03:00",
+             "roll_call": "396",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 179,
+             "total_no": 247,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/396.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-19",
+             "time": "16:58:00",
+             "roll_call": "395",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 182,
+             "total_no": 246,
+             "total_not_voting": 5,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/395.json"
+           }
+         ]
+
+      }
+   ]
+}

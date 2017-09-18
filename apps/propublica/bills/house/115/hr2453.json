@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2453-115",
+         "bill_slug": "hr2453",
+         "congress": "115",
+         "bill": "H.R.2453",
+         "bill_type": "hr",
+         "number": "H.R.2453",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2453.json",
+         "title": "DHS Intelligence Rotational Assignment Program Act of 2017",
+         "short_title": "DHS Intelligence Rotational Assignment Program Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Gallagher",
+         "sponsor_id": "G000579",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000579.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2453ih/pdf/BILLS-115hr2453ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2453",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2453",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": "2017-09-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": ["HSHM05"],
+         "latest_major_action_date": "2017-09-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-09-11",
+         "senate_passage_vote": null,
+         "summary": "DHS Intelligence Rotational Assignment Program Act of 2017 This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to establish an Intelligence Rotational Assignment Program. DHS's Chief Human Capital Officer, in conjunction with the Chief Intelligence Officer, shall administer the program, which shall be open to employees serving in existing analyst positions within DHS's Intelligence Enterprise and other DHS employees as deemed appropriate by such officers.  The responsibilities applicable to the Homeland Security Rotation Program shall apply to the program.",
+         "summary_short": "DHS Intelligence Rotational Assignment Program Act of 2017 This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to establish an Intelligence Rotational Assignment Program. DHS's Chief Human Capital Officer, in conjunction with the Chief Intelligence Officer, shall administer the program, which shall be open to employees serving in existing analyst positions within DHS's Intelligence Enterprise and other DHS employees as deemed appropriate by s...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-09-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7232)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H7232-7236)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2453."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Mr. Gallagher moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Referred to the Subcommittee on Counterterrorism and Intelligence."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-16",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

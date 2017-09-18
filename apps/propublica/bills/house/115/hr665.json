@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr665-115",
+         "bill_slug": "hr665",
+         "congress": "115",
+         "bill": "H.R.665",
+         "bill_type": "hr",
+         "number": "H.R.665",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr665.json",
+         "title": "Airport Perimeter and Access Control Security Act of 2017",
+         "short_title": "Airport Perimeter and Access Control Security Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bill Keating",
+         "sponsor_id": "K000375",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000375.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr665rfs/pdf/BILLS-115hr665rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/665",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr665",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Airport Perimeter and Access Control Security Act of 2017 (Sec. 2) This bill directs the Transportation Security Administration to:   update the Transportation Sector Security Rick Assessment for the aviation sector,   update the Comprehensive Risk Assessment of Perimeter and Access Control Security for airports, conduct conduct a system-wide assessment of airport access control points and airport perimeter security, and update the 2012 National Strategy for Airport Perimeter and Access Control Security. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Airport Perimeter and Access Control Security Act of 2017 (Sec. 2) This bill directs the Transportation Security Administration to:   update the Transportation Sector Security Rick Assessment for the aviation sector,   update the Comprehensive Risk Assessment of Perimeter and Access Control Security for airports, conduct conduct a system-wide assessment of airport...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H782-783)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 665."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H782-783)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Katko moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

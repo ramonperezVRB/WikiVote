@@ -1,0 +1,169 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr876-115",
+         "bill_slug": "hr876",
+         "congress": "115",
+         "bill": "H.R.876",
+         "bill_type": "hr",
+         "number": "H.R.876",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr876.json",
+         "title": "Aviation Employee Screening and Security Enhancement Act of 2017",
+         "short_title": "Aviation Employee Screening and Security Enhancement Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "John Katko",
+         "sponsor_id": "K000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr876rfs/pdf/BILLS-115hr876rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/876",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr876",
+         "introduced_date": "2017-02-06",
+         "active": true,
+         "house_passage": "2017-04-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSHM"],
+         "subcommittee_codes": ["HSHM07"],
+         "latest_major_action_date": "2017-04-26",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": "2017-04-25",
+         "house_passage_vote": "2017-04-24",
+         "senate_passage_vote": null,
+         "summary": "Aviation Employee Screening and Security Enhancement Act of 2017 This bill directs the Transportation Security Administration (TSA) to submit a cost and feasibility study of a statistically significant number of Category I, II, and X airports to ensure that all airport employee entry and exit points leading to secure airport areas are comprised of:  a secure door utilizing card and pin entry or biometric technology; surveillance video recording capable of storing video data for at least 30 days; and certain advanced screening technologies.  The TSA shall:  work with air carriers and airport operators, vendors, and concessionaires to enhance security awareness of credentialed airport workers regarding insider threats to aviation security and best practices related to airport access controls; assess credentialing standards, policies, and practices to ensure that such threats are adequately addressed; and  require the application for a credential granting access to the Secure Identification Display Area of an airport to include the individual's social security number in order to strengthen security vetting effectiveness.  The TSA also shall:  work with airport operators to identify advanced technologies for securing employee access to secure and sterile airport areas; ensure that credentialed aviation workers are continuously vetted through the Federal Bureau of Investigation's Rap Back Service in order to more rapidly detect and mitigate insider threats; identify ways to enhance TSA's ability to educate its personnel on insider threats to aviation security and mitigate such threats; increase covert testing of TSA employee screening operations at airports and measure security effectiveness;  establish a national database of TSA employees who have had either their airport or aircraft operator-issued badge revoked for failure to comply with aviation security requirements; and   submit a plan for recurring reviews of the security controls for TSA information technology systems at airports. ",
+         "summary_short": "Aviation Employee Screening and Security Enhancement Act of 2017 This bill directs the Transportation Security Administration (TSA) to submit a cost and feasibility study of a statistically significant number of Category I, II, and X airports to ensure that all airport employee entry and exit points leading to secure airport areas are comprised of:  a secure door utilizing card and pin entry or biometric technology; surveillance video recording capable of storing video data for at least 30 da...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-26",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 223). (text: CR H2825-2826)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered as unfinished business. (consideration: CR H2838-2839)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 876."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H2825-2828)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Mr. Katko moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-25",
+           "description": "Placed on the Union Calendar, Calendar No. 54."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-25",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-94."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-24",
+           "description": "Referred to the Subcommittee on Transportation and Protective Security."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-06",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-25",
+             "time": "19:08:00",
+             "roll_call": "223",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 409,
+             "total_no": 0,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/223.json"
+           }
+         ]
+
+      }
+   ]
+}

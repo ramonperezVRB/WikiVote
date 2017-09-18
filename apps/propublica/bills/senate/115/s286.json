@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s286-115",
+         "bill_slug": "s286",
+         "congress": "115",
+         "bill": "S.286",
+         "bill_type": "s",
+         "number": "S.286",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s286.json",
+         "title": "Elkhorn Ranch and White River National Forest Conveyance Act",
+         "short_title": "Elkhorn Ranch and White River National Forest Conveyance Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Cory Gardner",
+         "sponsor_id": "G000562",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000562.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s286rs/pdf/BILLS-115s286rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/286",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s286",
+         "introduced_date": "2017-02-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-07",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Elkhorn Ranch and White River National Forest Conveyance Act  (Sec. 2) This bill requires all interest of the United States in 148 acres of identified land to be conveyed by patent to the Gordman-Leverich Partnership (GLP), a Colorado Limited Liability Partnership.   The conveyance: (1) is subject to the valid existing rights of the lessee of federal oil and gas lease COC-75070 and any other valid existing rights, and (2) shall reserve to the United States the right to collect rent and royalty payments on such lease for its duration.   The conveyance shall: (1) be completed by no later than 180 days of enactment of this bill; and (2) be without consideration, except that all costs incurred by the Department of the Interior relating to any survey, platting, legal description, or other activities carried out to prepare and issue the patent shall be paid by the GLP to Interior prior to the conveyance of such land. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Elkhorn Ranch and White River National Forest Conveyance Act  (Sec. 2) This bill requires all interest of the United States in 148 acres of identified land to be conveyed by patent to the Gordman-Leverich Partnership (GLP), a Colorado Limited Liability Partnership.   The conveyance: (1) is subject to the valid existing rights of the lessee of federal oil and gas l...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-07",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 119."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-92."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-02",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

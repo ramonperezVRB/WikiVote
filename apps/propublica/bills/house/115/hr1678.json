@@ -1,0 +1,169 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1678-115",
+         "bill_slug": "hr1678",
+         "congress": "115",
+         "bill": "H.R.1678",
+         "bill_type": "hr",
+         "number": "H.R.1678",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1678.json",
+         "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes.",
+         "short_title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lois Frankel",
+         "sponsor_id": "F000462",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000462.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1678rfs/pdf/BILLS-115hr1678rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1678",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1678",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": "2017-05-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-05-04",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-05-03",
+         "house_passage_vote": "2017-05-02",
+         "senate_passage_vote": null,
+         "summary": "(Sec. 1) This bill amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to prohibit any administrative action to recover any payment made to a state or local government for disaster or emergency assistance initiated in any forum (with exceptions for fraud) after three years following the transmission of the final expenditure report for project completion, as certified by the grantee (currently, after three years following the transmission of the final expenditure report for the disaster or emergency).  Such revised prohibition shall apply to any such payment provided on or after January 1, 2004. Any administrative action to recover such a payment that is pending on the date of enactment of this bill shall be terminated. The bill makes the same report change with respect to the deadline: (1) for any dispute arising under such Act for which there shall be a presumption that accounting records were maintained that adequately identify the source and application of funds provided for financially assisted activities, and (2) by which the inability of the government to produce source documentation supporting expenditure reports shall not constitute evidence to rebut such presumption.",
+         "summary_short": "(Sec. 1) This bill amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to prohibit any administrative action to recover any payment made to a state or local government for disaster or emergency assistance initiated in any forum (with exceptions for fraud) after three years following the transmission of the final expenditure report for project completion, as certified by the grantee (currently, after three years following the transmission of the final expenditure report ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 423 - 0 (Roll no. 250). (text: CR 5/02/2017 H3023)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Considered as unfinished business. (consideration: CR H3307-3308)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Barletta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1678."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Considered under suspension of the rules. (consideration: CR H3023-3024)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Mr. Barletta moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-28",
+           "description": "Placed on the Union Calendar, Calendar No. 57."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-28",
+           "description": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-100."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-23",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-03",
+             "time": "16:28:00",
+             "roll_call": "250",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 423,
+             "total_no": 0,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/250.json"
+           }
+         ]
+
+      }
+   ]
+}

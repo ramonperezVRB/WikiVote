@@ -1,0 +1,162 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres111-115",
+         "bill_slug": "hjres111",
+         "congress": "115",
+         "bill": "H.J.RES.111",
+         "bill_type": "hjres",
+         "number": "H.J.RES.111",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres111.json",
+         "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\".",
+         "short_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to \"Arbitration Agreements\".",
+         "sponsor_title": "Rep.",
+         "sponsor": "Keith Rothfus",
+         "sponsor_id": "R000598",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000598.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres111rds/pdf/BILLS-115hjres111rds.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/111",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres111",
+         "introduced_date": "2017-07-20",
+         "active": true,
+         "house_passage": "2017-07-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 34,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Received in the Senate.",
+         "last_vote_date": "2017-07-25",
+         "house_passage_vote": "2017-07-24",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies a rule submitted by the Consumer Financial Protection Bureau (CFPB) regarding arbitration agreements.  (The rule regulates the use of arbitration agreements in contracts for specific consumer financial products and services. It prohibits the use of a predispute arbitration agreement to prevent a consumer from filing or participating in certain class action suits. The rule also requires consumer financial product and service providers to furnish the CFPB with particular information regarding arbitrations.)",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies a rule submitted by the Consumer Financial Protection Bureau (CFPB) regarding arbitration agreements.  (The rule regulates the use of arbitration agreements in contracts for specific consumer financial products and services. It prohibits the use of a predispute arbitration agreement to prevent a consumer from filing or participating in certain class action...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "The previous question was ordered pursuant to the rule. (consideration: CR H6268-6278)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Considered under the provisions of rule H. Res. 468. (consideration: CR H6225-6233)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "On passage Passed by recorded vote: 231 - 190 (Roll no. 412)."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Considered under the provisions of rule H. Res. 468."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "On passage Passed by recorded vote: 231 - 190 (Roll no. 412). (text: CR H6269)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Considered under the provisions of rule H. Res. 468. (consideration: CR H6268-6278)"
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 111."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Rule H. Res. 468 passed House."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Rules Committee Resolution H. Res. 468 Reported to House. Rule provides for consideration of H.J. Res. 111 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-25",
+             "time": "17:06:00",
+             "roll_call": "412",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 231,
+             "total_no": 190,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/412.json"
+           }
+         ]
+
+      }
+   ]
+}

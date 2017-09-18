@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2875-115",
+         "bill_slug": "hr2875",
+         "congress": "115",
+         "bill": "H.R.2875",
+         "bill_type": "hr",
+         "number": "H.R.2875",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2875.json",
+         "title": "National Flood Insurance Program Administrative Reform Act of 2017",
+         "short_title": "National Flood Insurance Program Administrative Reform Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Nydia M. Velázquez",
+         "sponsor_id": "V000081",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/V000081.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2875rh/pdf/BILLS-115hr2875rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2875",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2875",
+         "introduced_date": "2017-06-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-18",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 166.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-18",
+           "description": "Placed on the Union Calendar, Calendar No. 166."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-18",
+           "description": "Reported by the Committee on Financial Services. H. Rept. 115-233."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Ordered to be Reported by the Yeas and Nays: 58 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2611-115",
+         "bill_slug": "hr2611",
+         "congress": "115",
+         "bill": "H.R.2611",
+         "bill_type": "hr",
+         "number": "H.R.2611",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2611.json",
+         "title": "Little Rock Central High School National Historic Site Boundary Modification Act",
+         "short_title": "Little Rock Central High School National Historic Site Boundary Modification Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "French Hill",
+         "sponsor_id": "H001072",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001072.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2611rh/pdf/BILLS-115hr2611rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2611",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2611",
+         "introduced_date": "2017-05-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-09-05",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 209.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Little Rock Central High School National Historic Site Boundary Modification Act This bill adjusts the boundary of the Little Rock Central High School National Historic Site in Arkansas to include the seven residences on South Park Street in Little Rock, which consist of 1.47 acres of specified land.  The Department of the Interior may enter into separate cooperative agreements with the owners of such residences to mark, interpret, improve, restore, and provide technical assistance for the preservation and interpretation of their properties.  Such an agreement must include a provision specifying that no changes or alterations shall be made to the exterior of the properties except by mutual agreement. ",
+         "summary_short": "Little Rock Central High School National Historic Site Boundary Modification Act This bill adjusts the boundary of the Little Rock Central High School National Historic Site in Arkansas to include the seven residences on South Park Street in Little Rock, which consist of 1.47 acres of specified land.  The Department of the Interior may enter into separate cooperative agreements with the owners of such residences to mark, interpret, improve, restore, and provide technical assistance for the pr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on the Union Calendar, Calendar No. 209."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-290."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-23",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

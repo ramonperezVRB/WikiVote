@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1346-115",
+         "bill_slug": "hr1346",
+         "congress": "115",
+         "bill": "H.R.1346",
+         "bill_type": "hr",
+         "number": "H.R.1346",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1346.json",
+         "title": "To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".",
+         "short_title": "To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled \"Metropolitan Planning Organization Coordination and Planning Area Reform\".",
+         "sponsor_title": "Rep.",
+         "sponsor": "Daniel Lipinski",
+         "sponsor_id": "L000563",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000563.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1346rh/pdf/BILLS-115hr1346rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1346",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1346",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 29,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW12"],
+         "latest_major_action_date": "2017-06-19",
+         "latest_major_action": "Committee Consideration and Mark-up Session Held and Ordered to be Reported Prior to Referral See P.L. 115-33 (S. 496) for further action.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill nullifies the Federal Highway Administration's and the Federal Transit Administration's rule published on December 20, 2016, that revises transportation planning regulations with regard to the alignment of planning regulations with statutory provisions relating to the establishment of metropolitan planning area boundaries and the designation of metropolitan planning organizations.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill nullifies the Federal Highway Administration's and the Federal Transit Administration's rule published on December 20, 2016, that revises transportation planning regulations with regard to the alignment of planning regulations with statutory provisions relating to the establishment of metropolitan planning area boundaries and the designation of ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-19",
+           "description": "Committee Consideration and Mark-up Session Held and Ordered to be Reported Prior to Referral See P.L. 115-33 (S. 496) for further action."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on the Union Calendar, Calendar No. 49."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-85."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee on Highways and Transit Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-03",
+           "description": "Referred to the Subcommittee on Highways and Transit."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres80-115",
+         "bill_slug": "sres80",
+         "congress": "115",
+         "bill": "S.RES.80",
+         "bill_type": "sres",
+         "number": "S.RES.80",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres80.json",
+         "title": "A resolution designating March 3, 2017, as \"World Wildlife Day\".",
+         "short_title": "A resolution designating March 3, 2017, as \"World Wildlife Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Christopher A. Coons",
+         "sponsor_id": "C001088",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001088.json",
+         "sponsor_party": "D",
+         "sponsor_state": "DE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres80ats/pdf/BILLS-115sres80ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/80",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres80",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-03-01",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Animals",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-02",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1583, S1585; text as passed Senate: CR S1583)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-03-01",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 3, 2017, as World Wildlife Day. Supports: (1) raising awareness of the benefits that wildlife provides to people and the threats facing wildlife around the world; and (2) escalating the fight against wildlife crime, such as wildlife trafficking.  Commends efforts of the United States to mobilize the government in a coordinated, efficient, and effective manner for progress in the fight against wildlife crime. Encourages continued cooperation between the United States, international partners, local communities, nonprofit organizations, private industry, and other partner organizations in an effort to conserve and celebrate wildlife.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 3, 2017, as World Wildlife Day. Supports: (1) raising awareness of the benefits that wildlife provides to people and the threats facing wildlife around the world; and (2) escalating the fight against wildlife crime, such as wildlife trafficking.  Commends efforts of the United States to mobilize the government in a coordinated, efficient, and effective manner for progres...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1583, S1585; text as passed Senate: CR S1583)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

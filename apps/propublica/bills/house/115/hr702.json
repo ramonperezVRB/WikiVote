@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr702-115",
+         "bill_slug": "hr702",
+         "congress": "115",
+         "bill": "H.R.702",
+         "bill_type": "hr",
+         "number": "H.R.702",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr702.json",
+         "title": "Federal Employee Antidiscrimination Act of 2017",
+         "short_title": "Federal Employee Antidiscrimination Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Elijah E. Cummings",
+         "sponsor_id": "C000984",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C000984.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MD",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr702rfs/pdf/BILLS-115hr702rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/702",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr702",
+         "introduced_date": "2017-01-27",
+         "active": true,
+         "house_passage": "2017-07-10",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-12",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-10",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)  Federal Employee Antidiscrimination Act of 2017  (Sec. 2) This bill amends the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to: (1) expand disclosure and enforcement requirements relating to findings of acts of discrimination and retaliation in the federal workplace, and (2) declare that accountability in the enforcement of federal employee rights is furthered when agencies take appropriate disciplinary action against employees who have been found to have committed discriminatory or retaliatory acts.  (Sec. 3) With respect to disclosure of findings of discrimination or retaliation in an agency, the bill requires an agency to provide notice on its website for at least one year regarding any finding by the agency or the Equal Employment Opportunity Commission (EEOC) of discrimination or retaliation in the agency.  (Sec. 4) With respect to agency reporting requirements, the bill requires agencies to:   submit their annual reports to Congress, the EEOC, and the Department of Justice on discrimination and retaliation in an electronic format;  report to the EEOC on whether disciplinary action has been initiated against an employee who has committed an act of discrimination or retaliation; and  include in the data on equal employment opportunity complaints posted on their websites whether a decision has been made to pursue disciplinary action against an employee who has committed an act of discrimination or retaliation and additional data on each class action complaint filed against the agency alleging discrimination or retaliation.   (Sec. 7) The bill also requires agencies to: (1) establish a system to track each complaint of discrimination adjudicated by the EEOC from inception to resolution, including whether a decision has been made on necessary disciplinary action as a result of a finding of discrimination, and (2) make a notation in an employee's personnel record of any adverse action taken against the employee for an act of discrimination or retaliation.  The bill declares that each federal agency is responsible for the fair, impartial processing and resolution of complaints of employment discrimination and retaliation and requires each agency to establish a model Equal Employment Opportunity Program that is not under the control of a Human Capital or General Counsel Office, is devoid of internal conflicts of interest, and ensures fairness, inclusiveness, and the efficient resolution of complaints alleging discrimination or retaliation.  Finally, the bill directs the EEOC to refer a finding of discrimination or retaliation within a federal agency to the Office of Special Counsel. The Special Counsel shall then pursue disciplinary action against any employee who commits an act of discrimination or retaliation.  (Sec. 8) Any employee who has authority to take, direct others to take, recommend, or approve any personnel action shall not with respect to such authority, implement or enforce any nondisclosure policy, form, or agreement if such policy, form, or agreement prohibits or restricts an employee from disclosing to Congress, the Office of Special Counsel, or an Office of the Inspector General any information that relates to any violation of any law, rule, regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or any other whistleblower protection. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)  Federal Employee Antidiscrimination Act of 2017  (Sec. 2) This bill amends the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 to: (1) expand disclosure and enforcement requirements relating to findings of acts of discrimination and retaliation in the federal workplace, and (2) declare that accountability in the enforcement of fed...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5398-5399)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 702."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Considered under suspension of the rules. (consideration: CR H5398-5402)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Mr. DeSantis moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-04",
+           "description": "Placed on the Union Calendar, Calendar No. 45."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-04",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-79."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-02",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-02",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-27",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1370-115",
+         "bill_slug": "hr1370",
+         "congress": "115",
+         "bill": "H.R.1370",
+         "bill_type": "hr",
+         "number": "H.R.1370",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1370.json",
+         "title": "Department of Homeland Security Blue Campaign Authorization Act of 2017",
+         "short_title": "Department of Homeland Security Blue Campaign Authorization Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Michael McCaul",
+         "sponsor_id": "M001157",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001157.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1370rfs/pdf/BILLS-115hr1370rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1370",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1370",
+         "introduced_date": "2017-03-06",
+         "active": true,
+         "house_passage": "2017-05-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSJU","HSHM"],
+         "subcommittee_codes": ["HSJU08"],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-22",
+         "senate_passage_vote": null,
+         "summary": "Department of Homeland Security Blue Campaign Authorization Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to authorize in the Department of Homeland Security (DHS) a unified, anti-human trafficking campaign to be known as the Blue Campaign, under which the Secretary of DHS shall issue DHS-wide guidance to, and develop and coordinate training for, appropriate DHS personnel regarding:  programs to help identify instances of human trafficking and potential connections to terrorist activities, including along the U.S. borders;  systematic and routine information sharing among DHS components and the National Network of Fusion Centers regarding individuals suspected or convicted of human trafficking, patterns and practices of human trafficking, and potential connections to terrorist activities;  techniques to identify suspected victims of trafficking along the U.S. borders;  techniques specifically for Transportation Security Administration personnel to identify suspected trafficking victims at airport security and to serve as a liaison and resource to aviation workers and the traveling public;  utilizing resources to educate partners and stakeholders and increase public awareness of human trafficking; and  leveraging partnerships with governmental, non-governmental, and private sector organizations at the state and local levels to raise public awareness of human trafficking and potential connections to terrorist activities.  DHS shall: (1) ensure that information technology systems utilized within DHS to record and track information regarding individuals suspected or convicted of human trafficking are capable of systematic and routine information sharing, and (2) report to Congress on the status and effectiveness of the campaign.",
+         "summary_short": "Department of Homeland Security Blue Campaign Authorization Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to authorize in the Department of Homeland Security (DHS) a unified, anti-human trafficking campaign to be known as the Blue Campaign, under which the Secretary of DHS shall issue DHS-wide guidance to, and develop and coordinate training for, appropriate DHS personnel regarding:  programs to help identify instances of human trafficking and potential connections t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4480-4481)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1370."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4480-4483)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. McCaul moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-22",
+           "description": "Placed on the Union Calendar, Calendar No. 92."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-22",
+           "description": "Committee on the Judiciary discharged."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-22",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-143, Part I."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-16",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-06",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-06",
+           "description": "Referred to House Homeland Security"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

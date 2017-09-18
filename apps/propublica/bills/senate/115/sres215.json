@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres215-115",
+         "bill_slug": "sres215",
+         "congress": "115",
+         "bill": "S.RES.215",
+         "bill_type": "sres",
+         "number": "S.RES.215",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres215.json",
+         "title": "A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.",
+         "short_title": "A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the Unite",
+         "sponsor_title": "Sen.",
+         "sponsor": "Richard M. Burr",
+         "sponsor_id": "B001135",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001135.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres215is/pdf/BILLS-115sres215is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/215",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres215",
+         "introduced_date": "2017-06-29",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-01",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates July 14, 2017, as Collector Car Appreciation Day.  Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates July 14, 2017, as Collector Car Appreciation Day.  Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-01",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-29",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3865)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-29",
+           "description": "Referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2131-115",
+         "bill_slug": "hr2131",
+         "congress": "115",
+         "bill": "H.R.2131",
+         "bill_type": "hr",
+         "number": "H.R.2131",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2131.json",
+         "title": "Fixing Internal Response to Misconduct Act",
+         "short_title": "DHS FIRM Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Clay Higgins",
+         "sponsor_id": "H001077",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001077.json",
+         "sponsor_party": "R",
+         "sponsor_state": "LA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2131rfs/pdf/BILLS-115hr2131rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2131",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2131",
+         "introduced_date": "2017-04-25",
+         "active": true,
+         "house_passage": "2017-06-20",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-22",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-20",
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-22",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5018)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2131."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Considered under suspension of the rules. (consideration: CR H5018-5020)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Mr. Higgins (LA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-25",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,183 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres92-115",
+         "bill_slug": "hjres92",
+         "congress": "115",
+         "bill": "H.J.RES.92",
+         "bill_type": "hjres",
+         "number": "H.J.RES.92",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres92.json",
+         "title": "Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact.",
+         "short_title": "Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Barbara Comstock",
+         "sponsor_id": "C001105",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001105.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres92rfs/pdf/BILLS-115hjres92rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/92",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres92",
+         "introduced_date": "2017-03-28",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU"],
+         "subcommittee_codes": ["HSJU05"],
+         "latest_major_action_date": "2017-07-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": "2017-07-17",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Interstate Compact (Sec. 2) This joint resolution grants congressional consent to amendments of Virginia, Maryland, and Washington, DC to the Washington Metropolitan Area Transit Regulation Compact relating to the appointment and removal of members and alternates of the Board of Directors of the Washington Metropolitan Area Transit Authority by compact signatories.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Interstate Compact (Sec. 2) This joint resolution grants congressional consent to amendments of Virginia, Maryland, and Washington, DC to the Washington Metropolitan Area Transit Regulation Compact relating to the appointment and removal of members and alternates of the Board of Directors of the Washington Metropolitan Area Transit Authority by compact signatories.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 380)."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 380). (text: CR H5892)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered as unfinished business. (consideration: CR H5901-5902)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H5892-5894)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 92."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the resolution."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-17",
+           "description": "Placed on the House Calendar, Calendar No. 64."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-17",
+           "description": "Reported by the Committee on Judiciary. H. Rept. 115-228."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-28",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-17",
+             "time": "19:02:00",
+             "roll_call": "380",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 402,
+             "total_no": 0,
+             "total_not_voting": 31,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/380.json"
+           }
+         ]
+
+      }
+   ]
+}

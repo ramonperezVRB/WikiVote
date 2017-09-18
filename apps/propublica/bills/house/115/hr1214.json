@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1214-115",
+         "bill_slug": "hr1214",
+         "congress": "115",
+         "bill": "H.R.1214",
+         "bill_type": "hr",
+         "number": "H.R.1214",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1214.json",
+         "title": "Disaster SAVE Act",
+         "short_title": "Disaster SAVE Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lou Barletta",
+         "sponsor_id": "B001269",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001269.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1214rfs/pdf/BILLS-115hr1214rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1214",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1214",
+         "introduced_date": "2017-02-24",
+         "active": true,
+         "house_passage": "2017-03-26",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-03-28",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-03-26",
+         "senate_passage_vote": null,
+         "summary": "Disaster Simplified Assistance Value Enhancement Act or the Disaster SAVE Act (Sec. 2) This bill requires the Federal Emergency Management Agency (FEMA) to establish the repair cost threshold for eligibility for major disaster assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act's simplified procedures program at $500,000 until September 30, 2021. FEMA must submit a report to specified congressional committees by May 1, 2021, containing the results of a comprehensive review of such program, including an assessment of cost-effectiveness, speed of recovery, capacity of the grantees, past performance and accountability measures. ",
+         "summary_short": "Disaster Simplified Assistance Value Enhancement Act or the Disaster SAVE Act (Sec. 2) This bill requires the Federal Emergency Management Agency (FEMA) to establish the repair cost threshold for eligibility for major disaster assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act's simplified procedures program at $500,000 until September 30, 2021. FEMA must submit a report to specified congressional committees by May 1, 2021, containing the results of a compreh...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-28",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2449)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1214."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "Considered under suspension of the rules. (consideration: CR H2449-2450)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "Mr. Barletta moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-09",
+           "description": "Placed on the Union Calendar, Calendar No. 14."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-32."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-27",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-24",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

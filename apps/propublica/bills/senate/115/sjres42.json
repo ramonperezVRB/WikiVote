@@ -1,0 +1,85 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres42-115",
+         "bill_slug": "sjres42",
+         "congress": "115",
+         "bill": "S.J.RES.42",
+         "bill_type": "sjres",
+         "number": "S.J.RES.42",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres42.json",
+         "title": "A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Saudi Arabia of certain defense articles.",
+         "short_title": "A joint resolution relating to the disapproval of the proposed export to the Government of the Kingdom of Saudi Arabia of certain defense articles.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Rand Paul",
+         "sponsor_id": "P000603",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000603.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres42is/pdf/BILLS-115sjres42is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/42",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres42",
+         "introduced_date": "2017-05-25",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 53. Record Vote Number: 143. (consideration: CR S3428)",
+         "last_vote_date": "2017-06-13",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This joint resolution prohibits the issuance of a letter of offer for the following proposed exports to the government of Saudi Arabia:  the transfer of certain technical data, hardware, and defense services to the Royal Saudi Air Force and Boeing Saudi Arabia to support the deployment of the Joint Direct Attack Munition off Saudi Arabia's western made aircraft platforms; the transfer of certain technical data, hardware, and defense services to the Royal Saudi Air Force to support the integration of the FMU-152A/B JPB Fuze System into the MK-80, BLU-109, and BLU-100 series warhead family of weapons; and the transfer of defense articles, defense services, and technical data to support the Paveway II and III, Enhanced Paveway II and III, and Paveway IV Weapons Systems for the Royal Saudi Air Force F-15, Tornado, and Typhoon Aircraft.   ",
+         "summary_short": "This joint resolution prohibits the issuance of a letter of offer for the following proposed exports to the government of Saudi Arabia:  the transfer of certain technical data, hardware, and defense services to the Royal Saudi Air Force and Boeing Saudi Arabia to support the deployment of the Joint Direct Attack Munition off Saudi Arabia's western made aircraft platforms; the transfer of certain technical data, hardware, and defense services to the Royal Saudi Air Force to support the integra...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-06-13",
+           "description": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 53. Record Vote Number: 143. (consideration: CR S3428)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-06-13",
+           "description": "Motion to discharge Senate Committee on Foreign Relations made. (consideration: CR S3416-3428)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-25",
+           "description": "Read twice and referred to the Committee on Foreign Relations."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "Senate",
+             "date": "2017-06-13",
+             "time": "14:26:00",
+             "roll_call": "143",
+             "question": "On the Motion to Discharge",
+             "result": "Motion to Discharge Rejected",
+             "total_yes": 47,
+             "total_no": 53,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/143.json"
+           }
+         ]
+
+      }
+   ]
+}

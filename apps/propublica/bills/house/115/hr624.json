@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr624-115",
+         "bill_slug": "hr624",
+         "congress": "115",
+         "bill": "H.R.624",
+         "bill_type": "hr",
+         "number": "H.R.624",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr624.json",
+         "title": "Social Security Number Fraud Prevention Act of 2017",
+         "short_title": "Social Security Number Fraud Prevention Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "David Valadao",
+         "sponsor_id": "V000129",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/V000129.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr624enr/pdf/BILLS-115hr624enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/624",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr624",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-05-23",
+         "senate_passage": "2017-09-05",
+         "enacted": "2017-09-07",
+         "vetoed": null,
+         "cosponsors": 33,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSWM","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-08",
+         "latest_major_action": "Presented to President.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-23",
+         "senate_passage_vote": "2017-09-05",
+         "summary": "Social Security Number Fraud Prevention Act of 2017 (Sec. 2) This bill: (1) prohibits federal agencies (including legislative and judicial branch agencies, with specified exceptions) from including any individual's Social Security account number on any document sent by mail unless the agency head determines that such inclusion is necessary; and (2) requires agencies that have Chief Financial Officers to issue regulations, within five years of this bill's enactment, that specify the circumstances under which such inclusion is necessary.",
+         "summary_short": "Social Security Number Fraud Prevention Act of 2017 (Sec. 2) This bill: (1) prohibits federal agencies (including legislative and judicial branch agencies, with specified exceptions) from including any individual's Social Security account number on any document sent by mail unless the agency head determines that such inclusion is necessary; and (2) requires agencies that have Chief Financial Officers to issue regulations, within five years of this bill's enactment, that specify the circumstan...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Passed Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5020)"
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-25",
+           "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 106."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4533)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 624."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H4533-4535)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Mr. Ross moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-23",
+           "description": "Placed on the Union Calendar, Calendar No. 98."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-23",
+           "description": "Committee on Ways and Means discharged."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-23",
+           "description": "Referred sequentially to the House Committee on Ways and Means for a period ending not later than May 23, 2017 for consideration of such provisions of the bill and amendment as fall within the jurisdiction of that committee pursuant to clause 1(t) of rule X."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-23",
+           "description": "Reported (Amended) by the Committee on 115-150, Part I."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-14",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-14",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,148 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr132-115",
+         "bill_slug": "hr132",
+         "congress": "115",
+         "bill": "H.R.132",
+         "bill_type": "hr",
+         "number": "H.R.132",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr132.json",
+         "title": "Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017",
+         "short_title": "Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom Cole",
+         "sponsor_id": "C001053",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001053.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr132ih/pdf/BILLS-115hr132ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/132",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr132",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-03-14",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII13"],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-03-15",
+         "house_passage_vote": "2017-03-14",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017 (Sec. 2) This bill directs the Department of the Interior to convey to the Arbuckle Master Conservancy District in Murray County, Oklahoma, all right, title, and interest of the United States in and to the Maintenance Complex and District Office of the Arbuckle Project.  The bill shields the federal government from being held liable by any court for damages arising out of any act, omission, or occurrence related to the complex and office, except for damages caused by acts of negligence by the government or government employees or agents prior to its conveyance.  After such conveyance: (1) the complex and office shall not be considered to be a part of a federal reclamation project; and (2) such district shall not be eligible to receive any benefits with respect to any facility comprising such complex and office, except benefits that would be available to a similarly situated person with respect to such a facility that is not part of a federal reclamation project.  If the conveyance has not been completed within 12 months, Interior shall submit to Congress an explanation and the date by which the conveyance will be completed. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017 (Sec. 2) This bill directs the Department of the Interior to convey to the Arbuckle Master Conservancy District in Murray County, Oklahoma, all right, title, and interest of the United States in and to the Maintenance Complex and District Office of the Arbuckle Project.  The bill shiel...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 1 (Roll no. 159)."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "Considered as unfinished business. (consideration: CR H2066-2067)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "DEBATE - The House resumed debate on H.R. 132."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-15",
+           "description": "Considered as unfinished business. (consideration: CR H2063)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 132."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "Considered under suspension of the rules. (consideration: CR H1942-1943; text of measure as introduced: CR H1942)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "Mr. Webster (FL) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-15",
+             "time": "18:57:00",
+             "roll_call": "159",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 407,
+             "total_no": 1,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/159.json"
+           }
+         ]
+
+      }
+   ]
+}

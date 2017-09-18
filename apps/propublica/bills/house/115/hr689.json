@@ -1,0 +1,148 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr689-115",
+         "bill_slug": "hr689",
+         "congress": "115",
+         "bill": "H.R.689",
+         "bill_type": "hr",
+         "number": "H.R.689",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr689.json",
+         "title": "Bolts Ditch Access and Use Act",
+         "short_title": "Bolts Ditch Access and Use Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jared Polis",
+         "sponsor_id": "P000598",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000598.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr689rs/pdf/BILLS-115hr689rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/689",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr689",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-02-05",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-09",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.",
+         "last_vote_date": "2017-02-06",
+         "house_passage_vote": "2017-02-05",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Bolts Ditch Access and Use Act (Sec. 2) This bill directs the Department of Agriculture to permit by special use authorization nonmotorized access and use of the Bolts Ditch headgate and the Bolts Ditch within the Holy Cross Wilderness in Colorado for the diversion of water and use, maintenance, and repair of the ditch and headgate by the town of Minturn, Colorado. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Bolts Ditch Access and Use Act (Sec. 2) This bill directs the Department of Agriculture to permit by special use authorization nonmotorized access and use of the Bolts Ditch headgate and the Bolts Ditch within the Holy Cross Wilderness in Colorado for the diversion of water and use, maintenance, and repair of the ditch and headgate by the town of Minturn, Colorado. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-09",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 71."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-09",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-58."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 1 (Roll no. 79). (text: CR H984)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Considered as unfinished business. (consideration: CR H993)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 689."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Considered under suspension of the rules. (consideration: CR H984-985)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Mr. Lamborn moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-06",
+             "time": "18:51:00",
+             "roll_call": "79",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 409,
+             "total_no": 1,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/79.json"
+           }
+         ]
+
+      }
+   ]
+}

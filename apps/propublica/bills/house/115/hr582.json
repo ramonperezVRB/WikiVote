@@ -1,0 +1,127 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr582-115",
+         "bill_slug": "hr582",
+         "congress": "115",
+         "bill": "H.R.582",
+         "bill_type": "hr",
+         "number": "H.R.582",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr582.json",
+         "title": "Kari's Law Act of 2017",
+         "short_title": "Kari's Law Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Louie Gohmert",
+         "sponsor_id": "G000552",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000552.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr582ih/pdf/BILLS-115hr582ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/582",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr582",
+         "introduced_date": "2017-01-17",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 29,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": "2017-01-23",
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Kari's Law Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to prohibit businesses from manufacturing or importing for use in the United States, or selling or leasing in the United States, a multi-line telephone system unless it is pre-configured to allow users to directly initiate a call to 9-1-1 (without dialing any additional digit, code, prefix, or post-fix, including any trunk-access code such as the digit \"9\") from any station equipped with dialing facilities. Businesses are prohibited from installing, managing, or operating multi-line telephone systems without such a direct 9-1-1 call configuration.  Businesses installing, managing, or operating such systems for use in the United States must configure the systems to provide a notification to a central location at the facility where the system is installed, or to another person or organization regardless of location, if the system is able to be so configured without an improvement to the hardware or software.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Kari's Law Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to prohibit businesses from manufacturing or importing for use in the United States, or selling or leasing in the United States, a multi-line telephone system unless it is pre-configured to allow users to directly initiate a call to 9-1-1 (without dialing any additional digit, code, pr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 61). (text: CR H588)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered as unfinished business. (consideration: CR H592)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 582."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H588-590)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mr. Lance moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-23",
+             "time": "19:04:00",
+             "roll_call": "61",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 408,
+             "total_no": 0,
+             "total_not_voting": 26,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/61.json"
+           }
+         ]
+
+      }
+   ]
+}

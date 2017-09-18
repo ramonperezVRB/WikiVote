@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres227-115",
+         "bill_slug": "sres227",
+         "congress": "115",
+         "bill": "S.RES.227",
+         "bill_type": "sres",
+         "number": "S.RES.227",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres227.json",
+         "title": "A resolution recognizing \"National Youth Sports Week\" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.",
+         "short_title": "A resolution recognizing \"National Youth Sports Week\" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Shelley Moore Capito",
+         "sponsor_id": "C001047",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001047.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WV",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres227is/pdf/BILLS-115sres227is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/227",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres227",
+         "introduced_date": "2017-07-20",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Sports and Recreation",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-02",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-02",
+           "description": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-02",
+           "description": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4715-4716)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4119)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

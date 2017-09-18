@@ -1,0 +1,279 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1873-115",
+         "bill_slug": "hr1873",
+         "congress": "115",
+         "bill": "H.R.1873",
+         "bill_type": "hr",
+         "number": "H.R.1873",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1873.json",
+         "title": "Electricity Reliability and Forest Protection Act",
+         "short_title": "Electricity Reliability and Forest Protection Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Doug LaMalfa",
+         "sponsor_id": "L000578",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000578.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1873rfs/pdf/BILLS-115hr1873rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1873",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1873",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": "2017-06-20",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 20,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSAG","HSII"],
+         "subcommittee_codes": ["HSAG15","HSII13","HSII10"],
+         "latest_major_action_date": "2017-06-22",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-06-21",
+         "house_passage_vote": "2017-06-20",
+         "senate_passage_vote": null,
+         "summary": "Electricity Reliability and Forest Protection Act (Sec.2)This bill requires the Department of the Interior and the Department of Agriculture (USDA), with respect to lands under their respective jurisdictions, to ensure that all existing and future rights-of-way for electrical transmission and distribution facilities on such lands include requirements for utility vegetation management, facility inspection, and operation and maintenance activities that:  are developed in consultation with the holder of the right-of-way; enable the owner or operator of a facility to operate and maintain it in good working order and comply with federal, state, and local electric system reliability and fire safety requirements; and  minimize the need for case-by-case or annual approvals, and instead provide for expedited review and approval, for routine vegetation management, facility inspection, and operation and maintenance activities within existing electrical transmission and distribution rights-of-way, as well as utility vegetation management activities necessary to control hazard trees within or adjacent to electrical transmission and distribution rights-of-way.  Interior and USDA shall give facility owners and operators the option to submit to the appropriate agency a vegetation management, facility inspection, and operation and maintenance plan. Interior and USDA shall develop jointly a consolidated and coordinated process for review and approval of these plans. Interior and USDA shall apply its categorical exclusion process under the National Environmental Policy Act of 1969 (NEPA) to plans developed by this bill.  (A \"categorical exclusion\" under the NEPA is a category of actions which do not individually or cumulatively have a significant effect on the human environment and for which neither an Environmental Assessment nor an Environmental Impact Statement is required.)  If vegetation on federal lands within, or hazard trees on federal lands adjacent to, an electrical transmission or distribution right-of-way granted by Interior or USDA has contacted, or is in imminent danger of contacting, one or more electric transmission or distribution lines, the owner or operator:  may prune or remove the vegetation or hazard tree to avoid disruption of electric service and risk of fire, and shall notify the local agent of the relevant agency within 24 hours after such removal.  The owner or operator of a transmission or distribution facility, after notifying Interior or USDA, as appropriate, may also conduct vegetation management activities on federal lands to meet clearance requirements under standards established by the Electric Reliability Organization or by state and local authorities. An owner or operator of a transmission or distribution facility shall not be held liable for wildfire damage, loss, or injury, including the cost of fire suppression, if Interior or USDA fails to allow it to:  operate consistently with an approved vegetation management, facility inspection, and operation and maintenance plan on federal lands within or adjacent to a right-of-way to comply with federal, state, or local electric system reliability and fire safety standards; or  perform vegetation management activities in response to a hazard tree or a tree in imminent danger of contacting the owner's or operator's transmission or distribution facility.  Interior and USDA may develop a program to train their personnel involved in vegetation management decisions on rights-of-way relating to transmission and distribution facilities. Interior and USDA shall prescribe regulations, or amend existing regulations, to implement this bill.  An owner or operator does not have to develop and submit a vegetation management, facility inspection, and operation and maintenance plan if one has already been approved by Interior or USDA before the enactment of this bill. (Sec.3)This bill shall not detract from the availability of funds or other resources for wild-fire suppression. ",
+         "summary_short": "Electricity Reliability and Forest Protection Act (Sec.2)This bill requires the Department of the Interior and the Department of Agriculture (USDA), with respect to lands under their respective jurisdictions, to ensure that all existing and future rights-of-way for electrical transmission and distribution facilities on such lands include requirements for utility vegetation management, facility inspection, and operation and maintenance activities that:  are developed in consultation with the h...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 29,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-22",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "On passage Passed by recorded vote: 300 - 118 (Roll no. 315)."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5027-5029)"
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1873."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of the Carbajal Part A Amendment No. 1 which was debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer Part A Amendment No. 3."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Sinema Part A Amendment No. 2."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Carbajal Part A amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Carbajal demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal Part A Amendment No. 1."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1873."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 392 and Rule XVIII."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Considered under the provisions of rule H. Res. 392. (consideration: CR H5022-5032)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Rules Committee Resolution H. Res. 392 Reported to House. Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the Union Calendar, Calendar No. 110."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-06-12",
+           "description": "Committee on Agriculture discharged."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-165, Part I."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 14."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Federal Lands Discharged."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Water, Power and Oceans Discharged."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Referred to the Subcommittee on Conservation and Forestry."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-11",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-11",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Referred to House Agriculture"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Referred to House Natural Resources"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-21",
+             "time": "16:39:00",
+             "roll_call": "315",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 300,
+             "total_no": 118,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/315.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-21",
+             "time": "16:22:00",
+             "roll_call": "314",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 171,
+             "total_no": 243,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/314.json"
+           }
+         ]
+
+      }
+   ]
+}

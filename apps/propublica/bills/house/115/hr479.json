@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr479-115",
+         "bill_slug": "hr479",
+         "congress": "115",
+         "bill": "H.R.479",
+         "bill_type": "hr",
+         "number": "H.R.479",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr479.json",
+         "title": "North Korea State Sponsor of Terrorism Designation Act of 2017",
+         "short_title": "North Korea State Sponsor of Terrorism Designation Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ted Poe",
+         "sponsor_id": "P000592",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000592.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr479rfs/pdf/BILLS-115hr479rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/479",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr479",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": "2017-04-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSFA"],
+         "subcommittee_codes": ["HSFA18","HSFA05"],
+         "latest_major_action_date": "2017-04-04",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": "2017-04-03",
+         "house_passage_vote": "2017-04-02",
+         "senate_passage_vote": null,
+         "summary": "North Korea State Sponsor of Terrorism Designation Act of 2017 This bill expresses the sense of Congress that the government of North Korea likely meets the criteria for designation as a state sponsor of terrorism and, if so, should be so designated. The Department of State shall submit to Congress a determination as to whether such government meets the criteria for designation as a state sponsor of terrorism.",
+         "summary_short": "North Korea State Sponsor of Terrorism Designation Act of 2017 This bill expresses the sense of Congress that the government of North Korea likely meets the criteria for designation as a state sponsor of terrorism and, if so, should be so designated. The Department of State shall submit to Congress a determination as to whether such government meets the criteria for designation as a state sponsor of terrorism.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 210). (text as passed House: CR H2611-2612)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Considered as unfinished business. (consideration: CR H2616-2617)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 479."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Considered under suspension of the rules. (consideration: CR H2611-2614)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Referred to the Subcommittee on Asia and the Pacific."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-03",
+             "time": "19:15:00",
+             "roll_call": "210",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 394,
+             "total_no": 1,
+             "total_not_voting": 34,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/210.json"
+           }
+         ]
+
+      }
+   ]
+}

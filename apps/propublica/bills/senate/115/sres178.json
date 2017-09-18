@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres178-115",
+         "bill_slug": "sres178",
+         "congress": "115",
+         "bill": "S.RES.178",
+         "bill_type": "sres",
+         "number": "S.RES.178",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres178.json",
+         "title": "A resolution to authorize testimony, document production, and representation in United States v. Kevin Lee Olson.",
+         "short_title": "A resolution to authorize testimony, document production, and representation in United States v. Kevin Lee Olson.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mitch McConnell",
+         "sponsor_id": "M000355",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000355.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres178ats/pdf/BILLS-115sres178ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/178",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres178",
+         "introduced_date": "2017-05-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-23",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3150, S3151; text as passed Senate: CR S3150; text of measure as introduced: CR S3149)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-23",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes: (1) Kobye Noel, an employee in the Office of Senator Heidi Heitkamp, and any other current or former employee of the Senator's office from whom relevant evidence may be necessary, to testify and produce documents in the case of United States v. Kevin Lee Olson, except concerning matters for which a privilege should be asserted; and (2) the Senate Legal Counsel to represent these individuals in connection with this case.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Authorizes: (1) Kobye Noel, an employee in the Office of Senator Heidi Heitkamp, and any other current or former employee of the Senator's office from whom relevant evidence may be necessary, to testify and produce documents in the case of United States v. Kevin Lee Olson, except concerning matters for which a privilege should be asserted; and (2) the Senate Legal Counsel to represent th...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3150, S3151; text as passed Senate: CR S3150; text of measure as introduced: CR S3149)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

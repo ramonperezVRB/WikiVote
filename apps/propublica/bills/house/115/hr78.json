@@ -1,0 +1,299 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr78-115",
+         "bill_slug": "hr78",
+         "congress": "115",
+         "bill": "H.R.78",
+         "bill_type": "hr",
+         "number": "H.R.78",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr78.json",
+         "title": "SEC Regulatory Accountability Act",
+         "short_title": "SEC Regulatory Accountability Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ann Wagner",
+         "sponsor_id": "W000812",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000812.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr78rfs/pdf/BILLS-115hr78rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/78",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr78",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-17",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": "2017-01-12",
+         "house_passage_vote": "2017-01-11",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) SEC Regulatory Accountability Act (Sec. 2) This bill amends the Securities Exchange Act of 1934 to direct the Securities and Exchange Commission (SEC) to:  before issuing a regulation under the securities laws, identify the nature and source of the problem that the proposed regulation is designed to address;  adopt a regulation only upon a reasoned determination that its benefits justify its costs;  identify and assess available alternatives to any regulation; and  ensure that any regulation is accessible, consistent, written in plain language, and easy to understand.  In determining the costs and benefits of a proposed regulation, the SEC shall consider its impact on investor choice, market liquidity, and small businesses.  In addition, the SEC shall: (1) periodically review its existing regulations to determine if they are outmoded, ineffective, insufficient, or excessively burdensome; and (2) in accordance with such review, modify, streamline, expand, or repeal them. Whenever it adopts or amends a rule that is \"major\" (in terms of economic impact), the SEC shall state in its adopting release: (1) the regulation's purposes and intended consequences, (2) metrics for measuring the regulation's economic impact, (3) the assessment plan to be used to assess whether the regulation has achieved its stated purposes, and (4) any foreseeable unintended or negative consequences of the regulation.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) SEC Regulatory Accountability Act (Sec. 2) This bill amends the Securities Exchange Act of 1934 to direct the Securities and Exchange Commission (SEC) to:  before issuing a regulation under the securities laws, identify the nature and source of the problem that the proposed regulation is designed to address;  adopt a regulation only upon a reasoned determination t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 25,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-17",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "On passage Passed by recorded vote: 243 - 184 (Roll no. 51)."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 195 - 232 (Roll no. 50)."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Bustos motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment pertaining to consideration of the potential outsourcing of U.S. Jobs."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Mrs. Bustos moved to recommit with instructions to the Committee on Financial Services. (text: CR H446)"
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 78."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Raskin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Raskin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 40, the Committee of the Whole proceeded with 10 minutes of debate on the Raskin Part A amendment No. 5."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. DeSaulnier demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 40, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier Part A amendment No. 4."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Al Green (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Al Green (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 40, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) Part A amendment No. 3."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 40, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez Part A amendment No. 2."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 40, the Committee of the Whole proceeded with 10 minutes of debate on the Al Green (TX) Part A amendment No. 1."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 78."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "The Speaker designated the Honorable Tom McClintock to act as Chairman of the Committee."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 40 and Rule XVIII."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Rule provides for consideration of H.R. 78 and H.R. 238. The resolution provides for one hour of general debate on both H.R. 78 and H.R. 238. The resolution provides for suspension authority at any time on the legislative day of January 13, 2017. The resolution also provides for legislative proceedings during the period of January 16, 2017 through January 20, 2017."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Considered under the provisions of rule H. Res. 40. (consideration: CR H428-448; text as reported in House: CR H437-438)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Rules Committee Resolution H. Res. 40 Reported to House. Rule provides for consideration of H.R. 78 and H.R. 238. The resolution provides for one hour of general debate on both H.R. 78 and H.R. 238. The resolution provides for suspension authority at any time on the legislative day of January 13, 2017. The resolution also provides for legislative proceedings during the period of January 16, 2017 through January 20, 2017."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "17:12:00",
+             "roll_call": "51",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 243,
+             "total_no": 184,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/51.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "17:06:00",
+             "roll_call": "50",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 195,
+             "total_no": 232,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/50.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "16:50:00",
+             "roll_call": "49",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 196,
+             "total_no": 231,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/49.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "16:46:00",
+             "roll_call": "48",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 194,
+             "total_no": 233,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/48.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "16:40:00",
+             "roll_call": "47",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 232,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/47.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-12",
+             "time": "16:35:00",
+             "roll_call": "46",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 192,
+             "total_no": 233,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/46.json"
+           }
+         ]
+
+      }
+   ]
+}

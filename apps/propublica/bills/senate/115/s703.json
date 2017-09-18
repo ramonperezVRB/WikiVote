@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s703-115",
+         "bill_slug": "s703",
+         "congress": "115",
+         "bill": "S.703",
+         "bill_type": "s",
+         "number": "S.703",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s703.json",
+         "title": "Wichita Project Equus Beds Division Authorization Extension Act",
+         "short_title": "Wichita Project Equus Beds Division Authorization Extension Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jerry Moran",
+         "sponsor_id": "M000934",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000934.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s703rs/pdf/BILLS-115s703rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/703",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s703",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Water Resources Development",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Wichita Project Equus Beds Division Authorization Extension Act This bill amends the Wichita Project Equus Beds Division Authorization Act of 2005 to extend for ten years the authority of the Department of the Interior to carry out the Equus Beds Aquifer Recharge and Recovery Project, Kansas.",
+         "summary_short": "Wichita Project Equus Beds Division Authorization Extension Act This bill amends the Wichita Project Equus Beds Division Authorization Act of 2005 to extend for ten years the authority of the Department of the Interior to carry out the Equus Beds Aquifer Recharge and Recovery Project, Kansas.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 132."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-102."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

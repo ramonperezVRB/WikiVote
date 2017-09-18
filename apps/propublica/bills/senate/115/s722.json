@@ -1,0 +1,294 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s722-115",
+         "bill_slug": "s722",
+         "congress": "115",
+         "bill": "S.722",
+         "bill_type": "s",
+         "number": "S.722",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s722.json",
+         "title": "Countering Iran's Destabilizing Activities Act of 2017",
+         "short_title": "Countering Iran's Destabilizing Activities Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bob Corker",
+         "sponsor_id": "C001071",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001071.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s722es/pdf/BILLS-115s722es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/722",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s722",
+         "introduced_date": "2017-03-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-06-14",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 64,
+         "withdrawn_cosponsors": 1,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-29",
+         "latest_major_action": "Message on Senate action sent to the House.",
+         "last_vote_date": "2017-06-15",
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-06-14",
+         "summary": "Countering Iran's Destabilizing Activities Act of 2017 This bill directs the Departments of State, Defense, and Treasury and the Director of National Intelligence to submit a strategy every two years for deterring conventional and asymmetric Iranian activities that threaten the United States and key allies in the Middle East, North Africa, and beyond.  The President shall impose asset blocking and U.S. exclusion sanctions against any person that materially contributes to: (1) Iran's ballistic missile or weapons of mass destruction programs, or (2) the sale or transfer to Iran of specified military equipment or the provision of related technical or financial assistance.  The President shall impose against Iran's Islamic Revolutionary Guard Corps and affiliated foreign persons sanctions with respect to blocking property of, and prohibiting transactions with, foreign persons who commit or support terrorism.  The President may impose asset blocking sanctions against any person identified by the State Department as responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against certain individuals in Iran.  The bill requires specified existing sanctions against persons for materially contributing to Iran's ballistic missile program or for supporting Iran's acts of international terrorism to continue until 90 days after the President certifies that such activities ceased during the immediately preceding three-month period.  The bill exempts certain humanitarian and national security activities from sanctions.  The President may temporarily waive the imposition or continuation of sanctions under specified circumstances.  The bill sets forth reporting requirements with respect to: (1) persons contributing to Iran's ballistic missile program, (2) U.S.-European Union sanctions coordination, (3) U.S. citizens detained by Iran, and (4) each use of the waiver authority.",
+         "summary_short": "Countering Iran's Destabilizing Activities Act of 2017 This bill directs the Departments of State, Defense, and Treasury and the Director of National Intelligence to submit a strategy every two years for deterring conventional and asymmetric Iranian activities that threaten the United States and key allies in the Middle East, North Africa, and beyond.  The President shall impose asset blocking and U.S. exclusion sanctions against any person that materially contributes to: (1) Iran's ballistic...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 26,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-29",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 25,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-29",
+           "description": "Senate requests return of papers with respect to S. 722 by Unanimous Consent."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-16",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-16",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 22,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 21,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 98 - 2. Record Vote Number: 147. (text as passed Senate: CR S3513-3528)"
+         },
+                  {
+           "id": 20,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "The committee substitute as amended agreed to by Unanimous Consent."
+         },
+                  {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Considered by Senate. (consideration: CR S3505-3528)"
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-14",
+           "description": "Cloture motion on the measure withdrawn by unanimous consent in Senate. (CR S3484)"
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-14",
+           "description": "Cloture motion on the committee reported substitute amendment withdrawn by unanimous consent in Senate. (CR S3484)"
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-14",
+           "description": "Considered by Senate. (consideration: CR S3462-3484)"
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Cloture motion on the measure presented in Senate. (CR S3450)"
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Cloture motion on the committee reported substitute amendment presented in Senate. (CR S3450)"
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Considered by Senate. (consideration: CR S3428-3450)"
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Measure laid before Senate by motion."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to proceed to measure considered in Senate. (consideration: CR S3388-3390)"
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-08",
+           "description": "Motion to proceed to measure considered in Senate. (consideration: CR S3347-3349, S3349-3358)"
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 91 - 8. Record Vote Number: 140. (CR S3309)"
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "Motion to proceed to measure considered in Senate. (consideration: CR S3303-3321)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-05",
+           "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S3239)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-05",
+           "description": "Motion to proceed to consideration of measure made in Senate. (CR S3239)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-25",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 110."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-23",
+           "description": "Read twice and referred to the Committee on Foreign Relations."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "Senate",
+             "date": "2017-06-15",
+             "time": "11:57:00",
+             "roll_call": "147",
+             "question": "On Passage of the Bill",
+             "result": "Bill Passed",
+             "total_yes": 98,
+             "total_no": 2,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/147.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-06-15",
+             "time": "11:33:00",
+             "roll_call": "146",
+             "question": "On the Amendment",
+             "result": "Amendment Agreed to",
+             "total_yes": 100,
+             "total_no": 0,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/146.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-06-15",
+             "time": "11:01:00",
+             "roll_call": "145",
+             "question": "On the Amendment",
+             "result": "Amendment Agreed to",
+             "total_yes": 94,
+             "total_no": 6,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/145.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-06-14",
+             "time": "14:08:00",
+             "roll_call": "144",
+             "question": "On the Amendment",
+             "result": "Amendment Agreed to",
+             "total_yes": 97,
+             "total_no": 2,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/144.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-06-07",
+             "time": "13:58:00",
+             "roll_call": "140",
+             "question": "On the Cloture Motion",
+             "result": "Cloture Motion Agreed to",
+             "total_yes": 91,
+             "total_no": 8,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/140.json"
+           }
+         ]
+
+      }
+   ]
+}

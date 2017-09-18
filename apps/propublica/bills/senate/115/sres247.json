@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres247-115",
+         "bill_slug": "sres247",
+         "congress": "115",
+         "bill": "S.RES.247",
+         "bill_type": "sres",
+         "number": "S.RES.247",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres247.json",
+         "title": "A resolution designating July 29, 2017, as \"Paralympic and Adaptive Sport Day\".",
+         "short_title": "A resolution designating July 29, 2017, as \"Paralympic and Adaptive Sport Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Orrin G. Hatch",
+         "sponsor_id": "H000338",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000338.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/247",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres247",
+         "introduced_date": "2017-08-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Sports and Recreation",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres171-115",
+         "bill_slug": "sres171",
+         "congress": "115",
+         "bill": "S.RES.171",
+         "bill_type": "sres",
+         "number": "S.RES.171",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres171.json",
+         "title": "A resolution supporting the goals and ideals of National Travel and Tourism Week and honoring the valuable contributions of travel and tourism to the United States.",
+         "short_title": "A resolution supporting the goals and ideals of National Travel and Tourism Week and honoring the valuable contributions of travel and tourism to the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Amy Klobuchar",
+         "sponsor_id": "K000367",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000367.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres171ats/pdf/BILLS-115sres171ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/171",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres171",
+         "introduced_date": "2017-05-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-16",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-17",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3021; text as passed Senate: CR S3020)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-16",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Supports the goals and ideals of National Travel and Tourism Week. Commends travel and tourism industry employees for their important contributions to the United States.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Supports the goals and ideals of National Travel and Tourism Week. Commends travel and tourism industry employees for their important contributions to the United States.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3021; text as passed Senate: CR S3020)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

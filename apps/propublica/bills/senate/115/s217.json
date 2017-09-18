@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s217-115",
+         "bill_slug": "s217",
+         "congress": "115",
+         "bill": "S.217",
+         "bill_type": "s",
+         "number": "S.217",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s217.json",
+         "title": "A bill to amend the Denali National Park Improvement Act to clarify certain provisions relating to the natural gas pipeline authorized in the Denali National Park and Preserve.",
+         "short_title": "A bill to amend the Denali National Park Improvement Act to clarify certain provisions relating to the natural gas pipeline authorized in the Denali National Park and Preserve.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s217rs/pdf/BILLS-115s217rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/217",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s217",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-14",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill amends the Denali National Park Improvement Act to expand the nonwilderness areas of Denali National Park and Preserve in Alaska where the National Park Service may issue right-of-way permits to construct a natural gas pipeline. Additionally, the pipeline shallnot be subject to agency approval under the Alaska National Interest Lands Conservation Act.",
+         "summary_short": "This bill amends the Denali National Park Improvement Act to expand the nonwilderness areas of Denali National Park and Preserve in Alaska where the National Park Service may issue right-of-way permits to construct a natural gas pipeline. Additionally, the pipeline shallnot be subject to agency approval under the Alaska National Interest Lands Conservation Act.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-14",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 146."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-109."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

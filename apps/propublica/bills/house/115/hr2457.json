@@ -1,0 +1,169 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2457-115",
+         "bill_slug": "hr2457",
+         "congress": "115",
+         "bill": "H.R.2457",
+         "bill_type": "hr",
+         "number": "H.R.2457",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2457.json",
+         "title": "J. Bennett Johnston Waterway Hydropower Extension Act of 2017",
+         "short_title": "J. Bennett Johnston Waterway Hydropower Extension Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Johnson",
+         "sponsor_id": "J000299",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000299.json",
+         "sponsor_party": "R",
+         "sponsor_state": "LA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2457rfs/pdf/BILLS-115hr2457rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2457",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2457",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": "2017-06-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSIF"],
+         "subcommittee_codes": ["HSIF03"],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-06-12",
+         "house_passage_vote": "2017-06-11",
+         "senate_passage_vote": null,
+         "summary": "J. Bennett Johnston Waterway Hydropower Extension Act of 2017 This bill authorizes the Federal Energy Regulatory Commission (FERC), upon request, to extend by six years the time period during which construction must commence on the Red River Lock and Dam No. 3, 4, and 5 Hydroelectric Projects located on the Red River in Louisiana. The licensee is not required to pay an annual charge for administrative expenses until construction commences. FERC may reinstate the construction license if it is expired.",
+         "summary_short": "J. Bennett Johnston Waterway Hydropower Extension Act of 2017 This bill authorizes the Federal Energy Regulatory Commission (FERC), upon request, to extend by six years the time period during which construction must commence on the Red River Lock and Dam No. 3, 4, and 5 Hydroelectric Projects located on the Red River in Louisiana. The licensee is not required to pay an annual charge for administrative expenses until construction commences. FERC may reinstate the construction license if it is ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 301). (text: CR H4830)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Considered as unfinished business. (consideration: CR H4835)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2457."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H4830-4831)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the Union Calendar, Calendar No. 120."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-176."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Subcommittee on Energy Discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Ordered to be Reported (Amended) by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-19",
+           "description": "Referred to the Subcommittee on Energy."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-16",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-12",
+             "time": "18:59:00",
+             "roll_call": "301",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 402,
+             "total_no": 1,
+             "total_not_voting": 27,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/301.json"
+           }
+         ]
+
+      }
+   ]
+}

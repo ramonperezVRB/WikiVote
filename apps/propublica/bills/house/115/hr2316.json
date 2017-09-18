@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2316-115",
+         "bill_slug": "hr2316",
+         "congress": "115",
+         "bill": "H.R.2316",
+         "bill_type": "hr",
+         "number": "H.R.2316",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2316.json",
+         "title": "Cooperative Management of Mineral Rights Act of 2017",
+         "short_title": "Cooperative Management of Mineral Rights Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Glenn Thompson",
+         "sponsor_id": "T000467",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000467.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2316rh/pdf/BILLS-115hr2316rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2316",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2316",
+         "introduced_date": "2017-05-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII06"],
+         "latest_major_action_date": "2017-09-05",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 207.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Cooperative Management of Mineral Rights Act of 2017 This bill repeals requirements of the Mineral Leasing Act and the Energy Policy Act of 1992 regarding the development of oil and gas deposits on certain lands within the Allegheny National Forest in Pennsylvania. ",
+         "summary_short": "Cooperative Management of Mineral Rights Act of 2017 This bill repeals requirements of the Mineral Leasing Act and the Energy Policy Act of 1992 regarding the development of oil and gas deposits on certain lands within the Allegheny National Forest in Pennsylvania. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on the Union Calendar, Calendar No. 207."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-288."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Referred to the Subcommittee on Energy and Mineral Resources."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

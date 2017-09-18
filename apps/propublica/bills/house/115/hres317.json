@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres317-115",
+         "bill_slug": "hres317",
+         "congress": "115",
+         "bill": "H.RES.317",
+         "bill_type": "hres",
+         "number": "H.RES.317",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres317.json",
+         "title": "Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.",
+         "short_title": "Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ileana Ros-Lehtinen",
+         "sponsor_id": "R000435",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000435.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres317eh/pdf/BILLS-115hres317eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/317",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres317",
+         "introduced_date": "2017-05-04",
+         "active": true,
+         "house_passage": "2017-07-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 43,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": ["HSFA13"],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-25",
+         "senate_passage_vote": null,
+         "summary": "Calls on the government of Iran to: (1) release Siamak Namazi, Baquer Namazi, Xiyue Wang, Nizar Zakka, and any other U.S. citizen, legal permanent resident alien, or foreign national being unjustly detained in Iran; and (2) fulfill its promises to assist in locating and returning Robert Levinson.  Encourages the President to: (1) take meaningful action to secure the release of such individuals if Iran does not do so, and (2) make the release of U.S. citizens and legal permanent resident aliens held hostage by the Iranian government the highest of priorities. Requests the United States and its allies whose nationals have been detained to consider establishing a multinational task force to secure the release of the detainees.",
+         "summary_short": "Calls on the government of Iran to: (1) release Siamak Namazi, Baquer Namazi, Xiyue Wang, Nizar Zakka, and any other U.S. citizen, legal permanent resident alien, or foreign national being unjustly detained in Iran; and (2) fulfill its promises to assist in locating and returning Robert Levinson.  Encourages the President to: (1) take meaningful action to secure the release of such individuals if Iran does not do so, and (2) make the release of U.S. citizens and legal permanent resident alien...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6332)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules. (consideration: CR H6331-6335)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 317."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-29",
+           "description": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-29",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Referred to the Subcommittee on Middle East and North Africa."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

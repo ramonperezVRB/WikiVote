@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr305-115",
+         "bill_slug": "hr305",
+         "congress": "115",
+         "bill": "H.R.305",
+         "bill_type": "hr",
+         "number": "H.R.305",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr305.json",
+         "title": "Presidential Tax Transparency Act",
+         "short_title": "Presidential Tax Transparency Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Anna G. Eshoo",
+         "sponsor_id": "E000215",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/E000215.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr305ih/pdf/BILLS-115hr305ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/305",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr305",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 166,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO","HSWM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-05",
+         "latest_major_action": "Motion to Discharge Committee filed by Ms. Eshoo. Petition No: 115-1. (Discharge petition text with signatures.)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Presidential Tax Transparency Act  This bill amends the Ethics in Government Act of 1978 to require the President and certain candidates for President to disclose federal income tax returns for the three most recent taxable years in reports filed with either the Office of Government Ethics (OGE) or the Federal Election Commission (FEC), in the case of a candidate.  The OGE or the FEC must make the disclosed tax returns publicly available after making appropriate redactions. If the income tax returns are not disclosed as required by this bill, the OGE or the FEC must request the returns from the Internal Revenue Service (IRS).  The bill amends the Internal Revenue Code to require the IRS, upon receiving a written request from the FEC or the OGE, to provide any income tax return that is required to be disclosed under this bill.  The bill also establishes civil and criminal penalties for failing to file or falsifying income tax returns that are required to be disclosed pursuant to this bill. ",
+         "summary_short": "Presidential Tax Transparency Act  This bill amends the Ethics in Government Act of 1978 to require the President and certain candidates for President to disclose federal income tax returns for the three most recent taxable years in reports filed with either the Office of Government Ethics (OGE) or the Federal Election Commission (FEC), in the case of a candidate.  The OGE or the FEC must make the disclosed tax returns publicly available after making appropriate redactions. If the income tax ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-05",
+           "description": "Motion to Discharge Committee filed by Ms. Eshoo. Petition No: 115-1."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-05",
+           "description": "Motion to Discharge Committee filed by Ms. Eshoo. Petition No: 115-1."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Oversight and Government Reform"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Ways and Means"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

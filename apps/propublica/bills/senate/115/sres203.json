@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres203-115",
+         "bill_slug": "sres203",
+         "congress": "115",
+         "bill": "S.RES.203",
+         "bill_type": "sres",
+         "number": "S.RES.203",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres203.json",
+         "title": "A resolution designating the month of June 2017, as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2017, as \"National Post-Traumatic Stress Awareness Day\".",
+         "short_title": "A resolution designating the month of June 2017, as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2017, as \"National Post-Traumatic Stress Awareness Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Heidi Heitkamp",
+         "sponsor_id": "H001069",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001069.json",
+         "sponsor_party": "D",
+         "sponsor_state": "ND",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres203is/pdf/BILLS-115sres203is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/203",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres203",
+         "introduced_date": "2017-06-26",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 33,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-01",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Designates June 2017 as National Post-Traumatic Stress Awareness Month and June 27, 2017, as National Post-Traumatic Stress Awareness Day. Supports efforts of the Department of Veterans Affairs (VA) and the Department of Defense, as well as the medical community, to educate members of the Armed Forces, veterans, their families, and the public about the causes, symptoms, and treatment of post-traumatic stress.  Welcomes the efforts of the VA's National Center for PTSD (post-traumatic stress disorder) and local Vet Centers to assist veterans suffering from the effects of post-traumatic stress. Encourages Armed Forces commanders to support appropriate treatment of Armed Forces personnel who suffer from post-traumatic stress.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Designates June 2017 as National Post-Traumatic Stress Awareness Month and June 27, 2017, as National Post-Traumatic Stress Awareness Day. Supports efforts of the Department of Veterans Affairs (VA) and the Department of Defense, as well as the medical community, to educate members of the Armed Forces, veterans, their families, and the public about the causes, symptoms, and treatment of...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-01",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-01",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-26",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3767)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-26",
+           "description": "Referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

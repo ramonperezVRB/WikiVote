@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s141-115",
+         "bill_slug": "s141",
+         "congress": "115",
+         "bill": "S.141",
+         "bill_type": "s",
+         "number": "S.141",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s141.json",
+         "title": "Space Weather Research and Forecasting Act",
+         "short_title": "Space Weather Research and Forecasting Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Gary Peters",
+         "sponsor_id": "P000595",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000595.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s141rfh/pdf/BILLS-115s141rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/141",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s141",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-01",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "House Armed Services Committee",
+         "committee_codes": ["HLIG","HSFA","HSPW","HSAS","HSSY","SSCM"],
+         "subcommittee_codes": ["HSAS29"],
+         "latest_major_action_date": "2017-05-23",
+         "latest_major_action": "Referred to the Subcommittee on Strategic Forces.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-01",
+         "summary": "(This measure has not been amended since it was reported to the Senate on March 30, 2017. The summary of that version is repeated here.) Space Weather Research and Forecasting Act (Sec. 2) This bill directs the Office of Science and Technology Policy (OSTP) to:  coordinate the development and implementation of federal government activities to improve the nation's ability to prepare, avoid, mitigate, respond to, and recover from potentially devastating impacts of space weather events; and  coordinate the activities of the Space Weather Interagency Working Group, which shall be established by the National Science and Technology Council to continue coordination of executive branch efforts to understand, prepare, coordinate, and plan for space weather.   In order to understand and respond to the adverse effects of space weather, the working group shall leverage capabilities across participating federal agencies.  It is the sense of Congress that the interagency collaboration between the National Aeronautics and Space Administration (NASA) and the National Oceanic and Atmospheric Administration (NOAA) on terrestrial weather observations provides:  an effective mechanism for improving weather and climate data collection while avoiding unnecessary duplication of capabilities across federal agencies, and  an agency collaboration model that could benefit space weather observations.   NASA and NOAA shall enter into at least one interagency agreement that provides for cooperation and collaboration in the development of space weather spacecraft, instruments, and technologies. It is U.S. policy to establish and sustain a baseline capability for space weather observations.  The OSTP, in coordination with NOAA, NASA, the National Science Foundation (NSF), and the Department of Defense (DOD), shall develop an integrated strategy for solar and solar wind observations beyond the lifetime of current assets that considers the provision of:  solar wind measurements and other measurements essential to space weather forecasting, and solar and space weather measurements important for scientific purposes.   In developing such strategy, the OSTP shall consider small satellite options, hosted payloads, commercial options, international options, and prize authority.  In order to sustain current space-based observational capabilities, NASA shall:  in cooperation with the European Space Agency, maintain operations of the Solar and Heliospheric Observatory/Large Angle and Spectrometric Coronagraph (SOHO/LASCO) for as long as it continues to deliver quality observations, and  prioritize the reception of LASCO data.   NOAA shall secure reliable secondary capability for near real-time coronal mass ejection imagery.  NOAA, in coordination with DOD and NASA, shall develop options to build and deploy one or more instruments for near real-time coronal mass ejection imagery. In developing such options, NOAA shall consider commercial solutions, prize authority, academic and international partnerships, microsatellites, ground-based instruments, and opportunities to deploy the instrument or instruments as a secondary payload on an upcoming planned launch.  In securing reliable secondary capability for near real-time coronal mass ejection imagery, NOAA shall make it a priority to achieve a cost-effective solution.  NOAA shall develop an operational contingency plan to provide continuous space weather forecasting in the event of a SOHO/LASCO failure.  Within 120 days of the enactment of this bill, NOAA shall brief Congress on the options for building and deploying the instrument or instruments and the operational contingency plan.  NOAA, in coordination with DOD, shall develop requirements and a plan for follow-on space-based observations for operational purposes.  The OSTP shall report to Congress on the integrated strategy, including the plans for follow-on space-based observations.  The NSF the Air Force, and where practicable in support of the Air Force, the Navy shall each:  maintain and improve, as necessary and advisable, ground-based observations of the sun; and  provide space weather data by means of ground-based facilities, including radars, lidars, magnetometers, radio receivers, aurora and airglow imagers, spectrometers, interferometers, and solar observatories.   The NSF shall:   provide key data streams from such platforms for research and to support space weather model development, develop experimental models for scientific purposes, and support the transition of such models to operations where appropriate.   NOAA, the Air Force, and where practicable in support of the Air Force, the Navy, in conjunction with other relevant federal agencies, shall conduct a survey to identify and prioritize the needs of space weather forecast users, including space weather data and space weather forecast data needed to improve services and inform research priorities and technology needs.  NOAA, the Air Force, and where practicable in support of the Air Force, the Navy, shall:  make the survey's results publicly available; and notify Congress of making those results available to the public.    The NSF, NASA, and DOD shall continue to carry out basic research activities on heliophysics, geospace science, and space weather and support competitive, merit-based, peer-reviewed proposals for research, modeling, and monitoring of space weather and its impacts, including science goals outlined in Solar and Space Physics Decadal surveys conducted by the National Academy of Sciences (NAS).   The NSF, NOAA, and NASA shall pursue multidisciplinary research in subjects that further our understanding of solar physics, space physics, and space weather.  It is the sense of Congress that NASA and the NSF should support competitively awarded Heliophysics Science Centers.  NASA shall seek to implement missions meeting science objectives identified in NAS Solar and Space Physics Decadal surveys.  NASA, the NSF, NOAA, and the Air Force, and where practicable in support of the Air Force, the Navy shall:  develop a mechanism to transition NASA, NSF, Air Force, and Navy research findings, models, and capabilities to NOAA and DOD space weather operational forecasting centers; and  enhance coordination between research modeling centers and forecasting centers.   NOAA and DOD, in coordination with NASA and the NSF, shall develop a mechanism to communicate the operational needs of space weather forecasters to the research community.  NASA and the NSF shall support the development of technologies and instrumentation to improve space weather forecasting lead-time and accuracy to meet needs identified by NOAA.  NASA and the NSF shall:  make space weather related data obtained for scientific research available to space weather forecasters and operations centers, and  support model development and applications to space weather forecasting.   NOAA shall make space weather related data obtained from operational forecasting available for scientific research.  The provisions relating to space weather under the National Aeronautics and Space Administration Authorization Act of 2010 are repealed.  (Sec. 3) The Space Weather Interagency Working Group shall:   assess existing data, the historical record, models, and peer-reviewed studies on space weather; and   develop preliminary benchmarks for measuring solar disturbances.   Within 18 months of the development of the preliminary benchmarks, the working group shall publish final benchmarks and NASA shall contract with the NAS to review them.  The working group shall update and revise the final benchmarks as necessary, based on:  the results of the review by the NAS, any significant new data or advances in scientific understanding that become available, or  the evolving needs of entities impacted by solar disturbances.   (Sec. 4) NOAA shall inform the Department of Homeland Security (DHS) about space weather hazards to protect national critical infrastructure from space weather events.  DHS shall:  include, in meeting national critical infrastructure reporting requirements, an assessment of the vulnerability of such infrastructure to space weather events; and  support critical infrastructure providers in managing the risks and impacts associated with space weather.   (Sec. 5) The National Security Council shall:   assess the vulnerability of the national security community to space weather events, and   develop mechanisms to protect national security assets from space weather threats.   DOD shall inform the National Security Council, the Director of National Intelligence, and the heads of the defense agencies about space weather hazards for purposes of the protection of those assets.  (Sec. 6) The Federal Aviation Administration (FAA) shall assess:   the safety implications and vulnerability of the national airspace system by space weather events;  methods to mitigate the safety implications and effects of space weather on aviation communication systems, aircraft navigation systems, satellite and ground-based navigation systems, and potential health effects of radiation exposure; and options for incorporating space weather into operational training for pilots, cabin crews, dispatchers, air traffic controllers, meteorologists, and engineers.   The FAA shall develop methods to increase the interaction between the aviation community and the space weather research and service provider community. ",
+         "summary_short": "(This measure has not been amended since it was reported to the Senate on March 30, 2017. The summary of that version is repeated here.) Space Weather Research and Forecasting Act (Sec. 2) This bill directs the Office of Science and Technology Policy (OSTP) to:  coordinate the development and implementation of federal government activities to improve the nation's ability to prepare, avoid, mitigate, respond to, and recover from potentially devastating impacts of space weather events; and  coo...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-23",
+           "description": "Referred to the Subcommittee on Strategic Forces."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to House Intelligence (Permanent)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to House Foreign Affairs"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to House Transportation and Infrastructure"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to House Armed Services"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to House Science, Space, and Technology"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2672-2674; text: S2672-2674)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 29."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune with an amendment in the nature of a substitute. With written report No. 115-21."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

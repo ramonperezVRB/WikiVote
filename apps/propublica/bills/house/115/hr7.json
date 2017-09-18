@@ -1,0 +1,216 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr7-115",
+         "bill_slug": "hr7",
+         "congress": "115",
+         "bill": "H.R.7",
+         "bill_type": "hr",
+         "number": "H.R.7",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr7.json",
+         "title": "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017",
+         "short_title": "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Christopher H. Smith",
+         "sponsor_id": "S000522",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000522.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr7ih/pdf/BILLS-115hr7ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/7",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr7",
+         "introduced_date": "2017-01-13",
+         "active": true,
+         "house_passage": "2017-01-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 101,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Civil Rights and Liberties, Minority Issues",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI","HSIF","HSJU","HSWM"],
+         "subcommittee_codes": ["HSJU10"],
+         "latest_major_action_date": "2017-01-30",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+         "last_vote_date": "2017-01-24",
+         "house_passage_vote": "2017-01-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017 TITLE I--PROHIBITING FEDERALLY FUNDED ABORTIONS (Sec. 101) This bill makes permanent the prohibition on the use of federal funds, including funds in the budget of the District of Columbia, for abortion or health coverage that includes abortion. The prohibitions in this bill, and current prohibitions, do not apply to abortions in cases of rape or incest, or where a physical condition endangers a woman's life unless an abortion is performed. Abortions may not be provided in a federal health care facility or by a federal employee. TITLE II--APPLICATION UNDER THE AFFORDABLE CARE ACT (Sec. 201) This bill amends the Internal Revenue Code and the Patient Protection and Affordable Care Act to prohibit qualified health plans from including coverage for abortions. (Qualified health plans are sold on health insurance exchanges, are the only plans eligible for premium subsidies and small employer health insurance tax credits, and fulfill an individual's requirement to maintain minimum essential coverage.) Currently, qualified health plans may cover abortion, but the portion of the premium attributable to abortion coverage is not eligible for subsidies. (Sec. 202) The bill revises notification requirements for qualified health plans regarding abortion coverage and charges for abortion coverage.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017 TITLE I--PROHIBITING FEDERALLY FUNDED ABORTIONS (Sec. 101) This bill makes permanent the prohibition on the use of federal funds, including funds in the budget of the District of Columbia, for abortion or health coverage that includes abortion. The prohibitions in this bill, and cu...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 20,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Finance."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "On passage Passed by recorded vote: 238 - 183 (Roll no. 65). (text of measure as passed: CR H633-635)"
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 235 (Roll no. 64)."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "The previous question on the motion was ordered without objection."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Considered as unfinished business. (consideration: H660-661)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "POSTPONED PROCEEDINGS - At conclusion of debate on the Schakowsky motion to recommit with instructions, the Chair put the question on adoption of the motion and by voice vote announced that the noes had prevailed. Ms. Schakowsky demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption of the motion to recommit until later in the legislative day."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Schakowsky motion to recommit with instructions. The instructions contained in the motion seek to repor the same back to the House with an amendment to prohibit the underlying bill from permitting any health plan to charge women higher premiums than men for health coverage."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Ms. Schakowsky moved to recommit with instructions to the Committee on Energy and Commerce. (text: CR H646)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 7."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Considered under the provisions of rule H. Res. 55. (consideration: CR H633-646)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-24",
+           "description": "Rule H. Res. 55 passed House."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Rules Committee Resolution H. Res. 55 Reported to House. Rule provides for consideration of H.R. 7 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-13",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-13",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-13",
+           "description": "Referred to House Ways and Means"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-13",
+           "description": "Referred to House Energy and Commerce"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-24",
+             "time": "16:48:00",
+             "roll_call": "65",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 238,
+             "total_no": 183,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/65.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-24",
+             "time": "16:40:00",
+             "roll_call": "64",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 187,
+             "total_no": 235,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/64.json"
+           }
+         ]
+
+      }
+   ]
+}

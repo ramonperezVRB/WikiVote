@@ -1,0 +1,267 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1973-115",
+         "bill_slug": "hr1973",
+         "congress": "115",
+         "bill": "H.R.1973",
+         "bill_type": "hr",
+         "number": "H.R.1973",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1973.json",
+         "title": "Protecting Young Victims from Sexual Abuse Act of 2017",
+         "short_title": "Protecting Young Victims from Sexual Abuse Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Susan Brooks",
+         "sponsor_id": "B001284",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001284.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1973rfs/pdf/BILLS-115hr1973rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1973",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1973",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": "2017-05-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 16,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSED","HSJU"],
+         "subcommittee_codes": ["HSJU08","HSJU10"],
+         "latest_major_action_date": "2017-06-05",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": "2017-05-25",
+         "house_passage_vote": "2017-05-24",
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 29,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-05",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "On passage Passed by the Yeas and Nays: 415 - 3 (Roll no. 285). (text: CR H4579-4580)"
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Considered as unfinished business. (consideration: CR H4590-4591)"
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1973, the Chair put the question on passage and by voice vote announced that the ayes had prevailed. Mr. Goodlatte demanded the yeas and nays, and the Chair postponed further proceedings on passage of the bill until later in the legislative day."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1973."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the O'Halleran amendment No. 3."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment No. 2."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 352, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (LA) amendment No. 1."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "GENERAL DEBATE - The Committee of the Whole resumed with general debate on H.R. 1973."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Subsequently, the Committee resume its sitting."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The Committee of the Whole rose informally to receive a message from the Senate."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1973."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The Speaker designated the Honorable Bruce Poliquin to act as Chairman of the Committee."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 352 and Rule XVIII."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Considered under the provisions of rule H. Res. 352. (consideration: CR H4575-4582)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Rules Committee Resolution H. Res. 352 Reported to House. The resolution provides for one hour of general debate on H.R. 1973 and H.R. 1761. The resolution provides for proceedings during the period from May 26, 2017 through June 5, 2017."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-22",
+           "description": "Placed on the Union Calendar, Calendar No. 85."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-22",
+           "description": "Committee on Education and the Workforce discharged."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-22",
+           "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 115-136, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Referred to House Education and the Workforce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Referred to House Judiciary"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-25",
+             "time": "11:47:00",
+             "roll_call": "285",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 415,
+             "total_no": 3,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/285.json"
+           }
+         ]
+
+      }
+   ]
+}

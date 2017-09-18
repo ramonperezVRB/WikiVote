@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres379-115",
+         "bill_slug": "hres379",
+         "congress": "115",
+         "bill": "H.RES.379",
+         "bill_type": "hres",
+         "number": "H.RES.379",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres379.json",
+         "title": "Providing for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.",
+         "short_title": "Providing for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom Cole",
+         "sponsor_id": "C001053",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001053.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres379eh/pdf/BILLS-115hres379eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/379",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres379",
+         "introduced_date": "2017-06-12",
+         "active": true,
+         "house_passage": "2017-06-14",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-15",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-14",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "The previous question was ordered without objection. (consideration: CR H4925)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "On agreeing to the resolution Agreed to by voice vote. (text: CR H4924)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 379."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-15",
+           "description": "Considered as privileged matter. (consideration: CR H4924-4925)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the House Calendar, Calendar No. 56."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Rule provides for consideration of H.R. 2372 and H.R. 2579, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and are closed to amendments."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-178, by Mr. Cole."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

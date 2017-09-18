@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s302-115",
+         "bill_slug": "s302",
+         "congress": "115",
+         "bill": "S.302",
+         "bill_type": "s",
+         "number": "S.302",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s302.json",
+         "title": "John P. Smith Act",
+         "short_title": "John P. Smith Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Barrasso",
+         "sponsor_id": "B001261",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001261.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s302rs/pdf/BILLS-115s302rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/302",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s302",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-06",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) John P. Smith Act (Sec. 3) This bill modifies the approval process used for certain transportation projects on Indian reservations by allowing categorical exclusions from National Environmental Policy Act (NEPA) requirements. A \"categorical exclusion\" is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an environmental assessment nor an environmental impact statement is required. A \"tribal transportation safety project\" is one that is eligible for assistance under the tribal transportation program and that:  corrects or improves a hazardous road location or feature, or  addresses a highway safety problem.  The Department of the Interior shall review existing categorical exclusions for tribal transportation program projects and identify tribal transportation safety projects that meet categorical exclusion requirements.  The bill prescribes requirements for the expedited review and approval of tribal transportation safety projects under NEPA or other federal laws. (Sec. 4) Interior shall enter into five-year programmatic agreements with Indian tribes that establish efficient administrative procedures for carrying out environmental reviews for tribal transportation projects, including whether any project is categorically excluded from the preparation of an environmental assessment or impact statement under NEPA.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) John P. Smith Act (Sec. 3) This bill modifies the approval process used for certain transportation projects on Indian reservations by allowing categorical exclusions from National Environmental Policy Act (NEPA) requirements. A \"categorical exclusion\" is a category of actions which do not individually or cumulatively have a significant effect on the human environm...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 33."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-27."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-08",
+           "description": "Committee on Indian Affairs. Ordered to be reported favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S680-681)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

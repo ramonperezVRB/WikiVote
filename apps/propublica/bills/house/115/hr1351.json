@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1351-115",
+         "bill_slug": "hr1351",
+         "congress": "115",
+         "bill": "H.R.1351",
+         "bill_type": "hr",
+         "number": "H.R.1351",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1351.json",
+         "title": "Strengthening Oversight of TSA Employee Misconduct Act",
+         "short_title": "Strengthening Oversight of TSA Employee Misconduct Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Scott Perry",
+         "sponsor_id": "P000605",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000605.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1351rh/pdf/BILLS-115hr1351rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1351",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1351",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Homeland Security Committee",
+         "committee_codes": ["HSHM"],
+         "subcommittee_codes": ["HSHM07"],
+         "latest_major_action_date": "2017-07-17",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 161.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-17",
+           "description": "Placed on the Union Calendar, Calendar No. 161."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-17",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-226."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Ordered to be Reported by the Yeas and Nays: 14 - 10."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Subcommittee on Transportation and Protective Security Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Referred to the Subcommittee on Transportation and Protective Security."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

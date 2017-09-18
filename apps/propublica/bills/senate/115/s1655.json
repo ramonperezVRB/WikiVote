@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1655-115",
+         "bill_slug": "s1655",
+         "congress": "115",
+         "bill": "S.1655",
+         "bill_type": "s",
+         "number": "S.1655",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1655.json",
+         "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018",
+         "short_title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018",
+         "sponsor_title": "Sen.",
+         "sponsor": "Susan Collins",
+         "sponsor_id": "C001035",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001035.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ME",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1655pcs/pdf/BILLS-115s1655pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1655",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1655",
+         "introduced_date": "2017-07-27",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "Senate Appropriations Committee",
+         "committee_codes": ["SSAP"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-27",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-27",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 185."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Committee on Appropriations. Original measure reported to Senate by Senator Collins. With written report No. 115-138."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

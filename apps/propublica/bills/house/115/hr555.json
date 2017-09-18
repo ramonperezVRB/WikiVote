@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr555-115",
+         "bill_slug": "hr555",
+         "congress": "115",
+         "bill": "H.R.555",
+         "bill_type": "hr",
+         "number": "H.R.555",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr555.json",
+         "title": "Amateur Radio Parity Act of 2017",
+         "short_title": "Amateur Radio Parity Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Adam Kinzinger",
+         "sponsor_id": "K000378",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000378.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr555ih/pdf/BILLS-115hr555ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/555",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr555",
+         "introduced_date": "2017-01-13",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amateur Radio Parity Act of 2017 (Sec. 3) This bill directs the Federal Communications Commission (FCC) to amend station antenna structure regulations to prohibit a private land use restriction from applying to amateur radio stations if the restriction:  precludes communications in an amateur radio service,  fails to permit a licensee of amateur radio service to install and maintain an effective outdoor antenna on property under its exclusive use or control, or  is not the minimum practicable restriction to accomplish the lawful purposes of a community association seeking to enforce the restriction.  Before installing an outdoor antenna, however, an amateur radio licensee must obtain a community association's prior approval. A community association may: (1) prohibit installations on common property not under the exclusive control of the licensee, and (2) establish installation rules for amateur radio antennas and support structures.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Amateur Radio Parity Act of 2017 (Sec. 3) This bill directs the Federal Communications Commission (FCC) to amend station antenna structure regulations to prohibit a private land use restriction from applying to amateur radio stations if the restriction:  precludes communications in an amateur radio service,  fails to permit a licensee of amateur radio service to i...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H581-582)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 555."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H581-583)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mr. Lance moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-13",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

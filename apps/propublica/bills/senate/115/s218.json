@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s218-115",
+         "bill_slug": "s218",
+         "congress": "115",
+         "bill": "S.218",
+         "bill_type": "s",
+         "number": "S.218",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s218.json",
+         "title": "Social Security Fraud Prevention Act of 2017",
+         "short_title": "Social Security Fraud Prevention Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Cory Gardner",
+         "sponsor_id": "G000562",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000562.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s218rs/pdf/BILLS-115s218rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/218",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s218",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-15",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Social Security Fraud Prevention Act of 2017 This bill prohibits federal departments and agencies from including the Social Security account number of any individual on any document sent by mail unless the department or agency head determines that inclusion of that Social Security number on the document is necessary. Departments and agencies must issue regulations within one year of this bill's enactment that specify the circumstances under which the inclusion of Social Security account numbers on mailed documents is necessary.",
+         "summary_short": "Social Security Fraud Prevention Act of 2017 This bill prohibits federal departments and agencies from including the Social Security account number of any individual on any document sent by mail unless the department or agency head determines that inclusion of that Social Security number on the document is necessary. Departments and agencies must issue regulations within one year of this bill's enactment that specify the circumstances under which the inclusion of Social Security account numbe...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-62."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-15",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 79."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

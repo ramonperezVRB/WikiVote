@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s870-115",
+         "bill_slug": "s870",
+         "congress": "115",
+         "bill": "S.870",
+         "bill_type": "s",
+         "number": "S.870",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s870.json",
+         "title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017",
+         "short_title": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Orrin G. Hatch",
+         "sponsor_id": "H000338",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000338.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s870is/pdf/BILLS-115s870is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/870",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s870",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 18,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 206.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017 This bill amends title XVIII (Medicare) of the Social Security Act to:  extend the Independence at Home demonstration program;  modify provisions regarding access to home dialysis therapy under Medicare and special needs plans under Medicare Advantage (MA);  expand testing of the MA Value-Based Insurance Design test model;  allow an MA plan to provide additional telehealth benefits to enrollees and, to chronically ill enrollees, certain supplemental health care benefits;  modify other provisions regarding the use of telehealth services;  allow prospective, voluntary assignment of Medicare fee-for-service beneficiaries to accountable care organizations (ACOs); and  allow ACOs to operate beneficiary incentive programs. The Government Accountability Office shall conduct studies on:  the establishment of a payment code for a visit for longitudinal comprehensive care planning services, the extent to which Medicare prescription drug plans and private payors use programs that synchronize pharmacy dispensing to facilitate comprehensive counseling and promote medication adherence, and the use of prescription drugs to manage the weight of obese patients and the impact of such drug coverage on patient health and health care spending.  ",
+         "summary_short": "Creating High-Quality Results and Outcomes Necessary to Improve Chronic (CHRONIC) Care Act of 2017 This bill amends title XVIII (Medicare) of the Social Security Act to:  extend the Independence at Home demonstration program;  modify provisions regarding access to home dialysis therapy under Medicare and special needs plans under Medicare Advantage (MA);  expand testing of the MA Value-Based Insurance Design test model;  allow an MA plan to provide additional telehealth benefits to enrollees ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-03",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 206."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-03",
+           "description": "Committee on Finance. Reported by Senator Hatch with an amendment in the nature of a substitute. With written report No. 115-146."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Read twice and referred to the Committee on Finance."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

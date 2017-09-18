@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres170-115",
+         "bill_slug": "sres170",
+         "congress": "115",
+         "bill": "S.RES.170",
+         "bill_type": "sres",
+         "number": "S.RES.170",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres170.json",
+         "title": "A resolution expressing the sense of the Senate that defense laboratories are on the cutting-edge of scientific and technological advancement, and supporting the designation of May 18, 2017, as \"Department of Defense Laboratory Day\".",
+         "short_title": "A resolution expressing the sense of the Senate that defense laboratories are on the cutting-edge of scientific and technological advancement, and supporting the designation of May 18, 2017, as \"Department of Defense Laboratory Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Joe Donnelly",
+         "sponsor_id": "D000607",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000607.json",
+         "sponsor_party": "D",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres170ats/pdf/BILLS-115sres170ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/170",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres170",
+         "introduced_date": "2017-05-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-16",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 10,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-17",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3021; text as passed Senate: CR S3020)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-16",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the designation of the Department of Defense Laboratory Day in celebration of the work of the national network of laboratories and engineering centers of the U.S. Armed Forces. Recognizes: (1) that a key to maintaining Armed Forces superiority, innovation, and competitiveness in a global economy is to continue to support federally sponsored research and development; and (2) such network's scientists, technicians, and support staff. Acknowledges that the knowledge base, technologies, and techniques generated in such network serve as a foundation for additional efforts relating to the Armed Forces in the defense industrial base. Commits to finding ways to increase investment in such network. Encourages such network, federal agencies, and Congress to hold an outreach event on May 18, 2017.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the designation of the Department of Defense Laboratory Day in celebration of the work of the national network of laboratories and engineering centers of the U.S. Armed Forces. Recognizes: (1) that a key to maintaining Armed Forces superiority, innovation, and competitiveness in a global economy is to continue to support federally sponsored research and development; and (2) such...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S3021; text as passed Senate: CR S3020)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

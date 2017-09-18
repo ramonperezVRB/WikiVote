@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s760-115",
+         "bill_slug": "s760",
+         "congress": "115",
+         "bill": "S.760",
+         "bill_type": "s",
+         "number": "S.760",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s760.json",
+         "title": "Open, Public, Electronic, and Necessary Government Data Act",
+         "short_title": "OPEN Government Data Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Brian Schatz",
+         "sponsor_id": "S001194",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001194.json",
+         "sponsor_party": "D",
+         "sponsor_state": "HI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s760rs/pdf/BILLS-115s760rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/760",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s760",
+         "introduced_date": "2017-03-29",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Open, Public, Electronic, and Necessary Government Data Act or the OPEN Government Data Act  This bill requires open government data assets made available by federal agencies (excluding the Government Accountability Office, the Federal Election Commission, and certain other government entities) to be published as machine-readable data. When not otherwise prohibited by law, and to the extent practicable, public data assets and nonpublic data assets maintained by the federal government must be available: (1) in an open format that does not impede use or reuse and that has standards maintained by a standards organization; and (2) under open licenses with a legal guarantee that the data be available at no cost to the public with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting.  If published government data assets are not available under an open license, the data must be considered part of the worldwide public domain. Agencies may engage with outside organizations and citizens to leverage public data assets for innovation in public and private sectors.  Agencies must: (1) make their enterprise data inventories available to the public on Data.gov, and (2) designate a point of contact to assist the public and respond to complaints about adherence to open data requirements. For privacy, security, confidentiality, or regulatory reasons, agencies may maintain a nonpublic portion of their inventories. The General Services Administration must maintain a single public interface online as a point of entry dedicated to sharing open government data with the public.  The Office of Management and Budget must develop and maintain an online repository of tools, best practices, and schema standards to facilitate the adoption of open data practices.",
+         "summary_short": "Open, Public, Electronic, and Necessary Government Data Act or the OPEN Government Data Act  This bill requires open government data assets made available by federal agencies (excluding the Government Accountability Office, the Federal Election Commission, and certain other government entities) to be published as machine-readable data. When not otherwise prohibited by law, and to the extent practicable, public data assets and nonpublic data assets maintained by the federal government must be ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 180."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-24",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-134."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-29",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

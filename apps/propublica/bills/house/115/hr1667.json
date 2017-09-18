@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1667-115",
+         "bill_slug": "hr1667",
+         "congress": "115",
+         "bill": "H.R.1667",
+         "bill_type": "hr",
+         "number": "H.R.1667",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1667.json",
+         "title": "Financial Institution Bankruptcy Act of 2017",
+         "short_title": "Financial Institution Bankruptcy Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom Marino",
+         "sponsor_id": "M001179",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001179.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1667rfs/pdf/BILLS-115hr1667rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1667",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1667",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": "2017-04-04",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU"],
+         "subcommittee_codes": ["HSJU05"],
+         "latest_major_action_date": "2017-04-06",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-04-04",
+         "senate_passage_vote": null,
+         "summary": "Financial Institution Bankruptcy Act of 2017 This bill amends federal bankruptcy law to allow certain large financial institutions to elect a new \"Subchapter V\" bankruptcy process specific to such institutions. Under the new process, a debtor institution may request the bankruptcy court to order the transfer of the debtor's assets to a newly formed bridge company. The trust agreement governing such an assets transfer must meet specified requirements. The court may order such an assets transfer only if it determines, by a preponderance of the evidence, that: (1) the transfer is necessary to prevent serious adverse effects on financial stability in the United States, (2) other specified requirements are met. The bill imposes a temporary stay on actions to terminate or modify contracts with institutions that enter the Subchapter V bankruptcy process. Members of the institution's board of directors shall have no liability to shareholders or creditors for a good faith filing of a petition to commence a Subchapter V bankruptcy case. The bill specifies timelines with respect to the commencement of a case and the transfer of assets. The Securities and Exchange Commission and the Federal Deposit Insurance Corporation, among other federal regulatory agencies, shall have standing in a Subchapter V bankruptcy case. Under specified conditions, a Subchapter V bankruptcy case may be converted into a case in Chapter 7 bankruptcy (also known as \"liquidation\" bankruptcy). The bill amends the federal judicial code to require the Chief Justice of the United States to designate at least 10 bankruptcy judges to be available to hear Subchapter V bankruptcy cases.",
+         "summary_short": "Financial Institution Bankruptcy Act of 2017 This bill amends federal bankruptcy law to allow certain large financial institutions to elect a new \"Subchapter V\" bankruptcy process specific to such institutions. Under the new process, a debtor institution may request the bankruptcy court to order the transfer of the debtor's assets to a newly formed bridge company. The trust agreement governing such an assets transfer must meet specified requirements. The court may order such an assets transfe...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2715-2718)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1667."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Considered under suspension of the rules. (consideration: CR H2715-2720)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-05",
+           "description": "Placed on the Union Calendar, Calendar No. 46."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Reported by the Committee on Judiciary. H. Rept. 115-80."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

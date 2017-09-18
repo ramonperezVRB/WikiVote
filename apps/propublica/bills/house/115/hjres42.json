@@ -1,0 +1,216 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres42-115",
+         "bill_slug": "hjres42",
+         "congress": "115",
+         "bill": "H.J.RES.42",
+         "bill_type": "hjres",
+         "number": "H.J.RES.42",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres42.json",
+         "title": "Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+         "short_title": "Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kevin Brady",
+         "sponsor_id": "B000755",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000755.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres42enr/pdf/BILLS-115hjres42enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/42",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres42",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-02-14",
+         "senate_passage": "2017-03-13",
+         "enacted": "2017-03-20",
+         "vetoed": null,
+         "cosponsors": 35,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Labor and Employment",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSWM"],
+         "subcommittee_codes": ["HSWM03"],
+         "latest_major_action_date": "2017-03-31",
+         "latest_major_action": "Became Public Law No: 115-17.",
+         "last_vote_date": "2017-02-15",
+         "house_passage_vote": "2017-02-14",
+         "senate_passage_vote": "2017-03-13",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule finalized by the Department of Labor on August 1, 2016, relating to establishing, for state unemployment compensation program purposes, occupations that regularly conduct drug testing.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule finalized by the Department of Labor on August 1, 2016, relating to establishing, for state unemployment compensation program purposes, occupations that regularly conduct drug testing.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 20,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-31",
+           "description": "Became Public Law No: 115-17."
+         },
+                  {
+           "id": 19,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-31",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 17,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-14",
+           "description": "Passed Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 87."
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-14",
+           "description": "Considered by Senate. (consideration: CR S1784-1799)"
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-13",
+           "description": "Measure laid before Senate by motion. (consideration: CR S1772, S1781-1782)"
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-13",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (CR S1772)"
+         },
+                  {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-16",
+           "description": "Received in the Senate, read twice."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "On passage Passed by the Yeas and Nays: 236 - 189 (Roll no. 97). (text: CR H1200)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Considered as unfinished business. (consideration: CR H1222-1223)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 42, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Danny Davis(IL) demanded the yeas and nays and the Chair postponed further proceedings on passage until a time to be announced."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 42."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Rule provides for one hour of debate each on H.R. 428 and H.J. Res. 42. The previous question shall be ordered on each measure without intervening motions except one motion to recommit. Both measures are closed to amendments."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Considered under the provisions of rule H. Res. 99. (consideration: CR H1200-1206)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-14",
+           "description": "Rule H. Res. 99 passed House."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-07",
+           "description": "Rules Committee Resolution H. Res. 99 Reported to House. Rule provides for one hour of debate on each bill, the previous question shall be ordered on each bill without intervening motions except one motion to recommit. Both bills are closed to amendments."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-01",
+           "description": "Referred to the Subcommittee on Human Resources."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on Ways and Means."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-15",
+             "time": "17:10:00",
+             "roll_call": "97",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 236,
+             "total_no": 189,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/97.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-03-14",
+             "time": "17:49:00",
+             "roll_call": "87",
+             "question": "On the Joint Resolution",
+             "result": "Joint Resolution Passed",
+             "total_yes": 51,
+             "total_no": 48,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/87.json"
+           }
+         ]
+
+      }
+   ]
+}

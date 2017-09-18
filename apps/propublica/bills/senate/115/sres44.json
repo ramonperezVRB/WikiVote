@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres44-115",
+         "bill_slug": "sres44",
+         "congress": "115",
+         "bill": "S.RES.44",
+         "bill_type": "sres",
+         "number": "S.RES.44",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres44.json",
+         "title": "A resolution designating February 6 through 10, 2017, as \"National School Counseling Week\".",
+         "short_title": "A resolution designating February 6 through 10, 2017, as \"National School Counseling Week\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Patty Murray",
+         "sponsor_id": "M001111",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001111.json",
+         "sponsor_party": "D",
+         "sponsor_state": "WA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres44ats/pdf/BILLS-115sres44ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/44",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres44",
+         "introduced_date": "2017-02-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 12,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-10",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 6-February 10, 2017, as National School Counseling Week.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 6-February 10, 2017, as National School Counseling Week.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-10",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-10",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1092)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S681)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2470-115",
+         "bill_slug": "hr2470",
+         "congress": "115",
+         "bill": "H.R.2470",
+         "bill_type": "hr",
+         "number": "H.R.2470",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2470.json",
+         "title": "Homeland Threat Assessment Act",
+         "short_title": "Homeland Threat Assessment Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike D. Rogers",
+         "sponsor_id": "R000575",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000575.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2470ih/pdf/BILLS-115hr2470ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2470",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2470",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": "2017-09-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": ["HSHM05"],
+         "latest_major_action_date": "2017-09-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-09-11",
+         "senate_passage_vote": null,
+         "summary": "Homeland Threat Assessment Act This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's Office of Intelligence and Analysis to assess the terrorist threat to the homeland for each of the next five fiscal years.  Each assessment shall include:  empirical data assessing terrorist activities and incidents over time in the United States; an evaluation of current and future terrorist tactics; an assessment of criminal activity suspected of financing terrorist activity; detailed information on all individuals denied entry to or removed from the United States as a result of material support provided to a foreign terrorist organization; the efficacy and spread of foreign terrorist organization propaganda, messaging, or recruitment; an assessment of threats, including cyber threats, to the homeland, including to critical infrastructure and federal civilian networks; an assessment of terrorism and criminal threats posed by individuals and organized groups seeking to unlawfully enter the United States; and an assessment of threats to the transportation sector. ",
+         "summary_short": "Homeland Threat Assessment Act This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's Office of Intelligence and Analysis to assess the terrorist threat to the homeland for each of the next five fiscal years.  Each assessment shall include:  empirical data assessing terrorist activities and incidents over time in the United States; an evaluation of current and future terrorist tactics; an assessment of criminal activity suspected of financing terro...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-09-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7237-7238)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H7237-7241)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2470."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-12",
+           "description": "Mr. Gallagher moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Referred to the Subcommittee on Counterterrorism and Intelligence."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-16",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

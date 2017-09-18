@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s650-115",
+         "bill_slug": "s650",
+         "congress": "115",
+         "bill": "S.650",
+         "bill_type": "s",
+         "number": "S.650",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s650.json",
+         "title": "Support Small Business R & D Act of 2017",
+         "short_title": "Support Small Business R & D Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Christopher A. Coons",
+         "sponsor_id": "C001088",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001088.json",
+         "sponsor_party": "D",
+         "sponsor_state": "DE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s650is/pdf/BILLS-115s650is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/650",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s650",
+         "introduced_date": "2017-03-15",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Small Business and Entrepreneurship Committee",
+         "committee_codes": ["SSSB"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-02",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Support Small Business R &amp; D Act of 2017 This bill requires the Small Business Administration (SBA), in consultation with the Internal Revenue Service (IRS), to develop partnership agreements to:  provide for development of basic training relating to federal income tax credits benefitting small business concerns and startups, especially credits for research and experimentation, and informational materials relating to such credits, including IRS guidance documents;   provide these basic training and informational materials through electronic resources and at physical locations; and  make the materials available to SBA business development programs and business development entities that partner with SBA programs, including universities, nonprofits, business incubators, and business accelerators.  The bill amends the Small Business Act to require SBA development centers to provide, in conjunction with the IRS, informational materials, education, and basic training to small business concerns relating to federal income tax credits, including credits available to: (1) businesses generally; and (2) small business concerns and startups specifically, especially credits for research and experimentation. Such materials, education, and basic training may be delivered in person or through an Internet website.",
+         "summary_short": "Support Small Business R &amp; D Act of 2017 This bill requires the Small Business Administration (SBA), in consultation with the Internal Revenue Service (IRS), to develop partnership agreements to:  provide for development of basic training relating to federal income tax credits benefitting small business concerns and startups, especially credits for research and experimentation, and informational materials relating to such credits, including IRS guidance documents;   provide these basic tr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-02",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 195."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Small Business and Entrepreneurship. Reported by Senator Risch without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-15",
+           "description": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

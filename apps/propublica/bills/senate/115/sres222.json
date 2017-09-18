@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres222-115",
+         "bill_slug": "sres222",
+         "congress": "115",
+         "bill": "S.RES.222",
+         "bill_type": "sres",
+         "number": "S.RES.222",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres222.json",
+         "title": "A resolution designating July 26, 2017, as \"United States Intelligence Professionals Day\".",
+         "short_title": "A resolution designating July 26, 2017, as \"United States Intelligence Professionals Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mark Warner",
+         "sponsor_id": "W000805",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000805.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres222is/pdf/BILLS-115sres222is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/222",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres222",
+         "introduced_date": "2017-07-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 14,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-02",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the designation of a United States Intelligence Professionals Day, and acknowledges the courage, fidelity, sacrifice, and professionalism of the men and women of the U.S. intelligence community.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the designation of a United States Intelligence Professionals Day, and acknowledges the courage, fidelity, sacrifice, and professionalism of the men and women of the U.S. intelligence community.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-02",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-02",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-02",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4718)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4083-4084)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

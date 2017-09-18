@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres4-115",
+         "bill_slug": "sres4",
+         "congress": "115",
+         "bill": "S.RES.4",
+         "bill_type": "sres",
+         "number": "S.RES.4",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres4.json",
+         "title": "A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.",
+         "short_title": "A resolution to constitute the majority party's membership on certain committees for the One Hundred Fifteenth Congress, or until their successors are chosen.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mitch McConnell",
+         "sponsor_id": "M000355",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000355.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres4is/pdf/BILLS-115sres4is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/4",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres4",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-03",
+         "latest_major_action": "Submitted in the Senate. Placed on Senate Legislative Calendar under Over, Under the Rule.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Designates the majority party membership on specified Senate committees for the 115th Congress.",
+         "summary_short": "Designates the majority party membership on specified Senate committees for the 115th Congress.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-01-03",
+           "description": "Submitted in the Senate. Placed on Senate Legislative Calendar under Over, Under the Rule."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

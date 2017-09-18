@@ -1,0 +1,185 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1848-115",
+         "bill_slug": "hr1848",
+         "congress": "115",
+         "bill": "H.R.1848",
+         "bill_type": "hr",
+         "number": "H.R.1848",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1848.json",
+         "title": "Veterans Affairs Medical Scribe Pilot Act of 2017",
+         "short_title": "Veterans Affairs Medical Scribe Pilot Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1848rfs/pdf/BILLS-115hr1848rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1848",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1848",
+         "introduced_date": "2017-04-03",
+         "active": true,
+         "house_passage": "2017-07-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR03"],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Veterans Affairs Medical Scribe Pilot Act of 2017 (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to carry out a two-year pilot program under which it shall increase the use of medical scribes at VA medical centers.  The bill defines \"medical scribe\" as an unlicensed individual hired to enter information into the electronic health record or chart at the direction of a physician or licensed independent practitioner whose responsibilities include:  assisting the physician or practitioner in navigating the electronic health record; and responding to various messages and entering information into such record, as directed by the physician or practitioner.   The VA shall carry out the program at four VA medical centers located in rural areas, four located in urban areas, and two located in areas with need for increased access or increased efficiency.  The VA shall: (1) hire 20 new VA term employees as medical scribes and seek to enter into contracts for the employment of 20 additional scribes, (2) assign four scribes to each VA medical center where the program is conducted, (3) assign two scribes to each of two physicians, (4) employ 30% of the scribes in the provision of emergency care, and (5) employ 70% of the scribes in the provision of care in specialties with the longest patient wait times or lowest efficiency ratings.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Veterans Affairs Medical Scribe Pilot Act of 2017 (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to carry out a two-year pilot program under which it shall increase the use of medical scribes at VA medical centers.  The bill defines \"medical scribe\" as an unlicensed individual hired to enter information into the electronic health record or char...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6173-6174)"
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered as unfinished business. (consideration: CR H6198-6199)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6173-6174)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Walz objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1848."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-23",
+           "description": "Placed on the Union Calendar, Calendar No. 99."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-23",
+           "description": "Reported by the Committee on Veterans' Affairs. H. Rept. 115-151."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-03",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

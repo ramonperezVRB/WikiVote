@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr381-115",
+         "bill_slug": "hr381",
+         "congress": "115",
+         "bill": "H.R.381",
+         "bill_type": "hr",
+         "number": "H.R.381",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr381.json",
+         "title": "To designate a mountain in the John Muir Wilderness of the Sierra National Forest as \"Sky Point\".",
+         "short_title": "To designate a mountain in the John Muir Wilderness of the Sierra National Forest as \"Sky Point\".",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom McClintock",
+         "sponsor_id": "M001177",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001177.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr381ih/pdf/BILLS-115hr381ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/381",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr381",
+         "introduced_date": "2017-01-09",
+         "active": true,
+         "house_passage": "2017-01-29",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 45,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-14",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-29",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) (Sec. 2) This bill designates a specified mountain in the John Muir Wilderness of the Sierra National Forest in California as \"Sky Point.\"",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) (Sec. 2) This bill designates a specified mountain in the John Muir Wilderness of the Sierra National Forest in California as \"Sky Point.\"",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-14",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 148."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-111."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-31",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H709)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 381."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Considered under suspension of the rules. (consideration: CR H709-710)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Mr. McClintock moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-09",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

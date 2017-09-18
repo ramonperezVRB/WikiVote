@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2937-115",
+         "bill_slug": "hr2937",
+         "congress": "115",
+         "bill": "H.R.2937",
+         "bill_type": "hr",
+         "number": "H.R.2937",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2937.json",
+         "title": "Community Reclamation Partnerships Act",
+         "short_title": "Community Reclamation Partnerships Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Darin M. LaHood",
+         "sponsor_id": "L000585",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000585.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2937rh/pdf/BILLS-115hr2937rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2937",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2937",
+         "introduced_date": "2017-06-20",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 189.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-26",
+           "description": "Placed on the Union Calendar, Calendar No. 189."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-260."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-20",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

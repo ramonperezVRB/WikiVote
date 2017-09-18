@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s669-115",
+         "bill_slug": "s669",
+         "congress": "115",
+         "bill": "S.669",
+         "bill_type": "s",
+         "number": "S.669",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s669.json",
+         "title": "Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act",
+         "short_title": "Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jeff Merkley",
+         "sponsor_id": "M001176",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001176.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s669is/pdf/BILLS-115s669is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/669",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s669",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-02",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act (Sec. 2) This bill authorizes the Bureau of Indian Affairs (BIA) to assess sanitation and safety conditions on land set aside to provide Columbia River Treaty tribes access to traditional fishing grounds. The bill applies to land held by the United States for the benefit of the Nez Perce Tribe, the Confederated Tribes of Umatilla Indian Reservation, the Confederated Tribes of the Warm Springs Reservation of Oregon, and the Confederated Tribes and Bands of the Yakama Nation. The BIA may enter into contracts with tribes or tribal organizations to improve sanitation, safety conditions, and access to electricity, sewer, and water infrastructure on this land.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act (Sec. 2) This bill authorizes the Bureau of Indian Affairs (BIA) to assess sanitation and safety conditions on land set aside to provide Columbia River Treaty tribes access to traditional fishing grounds. The bill applies to land held by the United States for the benefit of the Nez Perce Tribe,...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-02",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 193."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-143."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Read twice and referred to the Committee on Indian Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2333-115",
+         "bill_slug": "hr2333",
+         "congress": "115",
+         "bill": "H.R.2333",
+         "bill_type": "hr",
+         "number": "H.R.2333",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2333.json",
+         "title": "Small Business Investment Opportunity Act of 2017",
+         "short_title": "Small Business Investment Opportunity Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steve Knight",
+         "sponsor_id": "K000387",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000387.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2333rfs/pdf/BILLS-115hr2333rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2333",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2333",
+         "introduced_date": "2017-05-03",
+         "active": true,
+         "house_passage": "2017-07-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Small Business and Entrepreneurship Committee",
+         "committee_codes": ["SSSB","HSSM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 12, 2017. The summary of that version is repeated here.) Small Business Investment Opportunity Act of 2017 (Sec. 2) This bill amends the Small Business Investment Act of 1958 to increase the maximum amount of outstanding leverage (i.e., borrowing power) made available to any licensed small business investment company from $150 million to $175 million.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 12, 2017. The summary of that version is repeated here.) Small Business Investment Opportunity Act of 2017 (Sec. 2) This bill amends the Small Business Investment Act of 1958 to increase the maximum amount of outstanding leverage (i.e., borrowing power) made available to any licensed small business investment company from $150 million to $175 million.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6178)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6178-6179)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2333."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Chabot moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-12",
+           "description": "Placed on the Union Calendar, Calendar No. 151."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-12",
+           "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 115-215."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Ordered to be Reported (Amended)."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-03",
+           "description": "Referred to the House Committee on Small Business."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

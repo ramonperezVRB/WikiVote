@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr391-115",
+         "bill_slug": "hr391",
+         "congress": "115",
+         "bill": "H.R.391",
+         "bill_type": "hr",
+         "number": "H.R.391",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr391.json",
+         "title": "Asylum Reform and Border Protection Act of 2017",
+         "short_title": "Asylum Reform and Border Protection Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jason Chaffetz",
+         "sponsor_id": "C001076",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001076.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr391ih/pdf/BILLS-115hr391ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/391",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr391",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 22,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Immigration",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU","HSFA"],
+         "subcommittee_codes": ["HSJU01"],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 11.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Asylum Reform and Border Protection Act of 2015 This bill amends the Immigration and Nationality Act to:    prohibit the government from bearing any expense of counsel for any person in a removal or related appeal proceedings, add a requirement to establish a credible fear of persecution claim in an asylum interview, limit humanitarian and public interest parole authority, and  prohibits the Department of Homeland Security (DHS) from using parole authority for an alien who is ineligible for refugee status.   The bill amends the Homeland Security Act of 2002 to revise the definition of \"unaccompanied alien child\" (UAC). The William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 is amended to extend the period for a federal agency to: (1) notify the Department of Health and Human Services (HHS) that it has apprehended or discovered a UAC or an alien who is under 18 years old, and (2) transfer a UAC to HHS custody. The bill: (1) provides for HHS-DHS information sharing concerning UACs, (2) prohibits UAC from applying for asylum if such child may be removed to a safe third country, and (3) provides for additional immigration judges and U.S. Immigration and Customs Enforcement attorneys. The Department of State is directed to: (1) suspend all foreign assistance to certain countries that refuse to negotiate a child repatriation agreement or accept from the United States repatriated UACs who are nationals or residents of the sending country, and (2) provide certain foreign assistance for repatriation and reintegration purposes.  The bill places the burden of proof on an an alien to establish that: (1) the alien's life or freedom would be threatened in a country to which he or she is scheduled to be removed to from the United States; and (2) that race, religion, nationality, membership in a particular social group, or political opinion would be at least one central reason for such threat.  An alien who has committed acts of torture, extrajudicial killings, war crimes, systematic attacks on civilians, persecution, or enforced disappearance of persons shall be inadmissable. The President may make such alien's visa records public. The bill terminates the refugee or asylee status of an alien who: (1) without a compelling reason returns to the country of such alien's nationality or, in the case of an alien having no nationality, returns to the country in which such alien last habitually resided; and (2) applied for such status because of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion. Such provision shall not apply to an alien who is eligible for adjustment to lawful permanent resident status pursuant to the Cuban Adjustment Act of 1966.   The bill allows up to 500 grants of asylum per fiscal year to families fleeing home school persecution.  A written warning must be included in an asylum application advising the alien of the consequences of filing a frivolous application.   If an alien's asylum status is subject to termination, the immigration judge shall determine whether the termination conditions have been met and, if so, terminate the alien's asylum status before considering whether the alien is eligible for adjustment of status.",
+         "summary_short": "Asylum Reform and Border Protection Act of 2015 This bill amends the Immigration and Nationality Act to:    prohibit the government from bearing any expense of counsel for any person in a removal or related appeal proceedings, add a requirement to establish a credible fear of persecution claim in an asylum interview, limit humanitarian and public interest parole authority, and  prohibits the Department of Homeland Security (DHS) from using parole authority for an alien who is ineligible for r...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 11."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "ASSUMING FIRST SPONSORSHIP - Mr. Johnson (LA) asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 391, a bill originally introduced by Representative Chaffetz, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-06",
+           "description": "Referred to the Subcommittee on Immigration and Border Security."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to House Foreign Affairs"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to House Judiciary"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

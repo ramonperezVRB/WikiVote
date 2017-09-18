@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr290-115",
+         "bill_slug": "hr290",
+         "congress": "115",
+         "bill": "H.R.290",
+         "bill_type": "hr",
+         "number": "H.R.290",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr290.json",
+         "title": "Federal Communications Commission Process Reform Act of 2017",
+         "short_title": "Federal Communications Commission Process Reform Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Greg Walden",
+         "sponsor_id": "W000791",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000791.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr290ih/pdf/BILLS-115hr290ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/290",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr290",
+         "introduced_date": "2017-01-04",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Communications Commission Process Reform Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to complete a rulemaking proceeding to adopt rules establishing:  minimum comment and reply periods for rulemakings;  policies to ensure that the public has notice and an opportunity to respond to comments, ex parte communications, or materials submitted toward the end of, or after, the comment period;  deadlines for public notice, and guidelines for disposition, of certain petitions; and  procedures to include the specific language of proposed rules or amendments in proposed rulemaking notices.   The rules must also establish procedures for publishing on the FCC's website and submitting to Congress reports regarding: (1) the status of open rulemakings and items circulated for FCC commissioners' review; (2) the number of pending petitions, applications, complaints, and other requests for action by the FCC and the amount of time such requests have been pending; and (3) pending congressional investigations of the FCC and the cost of such investigations. The website postings and reports must be updated at least quarterly.  Performance measures must be included in notices of proposed rulemakings or orders that would create or substantially change a program activity. A \"program activity\" is a specific activity or project as listed in the program and financing schedules of the U.S. annual budget, including any annual collection or distribution or related series of collections or distributions by the FCC of $100 million or more.  The FCC must seek public comment regarding whether the FCC should establish procedures to: (1) allow a bipartisan majority of commissioners to place items on an open meeting agenda; (2) publish in advance of open meetings the text of agenda items on which the FCC will vote; (3) ensure that commissioners have adequate time, prior to a required decision, to review the proposed decision document, including the specific rule or any proposed amendments; (4) provide deadlines for the disposition of certain license applications; and (5) publish orders, decisions, reports, and actions within 30 days after adoption. The Government Accountability Office must audit the FCC's estimates of the costs of congressional investigations of the FCC. The FCC must initiate a new rulemaking proceeding every five years to continue its consideration of procedural rule changes.  A bipartisan majority of commissioners may hold a nonpublic meeting, including a meeting to collaborate with joint boards or conferences, if: (1) no votes or actions are taken, and (2) an attorney from the FCC's Office of General Counsel is present. Such a closed meeting must be disclosed within two business days after the meeting, along with a list of persons in attendance and a summary of discussed matters, provided that such matters are not classified or otherwise exempt from disclosure.  The FCC must provide on its website: (1) information regarding the FCC's budget, appropriations, and total number of full-time equivalent employees; (2) the FCC's annual performance plan; and (3) information about consumer complaints in a publicly available, searchable database. The chair of the FCC must also publish on the website policies established by the chair that relate to the FCC's functioning or its agenda. The FCC must complete actions necessary for the required publication of documents in the Federal Register within specified time frames. The FCC must inform the public about its performance and efficiency in meeting disclosure and other requirements under the Freedom of Information Act (FOIA), including by: (1) publishing on the FCC website its logs for managing FOIA requests and associated fees, (2) releasing decisions to grant or deny requests, and (3) presenting information about the number of FOIA requests received and granted or denied by the FCC in its annual budget estimates and annual performance and financial reports. By January 15 of each year, the FCC must publish on its website and in other required formats an anticipated release schedule for all statistical reports and reports to Congress. The bill requires annual reports to Congress on the FCC's performance in conducting its proceedings and meeting the deadlines and guidelines established by this Act.  (Sec. 3) In compiling its quarterly report with respect to informal consumer inquiries and complaints, the FCC is prohibited from categorizing an inquiry or complaint under the Telephone Consumer Protection Act of 1991 (places restrictions on telephone solicitations and automatic dialing systems) as a wireline or wireless inquiry or complaint unless a wireline or wireless carrier was the subject of the inquiry or complaint. (Sec. 5) The Universal Service Antideficiency Temporary Suspension Act is amended to extend through December 31, 2021, the waiver of certain limitations on: (1) expending, obligating, or apportioning appropriations with respect to federal universal service contributions collected or received under the Communications Act of 1934; and (2) expending or obligating funds attributable to such contributions for universal service support programs. (Sec. 6) The FCC must consult with the Small Business Administration to report to Congress with actions and recommendations to improve participation of small businesses in FCC proceedings. (Sec. 7) For any item adopted by an FCC vote, the FCC must publish on its website the text of such item within 24 hours after the FCC secretary has received dissenting statements from all commissioners wishing to submit a statement. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Communications Commission Process Reform Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to complete a rulemaking proceeding to adopt rules establishing:  minimum comment and reply periods for rulemakings;  policies to ensure that the public has notice and an opportunity to respond...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H572-574)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 290."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H572-576)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mrs. Blackburn moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-04",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

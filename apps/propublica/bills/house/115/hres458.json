@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres458-115",
+         "bill_slug": "hres458",
+         "congress": "115",
+         "bill": "H.RES.458",
+         "bill_type": "hres",
+         "number": "H.RES.458",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres458.json",
+         "title": "Providing for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "short_title": "Providing for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Thomas Garrett",
+         "sponsor_id": "G000580",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000580.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres458ih/pdf/BILLS-115hres458ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/458",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres458",
+         "introduced_date": "2017-07-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 28,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-11",
+         "latest_major_action": "Motion to Discharge Committee filed by Mr. Garrett. Petition No: 115-3. (Discharge petition text with signatures.)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-08-11",
+           "description": "Motion to Discharge Committee filed by Mr. Garrett. Petition No: 115-3."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-08-11",
+           "description": "Motion to Discharge Committee filed by Mr. Garrett. Petition No: 115-3."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Referred to the House Committee on Rules."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

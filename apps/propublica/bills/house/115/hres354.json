@@ -1,0 +1,148 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres354-115",
+         "bill_slug": "hres354",
+         "congress": "115",
+         "bill": "H.RES.354",
+         "bill_type": "hres",
+         "number": "H.RES.354",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres354.json",
+         "title": "Condemning the violence against peaceful protesters outside the Turkish Ambassador's residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future.",
+         "short_title": "Condemning the violence against peaceful protesters outside the Turkish Ambassador's residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Edward Royce",
+         "sponsor_id": "R000487",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000487.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres354eh/pdf/BILLS-115hres354eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/354",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres354",
+         "introduced_date": "2017-05-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 45,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA","HSJU"],
+         "subcommittee_codes": ["HSJU10","HSJU08"],
+         "latest_major_action_date": "2017-06-06",
+         "latest_major_action": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 286). (text: CR H4628-4629)",
+         "last_vote_date": "2017-06-06",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Expresses the sense of the House of Representatives that: (1) the rights to peacefully assemble and freely express one's views are essential to American democracy; and (2) the United States should take steps to strengthen free press and civil society freedoms in countries such as Turkey. Calls for: (1) any Turkish security official who directed or participated in efforts by Turkish security forces to suppress peaceful protests outside of the Turkish Ambassador's residence in Washington, DC on May 16, 2017, to be charged and prosecuted under U.S. law; (2) the Secret Service and the Diplomatic Security Service of the Department of State to review such incident and confirm with the Turkish National Police the standards expected by visiting security details; (3) the State Department to request the waiver of immunity of any Turkish security detail official who engaged in assault in the United States prior to such individual's release from custody; and (4) the State Department to review its security procedures to mitigate the likelihood of such an incident in the future.  Declares that U.S. respect for free speech requires U.S. officials to speak out against such incidents. ",
+         "summary_short": "Expresses the sense of the House of Representatives that: (1) the rights to peacefully assemble and freely express one's views are essential to American democracy; and (2) the United States should take steps to strengthen free press and civil society freedoms in countries such as Turkey. Calls for: (1) any Turkish security official who directed or participated in efforts by Turkish security forces to suppress peaceful protests outside of the Turkish Ambassador's residence in Washington, DC on...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 0 (Roll no. 286). (text: CR H4628-4629)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Considered as unfinished business. (consideration: CR H4640-4641)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 354."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Considered under suspension of the rules. (consideration: CR H4628-4632)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Mr. Royce (CA) moved to suspend the rules and agree to the resolution, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Referred to House Foreign Affairs"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-06",
+             "time": "18:55:00",
+             "roll_call": "286",
+             "question": "On Motion to Suspend the Rules and Agree, as Amended",
+             "result": "Passed",
+             "total_yes": 397,
+             "total_no": 0,
+             "total_not_voting": 33,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/286.json"
+           }
+         ]
+
+      }
+   ]
+}

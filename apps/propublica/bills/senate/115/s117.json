@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s117-115",
+         "bill_slug": "s117",
+         "congress": "115",
+         "bill": "S.117",
+         "bill_type": "s",
+         "number": "S.117",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s117.json",
+         "title": "Alex Diekmann Peak Designation Act of 2017",
+         "short_title": "Alex Diekmann Peak Designation Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Steve Daines",
+         "sponsor_id": "D000618",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000618.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s117rs/pdf/BILLS-115s117rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/117",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s117",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Alex Diekmann Peak Designation Act of 2017 This bill designates as the Alex Diekmann Peak the 9,765-foot peak located 2.2 miles west-northwest of Finger Mountain on the western boundary of the Lee Metcalf Wilderness in Montana. ",
+         "summary_short": "Alex Diekmann Peak Designation Act of 2017 This bill designates as the Alex Diekmann Peak the 9,765-foot peak located 2.2 miles west-northwest of Finger Mountain on the western boundary of the Lee Metcalf Wilderness in Montana. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 124."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment. With written report No. 115-94."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

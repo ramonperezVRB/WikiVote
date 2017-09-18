@@ -1,0 +1,155 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2192-115",
+         "bill_slug": "hr2192",
+         "congress": "115",
+         "bill": "H.R.2192",
+         "bill_type": "hr",
+         "number": "H.R.2192",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2192.json",
+         "title": "To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff.",
+         "short_title": "To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Martha McSally",
+         "sponsor_id": "M001197",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001197.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2192rfs/pdf/BILLS-115hr2192rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2192",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2192",
+         "introduced_date": "2017-04-27",
+         "active": true,
+         "house_passage": "2017-05-03",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 86,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHA","HSIF"],
+         "subcommittee_codes": ["HSIF14"],
+         "latest_major_action_date": "2017-06-07",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-05-04",
+         "house_passage_vote": "2017-05-03",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill amends the Public Health Service Act, if the American Health Care Act (H.R. 1628) is enacted, to make plans made available by the federal government to members of Congress and congressional staff subject to state waivers of the Patient Protection and Affordable Care Act (PPACA) requirement for health insurance to cover the essential health benefits and PPACA restrictions on premium variation by age and health status.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill amends the Public Health Service Act, if the American Health Care Act (H.R. 1628) is enacted, to make plans made available by the federal government to members of Congress and congressional staff subject to state waivers of the Patient Protection and Affordable Care Act (PPACA) requirement for health insurance to cover the essential health benef...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-07",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "On passage Passed by the Yeas and Nays: 429 - 0 (Roll no. 255). (text: CR H4139)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Considered as unfinished business. (consideration: CR H4170-4171)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2192, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Burgess demanded the yeas and nays, and the Chair postponed further proceedings on the question of passage of H.R. 2192 until later in the legislative day."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2192."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Rule provides for consideration of H.R. 2192 and H.R. 1628. Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Considered under the provisions of rule H. Res. 308. (consideration: CR H4139-4149)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Rules Committee Resolution H. Res. 308 Reported to House. Rule provides for consideration of H.R. 2192 and H.R. 1628. Rule provides for consideration of H.R. 2192 under a closed rule, with one hour of general debate and one motion to recommit. Rule also provides for further consideration of H.R. 1628 and provides that further amendments printed in House Report 115-109 be considered as adopted."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-28",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-27",
+           "description": "Referred to House Administration"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-27",
+           "description": "Referred to House Energy and Commerce"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-04",
+             "time": "14:10:00",
+             "roll_call": "255",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 429,
+             "total_no": 0,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/255.json"
+           }
+         ]
+
+      }
+   ]
+}

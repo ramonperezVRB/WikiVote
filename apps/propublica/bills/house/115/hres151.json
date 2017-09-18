@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres151-115",
+         "bill_slug": "hres151",
+         "congress": "115",
+         "bill": "H.RES.151",
+         "bill_type": "hres",
+         "number": "H.RES.151",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres151.json",
+         "title": "Honoring the life of former Minority Leader of the House of Representatives, Robert Henry \"Bob\" Michel.",
+         "short_title": "Honoring the life of former Minority Leader of the House of Representatives, Robert Henry \"Bob\" Michel.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Darin M. LaHood",
+         "sponsor_id": "L000585",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000585.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres151eh/pdf/BILLS-115hres151eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/151",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres151",
+         "introduced_date": "2017-02-27",
+         "active": true,
+         "house_passage": "2017-02-26",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-27",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-02-26",
+         "senate_passage_vote": null,
+         "summary": "Declares that the House of Representatives honors the life, achievements, and distinguished public service of Robert H. \"Bob\" Michel, former Republican Minority Leader of the House of Representatives. ",
+         "summary_short": "Declares that the House of Representatives honors the life, achievements, and distinguished public service of Robert H. \"Bob\" Michel, former Republican Minority Leader of the House of Representatives. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-27",
+           "description": "On agreeing to the resolution Agreed to without objection. (text: CR H1342)"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-27",
+           "description": "Considered as privileged matter. (consideration: CR H1341-1342)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

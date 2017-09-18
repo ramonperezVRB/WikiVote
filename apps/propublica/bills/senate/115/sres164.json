@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres164-115",
+         "bill_slug": "sres164",
+         "congress": "115",
+         "bill": "S.RES.164",
+         "bill_type": "sres",
+         "number": "S.RES.164",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres164.json",
+         "title": "A resolution recognizing the contributions of senior volunteers and designating the week of May 15 through 19, 2017, as \"National Senior Corps Week\".",
+         "short_title": "A resolution recognizing the contributions of senior volunteers and designating the week of May 15 through 19, 2017, as \"National Senior Corps Week\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Sheldon Whitehouse",
+         "sponsor_id": "W000802",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000802.json",
+         "sponsor_party": "D",
+         "sponsor_state": "RI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres164ats/pdf/BILLS-115sres164ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/164",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres164",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-15",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 12,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Labor and Employment",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-16",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2968; text as passed Senate: CR S2968)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-15",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of May 15-May 19, 2017, as National Senior Corps Week. Encourages the people of the United States to recognize the contributions of senior volunteers and join in the celebration of National Senior Corps Week.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of May 15-May 19, 2017, as National Senior Corps Week. Encourages the people of the United States to recognize the contributions of senior volunteers and join in the celebration of National Senior Corps Week.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2968; text as passed Senate: CR S2968)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

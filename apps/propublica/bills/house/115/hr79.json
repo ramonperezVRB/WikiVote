@@ -1,0 +1,242 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr79-115",
+         "bill_slug": "hr79",
+         "congress": "115",
+         "bill": "H.R.79",
+         "bill_type": "hr",
+         "number": "H.R.79",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr79.json",
+         "title": "HALOS Act",
+         "short_title": "HALOS Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steven J. Chabot",
+         "sponsor_id": "C000266",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C000266.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr79rfs/pdf/BILLS-115hr79rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/79",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr79",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 15,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-11",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": "2017-01-10",
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Helping Angels Lead Our Startups Act or the HALOS Act (Sec. 3) This bill directs the Securities and Exchange Commission (SEC) to revise Regulation D, which exempts certain offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings. Specifically, this prohibition shall not apply to events with specified kinds of sponsors -- including \"angel investor groups\" unconnected to broker-dealers or investment advisers -- where presentations or communications are made by or on behalf of an issuer, but:  the advertising does not refer to any specific offering of securities by the issuer;  the sponsor does not provide investment recommendation or advice to attendees, engage in investment negotiations with attendees, charge certain fees, or receive certain compensation; and  no specific information regarding a securities offering is communicated beyond the type and amount of securities being offered, the amount of securities already subscribed for, and the intended use of proceeds from the offering.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Helping Angels Lead Our Startups Act or the HALOS Act (Sec. 3) This bill directs the Securities and Exchange Commission (SEC) to revise Regulation D, which exempts certain offerings from SEC registration requirements but prohibits general solicitation or general advertising with respect to such offerings. Specifically, this prohibition shall not apply to events wi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 22,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On passage Passed by the Yeas and Nays: 344 - 73 (Roll no. 31)."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 79."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered as unfinished business. (consideration: CR H280-283)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 79 as unfinished business."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mr. Huizenga moved that the Committee rise."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Clay amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Clay demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 33, the Committee of the Whole proceeded with 10 minutes of debate on the Clay Part B amendment No. 2."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Velazquez amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Velazquez demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 33, the Committee of the Whole proceeded with 10 minutes of debate on the Velazquez Part B amendment No. 1."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 79."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "The Speaker designated the Honorable Mike Bost to act as Chairman of the Committee."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 33 and Rule XVIII."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under the provisions of rule H. Res. 33. (consideration: CR H259-266; text of measure as reported in House: CR H264)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Rule H. Res. 33 passed House."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Rules Committee Resolution H. Res. 33 Reported to House. The resolution provides for both bills to be considered under a structured rule for one hour of general debate. The resolution also provides one motion to recommit with or without instructions on both H.R. 5 and H.R. 79."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-10",
+             "time": "17:57:00",
+             "roll_call": "31",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 344,
+             "total_no": 73,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/31.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-10",
+             "time": "17:47:00",
+             "roll_call": "30",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 163,
+             "total_no": 253,
+             "total_not_voting": 18,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/30.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-10",
+             "time": "17:42:00",
+             "roll_call": "29",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 167,
+             "total_no": 249,
+             "total_not_voting": 18,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/29.json"
+           }
+         ]
+
+      }
+   ]
+}

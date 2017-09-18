@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr460-115",
+         "bill_slug": "hr460",
+         "congress": "115",
+         "bill": "H.R.460",
+         "bill_type": "hr",
+         "number": "H.R.460",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr460.json",
+         "title": "Improving Rural Call Quality and Reliability Act of 2017",
+         "short_title": "Improving Rural Call Quality and Reliability Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "David Young",
+         "sponsor_id": "Y000066",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/Y000066.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr460ih/pdf/BILLS-115hr460ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/460",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr460",
+         "introduced_date": "2017-01-11",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-24",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Improving Rural Call Quality and Reliability Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission, to: (1) register with the Federal Communications Commission (FCC), and (2) comply with service quality standards to be established by the FCC.  An \"intermediate provider\" is an entity that: (1) enters a business arrangement with a long-distance voice service provider that makes the initial call path choice for more than 100,000 domestic retail subscriber lines, or with another intermediate provider, to carry, route, or transmit voice traffic from a call placed from or to an end user connection using a North American Numbering Plan resource; and (2) does not itself (directly or in conjunction with an affiliate) serve as such a long-distance initial call path choice provider in the context of originating or terminating a given call.  The bill prohibits such long-distance providers (including local exchange carriers, interexchange carriers, commercial mobile radio services, interconnected voice over Internet Protocol [VoIP] services, and certain non-interconnected VoIP services) from using an intermediate provider to transmit voice communications and signals unless the intermediate provider is so registered.  The FCC must: (1) ensure the integrity of the transmission of voice communications to all customers in the United States, (2) prevent unjust or unreasonable discrimination among areas of the United States in the delivery of such voice communications, and (3) make a registry of intermediate providers publicly available on the FCC website.  The bill shall not be construed to preempt or expand the authority of a state agency or public utility commission to collect data, or enforce state law and regulations, regarding the completion of intrastate voice communications.  Certain long-distance providers that make initial call path choices are exempt from service quality standards that the FCC is required to establish under this bill if they certify under a safe harbor provision in existing FCC rules that they monitor the performance of, or do not use, intermediate providers. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Improving Rural Call Quality and Reliability Act of 2017 (Sec. 2) This bill amends the Communications Act of 1934 to require intermediate providers that offer the capability to transmit voice communications and signaling information from one destination to another, and that charge a rate to any other entity (including an affiliated entity) for such a transmission,...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H582-583; H583-584)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 460."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H582-586; H583-586)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mr. Lance moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

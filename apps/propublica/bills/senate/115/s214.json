@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s214-115",
+         "bill_slug": "s214",
+         "congress": "115",
+         "bill": "S.214",
+         "bill_type": "s",
+         "number": "S.214",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s214.json",
+         "title": "A bill to authorize the expansion of an existing hydroelectric project.",
+         "short_title": "A bill to authorize the expansion of an existing hydroelectric project.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s214rs/pdf/BILLS-115s214rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/214",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s214",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 141.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill authorizes the licensee for the Terror Lake Hydroelectric Project in Kodiak Island, Alaska, to occupy not more than 20 acres of federal land to construct, operate, and maintain the Upper Hidden Basin Diversion Expansion without further authorization under the Alaska National Interest Lands Conservation Act or from the Department of the Interior.",
+         "summary_short": "This bill authorizes the licensee for the Terror Lake Hydroelectric Project in Kodiak Island, Alaska, to occupy not more than 20 acres of federal land to construct, operate, and maintain the Upper Hidden Basin Diversion Expansion without further authorization under the Alaska National Interest Lands Conservation Act or from the Department of the Interior.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-13",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 141."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-13",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-105."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

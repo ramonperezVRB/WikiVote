@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres41-115",
+         "bill_slug": "sres41",
+         "congress": "115",
+         "bill": "S.RES.41",
+         "bill_type": "sres",
+         "number": "S.RES.41",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres41.json",
+         "title": "A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as \"National Stalking Awareness Month\".",
+         "short_title": "A resolution raising awareness and encouraging the prevention of stalking by designating January 2017 as \"National Stalking Awareness Month\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Amy Klobuchar",
+         "sponsor_id": "K000367",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000367.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres41ats/pdf/BILLS-115sres41ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/41",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres41",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-01-31",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603-604)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-01-31",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates January 2017 as National Stalking Awareness Month. Applauds the efforts of service providers, police, prosecutors, national and community organizations, campuses, and private sector supporters to promote awareness of stalking. Encourages increased awareness of stalking and the availability of services for stalking victims.  Urges national and community organizations, private businesses, and the media to promote awareness of the crime of stalking through National Stalking Awareness Month.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates January 2017 as National Stalking Awareness Month. Applauds the efforts of service providers, police, prosecutors, national and community organizations, campuses, and private sector supporters to promote awareness of stalking. Encourages increased awareness of stalking and the availability of services for stalking victims.  Urges national and community organizations, private b...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-01",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S604; text as passed Senate: CR S603-604)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

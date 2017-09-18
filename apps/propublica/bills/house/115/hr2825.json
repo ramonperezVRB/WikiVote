@@ -1,0 +1,176 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2825-115",
+         "bill_slug": "hr2825",
+         "congress": "115",
+         "bill": "H.R.2825",
+         "bill_type": "hr",
+         "number": "H.R.2825",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2825.json",
+         "title": "Department of Homeland Security Authorization Act",
+         "short_title": "DHS Authorization Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Michael McCaul",
+         "sponsor_id": "M001157",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001157.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2825eh/pdf/BILLS-115hr2825eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2825",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2825",
+         "introduced_date": "2017-06-08",
+         "active": true,
+         "house_passage": "2017-07-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-20",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-07-20",
+         "house_passage_vote": "2017-07-19",
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403)."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2825."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Mr. McCaul moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 41 (Roll no. 403). (text: CR H6047-6109)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered as unfinished business. (consideration: CR H6128)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-20",
+           "description": "Considered under suspension of the rules. (consideration: CR H6047-6120)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-28",
+           "description": "Placed on the Union Calendar, Calendar No. 135."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-198."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Ordered to be Reported (Amended)."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-08",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-20",
+             "time": "11:33:00",
+             "roll_call": "403",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 386,
+             "total_no": 41,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/403.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr680-115",
+         "bill_slug": "hr680",
+         "congress": "115",
+         "bill": "H.R.680",
+         "bill_type": "hr",
+         "number": "H.R.680",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr680.json",
+         "title": "Eliminating Pornography from Agencies Act",
+         "short_title": "Eliminating Pornography from Agencies Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mark Meadows",
+         "sponsor_id": "M001187",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001187.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr680rh/pdf/BILLS-115hr680rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/680",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr680",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-06",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 47.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Eliminating Pornography from Agencies Act  This bill directs the Office of Management and Budget to issue guidelines that prohibit accessing a pornographic or other explicit website from a federal computer, except for investigative purposes. ",
+         "summary_short": "Eliminating Pornography from Agencies Act  This bill directs the Office of Management and Budget to issue guidelines that prohibit accessing a pornographic or other explicit website from a federal computer, except for investigative purposes. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on the Union Calendar, Calendar No. 47."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-81."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

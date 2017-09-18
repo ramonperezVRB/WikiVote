@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s189-115",
+         "bill_slug": "s189",
+         "congress": "115",
+         "bill": "S.189",
+         "bill_type": "s",
+         "number": "S.189",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s189.json",
+         "title": "Fort Scott National Historic Site Boundary Modification Act",
+         "short_title": "Fort Scott National Historic Site Boundary Modification Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jerry Moran",
+         "sponsor_id": "M000934",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000934.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s189rs/pdf/BILLS-115s189rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/189",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s189",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-03",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 51.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Fort Scott National Historic Site Boundary Modification Act This bill allows the Department of the Interior to acquire by purchase from willing sellers with donated or appropriated funds, by donation (as under current law), or by exchange the lands and interests in land, together with buildings and improvements, known as Fort Scott in the city of Fort Scott in Bourbon County, Kansas, and the land to be added to the Fort Scott National Historic Site as a result of the modification of the site's boundary according to this bill.  The proviso that the buildings so acquired shall not include the structure known as \"Lunette Blair\" is repealed.  The boundary of the Fort Scott National Historic Site in Kansas shall be modified as generally depicted on the map entitled \"Fort Scott National Historic Site Proposed Boundary Modification,\" dated February 2016. ",
+         "summary_short": "Fort Scott National Historic Site Boundary Modification Act This bill allows the Department of the Interior to acquire by purchase from willing sellers with donated or appropriated funds, by donation (as under current law), or by exchange the lands and interests in land, together with buildings and improvements, known as Fort Scott in the city of Fort Scott in Bourbon County, Kansas, and the land to be added to the Fort Scott National Historic Site as a result of the modification of the site'...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-03",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 51."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 115-37."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

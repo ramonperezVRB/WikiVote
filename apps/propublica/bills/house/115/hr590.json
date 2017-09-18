@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr590-115",
+         "bill_slug": "hr590",
+         "congress": "115",
+         "bill": "H.R.590",
+         "bill_type": "hr",
+         "number": "H.R.590",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr590.json",
+         "title": "Advanced Nuclear Technology Development Act of 2017",
+         "short_title": "Advanced Nuclear Technology Development Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Robert E. Latta",
+         "sponsor_id": "L000566",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000566.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr590ih/pdf/BILLS-115hr590ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/590",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr590",
+         "introduced_date": "2017-01-20",
+         "active": true,
+         "house_passage": "2017-01-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV","SSCM","HSSY","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-10",
+         "latest_major_action": "Referred to the Committee on Environment and Public Works.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-22",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Advanced Nuclear Technology Development Act of 2017 (Sec.4)This bill requires the Department of Energy (DOE) and the Nuclear Regulatory Commission (NRC) to enter into a memorandum of understanding to:  ensure that DOE has sufficient technical expertise to support the civilian nuclear industry's timely development and commercial deployment of safe, innovative advanced reactor technology; ensure that the NRC has sufficient technical expertise to support the evaluation of requests for regulatory approval for advanced reactors; use computers and software codes to calculate the behavior and performance of advanced reactors based on mathematical models of their physical behavior; and ensure that the DOE maintains and develops the facilities to support the civilian nuclear industry's timely development and commercial deployment of safe, innovative reactor technology and ensuring that the NRC has access to such facilities, as needed.   (Sec.5)In addition, the NRC is required to develop a regulatory framework for licensing advanced nuclear reactors. The plan must include options to expedite and streamline the licensing process for advanced reactors, cost estimates, budgets, and specific milestones for implementing the framework by the end of FY2019.  (Sec.6) This bill amends the Omnibus Budget Reconciliation Act of 1990 to require that the aggregate amount of fees collected by the NRC from licensees and certificate holders in a fiscal year be decreased by the amount of appropriations for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies.    ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Advanced Nuclear Technology Development Act of 2017 (Sec.4)This bill requires the Department of Energy (DOE) and the Nuclear Regulatory Commission (NRC) to enter into a memorandum of understanding to:  ensure that DOE has sufficient technical expertise to support the civilian nuclear industry's timely development and commercial deployment of safe, innovative advan...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Committee on Environment and Public Works."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-10",
+           "description": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H569-570)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 590."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H569-571)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-20",
+           "description": "Referred to House Science, Space, and Technology"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-20",
+           "description": "Referred to House Energy and Commerce"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

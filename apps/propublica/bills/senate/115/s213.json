@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s213-115",
+         "bill_slug": "s213",
+         "congress": "115",
+         "bill": "S.213",
+         "bill_type": "s",
+         "number": "S.213",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s213.json",
+         "title": "Jay S. Hammond Wilderness Act of 2017",
+         "short_title": "Jay S. Hammond Wilderness Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s213rs/pdf/BILLS-115s213rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/213",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s213",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-14",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Jay S. Hammond Wilderness Act of 2017 (Sec. 2) This bill designates approximately 2.6 million acres of National Wilderness Preservation System land in the Lake Clark National Park and Preserve in Alaska as the \"Jay S. Hammond Wilderness Area.\"",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Jay S. Hammond Wilderness Act of 2017 (Sec. 2) This bill designates approximately 2.6 million acres of National Wilderness Preservation System land in the Lake Clark National Park and Preserve in Alaska as the \"Jay S. Hammond Wilderness Area.\"",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-14",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 145."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-14",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-108."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

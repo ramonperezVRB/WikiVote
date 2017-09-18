@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres248-115",
+         "bill_slug": "sres248",
+         "congress": "115",
+         "bill": "S.RES.248",
+         "bill_type": "sres",
+         "number": "S.RES.248",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres248.json",
+         "title": "A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as \"American Grown Flower Month\".",
+         "short_title": "A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as \"American Grown Fl",
+         "sponsor_title": "Sen.",
+         "sponsor": "Dianne Feinstein",
+         "sponsor_id": "F000062",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000062.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres248ats/pdf/BILLS-115sres248ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/248",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres248",
+         "introduced_date": "2017-08-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Agriculture and Food",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates July 2017 as American Grown Flower Month. Recognizes that flowers grown in the United States support farmers, small businesses, jobs, and the economy; are a vital part of the U.S. agricultural industry; and enhance the ability of the people of the United States to celebrate holidays and special occasions. Urges all people of the United States to proactively showcase flowers and greens grown in the United States.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates July 2017 as American Grown Flower Month. Recognizes that flowers grown in the United States support farmers, small businesses, jobs, and the economy; are a vital part of the U.S. agricultural industry; and enhance the ability of the people of the United States to celebrate holidays and special occasions. Urges all people of the United States to proactively showcase flowers an...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882, S4894; text: CR S4882)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

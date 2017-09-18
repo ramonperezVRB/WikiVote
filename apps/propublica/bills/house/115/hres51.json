@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres51-115",
+         "bill_slug": "hres51",
+         "congress": "115",
+         "bill": "H.RES.51",
+         "bill_type": "hres",
+         "number": "H.RES.51",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres51.json",
+         "title": "Electing Members to certain standing committees of the House of Representatives.",
+         "short_title": "Electing Members to certain standing committees of the House of Representatives.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Cathy McMorris Rodgers",
+         "sponsor_id": "M001159",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001159.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres51eh/pdf/BILLS-115hres51eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/51",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres51",
+         "introduced_date": "2017-01-13",
+         "active": true,
+         "house_passage": "2017-01-12",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-13",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-12",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects specified Members to the following House Committees: (1) Agriculture; (2) Education and the Workforce; (3) Foreign Affairs; (4) Homeland Security; (5) the Judiciary; (6) Natural Resources; (7) Oversight and Government Reform; (8) Science, Space, and Technology; (9) Small Business; (10) Transportation and Infrastructure; and (11) Veterans’ Affairs.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Elects specified Members to the following House Committees: (1) Agriculture; (2) Education and the Workforce; (3) Foreign Affairs; (4) Homeland Security; (5) the Judiciary; (6) Natural Resources; (7) Oversight and Government Reform; (8) Science, Space, and Technology; (9) Small Business; (10) Transportation and Infrastructure; and (11) Veterans’ Affairs.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "On agreeing to the resolution Agreed to without objection. (text: CR H532)"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Considered as privileged matter. (consideration: CR H532)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

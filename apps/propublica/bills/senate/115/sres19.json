@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres19-115",
+         "bill_slug": "sres19",
+         "congress": "115",
+         "bill": "S.RES.19",
+         "bill_type": "sres",
+         "number": "S.RES.19",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres19.json",
+         "title": "A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and emergency response personnel in responding to the incident.",
+         "short_title": "A resolution denouncing the deadly attack at Fort Lauderdale-Hollywood International Airport, honoring the lives of the victims, offering condolences to their families, friends, and all those affected, and commending the efforts of law enforcement and eme",
+         "sponsor_title": "Sen.",
+         "sponsor": "Marco Rubio",
+         "sponsor_id": "R000595",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000595.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres19ats/pdf/BILLS-115sres19ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/19",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres19",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-01-22",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-23",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S404; text as passed Senate: CR S404)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-01-22",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Condemns the deadly attack at Fort Lauderdale-Hollywood International Airport on January 6, 2017. Honors the lives and memories of the victims killed in the attack and offers sincere condolences to their families and friends. Expresses hope for the full recovery of individuals who were injured. Commends the efforts of law enforcement and emergency response personnel who selflessly acted to secure the scene and assist those in need.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Condemns the deadly attack at Fort Lauderdale-Hollywood International Airport on January 6, 2017. Honors the lives and memories of the victims killed in the attack and offers sincere condolences to their families and friends. Expresses hope for the full recovery of individuals who were injured. Commends the efforts of law enforcement and emergency response personnel who selflessly acted ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-23",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S404; text as passed Senate: CR S404)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

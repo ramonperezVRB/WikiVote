@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1393-115",
+         "bill_slug": "s1393",
+         "congress": "115",
+         "bill": "S.1393",
+         "bill_type": "s",
+         "number": "S.1393",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1393.json",
+         "title": "Jobs for Our Heroes Act",
+         "short_title": "Jobs for Our Heroes Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Cornyn",
+         "sponsor_id": "C001056",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001056.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1393is/pdf/BILLS-115s1393is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1393",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1393",
+         "introduced_date": "2017-06-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-03",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 202."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-03",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-29",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-21",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S3688)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres210-115",
+         "bill_slug": "hres210",
+         "congress": "115",
+         "bill": "H.RES.210",
+         "bill_type": "hres",
+         "number": "H.RES.210",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres210.json",
+         "title": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+         "short_title": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bradley Byrne",
+         "sponsor_id": "B001289",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001289.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres210eh/pdf/BILLS-115hres210eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/210",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres210",
+         "introduced_date": "2017-03-20",
+         "active": true,
+         "house_passage": "2017-03-20",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-21",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-03-21",
+         "house_passage_vote": "2017-03-20",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "On agreeing to the resolution Agreed to by recorded vote: 233 - 186 (Roll no. 180). (text of measure as passed: CR H2260)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 233 - 186 (Roll no. 179). (consideration: CR H2260-2267, H2275)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Considered as unfinished business. (consideration: CR H2275-2276)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 210, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Polis demanded the yeas and nays and the Chair postponed further proceedings on the previous question until a time to be announced."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 210."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Considered as privileged matter. (consideration: CR H2260-2267)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-20",
+           "description": "Placed on the House Calendar, Calendar No. 23."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-20",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-51, by Mr. Byrne."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-21",
+             "time": "16:45:00",
+             "roll_call": "180",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 233,
+             "total_no": 186,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/180.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-21",
+             "time": "16:37:00",
+             "roll_call": "179",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 233,
+             "total_no": 186,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/179.json"
+           }
+         ]
+
+      }
+   ]
+}

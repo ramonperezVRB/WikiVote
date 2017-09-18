@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2868-115",
+         "bill_slug": "hr2868",
+         "congress": "115",
+         "bill": "H.R.2868",
+         "bill_type": "hr",
+         "number": "H.R.2868",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2868.json",
+         "title": "National Flood Insurance Program Policyholder Protection Act of 2017",
+         "short_title": "National Flood Insurance Program Policyholder Protection Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lee Zeldin",
+         "sponsor_id": "Z000017",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/Z000017.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2868rh/pdf/BILLS-115hr2868rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2868",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2868",
+         "introduced_date": "2017-06-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-11",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 148.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on the Union Calendar, Calendar No. 148."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Reported by the Committee on Financial Services. H. Rept. 115-211."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Ordered to be Reported by the Yeas and Nays: 53 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-08",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

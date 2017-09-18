@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2370-115",
+         "bill_slug": "hr2370",
+         "congress": "115",
+         "bill": "H.R.2370",
+         "bill_type": "hr",
+         "number": "H.R.2370",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2370.json",
+         "title": "Escambia County Land Conveyance Act",
+         "short_title": "Escambia County Land Conveyance Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Matt Gaetz",
+         "sponsor_id": "G000578",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000578.json",
+         "sponsor_party": "R",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2370eh/pdf/BILLS-115hr2370eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2370",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2370",
+         "introduced_date": "2017-05-04",
+         "active": true,
+         "house_passage": "2017-07-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-07-27",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-25",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Escambia County Land Conveyance Act  (Sec. 3) This bill authorizes Escambia County, Florida, to convey its interest in any part of the former Santa Rosa Island National Monument land that was conveyed to it by the federal government in 1947 to any person or entity, without restriction.  The bill prohibits any person or entity holding a leasehold interest in such land from being required to involuntarily accept a fee interest to such land in place of the leasehold interest.   The bill states that all interest of Escambia County in any part of such land that is within the jurisdictional boundaries of Santa Rosa County, Florida, shall be conveyed by Escambia County to such county within two years of the enactment of this bill.   Santa Rosa County or any other person to whom such county reconveys such land may reconvey any part of it.  Any proceeds from the conveyance of such land by either county (other than the amounts that are paid for the direct and incidental costs associated with the conveyance) shall be considered to be windfall profits that shall revert to the United States.   Escambia County must preserve in perpetuity those areas of the monument land conveyed under this bill that, as of this bill's enactment, are dedicated for conservation, preservation, public recreation access, and public parking. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Escambia County Land Conveyance Act  (Sec. 3) This bill authorizes Escambia County, Florida, to convey its interest in any part of the former Santa Rosa Island National Monument land that was conveyed to it by the federal government in 1947 to any person or entity, without restriction.  The bill prohibits any person or entity holding a leasehold interest in such l...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-27",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6329)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules. (consideration: CR H6328-6330)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2370."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Mr. McClintock moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-20",
+           "description": "Placed on the Union Calendar, Calendar No. 168."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-20",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-236."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

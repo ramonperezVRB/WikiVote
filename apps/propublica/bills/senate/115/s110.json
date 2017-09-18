@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s110-115",
+         "bill_slug": "s110",
+         "congress": "115",
+         "bill": "S.110",
+         "bill_type": "s",
+         "number": "S.110",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s110.json",
+         "title": "Digital Coast Act",
+         "short_title": "Digital Coast Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tammy Baldwin",
+         "sponsor_id": "B001230",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001230.json",
+         "sponsor_party": "D",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s110es/pdf/BILLS-115s110es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/110",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s110",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-24",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-26",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-24",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)  Digital Coast Act (Sec.4)This bill requires the National Oceanic and Atmospheric Administration (NOAA) to establish a constituent-driven Digital Coast program. (This program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.) The program must: (1) provide an online resource that integrates geospatial data, decision-support tools, training, and best practices to address coastal management issues and needs, and to enhance resilient communities, ecosystem values, and coastal economic growth and development; and (2) provide for the documentation, dissemination, and archiving of the data. NOAA must focus on filling data needs and gaps for critical coastal management issues and support continued improvement in existing efforts to coordinate the acquisition and integration of key data sets needed for coastal management, and other purposes. NOAA may: (1) enter into financial agreements and collect fees to carry out the program; (2) enter into contracts with private sector entities as may be necessary to collect, process, and provide remote sensing and other geospatial data and products. Additionally, NOAA may establish publicly available tools that track ocean and Great Lakes economy data for each coastal state.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)  Digital Coast Act (Sec.4)This bill requires the National Oceanic and Atmospheric Administration (NOAA) to establish a constituent-driven Digital Coast program. (This program currently exists under NOAA to provide data, tools, and training that communities use to manage their coastal resources.) The program must: (1) provide an online resource that integrates geos...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-26",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-26",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-26",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S3225-3226; text as passed Senate: CR S3225-3226)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 25."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-14."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

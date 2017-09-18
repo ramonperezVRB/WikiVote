@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr70-115",
+         "bill_slug": "hr70",
+         "congress": "115",
+         "bill": "H.R.70",
+         "bill_type": "hr",
+         "number": "H.R.70",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr70.json",
+         "title": "Federal Advisory Committee Act Amendments of 2017",
+         "short_title": "Federal Advisory Committee Act Amendments of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "William Lacy Clay",
+         "sponsor_id": "C001049",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001049.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr70rfs/pdf/BILLS-115hr70rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/70",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr70",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-03",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSWM","HSGO"],
+         "subcommittee_codes": ["HSWM04"],
+         "latest_major_action_date": "2017-01-05",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-03",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Advisory Committee Act Amendments of 2017 This bill amends the Federal Advisory Committee Act (FACA) to modify and expand requirements for federal advisory committees. A federal advisory committee is any term-limited committee, board, commission, council, conference, panel, task force, or similar group that dispenses objective advice and recommendations to officers and agencies of the executive branch. (Sec. 2) The bill requires that appointments to federal advisory committees be made without regard to political affiliation or political activity, unless required by federal statute. The head of a federal agency making an appointment to an advisory committee must give interested persons an opportunity to suggest potential committee members by including a request for comments in the Federal Register and providing a mechanism for interested persons to comment through the agency's official website. The agency must consider any comments submitted in making selections of advisory committee members.  Any individual appointed to an advisory committee who is not a full-time or permanent part-time officer or employee of the federal government shall be designated as: (1) a special government employee if the individual is providing advice based on the individual's expertise or experience, or (2) a representative if representing the views of an entity outside of the federal government. An agency may not designate committee members as representatives to avoid making them subject to federal ethics rules and requirements.  A designated ethics official of each agency shall review the designation of each member of an advisory committee to determine whether such member's designation is appropriate and may redesignate members if appropriate.  Agency heads must ensure that the agency does not interfere with the free and independent participation, expression of views, and deliberation by advisory committee members.  (Sec. 3) The bill deems an individual who is not a full-time or permanent part-time officer or employee of the federal government as a member of an advisory committee if such individual regularly attends and participates in committee meetings, even if such individual does not have the right to vote or veto the advice or recommendations of the committee. Subcommittees of advisory committees, advisory committees established under contract or other transactional authority, and committees that include members appointed as special government employees are deemed subject to FACA requirements.  (Sec. 4) Agencies must make publicly available for each advisory committee: (1) the charter of the advisory committee; (2) the member appointment process; (3) a list of all current members, including designations as representatives or special government employees; (4) any recusal agreement made by a committee member to avoid a conflict of interest; (5) committee processes for making decisions; (6) detailed meeting minutes; and (7) notices of future committee meetings. This information must be placed on the agency's website and the website of the General Services Administration (GSA).  Advisory committees may not meet or take any action until an advisory committee charter has been filed with the GSA, the agency to which the committee reports, and specified congressional committees.  (Sec. 5) The head of each federal agency that has an advisory committee must designate a senior agency official as the agency's Advisory Committee Management Officer. Such official shall be an expert in implementing the requirements of FACA and shall be the primary point of contact for the GSA. (Sec. 6) The Government Accountability Office shall review, and report on, compliance by agencies with FACA, as amended by this Act, including whether agencies are appropriately appointing advisory committee members as either special government employees or representatives.  (Sec. 7) The bill amends the Trade Act of 1974 to expand exemptions from FACA requirements for trade advisory committees under such Act. (Sec. 8) The bill adopts, for purposes of FACA , the definition of \"special Government employee\" in the federal criminal code. (Sec. 10) The effective date of this bill is 30 days after its enactment.  (Sec. 11) No additional funds shall be authorized to carry out the requirements in this bill. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Federal Advisory Committee Act Amendments of 2017 This bill amends the Federal Advisory Committee Act (FACA) to modify and expand requirements for federal advisory committees. A federal advisory committee is any term-limited committee, board, commission, council, conference, panel, task force, or similar group that dispenses objective advice and recommendations to...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-04",
+           "description": "Referred to the Subcommittee on Trade."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H67-69)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 70."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Considered under suspension of the rules. (consideration: CR H67-70)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Mr. Chaffetz moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to House Ways and Means"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to House Oversight and Government Reform"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,164 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hconres35-115",
+         "bill_slug": "hconres35",
+         "congress": "115",
+         "bill": "H.CON.RES.35",
+         "bill_type": "hconres",
+         "number": "H.CON.RES.35",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hconres35.json",
+         "title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.",
+         "short_title": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lou Barletta",
+         "sponsor_id": "B001269",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001269.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hconres35enr/pdf/BILLS-115hconres35enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/35",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hconres35",
+         "introduced_date": "2017-03-20",
+         "active": true,
+         "house_passage": "2017-04-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-04-28",
+         "latest_major_action": "Message on Senate action sent to the House.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-04-24",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 1) Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor as free public events on the Capitol grounds:    the 36th Annual National Peace Officers' Memorial Service, on May 15, 2017, to honor the law enforcement officers who died in the line of duty during 2016; and the National Honor Guard and Pipe Band Exhibition, on May 14, 2017, to allow law enforcement representatives to exhibit their ability to demonstrate Honor Guard programs and provide for a bag pipe exhibition.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 1) Permits the Grand Lodge of the Fraternal Order of Police and its auxiliary to sponsor as free public events on the Capitol grounds:    the 36th Annual National Peace Officers' Memorial Service, on May 15, 2017, to honor the law enforcement officers who died in the line of duty during 2016; and the National Honor Guard and Pipe Band Exhibition, on May 14, 2...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-28",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2630)"
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-26",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2820)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 35."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H2820-2821)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Mr. Ferguson moved to suspend the rules and agree to the resolution."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on the House Calendar, Calendar No. 38."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-87."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Ordered to be Reported."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-21",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-20",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

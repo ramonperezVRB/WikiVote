@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres84-115",
+         "bill_slug": "sres84",
+         "congress": "115",
+         "bill": "S.RES.84",
+         "bill_type": "sres",
+         "number": "S.RES.84",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres84.json",
+         "title": "A resolution supporting the goals of International Women's Day.",
+         "short_title": "A resolution supporting the goals of International Women's Day.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jeanne Shaheen",
+         "sponsor_id": "S001181",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001181.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres84ats/pdf/BILLS-115sres84ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/84",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres84",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 13,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-08",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1695-1696; text of measure as introduced: CR S1693-1694)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals of International Women's Day.  Recognizes that the empowerment of women is linked to a country's potential to generate economic growth, sustainable democracy, and inclusive security.  Recognizes individuals in the United States and around the world, including women human rights defenders and civil society leaders, who have worked to ensure that women are guaranteed equality and basic human rights.  Recognizes the unique cultural, historical, and religious differences throughout the world and urges the U.S. government to act with respect and understanding toward legitimate differences when promoting any policies. Reaffirms the commitment to: (1) end discrimination and violence against women and girls, and ensure their safety and welfare; (2) pursue policies that guarantee the basic human rights of women and girls worldwide; and (3) promote women's participation in every aspect of society and community.   Supports sustainable global development that seeks to achieve gender equality.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Supports the goals of International Women's Day.  Recognizes that the empowerment of women is linked to a country's potential to generate economic growth, sustainable democracy, and inclusive security.  Recognizes individuals in the United States and around the world, including women human rights defenders and civil society leaders, who have worked to ensure that women are guaranteed equ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1695-1696; text of measure as introduced: CR S1693-1694)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

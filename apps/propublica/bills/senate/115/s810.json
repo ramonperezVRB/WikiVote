@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s810-115",
+         "bill_slug": "s810",
+         "congress": "115",
+         "bill": "S.810",
+         "bill_type": "s",
+         "number": "S.810",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s810.json",
+         "title": "A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.",
+         "short_title": "A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Roy Blunt",
+         "sponsor_id": "B000575",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000575.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s810rfh/pdf/BILLS-115s810rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/810",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s810",
+         "introduced_date": "2017-04-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-03",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW","SSEV"],
+         "subcommittee_codes": ["HSPW07","HSPW12"],
+         "latest_major_action_date": "2017-08-07",
+         "latest_major_action": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-03",
+         "summary": "This bill authorizes the construction and operation of a bridge (Riverside Bridge Project) on certain property conveyed to Christian County, Missouri, by the Riverside Inn, Inc.  The county shall:  carryout the project in a manner that ensures that no flood damage occurs, and be liable for any such flood damage that does occur.  No federal disaster assistance may be provided with respect to the covered property or project.",
+         "summary_short": "This bill authorizes the construction and operation of a bridge (Riverside Bridge Project) on certain property conveyed to Christian County, Missouri, by the Riverside Inn, Inc.  The county shall:  carryout the project in a manner that ensures that no flood damage occurs, and be liable for any such flood damage that does occur.  No federal disaster assistance may be provided with respect to the covered property or project.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-07",
+           "description": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-07",
+           "description": "Referred to the Subcommittee on Highways and Transit."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4892; text: CR S4892)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-02",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 192."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-02",
+           "description": "Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-142."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-12",
+           "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-04",
+           "description": "Read twice and referred to the Committee on Environment and Public Works."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

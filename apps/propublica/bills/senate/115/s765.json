@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s765-115",
+         "bill_slug": "s765",
+         "congress": "115",
+         "bill": "S.765",
+         "bill_type": "s",
+         "number": "S.765",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s765.json",
+         "title": "Private Corrado Piccoli Purple Heart Preservation Act",
+         "short_title": "Private Corrado Piccoli Purple Heart Preservation Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "David Perdue",
+         "sponsor_id": "P000612",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000612.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s765rfh/pdf/BILLS-115s765rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/765",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s765",
+         "introduced_date": "2017-03-29",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-02",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU","SSJU"],
+         "subcommittee_codes": ["HSJU08"],
+         "latest_major_action_date": "2017-08-23",
+         "latest_major_action": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-02",
+         "summary": "Private Corrado Piccoli Purple Heart Preservation Act This bill provides that regulations restricting the purchase, production, sale, or exchange of military medals or decorations may not authorize the sale of a Purple Heart awarded to a member of the Armed Forces, unless the sale is conducted by the member to whom the Purple Heart was awarded.",
+         "summary_short": "Private Corrado Piccoli Purple Heart Preservation Act This bill provides that regulations restricting the purchase, production, sale, or exchange of military medals or decorations may not authorize the sale of a Purple Heart awarded to a member of the Armed Forces, unless the sale is conducted by the member to whom the Purple Heart was awarded.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-23",
+           "description": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the House Committee on the Judiciary."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4806)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-03",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-29",
+           "description": "Read twice and referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

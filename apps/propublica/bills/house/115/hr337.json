@@ -1,0 +1,141 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr337-115",
+         "bill_slug": "hr337",
+         "congress": "115",
+         "bill": "H.R.337",
+         "bill_type": "hr",
+         "number": "H.R.337",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr337.json",
+         "title": "Black Hills National Cemetery Boundary Expansion Act",
+         "short_title": "Black Hills National Cemetery Boundary Expansion Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kristi Noem",
+         "sponsor_id": "N000184",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000184.json",
+         "sponsor_party": "R",
+         "sponsor_state": "SD",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr337ih/pdf/BILLS-115hr337ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/337",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr337",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-02-05",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSVR","HSII"],
+         "subcommittee_codes": ["HSVR09"],
+         "latest_major_action_date": "2017-02-07",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-02-06",
+         "house_passage_vote": "2017-02-05",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Black Hills National Cemetery Boundary Expansion Act (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to: (1) complete environmental, cultural resource, and other due diligence activities on certain public land to confirm its suitability for inclusion in the Black Hills National Cemetery, South Dakota; and (2) notify the Department of the Interior of such activities.  After completion of such activities and upon receipt by Interior of written confirmation of suitability from the VA, the land shall: (1) be withdrawn from all forms of appropriation under the public land laws, including the mining laws, the mineral leasing laws, and the geothermal leasing laws, for as long as it remains under VA administrative jurisdiction; (2) be deemed property; and (3) be transferred to the VA for use as national cemeteries. (Sec. 3) Interior shall publish a notice containing the legal descriptions of such transferred land.  The VA shall reimburse Interior for reasonable transfer costs, including survey costs.  (Sec. 4) Upon a determination by the VA that all or a portion of such transferred land shall not be used for cemetery purposes, the VA shall: (1) notify Interior and transfer jurisdiction of the land back to Interior, and (2) be responsible for any decontamination costs necessary for restoration of the lands to the public lands.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Black Hills National Cemetery Boundary Expansion Act (Sec. 2) This bill directs the Department of Veterans Affairs (VA) to: (1) complete environmental, cultural resource, and other due diligence activities on certain public land to confirm its suitability for inclusion in the Black Hills National Cemetery, South Dakota; and (2) notify the Department of the Interio...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 80). (text: CR H985-986)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Considered as unfinished business. (consideration: CR H993-994)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 337."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Considered under suspension of the rules. (consideration: CR H985-987)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Mr. Lamborn moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Veterans' Affairs"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to House Natural Resources"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-06",
+             "time": "18:58:00",
+             "roll_call": "80",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 407,
+             "total_no": 0,
+             "total_not_voting": 25,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/80.json"
+           }
+         ]
+
+      }
+   ]
+}

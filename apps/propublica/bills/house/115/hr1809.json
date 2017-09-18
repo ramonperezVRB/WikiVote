@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1809-115",
+         "bill_slug": "hr1809",
+         "congress": "115",
+         "bill": "H.R.1809",
+         "bill_type": "hr",
+         "number": "H.R.1809",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1809.json",
+         "title": "Juvenile Justice Reform Act of 2017",
+         "short_title": "Juvenile Justice Reform Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jason Lewis",
+         "sponsor_id": "L000587",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000587.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1809rds/pdf/BILLS-115hr1809rds.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1809",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1809",
+         "introduced_date": "2017-03-30",
+         "active": true,
+         "house_passage": "2017-05-22",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 23,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Education and the Workforce Committee",
+         "committee_codes": ["HSED"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Received in the Senate.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-22",
+         "senate_passage_vote": null,
+         "summary": "Juvenile Justice Reform Act of 2017 This bill amends the Juvenile Justice and Delinquency Prevention Act of 1974 (JJDPA) to modify and reauthorize juvenile justice programs and activities.  Specifically, it:    revises and reauthorizes through FY2022 programs and activities under title II of the JJDPA, including the State Formula Grant Program and the activities of the Department of Justice's Office of Juvenile Justice and Delinquency Prevention (OJJDP);  revises and expands the purpose areas of the JJDPA;  expands membership on the Coordinating Council on Juvenile Justice and Delinquency Prevention to include the Assistant Secretary for Mental Health and Substance Use and the Secretary of the Interior;  expands requirements for the OJJDP's annual report on juveniles in custody;  modifies the required components of a state's juvenile justice and prevention plan;  modifies the four core requirements with which a state must comply to receive a full allocation of funds under the State Formula Grant Program; and  repeals the Juvenile Delinquency Prevention Block Grant program.   The bill revises, restructures, and reauthorizes through FY2022 programs under title V of the JJDPA, including the Incentive Grants for Local Delinquency Prevention Program.  The Government Accountability Office must evaluate the OJJDP's performance and audit selected grant recipients. The bill subjects juvenile justice grants to accountability provisions. Finally, it reauthorizes through FY2022 programs and activities: (1) for missing and exploited children, under title IV of the JJDPA; and (2) for runaway and homeless youth, under title III of the JJDPA. ",
+         "summary_short": "Juvenile Justice Reform Act of 2017 This bill amends the Juvenile Justice and Delinquency Prevention Act of 1974 (JJDPA) to modify and reauthorize juvenile justice programs and activities.  Specifically, it:    revises and reauthorizes through FY2022 programs and activities under title II of the JJDPA, including the State Formula Grant Program and the activities of the Department of Justice's Office of Juvenile Justice and Delinquency Prevention (OJJDP);  revises and expands the purpose areas...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-24",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4441-4451)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1809."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Considered under suspension of the rules. (consideration: CR H4441-4453)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Mr. Lewis (MN) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-04",
+           "description": "Placed on the Union Calendar, Calendar No. 65."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-04",
+           "description": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-111."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-04",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-04",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Referred to the House Committee on Education and the Workforce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

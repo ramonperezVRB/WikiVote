@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres45-115",
+         "bill_slug": "sjres45",
+         "congress": "115",
+         "bill": "S.J.RES.45",
+         "bill_type": "sjres",
+         "number": "S.J.RES.45",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres45.json",
+         "title": "A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.",
+         "short_title": "A joint resolution condemning the deadly attack on May 26, 2017, in Portland, Oregon, expressing deepest condolences to the families and friends of the victims, and supporting efforts to overcome hatred, bigotry, and violence.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Wyden",
+         "sponsor_id": "W000779",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000779.json",
+         "sponsor_party": "D",
+         "sponsor_state": "OR",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres45rfh/pdf/BILLS-115sjres45rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/45",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres45",
+         "introduced_date": "2017-06-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-06-07",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-12",
+         "latest_major_action": "Referred to the House Committee on Oversight and Government Reform.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-06-07",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-12",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-09",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-08",
+           "description": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S3372-3373; text as passed Senate: CR S3372-3373)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

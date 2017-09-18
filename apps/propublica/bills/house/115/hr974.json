@@ -1,0 +1,134 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr974-115",
+         "bill_slug": "hr974",
+         "congress": "115",
+         "bill": "H.R.974",
+         "bill_type": "hr",
+         "number": "H.R.974",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr974.json",
+         "title": "BRAVE Act",
+         "short_title": "BRAVE Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Kathleen Rice",
+         "sponsor_id": "R000602",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000602.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr974rfs/pdf/BILLS-115hr974rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/974",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr974",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": "2017-02-12",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR10"],
+         "latest_major_action_date": "2017-02-14",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs.",
+         "last_vote_date": "2017-02-13",
+         "house_passage_vote": "2017-02-12",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Boosting Rates of American Veteran Employment Act or the BRAVE Act  (Sec. 2) This bill authorizes the Department of Veterans Affairs (VA), in awarding a contract for the procurement of goods or services, to give preference to offerors based on the percentage of the offeror's full-time employees who are veterans. The VA is authorized to debar from VA contracting for at least five years any offeror determined to have willfully and intentionally misrepresented the veteran status of its employees. Such debarment shall include the debarment of all principals in the offeror for at least five years. The VA shall: (1) commence debarment actions within 30 days after determining that the offeror misrepresented such veteran status, and (2) complete debarment actions within 90 days after such determination.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Boosting Rates of American Veteran Employment Act or the BRAVE Act  (Sec. 2) This bill authorizes the Department of Veterans Affairs (VA), in awarding a contract for the procurement of goods or services, to give preference to offerors based on the percentage of the offeror's full-time employees who are veterans. The VA is authorized to debar from VA contracting fo...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-14",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 87). (text: CR H1111)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Considered as unfinished business. (consideration: CR H1114-1115)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 974."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Considered under suspension of the rules. (consideration: CR H1111-1112)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Mr. Bilirakis moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-07",
+           "description": "Referred to the Subcommittee on Economic Opportunity."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-13",
+             "time": "19:11:00",
+             "roll_call": "87",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 407,
+             "total_no": 0,
+             "total_not_voting": 24,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/87.json"
+           }
+         ]
+
+      }
+   ]
+}

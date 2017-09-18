@@ -1,0 +1,162 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2547-115",
+         "bill_slug": "hr2547",
+         "congress": "115",
+         "bill": "H.R.2547",
+         "bill_type": "hr",
+         "number": "H.R.2547",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2547.json",
+         "title": "Veterans Expanded Trucking Opportunities Act of 2017",
+         "short_title": "Veterans Expanded Trucking Opportunities Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Rob Woodall",
+         "sponsor_id": "W000810",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000810.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2547rfs/pdf/BILLS-115hr2547rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2547",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2547",
+         "introduced_date": "2017-05-18",
+         "active": true,
+         "house_passage": "2017-06-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Transportation and Public Works",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSPW"],
+         "subcommittee_codes": ["HSPW12"],
+         "latest_major_action_date": "2017-06-27",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+         "last_vote_date": "2017-06-26",
+         "house_passage_vote": "2017-06-25",
+         "senate_passage_vote": null,
+         "summary": "Veterans Expanded Trucking Opportunities Act of 2017 This bill amends the Fast Act to require the medical professional who may perform a medical examination and provide a medical certificate for purposes of compliance with requirements for operation of a commercial motor vehicle to be a \"qualified examiner\" who:  is employed in the Department of Veterans Affairs as an advanced practice nurse, doctor of chiropractic, doctor of medicine, doctor of osteopathy, physician assistant, or other medical professional; and is licensed, certified, or registered in a state to perform physical examinations. ",
+         "summary_short": "Veterans Expanded Trucking Opportunities Act of 2017 This bill amends the Fast Act to require the medical professional who may perform a medical examination and provide a medical certificate for purposes of compliance with requirements for operation of a commercial motor vehicle to be a \"qualified examiner\" who:  is employed in the Department of Veterans Affairs as an advanced practice nurse, doctor of chiropractic, doctor of medicine, doctor of osteopathy, physician assistant, or other medic...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-27",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 323). (text: CR H5143)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Considered as unfinished business. (consideration: CR H5164-5165)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2547."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Considered under suspension of the rules. (consideration: CR H5143-5144)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-23",
+           "description": "Placed on the Union Calendar, Calendar No. 129."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-23",
+           "description": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-190."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Subcommittee on Highways and Transit Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-19",
+           "description": "Referred to the Subcommittee on Highways and Transit."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-26",
+             "time": "18:52:00",
+             "roll_call": "323",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 409,
+             "total_no": 0,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/323.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,237 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres34-115",
+         "bill_slug": "sjres34",
+         "congress": "115",
+         "bill": "S.J.RES.34",
+         "bill_type": "sjres",
+         "number": "S.J.RES.34",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres34.json",
+         "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to \"Protecting the Privacy of Customers of Broadband and Other Telecommunications Services\".",
+         "short_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to \"Protecting the Privacy of Customers of Broadband and Other Telecommunica",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jeff Flake",
+         "sponsor_id": "F000444",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000444.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres34enr/pdf/BILLS-115sjres34enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/34",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres34",
+         "introduced_date": "2017-03-07",
+         "active": true,
+         "house_passage": "2017-03-27",
+         "senate_passage": "2017-03-22",
+         "enacted": "2017-03-29",
+         "vetoed": null,
+         "cosponsors": 24,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-03",
+         "latest_major_action": "Became Public Law No: 115-22.",
+         "last_vote_date": "2017-03-28",
+         "house_passage_vote": "2017-03-27",
+         "senate_passage_vote": "2017-03-22",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule submitted by the Federal Communications Commission entitled \"Protecting the Privacy of Customers of Broadband and Other Telecommunications Services.\" The rule published on December 2, 2016: (1) applies the customer privacy requirements of the Communications Act of 1934 to broadband Internet access service and other telecommunications services, (2) requires telecommunications carriers to inform customers about rights to opt in or opt out of the use or the sharing of their confidential information, (3) adopts data security and breach notification requirements, (4) prohibits broadband service offerings that are contingent on surrendering privacy rights, and (5) requires disclosures and affirmative consent when a broadband provider offers customers financial incentives in exchange for the provider's right to use a customer's confidential information.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule submitted by the Federal Communications Commission entitled \"Protecting the Privacy of Customers of Broadband and Other Telecommunications Services.\" The rule published on December 2, 2016: (1) applies the customer privacy requirements of the Communications Act of 1934 to broadband Internet access service and other telecommunications services, (2)...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 23,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-04-03",
+           "description": "Became Public Law No: 115-22."
+         },
+                  {
+           "id": 22,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-04-03",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "On passage Passed by the Yeas and Nays: 215 - 205 (Roll no. 202). (text: CR H2489)"
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Considered as unfinished business. (consideration: CR H2503-2504)"
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on S.J.Res. 34, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Doyle demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "DEBATE - The House proceeded with one hour of debate on S.J. Res. 34."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Rule provides for consideration of S.J. Res. 34 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Considered under the provisions of rule H. Res. 230. (consideration: CR H2489-2501)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Rule H. Res. 230 passed House."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-27",
+           "description": "Rules Committee Resolution H. Res. 230 Reported to House. Rule provides for consideration of S.J. Res. 34 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Passed Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 94. (text: CR S1955)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Considered by Senate. (consideration: CR S1942-1955)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Measure laid before Senate by motion. (consideration: CR S1925-1929, S1935-1940)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1925)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-15",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 16."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-15",
+           "description": "Senate Committee on Commerce, Science, and Transportation discharged by petition pursuant to 5 U.S.C. 802(c)."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-07",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-28",
+             "time": "17:56:00",
+             "roll_call": "202",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 215,
+             "total_no": 205,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/202.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-03-23",
+             "time": "12:25:00",
+             "roll_call": "94",
+             "question": "On the Joint Resolution",
+             "result": "Joint Resolution Passed",
+             "total_yes": 50,
+             "total_no": 48,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/94.json"
+           }
+         ]
+
+      }
+   ]
+}

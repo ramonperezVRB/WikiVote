@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres97-115",
+         "bill_slug": "sres97",
+         "congress": "115",
+         "bill": "S.RES.97",
+         "bill_type": "sres",
+         "number": "S.RES.97",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres97.json",
+         "title": "A resolution authorizing the printing of a collection of the rules of the committees of the Senate.",
+         "short_title": "A resolution authorizing the printing of a collection of the rules of the committees of the Senate.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Richard C. Shelby",
+         "sponsor_id": "S000320",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000320.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres97ats/pdf/BILLS-115sres97ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/97",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres97",
+         "introduced_date": "2017-03-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-03-22",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-23",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1980; text as passed Senate: CR S1979)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-03-22",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requires that a collection of the rules of the committees of the Senate be printed as a Senate document. Provides for 250 additional copies of such document for the Committee on Rules and Administration.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Requires that a collection of the rules of the committees of the Senate be printed as a Senate document. Provides for 250 additional copies of such document for the Committee on Rules and Administration.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-23",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1980; text as passed Senate: CR S1979)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

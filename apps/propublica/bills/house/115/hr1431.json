@@ -1,0 +1,202 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1431-115",
+         "bill_slug": "hr1431",
+         "congress": "115",
+         "bill": "H.R.1431",
+         "bill_type": "hr",
+         "number": "H.R.1431",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1431.json",
+         "title": "EPA Science Advisory Board Reform Act of 2017",
+         "short_title": "EPA Science Advisory Board Reform Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Frank D. Lucas",
+         "sponsor_id": "L000491",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000491.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1431eh/pdf/BILLS-115hr1431eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1431",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1431",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": "2017-03-29",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 28,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV","HSSY"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+         "last_vote_date": "2017-03-30",
+         "house_passage_vote": "2017-03-29",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on March 27, 2017. The summary of that version is repeated here.) EPA Science Advisory Board Reform Act of 2017  (Sec. 2) This bill amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to revise the process of selecting members of the Science Advisory Board, guidelines for participation in board advisory activities, and terms of office. The board provides scientific advice to the Environmental Protection Agency (EPA). This bill requires the board to independently provide that advice. Among the revisions to requirements concerning the board's membership are the following:  a requirement to balance scientific and technical points of view; a set minimum level of representation from state, local, or tribal governments; allowance of affiliation with, or representation of, entities that may have a potential interest in the board's advisory activities; conflict of interest restrictions; restrictions on participation in advisory activities involving review of a member's work;  a prohibition on appointment of registered lobbyists; and prohibitions on member receipt of current EPA grants or contracts.  The EPA must make public a list of nominees to the board and accept public comments on the nominees. Reports filed upon the provisional nomination of a member disclosing financial relationships and interests must also be made public. The EPA must provide draft risk or hazard assessments in its regulatory proposals and documents to the board. The board's advice and comments must be included in the record regarding any such proposal and published in the Federal Register. The board's member committees and investigative panels must operate in accordance with the membership, participation, and policy requirements contained in this bill, including new requirements for public participation in advisory activities of the board. The member committees and investigative panels do not have the authority to make decisions on behalf of the board and may not report directly to the EPA. The bill imposes additional public participation requirements, including:  The EPA and the board must make public all reports and relevant scientific information at the same time they are received by the board;  The board must hold public information-gathering sessions to discuss the state of the science related to a major advisory activity;  Prior to convening a member committee or investigative panel, the EPA must accept and address public comments on questions asked of the board, and  The board, member committees, and investigative panels may not accept a question that unduly narrows the scope of an advisory activity.   In carrying out its advisory activities, the board must: (1) strive to avoid making policy determinations or recommendations, (2) communicate uncertainties associated with the scientific advice provided to the EPA or Congress, (3) encourage dissenting members to make their views known, (4) conduct periodic reviews to ensure that its activities address the most important scientific issues affecting the EPA, and (5) respond to Congress fully and in a timely manner. (Sec. 3) This bill shall not be construed as supplanting the requirements of the Federal Advisory Committee Act or the Ethics in Government Act of 1978.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on March 27, 2017. The summary of that version is repeated here.) EPA Science Advisory Board Reform Act of 2017  (Sec. 2) This bill amends the Environmental Research, Development, and Demonstration Authorization Act of 1978 to revise the process of selecting members of the Science Advisory Board, guidelines for participation in board advisory activities, and terms of office. The board provides scientific advice to the Envir...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "On passage Passed by recorded vote: 229 - 193 (Roll no. 208). (text of measure as reported: CR H2564-2565)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 233 (Roll no. 207)."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Foster motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to prohibit members of the Science Advisory Board from being employed by any corporate entity that has an interest before the Board during that members service, and for three years following that members service."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Mr. Foster moved to recommit with instructions to the Committee on Science, Space, and Technology. (text: CR H2573-2574)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1431."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Rule provides for consideration of H.R. 1431 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "Considered under the provisions of rule H. Res. 233. (consideration: CR H2564-2576)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-29",
+           "description": "Rule H. Res. 233 passed House."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-28",
+           "description": "Rules Committee Resolution H. Res. 233 Reported to House. Rule provides for consideration of H.R. 1431 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-27",
+           "description": "Placed on the Union Calendar, Calendar No. 35."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-27",
+           "description": "Reported by the Committee on Science, Space, and Technology. H. Rept. 115-63."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Ordered to be Reported by the Yeas and Nays: 19 - 14."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Referred to the House Committee on Science, Space, and Technology."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-30",
+             "time": "10:40:00",
+             "roll_call": "208",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 229,
+             "total_no": 193,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/208.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-30",
+             "time": "10:29:00",
+             "roll_call": "207",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 233,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/207.json"
+           }
+         ]
+
+      }
+   ]
+}

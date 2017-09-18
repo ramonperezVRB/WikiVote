@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s385-115",
+         "bill_slug": "s385",
+         "congress": "115",
+         "bill": "S.385",
+         "bill_type": "s",
+         "number": "S.385",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s385.json",
+         "title": "Energy Savings and Industrial Competitiveness Act",
+         "short_title": "Energy Savings and Industrial Competitiveness Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Rob Portman",
+         "sponsor_id": "P000449",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000449.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s385rs/pdf/BILLS-115s385rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/385",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s385",
+         "introduced_date": "2017-02-15",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-10",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Energy Savings and Industrial Competitiveness Act This bill revises a variety of programs to encourage energy efficiency in buildings, industry, the federal government, and certain appliances, including by:  requiring states and Indian tribes to measure their compliance with certain residential and commercial building energy codes; requiring the Department of Energy (DOE) to provide grants for establishing building training and assessment centers at institutions of higher education; requiring DOE to establish a process to recognize schools for implementing energy efficient and renewable energy projects; directing DOE to carry out an industry-government partnership program to research, develop, and demonstrate new sustainable manufacturing and industrial technologies and processes; establishing a Supply Star program within DOE to identify and promote practices, recognize companies, and recognize products that use highly efficient supply chains that conserve energy, water, and other resources; requiring DOE to establish rebate programs concerning energy efficient electric motors or transformers; revising requirements concerning the energy performance of federal buildings, certification under the Energy Star Program, certification of green buildings, and energy efficiency in federal real estate transactions and programs; and  requiring the Department of Housing and Urban Development to establish a demonstration program for energy and water conservation improvements at multifamily residential units.  ",
+         "summary_short": "Energy Savings and Industrial Competitiveness Act This bill revises a variety of programs to encourage energy efficiency in buildings, industry, the federal government, and certain appliances, including by:  requiring states and Indian tribes to measure their compliance with certain residential and commercial building energy codes; requiring the Department of Energy (DOE) to provide grants for establishing building training and assessment centers at institutions of higher education; requiring...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-10",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 73."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-10",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-60."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-15",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

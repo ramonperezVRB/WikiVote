@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2056-115",
+         "bill_slug": "hr2056",
+         "congress": "115",
+         "bill": "H.R.2056",
+         "bill_type": "hr",
+         "number": "H.R.2056",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2056.json",
+         "title": "Microloan Modernization Act of 2017",
+         "short_title": "Microloan Modernization Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Stephanie Murphy",
+         "sponsor_id": "M001202",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001202.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2056rfs/pdf/BILLS-115hr2056rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2056",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2056",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": "2017-07-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "Senate Small Business and Entrepreneurship Committee",
+         "committee_codes": ["SSSB","HSSM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 12, 2017. The summary of that version is repeated here.) Microloan Modernization Act of 2017 (Sec. 3) This bill amends the Small Business Act, with respect to the Small Business Administration (SBA) Microloan Program (assisting low-income individuals to start and operate a small business), to increase from $5 million to $6 million the total amount of loans outstanding and committed to any particular intermediary (excluding outstanding grants) from the SBA business loan and investment fund for the remaining years of the intermediary's participation in the program. (Sec. 4) SBA-designated microloan intermediary lenders may expend up to 50% (currently, 25%) of the intensive marketing, management, and technical assistance grant funds they receive from the SBA to provide information and technical assistance to small business concerns that are their prospective borrowers. (Sec. 5) The SBA shall:  compare the operations of a representative sample of eligible intermediaries that participate in the microloan program and of eligible intermediaries that do not, study the reasons why the latter do not participate, recommend how to encourage increased participation by intermediaries in the microloan program, and  recommend how to decrease the associated costs for intermediary participation.  (Sec. 6) The Government Accountability Office shall evaluate:   SBA oversight of the microloan program, including oversight of participating intermediaries; and the specific processes the SBA uses to ensure program compliance by participating intermediaries and overall microloan program performance.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 12, 2017. The summary of that version is repeated here.) Microloan Modernization Act of 2017 (Sec. 3) This bill amends the Small Business Act, with respect to the Small Business Administration (SBA) Microloan Program (assisting low-income individuals to start and operate a small business), to increase from $5 million to $6 million the total amount of loans outstanding and committed to any particular intermediary (ex...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6180)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6179-6181)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2056."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Chabot moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-12",
+           "description": "Placed on the Union Calendar, Calendar No. 150."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-12",
+           "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 115-214."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Ordered to be Reported (Amended)."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Referred to the House Committee on Small Business."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr255-115",
+         "bill_slug": "hr255",
+         "congress": "115",
+         "bill": "H.R.255",
+         "bill_type": "hr",
+         "number": "H.R.255",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr255.json",
+         "title": "Promoting Women in Entrepreneurship Act",
+         "short_title": "Promoting Women in Entrepreneurship Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Elizabeth Esty",
+         "sponsor_id": "E000293",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/E000293.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr255rfs/pdf/BILLS-115hr255rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/255",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr255",
+         "introduced_date": "2017-01-04",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": "2017-02-13",
+         "enacted": "2017-02-15",
+         "vetoed": null,
+         "cosponsors": 44,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSSY"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-28",
+         "latest_major_action": "Became Public Law No: 115-6.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": "2017-02-13",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Promoting Women in Entrepreneurship Act  (Sec. 3) This bill amends the Science and Engineering Equal Opportunities Act to authorize the National Science Foundation to encourage its entrepreneurial programs to recruit and support women to extend their focus beyond the laboratory and into the commercial world. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Promoting Women in Entrepreneurship Act  (Sec. 3) This bill amends the Science and Engineering Equal Opportunities Act to authorize the National Science Foundation to encourage its entrepreneurial programs to recruit and support women to extend their focus beyond the laboratory and into the commercial world. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Became Public Law No: 115-6."
+         },
+                  {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-16",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-14",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S1163)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-02-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 5."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-01",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H273)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 255."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under suspension of the rules. (consideration: CR H273-275)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mrs. Comstock moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-04",
+           "description": "Referred to the House Committee on Science, Space, and Technology."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

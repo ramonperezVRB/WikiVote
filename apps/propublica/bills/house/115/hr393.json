@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr393-115",
+         "bill_slug": "hr393",
+         "congress": "115",
+         "bill": "H.R.393",
+         "bill_type": "hr",
+         "number": "H.R.393",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr393.json",
+         "title": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+         "short_title": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+         "sponsor_title": "Rep.",
+         "sponsor": "William M. Thornberry",
+         "sponsor_id": "T000238",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000238.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr393ih/pdf/BILLS-115hr393ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/393",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr393",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Armed Services Committee",
+         "committee_codes": ["HSAS"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-16",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 1.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill allows the first person, and only such person, appointed as Secretary of Defense after the enactment of this bill to be a person who is, on the date of appointment, at least three years after relief from active duty as a commissioned officer of a regular component of the Armed Forces. (Under current law, an individual may not be appointed as Secretary of Defense within seven years after relief from such active duty.)",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill allows the first person, and only such person, appointed as Secretary of Defense after the enactment of this bill to be a person who is, on the date of appointment, at least three years after relief from active duty as a commissioned officer of a regular component of the Armed Forces. (Under current law, an individual may not be appointed as Sec...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-02-16",
+           "description": "Placed on the Union Calendar, Calendar No. 1."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Reported by the Committee on Armed Services. H. Rept. 115-13."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-12",
+           "description": "Ordered to be Reported by the Yeas and Nays: 34 - 28."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-12",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Referred to the House Committee on Armed Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

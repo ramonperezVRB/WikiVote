@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr71-115",
+         "bill_slug": "hr71",
+         "congress": "115",
+         "bill": "H.R.71",
+         "bill_type": "hr",
+         "number": "H.R.71",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr71.json",
+         "title": "Taxpayers Right-To-Know Act",
+         "short_title": "Taxpayers Right-To-Know Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tim Walberg",
+         "sponsor_id": "W000798",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000798.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr71rfs/pdf/BILLS-115hr71rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/71",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr71",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-03",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 24,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-05",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-03",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Taxpayers Right-To-Know Act (Sec. 2) This bill requires that the website of the Office of Management and Budget (OMB) include a program inventory that identifies each program of the federal government for which there is more than $1 million in annual budget authority. Such inventory shall include: (1) any activity that is commonly referred to as a program by a federal agency, and (2) any activity that is referenced in law as a program after June 30, 2019.  For programs identified in such inventory for which there is more than $1 million and not more than $10 million in annual budget authority (smaller programs), the inventory must include:   an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs;  for each such program activity, the amount of funding for the current fiscal year and the previous two fiscal years;  an identification of the statutes that authorize the program and any major regulations specific to the program;  a description of the individuals served by a program and beneficiaries who received financial assistance under a program for the most recent fiscal year; and  links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office released during the preceding five years.  For programs identified in such inventory for which there is more than $10 million in annual budget authority (larger programs), the inventory must include:  an identification of the program activities that are aggregated, disaggregated, or consolidated as part of identifying programs; for each program activity, the amount of funding for the current fiscal year and the previous two fiscal years;  an estimate of the amount of funding for the program;  an identification of the statutes that authorize the program and any major regulations specific to the program;  a description and estimate of the number of individuals served by a program and beneficiaries who received financial assistance under a program for the most recent fiscal year;  a description of the federal employees who administer the program and other individuals whose salary is paid in full or in part by the federal government through a grant, contract, cooperative agreement, or another form of financial award or assistance;  links to any evaluation, assessment, or program performance reviews by the agency, an Inspector General, or the Government Accountability Office released during the preceding five years; and  financial and other information for each program activity required to be reported under the Federal Funding Accountability and Transparency Act of 2006.   The OMB shall: (1) archive and preserve the information included in the program inventory; and (2) not later than February 1 of each fiscal year, publish on a public website the total amount of undisbursed grant funding remaining in grant accounts for which the period of availability to the grantee has expired.  (Sec. 3) The bill requires the OMB, not later than June 30, 2018, to: (1) prescribe guidance to implement this Act, and (2) issue guidance to assist agencies in identifying how the program activities used in budget or appropriations accounts correspond with programs identified in the program inventory required by this Act. The OMB may: (1) issue guidance to agencies to ensure that programs are presented at a similar level of detail across agencies and are not duplicative or overlapping; (2) exempt from the requirements of this Act, based on an analysis of the costs of implementation, agencies that are not required to have a chief financial officer and that have not more than $10 million in budget authority; and (3) extend the Act's implementation deadline by not more than one year.  Implementation of the requirements in this bill must be completed not later than June 30, 2019. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Taxpayers Right-To-Know Act (Sec. 2) This bill requires that the website of the Office of Management and Budget (OMB) include a program inventory that identifies each program of the federal government for which there is more than $1 million in annual budget authority. Such inventory shall include: (1) any activity that is commonly referred to as a program by a fed...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H63-64)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 71."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Considered under suspension of the rules. (consideration: CR H63-65)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Mr. Chaffetz moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

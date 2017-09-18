@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres183-115",
+         "bill_slug": "sres183",
+         "congress": "115",
+         "bill": "S.RES.183",
+         "bill_type": "sres",
+         "number": "S.RES.183",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres183.json",
+         "title": "A resolution recognizing the significance of May 2017 as Asian/Pacific American Heritage Month and as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.",
+         "short_title": "A resolution recognizing the significance of May 2017 as Asian/Pacific American Heritage Month and as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mazie K. Hirono",
+         "sponsor_id": "H001042",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001042.json",
+         "sponsor_party": "D",
+         "sponsor_state": "HI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres183ats/pdf/BILLS-115sres183ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/183",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres183",
+         "introduced_date": "2017-05-25",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-24",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 23,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Civil Rights and Liberties, Minority Issues",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-25",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3225; text as passed Senate: CR S3224-3225)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-24",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the significance of May 2017 as Asian/Pacific American Heritage Month as an important time to celebrate the contributions of Asian Americans and Pacific Islanders to the history of the United States.  Recognizes that the Asian American and Pacific Islander community enhances the rich diversity of the United States. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the significance of May 2017 as Asian/Pacific American Heritage Month as an important time to celebrate the contributions of Asian Americans and Pacific Islanders to the history of the United States.  Recognizes that the Asian American and Pacific Islander community enhances the rich diversity of the United States. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3225; text as passed Senate: CR S3224-3225)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

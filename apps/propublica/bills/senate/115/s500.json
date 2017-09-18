@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s500-115",
+         "bill_slug": "s500",
+         "congress": "115",
+         "bill": "S.500",
+         "bill_type": "s",
+         "number": "S.500",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s500.json",
+         "title": "Securing our Agriculture and Food Act",
+         "short_title": "Securing our Agriculture and Food Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Pat Roberts",
+         "sponsor_id": "R000307",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000307.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s500rs/pdf/BILLS-115s500rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/500",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s500",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Securing our Agriculture and Food Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Assistant Secretary for Health Affairs for the Department of Homeland Security (DHS) to carry out a program to coordinate DHS efforts relating to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security. Such program shall:  provide oversight and management of DHS's responsibilities under Homeland Security Presidential Directive 9 - Defense of United States Agriculture and Food;  provide oversight and integration of DHS activities relating to veterinary public health, food defense, and agricultural security; lead DHS policy initiatives relating to food, animal, and agricultural incidents and to overall domestic preparedness for, and collective response to, agricultural terrorism;  coordinate with other DHS components on activities relating to food and agriculture security and screening procedures for domestic and imported products; and  coordinate with appropriate federal departments and agencies. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Securing our Agriculture and Food Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Assistant Secretary for Health Affairs for the Department of Homeland Security (DHS) to carry out a program to coordinate DHS efforts relating to defending the food, agriculture, and veterinary systems of the United States against terrorism and other hig...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-04-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 38."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-29."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

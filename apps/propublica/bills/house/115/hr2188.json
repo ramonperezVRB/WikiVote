@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2188-115",
+         "bill_slug": "hr2188",
+         "congress": "115",
+         "bill": "H.R.2188",
+         "bill_type": "hr",
+         "number": "H.R.2188",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2188.json",
+         "title": "Community Counterterrorism Preparedness Act",
+         "short_title": "Community Counterterrorism Preparedness Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Michael McCaul",
+         "sponsor_id": "M001157",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001157.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2188rh/pdf/BILLS-115hr2188rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2188",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2188",
+         "introduced_date": "2017-04-27",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 20,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "House Homeland Security Committee",
+         "committee_codes": ["HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-15",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 122.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Community Counterterrorism Preparedness Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS) to carry out a grant program for emergency response providers to prevent, prepare for, and respond to emerging terrorist attack scenarios in major metropolitan areas. DHS shall provide to eligible applicants: (1) unclassified information on such scenarios, and (2) information on training and exercises best practices.  Jurisdictions that receive funding under the Urban Area Security Initiative may apply for such a grant.  Eligible applicants receiving funding under the program may include in funded activities neighboring jurisdictions that would be likely to provide mutual aid in response in such scenarios. Recipients may use grants to:  identify capability gaps related to preparing for, preventing, and responding to such scenarios; develop or update plans, annexes, and processes to address such gaps;  conduct training and exercises to address such gaps; and conduct exercises, including at locations such as mass gathering venues, places of worship, or educational institutions, as appropriate, to validate capabilities.  DHS shall aggregate, analyze, and share with relevant emergency response providers information on best practices and lessons learned from: (1) the planning, training, and exercises conducted using program grants; and (2) responses to actual terrorist attacks around the world.",
+         "summary_short": "Community Counterterrorism Preparedness Act (Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security (DHS) to carry out a grant program for emergency response providers to prevent, prepare for, and respond to emerging terrorist attack scenarios in major metropolitan areas. DHS shall provide to eligible applicants: (1) unclassified information on such scenarios, and (2) information on training and exercises best practices.  Jurisdictions that r...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-15",
+           "description": "Placed on the Union Calendar, Calendar No. 122."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-181."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-27",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

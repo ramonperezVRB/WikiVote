@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres299-115",
+         "bill_slug": "hres299",
+         "congress": "115",
+         "bill": "H.RES.299",
+         "bill_type": "hres",
+         "number": "H.RES.299",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres299.json",
+         "title": "Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for other purposes.",
+         "short_title": "Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bradley Byrne",
+         "sponsor_id": "B001289",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001289.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres299eh/pdf/BILLS-115hres299eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/299",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres299",
+         "introduced_date": "2017-05-01",
+         "active": true,
+         "house_passage": "2017-05-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-02",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-05-02",
+         "house_passage_vote": "2017-05-01",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "On agreeing to the resolution Agreed to by recorded vote: 231 - 193 (Roll no. 241). (text: CR H3013)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 233 - 190 (Roll no. 240). (consideration: CR H3024-3025)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Considered as unfinished business. (consideration: CR H3024-3026)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 299, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. Polis (CO) demanded the yeas and nays, and the Chair postponed further proceedings on the question of ordering the previous question until later in the legislative day."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 299."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Considered as privileged matter. (consideration: CR H3013-3019)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-01",
+           "description": "Placed on the House Calendar, Calendar No. 44."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-01",
+           "description": "The rules also provides for proceedings during the period from May 5, 2017, through May 15, 2017."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-01",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-106, by Mr. Byrne."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-02",
+             "time": "14:37:00",
+             "roll_call": "241",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 231,
+             "total_no": 193,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/241.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-05-02",
+             "time": "14:29:00",
+             "roll_call": "240",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 233,
+             "total_no": 190,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/240.json"
+           }
+         ]
+
+      }
+   ]
+}

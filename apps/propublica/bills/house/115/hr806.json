@@ -1,0 +1,416 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr806-115",
+         "bill_slug": "hr806",
+         "congress": "115",
+         "bill": "H.R.806",
+         "bill_type": "hr",
+         "number": "H.R.806",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr806.json",
+         "title": "Ozone Standards Implementation Act of 2017",
+         "short_title": "Ozone Standards Implementation Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Pete Olson",
+         "sponsor_id": "O000168",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/O000168.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr806rfs/pdf/BILLS-115hr806rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/806",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr806",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": "2017-07-17",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 24,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV","HSIF"],
+         "subcommittee_codes": ["HSIF18"],
+         "latest_major_action_date": "2017-07-19",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+         "last_vote_date": "2017-07-18",
+         "house_passage_vote": "2017-07-17",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 14, 2017. The summary of that version is repeated here.) Ozone Standards Implementation Act of  2017 This bill amends the Clean Air Act to revise the National Ambient Air Quality Standards (NAAQS) program. (Sec. 2) The bill delays the implementation of the ozone NAAQS that were published in 2015. The bill extends until: (1) October 26, 2024, the deadline for states to submit designations to implement the 2015 ozone NAAQS; and (2) October 26, 2025, the deadline for the Environmental Protection Agency (EPA) to designate state areas as attainment, nonattainment, or unclassifiable areas with respect to the 2015 ozone NAAQS. States must submit a state implementation plan (SIP) by October 26, 2026, to implement, maintain, and enforce the 2015 ozone NAAQS. The bill exempts from the 2015 ozone standards certain preconstruction permit applications that were completed or submitted before a final designation was made. (Sec. 3) The bill also changes the review cycle for criteria pollutant NAAQS from a 5-year review cycle to a 10-year review cycle. The EPA may not complete its next review of ozone NAAQS before October 26, 2025.  The EPA may consider, as a secondary consideration, likely technological feasibility in establishing and revising NAAQS for a pollutant if a range of air quality levels for such pollutant are requisite to protect public health with an adequate margin of safety. Prior to establishing or revising NAAQS, the EPA must obtain advice from its scientific advisory committee regarding potential adverse public health, welfare, social, economic, or energy effects which may result from attaining and maintaining NAAQS. The EPA must publish regulations and guidance for implementing NAAQS concurrently with the issuance of a new or revised standard. New or revised NAAQS shall not apply to preconstruction permits for constructing or modifying a stationary source of air pollutants until those regulations and guidance have been published. The bill provides that in Extreme Ozone Nonattainment Areas, contingency measures are not required to be included in nonattainment plans. Technological achievability and economic feasibility must be taken into consideration in plan revisions for milestones for particulate matter nonattainment areas.  The bill redefines \"exceptional events,\" by including stagnation of air masses that are not ordinarily occurring. The EPA must: (1) report on foreign emissions and their impact on compliance with the NAAQS program in the United States, (2) study and report on the atmospheric formation of ozone and effective control strategies, and (3) incorporate the results of the study into rules and guidance implementing the 2015 ozone standards. (Sec. 4) The bill exempts states from sanctions or fees for nonattainment or deficiency relating to certain ozone and particulate matter if the state can demonstrate specified circumstances preventing attainment. This exemption shall not affect any obligation of states or localities under the Clean Air Act to attain a NAAQS for ozone or particulate matter.  (Sec. 6) The bill specifies that no additional funds are authorized for carrying out the requirements of this bill. ",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 14, 2017. The summary of that version is repeated here.) Ozone Standards Implementation Act of  2017 This bill amends the Clean Air Act to revise the National Ambient Air Quality Standards (NAAQS) program. (Sec. 2) The bill delays the implementation of the ozone NAAQS that were published in 2015. The bill extends until: (1) October 26, 2024, the deadline for states to submit designations to implement the 2015 ozone ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 40,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+         },
+                  {
+           "id": 39,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "On passage Passed by recorded vote: 229 - 199 (Roll no. 391)."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 191 - 235 (Roll no. 390)."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the application of the Act and amendments if the Clean Air Scientific Advisory Committee finds that the application of the Act and amendments could increase, with respect to Americans without access to health insurance, certain health impacts."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Mr. Cartwright moved to recommit with instructions to the Committee on Energy and Commerce."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 806."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment No. 6."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McNerney amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McNerney demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment No. 5."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 4."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Beyer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Beyer demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 3."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Tonko amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Tonko demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the Tonko amendment No. 2."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Castor (FL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Castor (FL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 451, the Committee of the Whole proceeded with 10 minutes of debate on the Castor (FL) amendment No. 1."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 806."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "The Speaker designated the Honorable Tom Reed to act as Chairman of the Committee."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 451 and Rule XVIII."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Rule provides for consideration of H.R. 806 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Considered under the provisions of rule H. Res. 451."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Rule H. Res. 451 passed House."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "On passage Passed by recorded vote: 229 - 199 (Roll no. 391). (text of amendment in the nature of a substitute: CR H5954-5955)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 191 - 235 (Roll no. 390). (text: CR H5966)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-18",
+           "description": "Considered under the provisions of rule H. Res. 451. (consideration: CR H5943-5968)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-17",
+           "description": "Rules Committee Resolution H. Res. 451 Reported to House. Rule provides for consideration of H.R. 806 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-14",
+           "description": "Placed on the Union Calendar, Calendar No. 157."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-14",
+           "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-222."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 24."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 12 - 8 ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Subcommittee on Environment."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:43:00",
+             "roll_call": "391",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 229,
+             "total_no": 199,
+             "total_not_voting": 5,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/391.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:36:00",
+             "roll_call": "390",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 235,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/390.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:20:00",
+             "roll_call": "389",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 190,
+             "total_no": 236,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/389.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:16:00",
+             "roll_call": "388",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 186,
+             "total_no": 242,
+             "total_not_voting": 5,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/388.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:12:00",
+             "roll_call": "387",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 235,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/387.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:08:00",
+             "roll_call": "386",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 182,
+             "total_no": 241,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/386.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-18",
+             "time": "17:04:00",
+             "roll_call": "385",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 194,
+             "total_no": 232,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/385.json"
+           }
+         ]
+
+      }
+   ]
+}

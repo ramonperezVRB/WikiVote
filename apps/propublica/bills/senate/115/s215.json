@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s215-115",
+         "bill_slug": "s215",
+         "congress": "115",
+         "bill": "S.215",
+         "bill_type": "s",
+         "number": "S.215",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s215.json",
+         "title": "A bill to authorize the Federal Energy Regulatory Commission to issue an order continuing a stay of a hydroelectric license for the Mahoney Lake hydroelectric project in the State of Alaska, and for other purposes.",
+         "short_title": "A bill to authorize the Federal Energy Regulatory Commission to issue an order continuing a stay of a hydroelectric license for the Mahoney Lake hydroelectric project in the State of Alaska, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s215rs/pdf/BILLS-115s215rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/215",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s215",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill requires the Federal Energy Regulatory Commission (FERC), upon request, to issue a stay of the statutory deadline by which construction must commence on the Mahoney Lake Hydroelectric Project located in Ketchikan Gateway Borough, Alaska. (The City of Saxman, Alaska, was granted a construction license for the Mahoney Lake Hydroelectric Project on January 22, 1998.) Additionally, upon request, FERC must reinstate the construction license and make it effective as of the date the stay is lifted. FERC may reinstate the construction license if it is expired.  Subject to certain conditions, FERC may extend for up to six years the statutory deadline by which construction must commence on the project.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec.1)This bill requires the Federal Energy Regulatory Commission (FERC), upon request, to issue a stay of the statutory deadline by which construction must commence on the Mahoney Lake Hydroelectric Project located in Ketchikan Gateway Borough, Alaska. (The City of Saxman, Alaska, was granted a construction license for the Mahoney Lake Hydroelectric Project on J...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 96."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-77."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

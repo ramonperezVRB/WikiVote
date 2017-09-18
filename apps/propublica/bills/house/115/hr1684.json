@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1684-115",
+         "bill_slug": "hr1684",
+         "congress": "115",
+         "bill": "H.R.1684",
+         "bill_type": "hr",
+         "number": "H.R.1684",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1684.json",
+         "title": "Disaster Assistance Support for Communities and Homeowners Act of 2017",
+         "short_title": "Disaster Assistance Support for Communities and Homeowners Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jerrold Nadler",
+         "sponsor_id": "N000002",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000002.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1684rfs/pdf/BILLS-115hr1684rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1684",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1684",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": "2017-06-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-06-27",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-25",
+         "senate_passage_vote": null,
+         "summary": "Disaster Assistance Support for Communities and Homeowners Act of 2017 This bill directs the Federal Emergency Management Agency (FEMA) to provide technical assistance to a common interest community that provides essential services of a governmental nature on actions such community may take to be eligible to receive reimbursement from a grantee that receives FEMA funds for certain activities performed following a disaster declaration. FEMA shall provide recommendations to Congress on how common areas of condominiums and housing cooperatives may be eligible for assistance.",
+         "summary_short": "Disaster Assistance Support for Communities and Homeowners Act of 2017 This bill directs the Federal Emergency Management Agency (FEMA) to provide technical assistance to a common interest community that provides essential services of a governmental nature on actions such community may take to be eligible to receive reimbursement from a grantee that receives FEMA funds for certain activities performed following a disaster declaration. FEMA shall provide recommendations to Congress on how comm...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-27",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5144)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1684."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Considered under suspension of the rules. (consideration: CR H5144-5146)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-26",
+           "description": "Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-26",
+           "description": "Placed on the Union Calendar, Calendar No. 132."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-26",
+           "description": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-193."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-23",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

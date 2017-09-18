@@ -1,0 +1,239 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1644-115",
+         "bill_slug": "hr1644",
+         "congress": "115",
+         "bill": "H.R.1644",
+         "bill_type": "hr",
+         "number": "H.R.1644",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1644.json",
+         "title": "Korean Interdiction and Modernization of Sanctions Act",
+         "short_title": "Korean Interdiction and Modernization of Sanctions Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Edward Royce",
+         "sponsor_id": "R000487",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000487.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1644eh/pdf/BILLS-115hr1644eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1644",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1644",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 23,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSJU","HSGO","HSPW","HSBA","HSWM","HSFA"],
+         "subcommittee_codes": ["HSWM04","HSPW07"],
+         "latest_major_action_date": "2017-05-04",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": "2017-05-04",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Korean Interdiction and Modernization of Sanctions Act This bill amends the North Korea Sanctions and Policy Enhancement Act of 2016 to modify and increase the President's authority to impose sanctions on persons in violation of certain U.N. Security Council resolutions regarding North Korea. The President shall report to Congress regarding: (1) measures to deny specialized financial messaging services to U.N.-designated North Korean financial institutions, (2) foreign countries whose seaports and airports fail to inspect or seize the cargo of North Korean ships or aircraft as required by Security Council resolutions, (3) North Korea-Iran weapons and nuclear cooperation, (4) foreign government implementation of Security Council resolutions regarding North Korea, and (5) whether North Korea is a state sponsor of terrorism.  The bill requires U.S. financial institutions to ensure that no correspondent accounts are being used by foreign financial institutions to provide financial services indirectly to North Korea.  A foreign government that provides defense articles or services to, or receives from, North Korea is prohibited from receiving certain types of U.S. foreign assistance. The Department of State shall report to Congress regarding foreign compliance with curtailing North Korea's arms trade. The Department of Homeland Security may implement enhanced screening of cargo bound for or landed in the United States that: (1) has been transported through a sea port or airport that has repeatedly failed to comply with applicable Security Council resolutions; (2) is aboard a vessel, aircraft, or conveyance that has entered North Korean territory, waters, or airspace, or landed in any of its seaports or airports, within the last 365 days; or (3) is registered by a country whose inspection compliance is deficient.  The Ports and Waterways Safety Act is amended to prohibit any foreign vessel from entering or operating in U.S. waters or transferring cargo in any port under U.S. jurisdiction if such vessel is owned by North Korea or owned or operated on behalf of any country not complying with Security Council resolutions.  Goods produced in whole or part by North Korean labor are prohibited from entering the United States unless U.S. Customs and Border Protection finds that they were not produced with convict, forced, or indentured labor.  The President shall impose U.S. property-based sanctions on foreign persons that employ North Korean forced laborers.  The bill amends the State Department Basic Authorities Act of 1956 to authorize the State Department to offer cash rewards for information on violations of North Korean sanctions.",
+         "summary_short": "Korean Interdiction and Modernization of Sanctions Act This bill amends the North Korea Sanctions and Policy Enhancement Act of 2016 to modify and increase the President's authority to impose sanctions on persons in violation of certain U.N. Security Council resolutions regarding North Korea. The President shall report to Congress regarding: (1) measures to deny specialized financial messaging services to U.N.-designated North Korean financial institutions, (2) foreign countries whose seaport...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 25,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Motion to reconsider laid on the table Agreed to without objection. (text: CR H3026-3031)"
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 1 (Roll no. 257). (text: CR 5/2/2017 H3026-3031)"
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Considered as unfinished business. (consideration: CR H4172)"
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1644."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Considered under suspension of the rules. (consideration: CR H3026-3038)"
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-28",
+           "description": "Placed on the Union Calendar, Calendar No. 55."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-28",
+           "description": "Committee on the Judiciary discharged."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-28",
+           "description": "Committee on Oversight and Government discharged."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-28",
+           "description": "Committee on Transportation discharged."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-28",
+           "description": "Committee on Financial Services discharged."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-04-28",
+           "description": "Committee on Ways and Means discharged."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-28",
+           "description": "Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-98, Part I."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-24",
+           "description": "Referred to the Subcommittee on Trade."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-23",
+           "description": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Oversight and Government Reform"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Transportation and Infrastructure"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Financial Services"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Ways and Means"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to House Foreign Affairs"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-04",
+             "time": "14:29:00",
+             "roll_call": "257",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Passed",
+             "total_yes": 419,
+             "total_no": 1,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/257.json"
+           }
+         ]
+
+      }
+   ]
+}

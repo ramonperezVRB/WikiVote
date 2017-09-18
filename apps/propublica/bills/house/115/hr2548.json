@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2548-115",
+         "bill_slug": "hr2548",
+         "congress": "115",
+         "bill": "H.R.2548",
+         "bill_type": "hr",
+         "number": "H.R.2548",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2548.json",
+         "title": "FEMA Reauthorization Act of 2017",
+         "short_title": "FEMA Reauthorization Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lou Barletta",
+         "sponsor_id": "B001269",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001269.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2548rh/pdf/BILLS-115hr2548rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2548",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2548",
+         "introduced_date": "2017-05-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA","HSII","HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-06-23",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 130.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-23",
+           "description": "Placed on the Union Calendar, Calendar No. 130."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-06-23",
+           "description": "Committee on Financial Services discharged."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-06-23",
+           "description": "Committee on Natural Resources discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-23",
+           "description": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-191, Part I."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-24",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-22",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-19",
+           "description": "Referred to House Financial Services"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-19",
+           "description": "Referred to House Natural Resources"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-19",
+           "description": "Referred to House Transportation and Infrastructure"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

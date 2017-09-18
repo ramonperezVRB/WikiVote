@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr732-115",
+         "bill_slug": "hr732",
+         "congress": "115",
+         "bill": "H.R.732",
+         "bill_type": "hr",
+         "number": "H.R.732",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr732.json",
+         "title": "Stop Settlement Slush Funds Act of 2017",
+         "short_title": "Stop Settlement Slush Funds Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Robert W. Goodlatte",
+         "sponsor_id": "G000289",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000289.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr732rh/pdf/BILLS-115hr732rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/732",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr732",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 34,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Law",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": ["HSJU05"],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 43.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Stop Settlement Slush Funds Act of 2017 (Sec. 2) This bill prohibits government officials from entering into or enforcing a settlement agreement on behalf of the United States (resolving a civil action, a plea agreement, a deferred prosecution agreement, or a nonprosecution agreement) that provides for a payment or a loan to any person or entity other than the United States. The bill provides exceptions to allow payments or loans that: (1) remedy actual harm (including to the environment) caused by the party making the payment or loan, or (2) constitute a payment for services rendered in connection with the case or a payment that a court may order for restitution to victims in certain criminal cases or other persons in plea agreements. Government officials or agents who violate this prohibition may be removed from office or required to forfeit to the government any money they hold for such purposes to which they may otherwise be entitled. Federal agencies must report annually for seven years to the Congressional Budget Office about the parties, funding sources, and distribution of funds for their settlement agreements permitted by the exceptions in this bill.  Agency inspectors general must report annually to Congress about any of their agency's settlement agreements that violate this bill. ",
+         "summary_short": "Stop Settlement Slush Funds Act of 2017 (Sec. 2) This bill prohibits government officials from entering into or enforcing a settlement agreement on behalf of the United States (resolving a civil action, a plea agreement, a deferred prosecution agreement, or a nonprosecution agreement) that provides for a payment or a loan to any person or entity other than the United States. The bill provides exceptions to allow payments or loans that: (1) remedy actual harm (including to the environment) cau...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on the Union Calendar, Calendar No. 43."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 115-72."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-31",
+           "description": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

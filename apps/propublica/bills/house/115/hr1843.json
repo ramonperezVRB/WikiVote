@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1843-115",
+         "bill_slug": "hr1843",
+         "congress": "115",
+         "bill": "H.R.1843",
+         "bill_type": "hr",
+         "number": "H.R.1843",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1843.json",
+         "title": "Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act",
+         "short_title": "Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Peter Roskam",
+         "sponsor_id": "R000580",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000580.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1843rfs/pdf/BILLS-115hr1843rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1843",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1843",
+         "introduced_date": "2017-03-30",
+         "active": true,
+         "house_passage": "2017-09-04",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 14,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Taxation",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI","HSBA","HSWM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-06",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-09-04",
+         "senate_passage_vote": null,
+         "summary": "Clyde-Hirsch-Sowers RESPECT Act or the Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act  (Sec. 2) This bill revises the authority and procedures that the Internal Revenue Service (IRS) uses to seize property that has been structured to avoid Bank Secrecy Act (BSA) reporting requirements.   The IRS may only seize property it suspects has been structured to avoid BSA reporting requirements if the property was derived from an illegal source or the funds were structured for the purpose of concealing the violation of a criminal law or regulation other than structuring transactions to evade BSA reporting requirements.  Within 30 days of seizing property, the IRS must: (1) make a good faith effort to find all owners of the property, and (2) notify the owners of the seizure and the post-seizure hearing rights established by this bill. The IRS may apply to a court for one 30-day extension of the notice requirement if it can establish probable cause of an imminent threat to national security or personal safety.  If the owner of the property requests a court hearing within 30 days after the date on which notice is provided, the property must be returned unless the court holds a hearing within 30 days after notice is provided and finds that there is probable cause to believe that the property was derived from an illegal source or the funds were structured to conceal the violation of a criminal law or regulation other than a structuring violation.   (Sec. 3) The bill amends the Internal Revenue Code to exclude from gross income any interest received from the federal government with respect to an action to recover property seized by the IRS pursuant to a claimed violation of the structuring provisions of the BSA. ",
+         "summary_short": "Clyde-Hirsch-Sowers RESPECT Act or the Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act  (Sec. 2) This bill revises the authority and procedures that the Internal Revenue Service (IRS) uses to seize property that has been structured to avoid Bank Secrecy Act (BSA) reporting requirements.   The IRS may only seize property it suspects has been structured to avoid BSA reporting requirements if the property was derived from an illegal source o...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-09-06",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Finance."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6634)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "Considered under suspension of the rules. (consideration: CR H6634-6637)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1843."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "Mr. Roskam moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on the Union Calendar, Calendar No. 205."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-09-05",
+           "description": "Committee on Financial Services discharged."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-286, Part I."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Referred to House Financial Services"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-30",
+           "description": "Referred to House Ways and Means"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

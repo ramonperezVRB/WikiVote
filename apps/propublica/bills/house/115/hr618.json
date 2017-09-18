@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr618-115",
+         "bill_slug": "hr618",
+         "congress": "115",
+         "bill": "H.R.618",
+         "bill_type": "hr",
+         "number": "H.R.618",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr618.json",
+         "title": "Crags, Colorado Land Exchange Act of 2017",
+         "short_title": "Crags, Colorado Land Exchange Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Doug Lamborn",
+         "sponsor_id": "L000564",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000564.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr618rs/pdf/BILLS-115hr618rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/618",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr618",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-02-05",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-09",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 69.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-02-05",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Crags, Colorado Land Exchange Act of 2017 (Sec. 4) This bill directs the Department of Agriculture (USDA), if the Broadmoor Hotel, Inc., (BHI) offers to convey to the USDA 320 acres of specified nonfederal land in the Pike National Forest in Teller County, Colorado, and a permanent trail easement for the Barr Trail in El Paso County, Colorado, to accept the offer and convey to BHI 83 acres of specified federal land within the Forest, together with a non-exclusive perpetual access easement for BHI to and from such land on Forest Service Road 371. The nonexclusive perpetual access easement granted to BHI shall allow: (1) BHI to fully maintain, at its own expense, and use Forest Service Road 371 from its junction with Forest Service Road 368 in accordance with historic BHI use and maintenance patterns; and (2) full and continued public and administrative access and use of FSR 371 in accordance with the existing Forest Service travel management plan, or as it may be revised by USDA.  (Sec. 5) The USDA shall determine the values of the lands to be exchanged through appraisals following specified requirements. The values shall be equal, or if they are not equal, equalized as prescribed by this bill.  The appraised value of the federal land parcel shall not reflect any increase or diminution in value due to the existing special use permit to BHI on the parcel and its improvements.  The Barr Trail easement donation shall not be appraised for purposes of this bill.  (Sec. 6) The lands acquired by the USDA under this bill shall, without further USDA action, be permanently withdrawn from all forms of appropriation and disposal under the public land laws (including the mining and mineral leasing laws) and the Geothermal Steam Act of 1930, except to the extent necessary to permit the disposal of the federal land parcel to BHI.  The land acquired by the USDA under this bill shall become part of the Pike-San Isabel National Forest.  It is the intent of Congress that the land exchange directed by this bill be completed within one year of this bill's enactment. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Crags, Colorado Land Exchange Act of 2017 (Sec. 4) This bill directs the Department of Agriculture (USDA), if the Broadmoor Hotel, Inc., (BHI) offers to convey to the USDA 320 acres of specified nonfederal land in the Pike National Forest in Teller County, Colorado, and a permanent trail easement for the Barr Trail in El Paso County, Colorado, to accept the offer and...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-09",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 69."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-09",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-56."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H980-981)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 618."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Considered under suspension of the rules. (consideration: CR H980-982)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-06",
+           "description": "Mr. Lamborn moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

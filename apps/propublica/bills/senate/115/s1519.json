@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1519-115",
+         "bill_slug": "s1519",
+         "congress": "115",
+         "bill": "S.1519",
+         "bill_type": "s",
+         "number": "S.1519",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1519.json",
+         "title": "National Defense Authorization Act for Fiscal Year 2018",
+         "short_title": "National Defense Authorization Act for Fiscal Year 2018",
+         "sponsor_title": "Sen.",
+         "sponsor": "John McCain",
+         "sponsor_id": "M000303",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000303.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1519pcs/pdf/BILLS-115s1519pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1519",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1519",
+         "introduced_date": "2017-07-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Armed Services Committee",
+         "committee_codes": ["SSAS"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-10",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "National Defense Authorization Act for Fiscal Year 2018  This bill authorizes FY2018 appropriations and sets forth policies regarding the military activities of the Department of Defense (DOD), military construction, and the defense activities of the Department of Energy (DOE). The bill authorizes appropriations, but does not provide budget authority for discretionary programs, which is included in subsequent appropriations legislation.  The bill authorizes appropriations to DOD for Procurement; Research, Development, Test, and Evaluation; Operation and Maintenance; the Revolving and Working Capital Funds; the Joint Urgent Operational Needs Fund; Chemical Agents and Munitions Destruction; Defense-Wide Drug Interdiction and Counter-Drug Activities; the Defense Inspector General; the Defense Health Program; and Overseas Contingency Operations.  The bill also authorizes the FY2018 personnel strengths for active duty and reserve forces and sets forth policies regarding military personnel, compensation and other personnel benefits, health care, acquisition policy and management, DOD organization and management, civilian personnel matters, navy vessels and shipyards, DOE national security programs, and matters relating to foreign nations. Military Construction Authorization Act for Fiscal Year 2018 The bill authorizes appropriations and sets forth policies regarding military construction for the Army, Navy, Air Force, defense agencies, the North Atlantic Treaty Organization Security Investment Program, and Guard and Reserve Forces facilities.The bill also authorizes appropriations for base realignment and closure activities.  ",
+         "summary_short": "National Defense Authorization Act for Fiscal Year 2018  This bill authorizes FY2018 appropriations and sets forth policies regarding the military activities of the Department of Defense (DOD), military construction, and the defense activities of the Department of Energy (DOE). The bill authorizes appropriations, but does not provide budget authority for discretionary programs, which is included in subsequent appropriations legislation.  The bill authorizes appropriations to DOD for Procureme...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-10",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 165."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-10",
+           "description": "Committee on Armed Services. Original measure reported to Senate by Senator McCain. With written report No. 115-125. Additional views filed."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1141-115",
+         "bill_slug": "s1141",
+         "congress": "115",
+         "bill": "S.1141",
+         "bill_type": "s",
+         "number": "S.1141",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1141.json",
+         "title": "Women, Peace, and Security Act of 2017",
+         "short_title": "Women, Peace, and Security Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jeanne Shaheen",
+         "sponsor_id": "S001181",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S001181.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1141rs/pdf/BILLS-115s1141rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1141",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1141",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-03",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-04",
+         "latest_major_action": "Held at the desk.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-03",
+         "summary": "Women, Peace, and Security Act of 2017 This bill expresses the sense of Congress that: (1) the United States should be a global leader in promoting the participation of women in conflict prevention, management, and resolution and post-conflict relief and recovery efforts; and (2) the political participation and leadership of women in fragile environments, particularly during democratic transitions, is critical to sustaining democratic institutions. The President, by one year after this bill's enactment and four years thereafter, shall submit to Congress and make public a Women, Peace, and Security Strategy, which shall:    be aligned with other countries' plans to improve the participation of women in peace and security processes, conflict prevention, peace building, and decision-making institutions;  include goals and evaluation plans to ensure strategy effectiveness; and  include a specific implementation plan from each relevant federal agency.   The President is urged to promote women's participation in conflict prevention.   The Department of State and the Department of Defense shall ensure that specified personnel receive training in conflict prevention, mitigation, and resolution and on other related topics. The State Department and the U.S. Agency for International Development may establish guidelines for overseas U.S. personnel to consult with appropriate stakeholders regarding U.S. efforts to: (1) prevent, mitigate, or resolve violent conflict; and (2) enhance the success of mediation and negotiation processes by ensuring the meaningful participation of women.   The State Department is urged to work with international, regional, national, and local organizations to increase the participation of women in international peacekeeping operations.",
+         "summary_short": "Women, Peace, and Security Act of 2017 This bill expresses the sense of Congress that: (1) the United States should be a global leader in promoting the participation of women in conflict prevention, management, and resolution and post-conflict relief and recovery efforts; and (2) the political participation and leadership of women in fragile environments, particularly during democratic transitions, is critical to sustaining democratic institutions. The President, by one year after this bill's...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate without amendment by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S4889-4891; text: CR S4889-4891)"
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-08",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 123."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker without amendment. With written report No. 115-93."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-16",
+           "description": "Read twice and referred to the Committee on Foreign Relations."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

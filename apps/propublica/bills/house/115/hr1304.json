@@ -1,0 +1,190 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1304-115",
+         "bill_slug": "hr1304",
+         "congress": "115",
+         "bill": "H.R.1304",
+         "bill_type": "hr",
+         "number": "H.R.1304",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1304.json",
+         "title": "Self-Insurance Protection Act",
+         "short_title": "Self-Insurance Protection Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1304rfs/pdf/BILLS-115hr1304rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1304",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1304",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": "2017-04-04",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR","HSED","HSWM","HSIF"],
+         "subcommittee_codes": ["HSIF14"],
+         "latest_major_action_date": "2017-04-06",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+         "last_vote_date": "2017-04-05",
+         "house_passage_vote": "2017-04-04",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on March 20, 2017. The summary of that version is repeated here.) Self-Insurance Protection Act (Sec. 2) This bill amends the Public Health Service Act, the Employee Retirement Income Security Act of 1974 (ERISA), and the Internal Revenue Code to exclude from the definition of \"health insurance coverage\" a stop-loss policy obtained by a self-insured health plan or a sponsor of a self-insured group health plan to reimburse the plan or sponsor for losses incurred in providing health benefits to plan participants in excess of a level set forth in the stop-loss policy.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on March 20, 2017. The summary of that version is repeated here.) Self-Insurance Protection Act (Sec. 2) This bill amends the Public Health Service Act, the Employee Retirement Income Security Act of 1974 (ERISA), and the Internal Revenue Code to exclude from the definition of \"health insurance coverage\" a stop-loss policy obtained by a self-insured health plan or a sponsor of a self-insured group health plan to reimburse t...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "On passage Passed by the Yeas and Nays: 400 - 16 (Roll no. 220). (text of amendment in the nature of a substitute: CR H2726-2727)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Considered as unfinished business. (consideration: CR H2731-2732)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1304, the Chair put the question on passage of H.R. 1304 and by voice vote, announced that the ayes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1304."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Rule provides for consideration of H.R. 1304 with 1 hour of general debate. Motion to recommit with or without instructions allowed."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Considered under the provisions of rule H. Res. 241. (consideration: CR H2726-2729)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Rule H. Res. 241 passed House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Rules Committee Resolution H. Res. 241 Reported to House. Rule provides for consideration of H.R. 1304 with 1 hour of general debate. Motion to recommit with or without instructions allowed."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-20",
+           "description": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-53, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-03",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to House Education and the Workforce"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to House Ways and Means"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Referred to House Energy and Commerce"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-05",
+             "time": "15:57:00",
+             "roll_call": "220",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 400,
+             "total_no": 16,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/220.json"
+           }
+         ]
+
+      }
+   ]
+}

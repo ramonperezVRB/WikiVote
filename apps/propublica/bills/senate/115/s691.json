@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s691-115",
+         "bill_slug": "s691",
+         "congress": "115",
+         "bill": "S.691",
+         "bill_type": "s",
+         "number": "S.691",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s691.json",
+         "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017",
+         "short_title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tim Kaine",
+         "sponsor_id": "K000384",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000384.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s691rs/pdf/BILLS-115s691rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/691",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s691",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-28",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 TITLE I--CHICKAHOMINY INDIAN TRIBE (Sec. 103) This bill extends federal recognition to the Chickahominy Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized Indian tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 104) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 106) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 107) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE II--CHICKAHOMINY INDIAN TRIBE--EASTERN DIVISION (Sec. 203) This bill extends federal recognition to the Chickahominy Indian Tribe--Eastern Division. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 204) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 206) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 207) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE III--UPPER MATTAPONI TRIBE (Sec. 303) This bill extends federal recognition to the Upper Mattaponi Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 304) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 306) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 307) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE IV--RAPPAHANNOCK TRIBE, INC. (Sec. 403) This bill extends federal recognition to the Rappahannock Tribe, Inc. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 404) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 406) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 407) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE V--MONACAN INDIAN NATION (Sec. 503) This bill extends federal recognition to the Monacan Indian Nation. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 504) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 506) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 507) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE VI--NANSEMOND INDIAN TRIBE (Sec. 603) This bill extends federal recognition to the Nansemond Indian Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized tribes, without regard to the existence of a reservation for the tribe. The bill establishes the service area of the tribe. (Sec. 604) The bill sets forth requirements for the tribe regarding its membership roll, governing documents, and governing body. (Sec. 606) The Department of the Interior, upon the request of the tribe, must take certain land owned by the tribe in Virginia into trust for the benefit of the tribe, to be considered part of the tribe's reservation. The bill prohibits the tribe from conducting gaming activities. (Sec. 607) The bill does not affect the hunting, fishing, trapping, gathering, or water rights of the tribe or its members. TITLE VII--EMINENT DOMAIN (Sec. 701) Eminent domain may not be used to acquire lands for a tribe recognized under this bill.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 TITLE I--CHICKAHOMINY INDIAN TRIBE (Sec. 103) This bill extends federal recognition to the Chickahominy Tribe. The tribe and its members are made eligible for the services and benefits provided by the federal government to federally recognized Indian tribes, without regard to the existen...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-28",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 161."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-123."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks: CR S1893)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

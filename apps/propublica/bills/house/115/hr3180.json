@@ -1,0 +1,237 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3180-115",
+         "bill_slug": "hr3180",
+         "congress": "115",
+         "bill": "H.R.3180",
+         "bill_type": "hr",
+         "number": "H.R.3180",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3180.json",
+         "title": "Intelligence Authorization Act for Fiscal Year 2018",
+         "short_title": "Intelligence Authorization Act for Fiscal Year 2018",
+         "sponsor_title": "Rep.",
+         "sponsor": "Devin Nunes",
+         "sponsor_id": "N000181",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000181.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3180rh/pdf/BILLS-115hr3180rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3180",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3180",
+         "introduced_date": "2017-07-11",
+         "active": true,
+         "house_passage": "2017-07-27",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Intelligence Committee",
+         "committee_codes": ["SLIN","HLIG"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-31",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Select Committee on Intelligence.",
+         "last_vote_date": "2017-07-28",
+         "house_passage_vote": "2017-07-27",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 28, 2017. The summary of that version is repeated here.) Intelligence Authorization Act for Fiscal Year 2018  TITLE I--INTELLIENCE ACTIVITIES  (Sec. 101) This bill authorizes FY2018 appropriations for the conduct of intelligence and intelligence-related activities in the:   Office of the Director of National Intelligence (ODNI);  Central Intelligence Agency (CIA);  Department of Defense (DOD);  Defense Intelligence Agency (DIA);  National Security Agency (NSA);  Departments of the Army, Navy, and Air Force;  Coast Guard;  Departments of State, the Treasury, Energy (DOE), Justice (DOJ), and Homeland Security (DHS);  Federal Bureau of Investigation (FBI);  Drug Enforcement Administration;  National Reconnaissance Office (NRO); and  National Geospatial-Intelligence Agency (NGA).  (Sec. 102) The amounts authorized and the authorized personnel ceilings are those in the classified Schedule of Authorizations, which shall be made available to the congressional appropriations committees and the President.(Sec. 103) The ODNI, if it provides prior notice to Congress, may authorize employment of civilian personnel over the number authorized for FY2018 if necessary for the performance of important intelligence functions.The ODNI must establish guidelines to govern the treatment under such authorized personnel levels of employment or assignment in: (1) a student or trainee program; (2) a reserve corps or as a reemployed annuitant; or (3) details, joint duty, or long-term, full-time training.  (Sec. 104) The bill authorizes FY2018 appropriations for the ODNI's Intelligence Community Management Account. Additional funds identified in the classified schedule for advanced research and development shall remain available until September 30, 2019.  TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM  (Sec. 201) This title authorizes FY2018 appropriations for the Central Intelligence Agency Retirement and Disability Fund.  (Sec. 202) The bill amends several annuity provisions in the Central Intelligence Agency Retirement Act.  TITLE III--GENERAL INTELLIGENCE COMMUNITY MATTERS  (Sec. 301) Appropriations authorized by this bill shall not be deemed to constitute authority to conduct any intelligence activity not otherwise authorized by the Constitution or U.S. laws.  (Sec. 302) Appropriations authorized by this bill for salary, pay, retirement, and other benefits for federal employees may be increased as necessary for increases in such compensation or benefits authorized by law.  (Sec. 303) The bill amends the National Security Act of 1947 to give Congress oversight of contractors in the intelligence community.  (Sec. 304) The term \"audit\" is changed to \"review\" with regards to assessments of the effectiveness of enhanced personnel security programs, which relate to implementing security clearances of employees in the intelligence community.   TITLE IV--MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY  Subtitle A--Office of the Director of National Intelligence  (Sec. 401) The Central Intelligence Agency Act of 1949 is expanded to allow armed CIA personnel in the United States to protect current and former personnel of the ODNI and their immediate families.  (Sec. 402) The Intelligence Reform and Terrorism Prevention Act of 2004 is amended by: (1) substituting the ODNI for the President in relation to information sharing about terrorism among the private sector and federal, state, local, and tribal entities; and (2) giving the ODNI authority to designate the program manager responsible for information sharing across the federal government.Subtitle B--Other Elements  (Sec. 411) The National Security Agency Act of 1959 is amended by: (1) requiring that the NSA Director be a civilian and not serving on active duty in the Armed Forces, and (2) creating the position of NSA General Counsel, who shall be appointed by the President.  (Sec. 412) The DIA shall transfer all functions and responsibilities of: (1) the Information Review Task Force and the Watchlisting Branch to the Joint Chiefs of Staff, and (2) the National Intelligence University to the ODNI.  The DIA shall eliminate the Identity Intelligence Project Office and the Counter Threat Finance analysis function.  The DIA, ODNI, and DOD shall report about the National Center for Credibility Assessment relating to the functions, current organizational effectiveness as part of the DIA, current oversight effectiveness, and resources needed for future effectiveness.  The DIA, ODNI, and Joint Chiefs of Staff shall report about the Underground Facilities Analysis Center relating to its functions, ability to meet the needs of the intelligence community, current effectiveness, current oversight, and resources needed for future effectiveness.  (Sec. 413) Technical corrections to the Atomic Energy Defense Act and National Security Act of 1947 make references to the DOE's Office of Intelligence and Counterintelligence uniform.  TITLE V--MATTERS RELATING TO FOREIGN COUNTRIES  (Sec. 501) The ODNI must report an analysis of the most significant Russian influence campaigns in foreign elections or referendums during the past three years. The report shall include: (1) the goal and methods of each campaign, (2) a summary of any defenses or responses employed and their effectiveness, and (3) a summary of relevant activities by the intelligence community undertaken to assist foreign governments in defending or responding to Russian influence campaigns and their effectiveness.  (Sec. 502) The ODNI, in coordination with DHS and FBI, shall provide publicly online a report about foreign counterintelligence and cybersecurity threats to elections for federal offices. The report shall include a description of the threats, and the best practices and any available resources for election campaigns to counter such threats.  If the FBI and DHS determine a specific election campaign is under heightened threat, then that campaign may be given additional information.  (Sec. 503) The ODNI must submit an assessment about the financing of threat activity by Russia. Threat activity includes the financing of cyber operations, global intelligence campaigns, proliferation, terrorism, and transnational crime and drug organizations. Finance activity includes the methods and entities used to evade sanctions or to spend, store, move, raise, or conceal money or items of value on behalf of threat actors.  TITLE VI--REPORTS AND OTHER MATTERS  (Sec. 601) The Foreign Service Act of 1980 is amended to: (1) restrict to six years the length of a posting for a Foreign Service member, and (2) require Foreign Service members who receive certain foreign language training to serve three successive tours in positions where the specified language is needed.  (Sec. 602) The National Security Act of 1947 is amended to require each head of an intelligence element and inspectors general with oversight of an intelligence element to provide semiannual reports about unauthorized public disclosures of classified information to journalists. The reports from each head and inspector general shall include the numbers of investigations opened, closed, and referred to the DOJ for criminal investigation.  (Sec. 603) The National Security Act of 1947 is amended to require the ODNI to submit an annual report about the security clearances processed for federal employees and contractors by each element of the intelligence community in the previous year.  (Sec. 604) The CIA must provide a report about amending the Central Intelligence Agency Act of 1949 to expand the current 500-foot boundary that CIA special police may operate out from CIA installation.  (Sec. 605) The ODNI shall provide a report about its role in preparing materials for analysis for the federal government's evaluation of national security risks in regards to potential foreign investments in the United States.  (Sec. 606) The ODNI must report about establishing a voluntary cyber exchange program that would allow the intelligence community and private technology companies to detail qualified employees to each other. The report must include a feasibility analysis, the challenges to such a program, and an evaluation of the benefits for the intelligence community.  (Sec. 607) The Office of the Inspector General of the Intelligence Community shall review the roles and responsibilities of intelligence community entities during the past three years in the determinations of whether an information technology vulnerability was shared with a nonfederal entity or the public.   (Sec. 608) The Office of the Inspector General of the Intelligence Community, in consultation with the inspectors general from the CIA, NSA, NGA, DIA, and NRO, shall review the procedures and policies of intelligence community whistleblower matters in relation to the timely and effective reporting of such matters.  (Sec. 609) Congress states that the National Security Act of 1947 requires the intelligence community to keep congressional intelligence committees fully and currently informed about intelligence activities and to furnish any information or material concerning intelligence activities to such committees. ",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 28, 2017. The summary of that version is repeated here.) Intelligence Authorization Act for Fiscal Year 2018  TITLE I--INTELLIENCE ACTIVITIES  (Sec. 101) This bill authorizes FY2018 appropriations for the conduct of intelligence and intelligence-related activities in the:   Office of the Director of National Intelligence (ODNI);  Central Intelligence Agency (CIA);  Department of Defense (DOD);  Defense Intelligence ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 23,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-31",
+           "description": "Received in the Senate and Read twice and referred to the Select Committee on Intelligence."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437)."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3180."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under the provisions of rule H. Res. 481."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Rule H. Res. 481 passed House."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "On passage Passed by the Yeas and Nays: 380 - 35 (Roll no. 437). (text: CR H6547-6552)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-28",
+           "description": "Considered under the provisions of rule H. Res. 481. (consideration: CR H6547-6557)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Rules Committee Resolution H. Res. 481 Reported to House. Rule provides for consideration of H.R. 3180 with 1 hour of general debate. The resolution provides for a closed rule. The resolution provides for an amendment in the nature of a substitute recommended by the Permanent Select Committee on Intelligence now printed in the bill shall be considered as adopted, and the bill as amended, shall be considered as read."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered as unfinished business. (consideration: CR H6196)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6187-6195; text of measure as introduced: CR H6187-6193)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 241 - 163 (Roll no. 407)."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3180."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Nunes moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-24",
+           "description": "Placed on the Union Calendar, Calendar No. 183."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-24",
+           "description": "Reported (Amended) by the Committee on Intelligence. H. Rept. 115-251."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6187-6195; text of measure as reported: CR H6187-6193)"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-11",
+           "description": "Referred to the House Committee on Intelligence (Permanent Select)."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-28",
+             "time": "12:45:00",
+             "roll_call": "437",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 380,
+             "total_no": 35,
+             "total_not_voting": 18,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/437.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-24",
+             "time": "18:54:00",
+             "roll_call": "407",
+             "question": "On Motion to Suspend the Rules and Pass, as Amended",
+             "result": "Failed",
+             "total_yes": 241,
+             "total_no": 163,
+             "total_not_voting": 29,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/407.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1099-115",
+         "bill_slug": "s1099",
+         "congress": "115",
+         "bill": "S.1099",
+         "bill_type": "s",
+         "number": "S.1099",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1099.json",
+         "title": "Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017",
+         "short_title": "Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Thomas R. Carper",
+         "sponsor_id": "C000174",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C000174.json",
+         "sponsor_party": "D",
+         "sponsor_state": "DE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1099rfh/pdf/BILLS-115s1099rfh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1099",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1099",
+         "introduced_date": "2017-05-11",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-08-02",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Oversight and Government Reform Committee",
+         "committee_codes": ["HSGO","SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-04",
+         "latest_major_action": "Referred to the House Committee on Oversight and Government Reform.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-08-02",
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017 (Sec. 3) This bill requires the Office of Management and Budget (OMB) to develop a strategy to expand the use of data analytics in managing government purchase and travel charge card programs for the purpose of:   identifying questionable transactions and developing enhanced tools and methods for agency use in identifying questionable transactions and recovering improper payments;   identifying potential opportunities for agencies to further leverage administrative process streamlining and cost reduction from purchase and travel card use;   developing a set of purchase and travel card metrics and benchmarks for high risk activities to assist agency purchase and travel card management and oversight activities; and   developing a plan to create a library of analytics tools and data sources for use by agencies.  (Sec. 4) The OMB must issue guidance on improving information sharing by government agencies, including by:  requiring relevant officials to identify and communicate information about high-risk activities;  requiring appropriate agency officials to review the reports issued by charge card-issuing banks on questionable transaction activity and suspicious timing or amounts of cash withdrawals or advances;  providing for the appropriate sharing of information related to potential questionable transactions, fraud schemes, and high risk activities with GSA's Office of Charge Card Management and appropriate federal officials; and considering the recommendations made by Inspectors General or the best practices Inspectors General have identified.  (Sec. 5) The GSA and the OMB must establish a purchase and travel charge card data management group to develop and share best practices. (Sec. 6) The GSA shall report on: (1) the implementation of this bill, including the metrics used in determining whether the analytic and benchmarking efforts have reduced, or contributed to the reduction of, questionable or improper payments, as well as improved utilization of card-based payment products; and (2) further potential savings opportunities for government agencies under the federal charge card programs. Each federal agency that issues and uses purchase cards and convenience checks shall report to OMB on that agency's activities to implement this bill. OMB must submit to Congress a consolidated report of agency activities to implement this bill.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Saving Federal Dollars Through Better Use of Government Purchase and Travel Cards Act of 2017 (Sec. 3) This bill requires the Office of Management and Budget (OMB) to develop a strategy to expand the use of data analytics in managing government purchase and travel charge card programs for the purpose of:   identifying questionable transactions and developing enhan...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-08-04",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-08-04",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4891)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 169."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-129."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-11",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

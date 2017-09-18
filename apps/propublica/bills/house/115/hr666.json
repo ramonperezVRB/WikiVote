@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr666-115",
+         "bill_slug": "hr666",
+         "congress": "115",
+         "bill": "H.R.666",
+         "bill_type": "hr",
+         "number": "H.R.666",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr666.json",
+         "title": "Department of Homeland Security Insider Threat and Mitigation Act of 2017",
+         "short_title": "Department of Homeland Security Insider Threat and Mitigation Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Peter T. King",
+         "sponsor_id": "K000210",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000210.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr666rfs/pdf/BILLS-115hr666rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/666",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr666",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Department of Homeland Security Insider Threat and Mitigation Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to establish an Insider Threat Program, which shall: (1) provide training and education for DHS personnel to identify, prevent, mitigate, and respond to insider threat risks to DHS's critical assets; (2) provide investigative support regarding such threats; and (3) conduct risk mitigation activities for such threats. DHS shall establish a Steering Committee. The Under Secretary for Intelligence and Analysis shall serve as the Chair and the Chief Security Officer as the Vice Chair of the Committee.  The Under Secretary and the Chief Security Officer, in coordination with the Steering Committee, shall:  develop a holistic strategy for DHS-wide efforts to identify, prevent, mitigate, and respond to insider threats to DHS's critical assets;   develop a plan to implement the strategy across DHS components and offices;   document insider threat policies and controls;   conduct a baseline risk assessment of such threats;   examine existing programmatic and technology best practices adopted by the federal government, industry, and research institutions;   develop a timeline for deploying workplace monitoring technologies, employee awareness campaigns, and education and training programs related to potential insider threats;   consult with the the Under Secretary for Science and Technology and other stakeholders to ensure that the Insider Threat Program is informed by current information regarding threats, best practices, and available technology; and   develop, collect, and report metrics on the effectiveness of DHS's insider threat mitigation efforts.  DHS must submit to specified congressional committees biennial reports over the next six years on:   how DHS and its components and offices have implemented such strategy;  the status of DHS's risk assessment of critical assets;  the types of insider threat training conducted;  the number of DHS employees who have received such training; and  information on the effectiveness of the Insider Threat Program, based on such metrics. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Department of Homeland Security Insider Threat and Mitigation Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to establish an Insider Threat Program, which shall: (1) provide training and education for DHS personnel to identify, prevent, mitigate, and respond to insider threat risks to DHS...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H775)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 666."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H775-776)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. King (NY) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

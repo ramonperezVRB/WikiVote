@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres184-115",
+         "bill_slug": "sres184",
+         "congress": "115",
+         "bill": "S.RES.184",
+         "bill_type": "sres",
+         "number": "S.RES.184",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres184.json",
+         "title": "A resolution relative to the death of James Paul David \"Jim\" Bunning, former United States Senator for the Commonwealth of Kentucky.",
+         "short_title": "A resolution relative to the death of James Paul David \"Jim\" Bunning, former United States Senator for the Commonwealth of Kentucky.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mitch McConnell",
+         "sponsor_id": "M000355",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000355.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres184ats/pdf/BILLS-115sres184ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/184",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres184",
+         "introduced_date": "2017-06-05",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 99,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Message on Senate action sent to the House.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-08",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-06",
+           "description": "Star Print ordered on the resolution."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-06-05",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3244-3245; text: CR S3244)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

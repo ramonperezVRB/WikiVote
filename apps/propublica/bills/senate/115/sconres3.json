@@ -1,0 +1,612 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sconres3-115",
+         "bill_slug": "sconres3",
+         "congress": "115",
+         "bill": "S.CON.RES.3",
+         "bill_type": "sconres",
+         "number": "S.CON.RES.3",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+         "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+         "short_title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Michael B. Enzi",
+         "sponsor_id": "E000285",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/E000285.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sconres3es/pdf/BILLS-115sconres3es.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/3",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sconres3",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-12",
+         "senate_passage": "2017-01-11",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "Senate Budget Committee",
+         "committee_codes": ["SSBU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-13",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-01-13",
+         "house_passage_vote": "2017-01-12",
+         "senate_passage_vote": "2017-01-11",
+         "summary": "(This measure has not been amended since it was passed by the Senate on January 12, 2017. The summary of that version is repeated here.) Highlights:  This concurrent resolution establishes the FY2017 congressional budget resolution, which provides a framework for congressional consideration of revenue, spending, and other budget-related legislation. The budget resolution is a nonbinding framework used by Congress and cannot be signed into law or vetoed by the President.  The resolution establishes budget enforcement procedures by setting forth rules for applying budget points of order to various legislative proposals. It also includes reconciliation instructions directing various congressional committees to submit to the congressional budget committees deficit reduction legislation, which Congress must then consider using expedited legislative procedures.  The resolution includes reserve funds that provide the chairmen of the congressional budget committees with flexibility in applying budget enforcement rules to health care legislation that meets specified criteria.  Full Summary:  Establishes the congressional budget for the federal government for FY2017 and sets forth budgetary levels for FY2018-FY2026.  TITLE I--RECOMMENDED LEVELS AND AMOUNTS  Subtitle A--Budgetary Levels in Both Houses  (Sec. 1101) Recommends levels and amounts for FY2017-FY2026 for:    federal revenues,   new budget authority,   budget outlays,   deficits,   public debt, and   debt held by the public.   (Sec. 1102) Recommends levels of new budget authority and outlays for FY2017-FY2026 for each major functional category, including:    National Defense;   International Affairs;   General Science, Space, and Technology;   Energy;   Natural Resources and Environment;   Agriculture;   Commerce and Housing Credit;   Transportation;   Community and Regional Development;   Education, Training, Employment, and Social Services;   Health;   Medicare;   Income Security;   Social Security;   Veterans Benefits and Services;   Administration of Justice;   General Government;   Net Interest;   Allowances; and   Undistributed Offsetting Receipts.   Subtitle B--Levels and Amounts in the Senate  (Sec. 1201) Recommends Senate levels for FY2017-FY2026 for Social Security revenues, outlays, and administrative expenses.  (Sec. 1202) Recommends Senate levels of new budget authority and outlays for FY2017-FY2026 for U.S. Postal Service discretionary administrative expenses.  TITLE II--RECONCILIATION  (Title II includes reconciliation instructions directing congressional committees to submit deficit reduction legislation to the budget committees. Under the Congressional Budget Act of 1974, reconciliation bills are considered by Congress using expedited legislative procedures that prevent a filibuster and restrict amendments in the Senate.)  (Sec. 2001) Includes reconciliation instructions directing the Senate Finance Committee and the Senate Health, Education, Labor, and Pensions Committee to each submit to the Senate Budget Committee legislation to reduce the deficit by at least $1 billion over the FY2017-FY2026 period. Requires the legislation to be submitted by January 27, 2017.  (Sec. 2002) Includes reconciliation instructions directing the House Energy and Commerce Committee and the House Ways and Means Committee to each submit to the House Budget Committee legislation to reduce the deficit by at least $1 billion over the FY2017-FY2026 period. Requires the legislation to be submitted by January 27, 2017.  TITLE III--RESERVE FUNDS  Establishes reserve funds that provide the chairmen of the congressional budget committees with flexibility in applying budget enforcement rules to health care legislation that meets specified criteria. (Under the reserve funds, the chairmen may revise committee allocations, aggregates and other appropriate levels in this resolution, and the pay-as-you-go [PAYGO] ledger in the Senate.)  (Sec. 3001) Establishes a deficit-neutral reserve fund for health care legislation that would not increase the deficit over the FY2017-FY2016 period.  (Sec. 3002) Establishes a reserve fund for health care legislation. Specifies that the adjustments permitted under this section may not exceed the difference obtained from subtracting $2 billion from the sum of deficit reduction over the period of the total of fiscal years FY2017-FY2026 achieved under legislation for which the chairman has exercised authority under the deficit-neutral reserve fund in section 3001.  Specifies that, in the House and the Senate, legislation for which the chairman of the applicable budget committee has exercised authority pursuant to this section is exempt from: (1) the point of order against legislation increasing the short-term deficit, and (2) the point of order against legislation increasing long-term deficits or direct spending.  (The short-term deficit point of order prohibits the Senate from considering legislation that would cause a net increase in the deficit in excess of $10 billion in any fiscal year provided for in the most recently adopted budget resolution unless it is fully offset over the period of all fiscal years provided for in the most recently adopted budget resolution.  The long-term point of order applies to legislation that would cause a net-increase in on budget-deficits in the Senate or a net increase in direct spending in the House in excess of $5 billion in any of the 4 consecutive 10-year periods beginning with the first fiscal year that is 10 years after the budget year provided for in the most recently adopted budget resolution.)  TITLE IV-OTHER MATTERS  (Sec. 4001) Provides that, for the purposes of enforcing the Congressional Budget Act of 1974, the chairmen of the congressional budget committees may submit for publication in the Congressional Record allocations that are normally included in the joint statement of managers accompanying a conference report.  (Sec. 4002) Provides that the discretionary administrative expenses of the Social Security Administration and the U.S. Postal Service are reflected in the allocation to the appropriations committees to ensure that the committees retain control over the expenses through the annual appropriations process. Requires the administrative expenses to be included in the cost estimates for appropriations legislation for budget enforcement purposes.  (Sec. 4003) Sets forth procedures for adjustments of the allocations and aggregates included in the budget resolution. Specifies that legislation for which the House Budget Committee Chairman has made adjustments or revisions in the allocations, aggregates, and other budgetary levels of this concurrent resolution is exempt from: (1) the Cut-As-You-Go point of order, and (2) the point of order against legislation increasing long-term direct spending.  (The Cut-As-You-Go point of order prohibits the House from considering legislation that would have the net effect of increasing direct spending over specified time periods.  The long-term point of order prohibits the House from considering legislation that would cause a net increase in direct spending in excess of $5 billion in any of the 4 consecutive 10-year periods beginning with the first fiscal year that is 10 years after the budget year provided for in the most recently adopted budget resolution.  This provision effectively allows the House Budget Committee Chairman to exempt from the points of order health care legislation that qualifies for the reserve funds in title III.)  (Sec. 4004) Affirms that this budget resolution is adopted as an exercise of the rulemaking powers of the House and Senate and that either chamber has the constitutional right to change these rules. ",
+         "summary_short": "(This measure has not been amended since it was passed by the Senate on January 12, 2017. The summary of that version is repeated here.) Highlights:  This concurrent resolution establishes the FY2017 congressional budget resolution, which provides a framework for congressional consideration of revenue, spending, and other budget-related legislation. The budget resolution is a nonbinding framework used by Congress and cannot be signed into law or vetoed by the President.  The resolution establ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 227 - 198 (Roll no. 58). (text: CR H510)"
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report S. Con. Res. 3."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Considered as unfinished business. (consideration: CR H529-531)"
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of an amendment in the nature of a substitute which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Committee of the Whole House on the state of the Union rises leaving S. Con. Res. 3 as unfinished business."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Mrs. Black moved that the Committee rise."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Yarmuth amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Yarmuth demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 48, the Committee of the Whole proceeded with 20 minutes of debate on the Yarmuth amendment No. 1."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on S. Con. Res. 3."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "The Speaker designated the Honorable Randy Hultgren to act as Chairman of the Committee."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 48 and Rule XVIII."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Rule provides for consideration of S. Con. Res. 3 and S. 84. The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-13",
+           "description": "Considered under the provisions of rule H. Res. 48. (consideration: CR H490-520)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Rules Committee Resolution H. Res. 48 Reported to House. Rule provides for consideration of S. Con. Res. 3 and S. 84. The resolution provides for two hours of general debate on S. Con. Res. 3 under a structured rule, and ninety minutes of debate on S.84. The resolution also provides for one motion to commit on S. 84."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-12",
+           "description": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 26. (text as passed Senate: 01/11/17 CR S268-272)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-11",
+           "description": "Considered by Senate. (consideration: CR S224-228, S232-243, S245-272)"
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered by Senate. (consideration: CR S184-199)"
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-09",
+           "description": "Considered by Senate. (consideration: CR S125-151, S161-179)"
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "Considered by Senate. (consideration: CR S75-107)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Considered by Senate. (consideration: CR S30-42)"
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 1."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Motion to proceed to consideration of measure made in Senate. (CR S30)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-01-03",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 1."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-01-03",
+           "description": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the Committee on the Budget."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-13",
+             "time": "15:31:00",
+             "roll_call": "58",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 227,
+             "total_no": 198,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/58.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-01-13",
+             "time": "15:24:00",
+             "roll_call": "57",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 149,
+             "total_no": 272,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/57.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-12",
+             "time": "01:05:00",
+             "roll_call": "26",
+             "question": "On the Concurrent Resolution",
+             "result": "Concurrent Resolution Agreed to",
+             "total_yes": 51,
+             "total_no": 48,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/26.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-12",
+             "time": "00:48:00",
+             "roll_call": "25",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 49,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/25.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-12",
+             "time": "00:31:00",
+             "roll_call": "24",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 51,
+             "total_no": 47,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/24.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-12",
+             "time": "00:14:00",
+             "roll_call": "23",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 49,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/23.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "23:56:00",
+             "roll_call": "22",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 52,
+             "total_no": 46,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/22.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "23:26:00",
+             "roll_call": "21",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 47,
+             "total_no": 51,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/21.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "23:06:00",
+             "roll_call": "20",
+             "question": "On the Amendment",
+             "result": "Amendment Rejected",
+             "total_yes": 46,
+             "total_no": 52,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/20.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "22:45:00",
+             "roll_call": "19",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 49,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/19.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "22:26:00",
+             "roll_call": "18",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 48,
+             "total_no": 50,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/18.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "22:07:00",
+             "roll_call": "17",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 51,
+             "total_no": 47,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/17.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "21:44:00",
+             "roll_call": "16",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 47,
+             "total_no": 51,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/16.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "21:17:00",
+             "roll_call": "15",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 49,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/15.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "20:56:00",
+             "roll_call": "14",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 48,
+             "total_no": 50,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/14.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "20:35:00",
+             "roll_call": "13",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 50,
+             "total_no": 48,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/13.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "20:17:00",
+             "roll_call": "12",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 48,
+             "total_no": 50,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/12.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "19:56:00",
+             "roll_call": "11",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 51,
+             "total_no": 47,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/11.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "19:37:00",
+             "roll_call": "10",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 51,
+             "total_no": 47,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/10.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "19:12:00",
+             "roll_call": "9",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 51,
+             "total_no": 47,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/9.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "18:52:00",
+             "roll_call": "8",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 48,
+             "total_no": 50,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/8.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-11",
+             "time": "18:21:00",
+             "roll_call": "7",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 47,
+             "total_no": 51,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/7.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-10",
+             "time": "15:05:00",
+             "roll_call": "6",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 49,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/6.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-10",
+             "time": "14:33:00",
+             "roll_call": "5",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 31,
+             "total_no": 67,
+             "total_not_voting": 2,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/5.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-09",
+             "time": "18:08:00",
+             "roll_call": "4",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 49,
+             "total_no": 47,
+             "total_not_voting": 4,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/4.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-09",
+             "time": "17:33:00",
+             "roll_call": "3",
+             "question": "On the Amendment",
+             "result": "Amendment Rejected",
+             "total_yes": 14,
+             "total_no": 83,
+             "total_not_voting": 3,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/3.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-05",
+             "time": "14:47:00",
+             "roll_call": "2",
+             "question": "On the Motion",
+             "result": "Motion Rejected",
+             "total_yes": 48,
+             "total_no": 52,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/2.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-01-04",
+             "time": "12:38:00",
+             "roll_call": "1",
+             "question": "On the Motion to Proceed",
+             "result": "Motion to Proceed Agreed to",
+             "total_yes": 51,
+             "total_no": 48,
+             "total_not_voting": 1,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/1.json"
+           }
+         ]
+
+      }
+   ]
+}

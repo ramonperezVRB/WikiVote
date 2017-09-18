@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2763-115",
+         "bill_slug": "hr2763",
+         "congress": "115",
+         "bill": "H.R.2763",
+         "bill_type": "hr",
+         "number": "H.R.2763",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2763.json",
+         "title": "Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017",
+         "short_title": "Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steve Knight",
+         "sponsor_id": "K000387",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000387.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2763ih/pdf/BILLS-115hr2763ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2763",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2763",
+         "introduced_date": "2017-05-30",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Commerce",
+         "committees": "House Science, Space, and Technology Committee",
+         "committee_codes": ["HSSY","HSSM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-14",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 223.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-14",
+           "description": "Placed on the Union Calendar, Calendar No. 223."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-14",
+           "description": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 115-313, Part II."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-14",
+           "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 115-313, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Ordered to be Reported (Amended)."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-30",
+           "description": "Referred to House Science, Space, and Technology"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-30",
+           "description": "Referred to House Small Business"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,146 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres242-115",
+         "bill_slug": "hres242",
+         "congress": "115",
+         "bill": "H.RES.242",
+         "bill_type": "hres",
+         "number": "H.RES.242",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres242.json",
+         "title": "Providing for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017.",
+         "short_title": "Providing for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proce",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ken Buck",
+         "sponsor_id": "B001297",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001297.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres242eh/pdf/BILLS-115hres242eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/242",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres242",
+         "introduced_date": "2017-04-03",
+         "active": true,
+         "house_passage": "2017-04-04",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Rules Committee",
+         "committee_codes": ["HSRU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-05",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-04-05",
+         "house_passage_vote": "2017-04-04",
+         "senate_passage_vote": null,
+         "summary": "Sets forth the rule for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017.",
+         "summary_short": "Sets forth the rule for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "On agreeing to the resolution Agreed to by recorded vote: 240 - 181 (Roll no. 218). (text: CR H2708)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "On ordering the previous question Agreed to by the Yeas and Nays: 231 - 182 (Roll no. 217). (consideration: CR H2720-2721)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Considered as unfinished business. (consideration: CR H2720-2722)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 242, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 242."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Considered as privileged matter. (consideration: CR H2708-2715)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-03",
+           "description": "Placed on the House Calendar, Calendar No. 34."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "The resolution provides for one motion to recommit; and providing for proceedings during the period from April 7, 2017 through April 24, 2017"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-03",
+           "description": "The House Committee on Rules reported an original measure, H. Rept. 115-77, by Mr. Buck."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-05",
+             "time": "14:05:00",
+             "roll_call": "218",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 240,
+             "total_no": 181,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/218.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-04-05",
+             "time": "13:58:00",
+             "roll_call": "217",
+             "question": "On Ordering the Previous Question",
+             "result": "Passed",
+             "total_yes": 231,
+             "total_no": 182,
+             "total_not_voting": 16,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/217.json"
+           }
+         ]
+
+      }
+   ]
+}

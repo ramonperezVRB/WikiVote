@@ -1,0 +1,164 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hconres36-115",
+         "bill_slug": "hconres36",
+         "congress": "115",
+         "bill": "H.CON.RES.36",
+         "bill_type": "hconres",
+         "number": "H.CON.RES.36",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hconres36.json",
+         "title": "Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.",
+         "short_title": "Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steny H. Hoyer",
+         "sponsor_id": "H000874",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H000874.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MD",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hconres36enr/pdf/BILLS-115hconres36enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/36",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hconres36",
+         "introduced_date": "2017-03-20",
+         "active": true,
+         "house_passage": "2017-04-24",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Transportation and Infrastructure Committee",
+         "committee_codes": ["HSPW"],
+         "subcommittee_codes": ["HSPW13"],
+         "latest_major_action_date": "2017-04-28",
+         "latest_major_action": "Message on Senate action sent to the House.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-04-24",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 1) Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 17, 2017.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 1) Permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races as a free public event on the Capitol grounds on June 17, 2017.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-28",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-27",
+           "description": "Resolution agreed to in Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-26",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2821)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 36."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Considered under suspension of the rules. (consideration: CR H2821-2822)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-25",
+           "description": "Mr. Ferguson moved to suspend the rules and agree to the resolution."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-04-06",
+           "description": "Placed on the House Calendar, Calendar No. 37."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-86."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Ordered to be Reported."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-21",
+           "description": "Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-20",
+           "description": "Referred to the House Committee on Transportation and Infrastructure."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr677-115",
+         "bill_slug": "hr677",
+         "congress": "115",
+         "bill": "H.R.677",
+         "bill_type": "hr",
+         "number": "H.R.677",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr677.json",
+         "title": "CBRN Intelligence and Information Sharing Act of 2017",
+         "short_title": "CBRN Intelligence and Information Sharing Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Martha McSally",
+         "sponsor_id": "M001197",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001197.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr677rfs/pdf/BILLS-115hr677rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/677",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr677",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) CBRN Intelligence and Information Sharing Act of 2017  (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Office of Intelligence and Analysis of the Department of Homeland Security (DHS) to: (1) support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, biological, radiological, and nuclear materials against the United States and of global infectious disease, public health, food, agricultural, and veterinary issues; (2) support homeland security-focused risk analysis and risk assessments of such homeland security hazards by providing quantitative and nonquantitative threat information; (3) leverage homeland security intelligence capabilities and structures to enhance prevention, protection, response, and recovery efforts with respect to a chemical, biological, radiological, or nuclear attack; and (4) share information and provide tailored analytical support on these threats to state, local, and tribal authorities as well as relevant national biosecurity and biodefense stakeholders and other federal agencies. The Office shall coordinate with other DHS components, other intelligence community agencies, and federal, state, local, and tribal authorities and enable such entities to provide recommendations on optimal information sharing mechanisms and on how they can provide information to DHS. DHS shall report annually for five years on: (1) intelligence and information sharing activities to counter the threat from attacks using chemical, biological, radiological, and nuclear materials, and (2) DHS's activities in accordance with relevant intelligence strategies.  (Sec. 3) DHS shall ensure that homeland security information analyzed by it concerning terrorist threats is provided to state, local, tribal, and private entities and the public. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) CBRN Intelligence and Information Sharing Act of 2017  (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Office of Intelligence and Analysis of the Department of Homeland Security (DHS) to: (1) support homeland security-focused intelligence analysis of terrorist actors, their claims, and their plans to conduct attacks involving chemical, bi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H785)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 677."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H785-786)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Ms. McSally moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

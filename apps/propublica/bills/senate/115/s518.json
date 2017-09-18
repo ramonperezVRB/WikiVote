@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s518-115",
+         "bill_slug": "s518",
+         "congress": "115",
+         "bill": "S.518",
+         "bill_type": "s",
+         "number": "S.518",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s518.json",
+         "title": "Small and Rural Community Clean Water Technical Assistance Act",
+         "short_title": "Small and Rural Community Clean Water Technical Assistance Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Roger Wicker",
+         "sponsor_id": "W000437",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000437.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s518rs/pdf/BILLS-115s518rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/518",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s518",
+         "introduced_date": "2017-03-02",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 13,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV"],
+         "subcommittee_codes": ["SSEV15"],
+         "latest_major_action_date": "2017-05-17",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-17",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 89."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-71."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Committee on Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife. Hearings held. With printed Hearing: S.Hrg. 115-12."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Read twice and referred to the Committee on Environment and Public Works."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

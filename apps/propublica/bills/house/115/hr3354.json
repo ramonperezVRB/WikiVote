@@ -1,0 +1,1784 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3354-115",
+         "bill_slug": "hr3354",
+         "congress": "115",
+         "bill": "H.R.3354",
+         "bill_type": "hr",
+         "number": "H.R.3354",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3354.json",
+         "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018",
+         "short_title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ken Calvert",
+         "sponsor_id": "C000059",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C000059.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3354rh/pdf/BILLS-115hr3354rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3354",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3354",
+         "introduced_date": "2017-07-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "House Appropriations Committee",
+         "committee_codes": ["HSAP"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-08",
+         "latest_major_action": "Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business.",
+         "last_vote_date": "2017-09-08",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Highlights:  This bill provides FY2018 appropriations for the Department of the Interior, the Environmental Protection Agency (EPA), and related agencies.  The bill provides annual appropriations for most of the Department of the Interior, including:    the Bureau of Land Management,   the U.S. Fish and Wildlife Service,   the National Park Service,   the U.S. Geological Survey,   the Bureau of Ocean Energy Management,   the Bureau of Safety and Environmental Enforcement,   the Office of Surface Mining Reclamation and Enforcement,   the Payments in Lieu of Taxes Program (PILT),   the Bureau of Indian Affairs, and  the Bureau of Indian Education.   It does not include funding for the Bureau of Reclamation, which is considered in the Energy and Water Development appropriations bill.  Related agencies funded in the bill include the Department of Agriculture's Forest Service, the Department of Health and Human Service's Indian Health Service (IHS), the Smithsonian Institution, the National Endowment for the Arts, and the National Endowment for the Humanities. The bill decreases FY2018 appropriations for the Department of the Interior, Environment, and Related Agencies below FY2017 levels.  Compared to FY2017 funding levels, the bill increases funding for the IHS and the Smithsonian Institution, while decreasing funding for Interior, the EPA, and the Forest Service.  The bill also includes several provisions that affect policies in areas such as greenhouse gas emissions, air and water quality, and endangered species. Full Summary:  Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018  TITLE I--DEPARTMENT OF THE INTERIOR  Provides appropriations to the Bureau of Land Management (BLM) for:    Management of Lands and Resources;   Land Acquisition;   Oregon and California Grant Lands;   Range Improvements;   Service Charges, Deposits, and Forfeitures; and   Miscellaneous Trust Funds.   Prohibits appropriations provided by this bill from being used for the sale of wild horses and burros that results in their destruction for processing into commercial products, including for human consumption. Provides appropriations to the U.S. Fish and Wildlife Service (USFWS) for:    Resource Management,   Construction,   Land Acquisition,   the Cooperative Endangered Species Conservation Fund,   the National Wildlife Refuge Fund,   the North American Wetlands Conservation Fund,   Neotropical Migratory Bird Conservation,   the Multinational Species Conservation Fund, and   State and Tribal Wildlife Grants.   Provides appropriations to the National Park Service (NPS) for:    Operation of the National Park System,   National Recreation and Preservation,   the Historic Preservation Fund,   Construction,   Land Acquisition and State Assistance, and   the Centennial Challenge.   Rescinds FY2018 contract authority provided by the Land and Water Conservation Fund Act of 1965.  Permits the NPS to retain specified funds authorized to be disbursed under the Gulf of Mexico Energy Security Act of 2006 for the costs of administration of the Land and Water Conservation Fund grants authorized by the Act.  Permits NPS funds to be transferred to the Federal Highway Administration for the Federal Lands Access Program, which was established to improve transportation facilities that provide access to, are adjacent to, or are located within federal lands.  Provides appropriations to the U.S. Geological Survey for Surveys, Investigations, and Research.  Provides appropriations to the Bureau of Ocean Energy Management for Ocean Energy Management.  Provides appropriations to the Bureau of Safety and Environmental Enforcement for: (1) Offshore Safety and Environmental Enforcement, and (2) Oil Spill Research.  Provides appropriations to the Office of Surface Mining Reclamation and Enforcement for: (1) Regulation and Technology, and (2) the Abandoned Mine Reclamation Fund.  Provides appropriations to the Bureau of Indian Affairs (BIA) and Bureau of Indian Education (BIE) for:  Operation of Indian Programs,   Contract Support Costs,   Construction,   Indian Land and Water Claim Settlements and Miscellaneous Payments to Indians, and   the Indian Guaranteed Loan Program Account.   Permits the BIA to contract for services for the Power Division of the San Carlos Irrigation Project.  Limits the use of funds for contracts, grants, compacts, or cooperative agreements with the BIA under the Indian Self-Determination Act or the Tribal Self-Governance Act of 1994.  Permits tribes to return appropriated funds without diminishing the federal government's trust responsibilities, the government-to-government relationship with the tribe, or the tribe's ability to access future appropriations.  Prohibits the use of BIE funds, other than funds provided for assistance to public schools, for the operation of elementary or secondary schools in Alaska.  Limits the number of schools and the expansion of grade levels in individual schools in the BIE school system.  Specifies the distribution of indirect and administrative costs to certain tribes.  Provides appropriations for Departmental Offices, including:    the Office of the Secretary,   Insular Affairs,   the Office of the Solicitor,   the Office of Inspector General, and   the Office of the Special Trustee for American Indians.   Provides appropriations for Department-Wide Programs, including:    Wildland Fire Management,   the Central Hazardous Materials Fund,   the Natural Resources Damage Assessment Fund,   the Working Capital Fund,   the Office of Natural Resources Revenue, and   Payments in Lieu of Taxes (PILT).   (Sec. 101) Permits the transfer of funds within bureaus and offices for specified emergencies when all other emergency funds have been exhausted.  (Sec. 102) Provides for the department-wide expenditure or transfer of funds by Interior in the event of specified emergencies.  (Sec. 103) Permits Interior to use appropriations provided in this title for:    employing temporary or intermittent experts and consultants;   purchasing and replacing motor vehicles;   hiring, maintenance, and operation of aircraft;   hiring of passenger motor vehicles;   purchasing reprints;   telephone services in private residences in the field; and   certain library memberships.   (Sec. 104) Permits the transfer of funds between the BIA, the BIE, and the Office of the Special Trustee for American Indians for Indian trust management and reform activities, provided that total funding for historical accounting activities does not exceed funding provided by this bill for that purpose.  (Sec. 105) Permits Interior to redistribute Tribal Priority Allocation funds, including tribal base funds, to alleviate funding inequities to address identified unmet needs, dual enrollment, overlapping service areas, or inaccurate distribution methodologies.  Specifies that no tribe may receive a reduction in Tribal Priority Allocation funds of more than 10% in FY2018, except in the cases of dual enrollment, overlapping service areas, or inaccurate distribution methodologies.  (Sec. 106) Authorizes the acquisition of lands and waters for the purpose of operating and maintaining facilities that support visitors to Ellis, Governors, and Liberty Islands in New Jersey and New York.  (Sec. 107) Requires Interior to collect specified Outer Continental Shelf inspection fees.  (Sec. 108) Permits Interior to transfer funds to implement the reorganization of the Bureau of Ocean Energy Management, Regulation and Enforcement, subject to reprogramming guidelines.  (Sec. 109) Permits Interior to enter into multiyear cooperative agreements and contracts with nonprofits and other entities for the long-term care and maintenance of excess wild free roaming horses and burros on private land.  (Sec. 110) Directs the USFWS, in carrying out responsibilities to protect threatened and endangered species of salmon, to implement a system of mass marking of salmonid stocks intended for harvest that are released from federally operated or financed hatcheries.  (Sec. 111) Amends the Consolidated Appropriations Act, 2012 to extend the requirement that a person exhaust administrative hearings and appeal procedures prior to bringing a civil action challenging BLM decisions concerning grazing on public lands.  (Sec. 112) Permits the BIA and the BIE in carrying out work involving cooperation with state, local, and tribal governments, to record obligations against accounts receivable from the entities, provided that total obligations at the end of the fiscal year do not exceed total budgetary resources.  (Sec. 113) Prohibits funds from being used to write or issue rules for the sage-grouse pursuant to the Endangered Species Act of 1973 (ESA).  (Sec. 114) Permits Interior to transfer excess wild horses or burros that have been removed from the public lands to other federal, state, and local agencies for use as work animals. Specifies that any animal transferred loses its status as a wild free-roaming horse or burro.  Prohibits any agency receiving the animals from: (1) destroying, selling, or otherwise transferring them in a way that results in their destruction for processing into commercial products; or (2) euthanizing the horses or burros except upon the recommendation of a licensed veterinarian, in cases of severe injury, illness, or advanced age. (Sec. 115) Prohibits funds provided by this bill from being used to list the Trestles Historic District in San Diego County, California, on the National Register of Historic Places or to make a determination of eligibility with respect to the listing.  (Sec. 116) Requires Interior to reissue two final rules removing recovered gray wolves in Wyoming and the Great Lakes from the endangered species list. Exempts the reissuances from judicial review.  (Sec. 117) Prohibits Interior from using funds provided by this bill to treat any gray wolf in any of the 48 contiguous states or the District of Columbia as an endangered species or threatened species under the ESA.  TITLE II--ENVIRONMENTAL PROTECTION AGENCY  Provides appropriations to the Environmental Protection Agency (EPA) for:    Science and Technology,   Environmental Programs and Management,   the Hazardous Waste Electronic Manifest System Fund,   the Office of Inspector General,   Buildings and Facilities,   Hazardous Substance Superfund,   the Leaking Underground Storage Tank Trust Fund Program,   Inland Oil Spill Programs,   State and Tribal Assistance Grants, and   the Water Infrastructure Finance and Innovation Program Account.   Permits the EPA to award cooperative agreements to Indian tribes or intertribal consortia to carry out the agency's function to implement federal environmental programs required or authorized by law in the absence of an acceptable tribal program.  Authorizes the EPA to collect and spend pesticide registration service fees.  Permits the EPA to: (1) transfer funds from the Environmental Programs and Management account to other federal agencies to support the Great Lakes Restoration Initiative, and (2) enter into interagency agreements and provide grants to certain entities to support the effort.  Authorizes the EPA to collect and use certain user fees under the Toxic Substances Control Act.  Permits specified funds to be used for the construction, alteration, repair, rehabilitation, and renovation of facilities.  Permits the EPA to use funds to make grants to federally recognized Indian tribes notwithstanding certain provisions of the Federal Water Pollution Control Act (commonly known as the Clean Water Act).  Rescinds specified unobligated balances from the State and Tribal Assistance Grants account.  Requires specified funds for the National Estuary Program to be used for certain competitive grants.  TITLE III--RELATED AGENCIES  Provides appropriations to the Department of Agriculture for the Forest Service, including for:    the Office of the Under Secretary for Natural Resources and Environment,   Forest and Rangeland Research;   State and Private Forestry;   the National Forest System;   Capital Improvement and Maintenance;   Land Acquisition;   the Range Betterment Fund;   Gifts, Donations, and Bequests for Forest and Rangeland Research;   Management of National Forest Lands for Subsistence Uses; and  Wildland Fire Management.   Permits Forest Service appropriations to be used for:    the purchase and use of motor vehicles and aircraft;   employment of temporary or intermittent personnel;   purchase, erection, and alteration of buildings and other public improvements;   acquisition of land and waters;   expenses pursuant to the Volunteers in the National Forest Act of 1972;   uniforms; and  debt collection contracts.   Permits appropriations to be transferred to the Wildland Fire Management account for forest fire fighting, emergency rehabilitation of burned-over or damaged lands or waters, and fire preparedness due to severe burning conditions, provided that USDA notifies Congress that all fire suppression funds will be obligated within 30 days. Requires funds used to be replenished by a supplemental appropriation requested as promptly as possible.  Permits unobligated balances of funds provided to the Forest Service to be transferred to or within the Wildland Fire Management Account or reprogrammed to be used for hazardous fuels management and emergency rehabilitation of burned-over National Forest System lands and water, if Congress is notified in advance.  Permits Forest Service appropriations to be used for forest and rangeland research, technical information, and related forestry and natural resources activities in foreign countries.  Permits Forest Service appropriations to be transferred to the BLM for removal, preparation, and adoption of excess wild horses and burros from National Forest System lands, and for surveys to designate the boundaries of the lands.  Prohibits Forest Service appropriations from being transferred using authority provided in several specified statutory provisions.  Prohibits Forest Service appropriations from being reprogrammed except with prior approval of Congress and in accordance with procedures contained in the report accompanying this bill.  Limits transfers to the USDA Working Capital Fund and to USDA for Department Reimbursable Programs (commonly referred to as Greenbook charges).  Permits specified funds to be used for projects to be carried out by the Youth Conservation Corps under the authority of the Public Lands Corps Act of 1993.   Permits the Chief of the Forest Service to use specified funds for official reception and representation expenses.  Provides matching funds to aid conservation projects of the National Forest Foundation and the National Fish and Wildlife Foundation.  Permits funds to be used to provide technical assistance to rural communities and natural resource-based businesses for sustainable rural development purposes.  Permits Forest Service appropriations to be used for payments to counties within the Columbia River Gorge National Scenic Area.  Permits Forest Service appropriations to be used to meet the non-federal share requirement included in a provision of the Older Americans Act of 1965 related to the older American community service employment program.  Permits specified funds to be assessed for the purpose of performing fire, administrative, and other facilities maintenance and decommissioning.  Permits specified funds to be used to reimburse the USDA Office of the General Counsel for travel and related expenses incurred as a result of assistance or participation requested by the Forest Service at meetings, training sessions, management reviews, land purchase negotiations, and similar non-litigation related matters.  Permits an individual employed under any project funded under title V of the Older Americans Act of 1965 to be considered a federal employee.  Requires the Forest Service to provide quarterly reports to Congress regarding unobligated balances.  Permits any unobligated balances of funds provided a previous fiscal year for the FLAME Wildfire Suppression Reserve Fund to remain available through FY2020.  Requires the Forest Service to submit to the Office of Management and Budget a proposed system of administrative control of funds for its accounts.  Provides appropriations to the Department of Health and Human Services (HHS) for the Indian Health Service (IHS) including:    Indian Health Services,   Contract Support Costs, and   Indian Health Facilities.   Provides appropriations to HHS for: (1) the National Institutes of Health for the National Institute of Environmental Health Sciences, and (2) the Agency for Toxic Substances and Disease Registry.  Provides appropriations to Other Related Agencies, including:    the Executive Office of the President for the Council on Environmental Quality and Office of Environmental Quality;   the Chemical Safety and Hazard Investigation Board;   the Office of Navajo and Hopi Indian Relocation;   the Institute of American Indian and Alaska Native Culture and Arts Development;   the Smithsonian Institution;   the National Gallery of Art;   the John F. Kennedy Center for the Performing Arts;   the Woodrow Wilson International Center for Scholars;   the National Foundation on the Arts and the Humanities, including the National Endowment for the Arts (NEA) and the National Endowment for the Humanities;   the Commission of Fine Arts;   the Advisory Council on Historic Preservation;   the National Capital Planning Commission;   the U.S. Holocaust Memorial Museum;   the Dwight D. Eisenhower Memorial Commission;   the Women's Suffrage Centennial Commission; and   the World War I Centennial Commission.   TITLE IV--GENERAL PROVISIONS  (Sec. 401) Prohibits funds provided by this bill from being used to promote public support or opposition to any legislative proposal before Congress, other than to communicate with Congress as permitted under current law.  (Sec. 402) Prohibits any appropriation contained in this bill from remaining available for obligation beyond the current fiscal year unless expressly permitted in this bill.  (Sec. 403) Requires specified administrative expenses to be presented in annual budget justifications and approved by Congress.  (Sec. 404) Prohibits funds from being used to accept or process applications for a patent for any mining or mill site claim located under the general mining laws, subject to exceptions.  Requires Interior to report to Congress regarding actions taken by the department under the plan submitted regarding a processing schedule for certain applications for patents that were filed on or before September 30, 1994.  Requires Interior, upon the request of a patent applicant, to allow a qualified third-party contractor to conduct a mineral examination of the mining claims or mill sites contained in a patent application. Specifies that the BLM is responsible for selecting and paying the third-party contractor.  (Sec. 405) Extends limits on the use of FY1994-FY2013 and FY2014 funds for contract support costs on Indian contracts.  (Sec. 406) Limits the use of FY2018 funds for contract support costs on Indian contracts.  (Sec. 407) Permits Forest Service land management plans that are more than 15 years old if USDA is acting in good faith to update the plans.  (Sec. 408) Prohibits funds provided by this bill from being used to conduct preleasing, leasing, and related activities under either the Mineral Leasing Act or the Outer Continental Shelf Lands Act within the boundaries of a National Monument.  (Sec. 409) Restricts land acquisition funds provided by this bill from being used for the filing of declarations of taking or complaints in condemnation without the approval of Congress. Includes an exception for funds provided to implement the Everglades National Park Protection and Expansion Act of 1989, or for Florida to acquire lands for Everglades restoration.  (Sec. 410) Sets forth requirements regarding the sale of timber from a specified region in Alaska.  (Sec. 411) Prohibits no-bid contracts and grants except under certain circumstances where a contract is authorized by federal law or was awarded prior to the date of enactment of this bill.  (Sec. 412) Requires agencies receiving funds in this bill to post on their public websites any report required to be submitted by Congress if it serves the national interest.  (Sec. 413) Establishes grant guidelines for the NEA.  (Sec. 414) Establishes priorities for programs administered by the NEA.  (Sec. 415) Directs Interior, the EPA, the Forest Service, and the IHS to provide Congress with quarterly reports on the status of balances of appropriations.  (Sec. 416) Amends the Federal Lands Recreation Enhancement Act to extend the authority of federal agencies to establish, collect, and retain fees on federal recreational lands and waters.  (Sec. 417) Prohibits funds from being used to promulgate or implement any regulation requiring the issuance of permits under the Clean Air Act for carbon dioxide, nitrous oxide, water vapor, or methane emissions resulting from biological processes associated with livestock production.  (Sec. 418) Prohibits the use of any funds to implement any provision in a rule that requires mandatory reporting of greenhouse gas emissions from manure management systems.  (Sec. 419) Amends the Department of Defense Appropriations Act, 2000 to extend the Dwight D. Eisenhower Memorial Commission.  (Sec. 420) Prohibits funds from being used to regulate the lead content of ammunition, ammunition components, or fishing tackle under the Toxic Substances Control Act or any other law.  (Sec. 421) Amends the Consolidated Appropriations Act, 2012 to extend a provision that permits USDA and Interior, in awarding contracts for certain activities on public lands, to give consideration to certain local contractors who provide employment and training for dislocated and displaced workers in an economically disadvantaged rural community.  (Sec. 422) Amends the Chesapeake Bay Initiative Act of 1998 to extend the authorization for the Chesapeake Bay Initiative.  (Sec. 423) Extends the authority of the Forest Service to renew certain grazing permits.  (Sec. 424) Prohibits funds provided by this bill from being used to maintain or establish a computer network unless the network blocks access to pornography websites. Includes an exception for a law enforcement agency or other entity carrying out criminal investigations, prosecution, or adjudication activities.  (Sec. 425) Amends the Forest Service Facility Realignment and Enhancement Act of 2005 to extend the authority for conveyances of certain Forest Service administrative sites.  (Sec. 426) Prohibits any funds made available by a state water pollution control revolving fund authorized by the Safe Drinking Water Act from being used for a project for the construction, alteration, maintenance, or repair of a public water system or treatment works unless all of the iron and steel products used in the project are produced in the United States, subject to specified exceptions and waiver procedures.  (Sec. 427) Prohibits funds provided by this bill from being used to destroy any buildings or structures on Midway Island that have been recommended by the U.S Navy for inclusion in the National Register of Historic Places.  (Sec. 428) Requires the Department of Energy (DOE), the Department of Agriculture (USDA), and the EPA to jointly: (1) ensure that federal policy relating to forest bioenergy is consistent across all department and agencies, and (2) recognizes the full benefits of the use of forest biomass for energy, conservation, and responsible forest management.  Requires the DOE, USDA, and the EPA to establish clear and simple policies for the use of forest biomass as an energy solution, including policies that:    reflect the carbon-neutrality of forest bioenergy and recognize biomass as a renewable energy source, provided the use of forest biomass for energy production does not cause conversion of forests to non-forest use;   encourage private investment throughout the forest biomass supply chain;   encourage forest management to improve forest health; and   recognize state initiatives to produce and use forest biomass.   (Sec. 429) Amends the John F. Kennedy Center Act to authorize FY2018 appropriations for the John F. Kennedy Center for the Performing Arts.  (Sec. 430) Prohibits the EPA from using funds to require a permit under the Clean Water Act for the discharge of dredged or fill material for certain agriculture activities.  (Sec. 431) Authorizes the Environmental Protection Agency and the Army Corps of Engineers to withdraw the Waters of the United States rule without regard to any provision of statute or regulation that establishes a requirement for withdrawal. (This provision applies to the final rule issued by the two agencies on June 29, 2015, and titled \"Clean Water Rule: Definition of 'Waters of the United States.'\" The rule revised regulations defining the scope of waters protected and regulated under the Clean Water Act.)  (Sec. 432) Specifies requirements for the implementation of national ambient air quality standards for ozone.  (Sec. 433) Prohibits funds from being used to finalize, implement, administer, or enforce the proposed rule titled \"Financial Responsibility Requirements Under CERCLA section 108(b) for Classes of Facilities in the Hardrock Mining Industry\" published by the EPA on January 11, 2017.  (Sec. 434) Prohibits the EPA from using funds provided by this bill to issue any regulation under the Solid Waste Disposal Act that applies to an animal feeding operation, including a concentrated animal feeding operation and a large concentrated animal feeding operation.  (Sec. 435) Prohibits funds provided by this bill from being used for further implementation of the coastal and marine spatial planning and ecosystem-based management components of the National Ocean Policy developed under Executive Order 13547 (Stewardship of the Ocean, Our Coasts, and the Great Lakes).  (Sec. 436) Prohibits funds from being used to prohibit the use or access to federal land for hunting, fishing, or recreational shooting except for public safety.  (Sec. 437) Requires Interior and USDA to make vacant grazing allotments available to holders of grazing permits or leases if lands covered by the permits or leases or other grazing lands used by the holder are unusable because of drought or wildfire.  (Sec. 438) Prohibits funds provided by this bill from being used to conduct reviews of site assessment or construction and operation plans for any project that would entail the construction or location of wind turbines less than 24 nautical miles from the Maryland shoreline.  (Sec. 439) Establishes a spending reduction account for the amount by which spending proposed in this bill exceeds the subcommittee's allocation under the Congressional Budget Act of 1974. Specifies that the amount is $0. (Under the Rules of the House of Representatives, any savings included in the spending reduction account are not available for further appropriation during consideration of the bill.) ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Highlights:  This bill provides FY2018 appropriations for the Department of the Interior, the Environmental Protection Agency (EPA), and related agencies.  The bill provides annual appropriations for most of the Department of the Interior, including:    the Bureau of Land Management,   the U.S. Fish and Wildlife Service,   the National Park Service,   the U.S. Geo...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 184,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business."
+         },
+                  {
+           "id": 183,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "On motion that the Committee now rise Agreed to by voice vote."
+         },
+                  {
+           "id": 182,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Mr. Calvert moved that the Committee now rise."
+         },
+                  {
+           "id": 181,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Norman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 180,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 77."
+         },
+                  {
+           "id": 179,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 178,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 76."
+         },
+                  {
+           "id": 177,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Polis amendment No. 75."
+         },
+                  {
+           "id": 176,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Mullin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 175,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 74."
+         },
+                  {
+           "id": 174,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Mullin amendment No. 73."
+         },
+                  {
+           "id": 173,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 72."
+         },
+                  {
+           "id": 172,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Knight amendment No. 69."
+         },
+                  {
+           "id": 171,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 170,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 169,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 168,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Mr. Calvert moved that the Committee rise."
+         },
+                  {
+           "id": 167,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business."
+         },
+                  {
+           "id": 166,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 165,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Mr. Carter (TX) moved that the Committee rise."
+         },
+                  {
+           "id": 164,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 88."
+         },
+                  {
+           "id": 163,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Zeldin amendment No. 85."
+         },
+                  {
+           "id": 162,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 161,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Considered as unfinished business. (consideration: CR H7115-7180)"
+         },
+                  {
+           "id": 160,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 84."
+         },
+                  {
+           "id": 159,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Castro (TX) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 158,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro (TX) amendment No. 81."
+         },
+                  {
+           "id": 157,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 156,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 80."
+         },
+                  {
+           "id": 155,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Mr. Carter (TX) asked unanimous consent that amendment numbered 79 printed in Part B of House Report 115-295, which was adopted as part of amendments en bloc, be modified. Agreed to without objection."
+         },
+                  {
+           "id": 154,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Torres amendment No. 78."
+         },
+                  {
+           "id": 153,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 152,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 77."
+         },
+                  {
+           "id": 151,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Correa amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Correa demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 150,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Correa amendment No. 76."
+         },
+                  {
+           "id": 149,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Castro amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Castro demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 148,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro amendment No. 75."
+         },
+                  {
+           "id": 147,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Roybal-Allard amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Roybal-Allard demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 146,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Roybal-Allard amendment No. 74."
+         },
+                  {
+           "id": 145,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Mr. Calvert moved that the Committee rise."
+         },
+                  {
+           "id": 144,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 68."
+         },
+                  {
+           "id": 143,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 mintues of debate on the Lamborn amendment No. 67."
+         },
+                  {
+           "id": 142,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 66."
+         },
+                  {
+           "id": 141,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the McEachin amendment No. 65."
+         },
+                  {
+           "id": 140,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 139,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 63."
+         },
+                  {
+           "id": 138,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 62."
+         },
+                  {
+           "id": 137,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 59."
+         },
+                  {
+           "id": 136,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Carbajal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 135,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 57."
+         },
+                  {
+           "id": 134,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 133,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 132,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "On motion that the committee now rise Agreed to by voice vote."
+         },
+                  {
+           "id": 131,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Palmer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Calvert demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 130,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Palmer amendment No. 56."
+         },
+                  {
+           "id": 129,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mrs. Blackburn demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 128,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 55."
+         },
+                  {
+           "id": 127,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H. Res. 504."
+         },
+                  {
+           "id": 126,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "VACATED PROCEEDINGS - Mr. Hastings asked unanimous consent to vacate the proceedings on his amendment numbered 98 printed Part B of House Report 115-295, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection."
+         },
+                  {
+           "id": 125,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "VACATED PROCEEDINGS - Mr. Hastings asked unanimous consent to vacate the proceedings on his amendment numbered 97 printed Part B of House Report 115-295, which was postponed, to the end that the Chair put the question de novo. Agreed to without objection."
+         },
+                  {
+           "id": 124,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to H.Res. 500."
+         },
+                  {
+           "id": 123,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Sanford amendment No. 51."
+         },
+                  {
+           "id": 122,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Goodlatte amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Scott(VA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 121,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment No. 50."
+         },
+                  {
+           "id": 120,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 45."
+         },
+                  {
+           "id": 119,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 44."
+         },
+                  {
+           "id": 118,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Young(AK) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 117,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Mr. Young (AK) asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The Committee of the Whole resumed with debate on the Young (AK) amendment."
+         },
+                  {
+           "id": 116,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Young (AK) amendment No. 43."
+         },
+                  {
+           "id": 115,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 41."
+         },
+                  {
+           "id": 114,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Long amendment No. 40."
+         },
+                  {
+           "id": 113,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Lowenthal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Lowenthal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 112,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 39."
+         },
+                  {
+           "id": 111,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Ellison amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ellison demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 110,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 38."
+         },
+                  {
+           "id": 109,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 37."
+         },
+                  {
+           "id": 108,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Beyer amendment No. 36."
+         },
+                  {
+           "id": 107,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Ben Ray Lujan(NM) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Ben Ray Lujan (NM) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 106,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan(NM) amendment No. 31."
+         },
+                  {
+           "id": 105,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Katko amendment No. 30."
+         },
+                  {
+           "id": 104,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 103,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs amendment No. 29."
+         },
+                  {
+           "id": 102,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Subsequently, the Committee resume it's sitting."
+         },
+                  {
+           "id": 101,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "The Committee of the Whole rose informally to receive a message from the Senate."
+         },
+                  {
+           "id": 100,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 27."
+         },
+                  {
+           "id": 99,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Price (NC) amendment No. 21."
+         },
+                  {
+           "id": 98,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grijalva demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 97,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 18."
+         },
+                  {
+           "id": 96,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Thompson (PA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. McCollum demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 95,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment No. 15."
+         },
+                  {
+           "id": 94,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Griffith amendment No. 13, as modified."
+         },
+                  {
+           "id": 93,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the McSally amendment No. 8."
+         },
+                  {
+           "id": 92,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert En Bloc amendment No. 2."
+         },
+                  {
+           "id": 91,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Bacon amendment No. 5."
+         },
+                  {
+           "id": 90,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 10 minutes of debate on the Grijalva amendment No. 2."
+         },
+                  {
+           "id": 89,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 504, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert En Bloc amendment No. 1."
+         },
+                  {
+           "id": 88,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration pursuant to the provisions of H.Res. 504."
+         },
+                  {
+           "id": 87,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Gaetz amendment No. 113."
+         },
+                  {
+           "id": 86,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Yoho amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Yoho demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 85,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment No. 110."
+         },
+                  {
+           "id": 84,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Paulsen amendment No. 101."
+         },
+                  {
+           "id": 83,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 82,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 99."
+         },
+                  {
+           "id": 81,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hastings amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Hastings demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 80,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 98."
+         },
+                  {
+           "id": 79,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings amendment No. 97."
+         },
+                  {
+           "id": 78,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Frankel (FL) amendment No. 96."
+         },
+                  {
+           "id": 77,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment No. 95."
+         },
+                  {
+           "id": 76,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 94."
+         },
+                  {
+           "id": 75,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Austin Scott amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 74,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Austin Scott Part B amendment No. 92."
+         },
+                  {
+           "id": 73,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Rothfus amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mrs. Lowey demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 72,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rothfus amendment No. 91."
+         },
+                  {
+           "id": 71,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Rogers (KY) En Bloc amendment No. 4."
+         },
+                  {
+           "id": 70,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Rule H. Res. 504 passed House."
+         },
+                  {
+           "id": 69,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Mr. Carter (TX) asked unanimous consent that amendment numbered 79 printed in Part B of House Report 115-295, which was adopted as part of En Bloc amendment No. 3, be modified. Agreed to without objection."
+         },
+                  {
+           "id": 68,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Castro amendment No. 71."
+         },
+                  {
+           "id": 67,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Fitzpatrick amendment No. 70."
+         },
+                  {
+           "id": 66,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Rules Committee Resolution H. Res. 504 Reported to House. Rule provides for consideration of H.R. 3354. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule makes in order only those further amendments printed in the Rules Committee report, amendments en bloc described in section 3 of the resolution, and available pro forma amendments described in section 4 of House Resolution 500."
+         },
+                  {
+           "id": 65,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal amendment No. 66."
+         },
+                  {
+           "id": 64,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Lujan Grisham (NM) amendment No. 63."
+         },
+                  {
+           "id": 63,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Carter (TX) En Bloc amendment No. 3."
+         },
+                  {
+           "id": 62,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 61,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 60,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 3354 as unfinished business."
+         },
+                  {
+           "id": 59,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 58,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Mr. Carter (TX) moved that the Committee rise."
+         },
+                  {
+           "id": 57,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 59."
+         },
+                  {
+           "id": 56,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Babin amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Babin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 55,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Babin amendment No. 58."
+         },
+                  {
+           "id": 54,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 57."
+         },
+                  {
+           "id": 53,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith (MO) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Price demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 52,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (MO) amendment No. 56."
+         },
+                  {
+           "id": 51,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 55."
+         },
+                  {
+           "id": 50,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 49,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 54."
+         },
+                  {
+           "id": 48,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Herrera-Beutler amendment No. 53."
+         },
+                  {
+           "id": 47,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 52."
+         },
+                  {
+           "id": 46,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 45,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 51."
+         },
+                  {
+           "id": 44,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Thompson (PA) amendment No. 49."
+         },
+                  {
+           "id": 43,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Stivers amendment No. 48."
+         },
+                  {
+           "id": 42,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 46."
+         },
+                  {
+           "id": 41,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Courtney amendment No. 44."
+         },
+                  {
+           "id": 40,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 39."
+         },
+                  {
+           "id": 39,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Rosen amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Rosen demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rosen amendment No. 38."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 37."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 36."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Brooks (AL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Brooks (AL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Brooks (AL) amendment No. 33."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Budd amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Budd demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Budd amendment No. 32."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Woodall amendment No. 28."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Kildee amendment No. 26."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 25."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Mitchell amendment No. 22."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Lipinski amendment No. 21."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Diaz-Balart En Bloc amendment No. 2."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 18."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Carter (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Ms. DeLauro demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Carter (GA) amendment No. 17."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 16."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Bishop demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the King (IA) amendment No. 15."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Rodney Davis amendment No. 14."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment No. 10."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 500, the Committee of the Whole proceeded with 20 minutes of debate on the Aderholt En Bloc amendment No. 1."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "On sustaining the ruling of the Chair. Agreed to by voice vote."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Ms. Waters, Maxine appealed the ruling of the Chair. The question was then put on sustaining the ruling of the Chair."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Mr. Hensarling raised a point of order against the content of the measure. Mr. Hensarling stated that the measure sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Mr. Goodlatte raised a point of order against the content of the measure. Mr. Goodlatte stated that the measure sought to change existing law and constituted legislation in an appropriations bill The Chair sustained the point of order."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 3354."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "The Speaker designated the Honorable Chris Collins to act as Chairman of the Committee."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 500 and Rule XVIII."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Rule provides for consideration of H.R. 3354 with 2 hours of general debate. Measure will be considered read. Specified amendments are in order. The rule also provides that it shall be in order at any time through the legislative day of September 9, 2017, for the Speaker to entertain motions that the House suspend the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Considered under the provisions of rule H. Res. 500."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Rule H. Res. 500 passed House."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Considered as unfinished business. (consideration: CR H7072-7087)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-06",
+           "description": "Considered under the provisions of rule H. Res. 500. (consideration: CR H6695-7072)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-05",
+           "description": "Rules Committee Resolution H. Res. 500 Reported to House. Rule provides for consideration of H.R. 3354 with 2 hours of general debate. Measure will be considered read. Specified amendments are in order. The rule also provides that it shall be in order at any time through the legislative day of September 9, 2017, for the Speaker to entertain motions that the House suspend the rules."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-21",
+           "description": "Placed on the Union Calendar, Calendar No. 170."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-21",
+           "description": "The House Committee on Appropriations reported an original measure, H. Rept. 115-238, by Mr. Calvert."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-09-08",
+             "time": "10:54:00",
+             "roll_call": "484",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 216,
+             "total_no": 186,
+             "total_not_voting": 31,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/484.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-08",
+             "time": "10:50:00",
+             "roll_call": "483",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 177,
+             "total_no": 230,
+             "total_not_voting": 26,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/483.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-08",
+             "time": "10:44:00",
+             "roll_call": "482",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 178,
+             "total_no": 227,
+             "total_not_voting": 28,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/482.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-08",
+             "time": "10:40:00",
+             "roll_call": "481",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 156,
+             "total_no": 248,
+             "total_not_voting": 29,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/481.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:56:00",
+             "roll_call": "479",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 214,
+             "total_no": 197,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/479.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:52:00",
+             "roll_call": "478",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 215,
+             "total_no": 196,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/478.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:49:00",
+             "roll_call": "477",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 220,
+             "total_not_voting": 24,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/477.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:45:00",
+             "roll_call": "476",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 194,
+             "total_no": 218,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/476.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:42:00",
+             "roll_call": "475",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 220,
+             "total_no": 191,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/475.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:38:00",
+             "roll_call": "474",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 184,
+             "total_no": 228,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/474.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:34:00",
+             "roll_call": "473",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 190,
+             "total_no": 218,
+             "total_not_voting": 25,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/473.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:30:00",
+             "roll_call": "472",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 207,
+             "total_no": 205,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/472.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:25:00",
+             "roll_call": "471",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 221,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/471.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:19:00",
+             "roll_call": "470",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 199,
+             "total_no": 212,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/470.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:14:00",
+             "roll_call": "469",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 105,
+             "total_no": 307,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/469.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:09:00",
+             "roll_call": "468",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 217,
+             "total_no": 193,
+             "total_not_voting": 23,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/468.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "21:02:00",
+             "roll_call": "467",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 163,
+             "total_no": 248,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/467.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "15:11:00",
+             "roll_call": "466",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 180,
+             "total_no": 230,
+             "total_not_voting": 23,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/466.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:54:00",
+             "roll_call": "465",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 183,
+             "total_no": 230,
+             "total_not_voting": 20,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/465.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:50:00",
+             "roll_call": "464",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 173,
+             "total_no": 240,
+             "total_not_voting": 20,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/464.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:46:00",
+             "roll_call": "463",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 245,
+             "total_no": 168,
+             "total_not_voting": 20,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/463.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:41:00",
+             "roll_call": "462",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 182,
+             "total_no": 229,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/462.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:37:00",
+             "roll_call": "461",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 203,
+             "total_no": 211,
+             "total_not_voting": 19,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/461.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:32:00",
+             "roll_call": "460",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 170,
+             "total_no": 241,
+             "total_not_voting": 22,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/460.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-07",
+             "time": "14:29:00",
+             "roll_call": "459",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 205,
+             "total_no": 207,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/459.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:20:00",
+             "roll_call": "456",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 173,
+             "total_no": 246,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/456.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:15:00",
+             "roll_call": "455",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 225,
+             "total_no": 195,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/455.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:12:00",
+             "roll_call": "454",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 140,
+             "total_no": 280,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/454.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:09:00",
+             "roll_call": "453",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 180,
+             "total_no": 241,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/453.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:06:00",
+             "roll_call": "452",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 139,
+             "total_no": 282,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/452.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:03:00",
+             "roll_call": "451",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 124,
+             "total_no": 295,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/451.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "23:00:00",
+             "roll_call": "450",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 200,
+             "total_no": 220,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/450.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "22:57:00",
+             "roll_call": "449",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 128,
+             "total_no": 293,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/449.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "22:53:00",
+             "roll_call": "448",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 159,
+             "total_no": 260,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/448.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "22:49:00",
+             "roll_call": "447",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 140,
+             "total_no": 280,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/447.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "22:45:00",
+             "roll_call": "446",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 141,
+             "total_no": 279,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/446.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-09-06",
+             "time": "22:39:00",
+             "roll_call": "445",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 176,
+             "total_no": 241,
+             "total_not_voting": 16,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/445.json"
+           }
+         ]
+
+      }
+   ]
+}

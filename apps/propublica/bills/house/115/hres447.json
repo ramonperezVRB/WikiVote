@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres447-115",
+         "bill_slug": "hres447",
+         "congress": "115",
+         "bill": "H.RES.447",
+         "bill_type": "hres",
+         "number": "H.RES.447",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres447.json",
+         "title": "Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump.",
+         "short_title": "Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bonnie Watson Coleman",
+         "sponsor_id": "W000822",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000822.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres447ih/pdf/BILLS-115hres447ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/447",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres447",
+         "introduced_date": "2017-07-14",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "House Homeland Security Committee",
+         "committee_codes": ["HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-28",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 74.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-28",
+           "description": "Placed on the House Calendar, Calendar No. 74."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-28",
+           "description": "Reported adversely by the Committee on Homeland Security. H. Rept. 115-270."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-14",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

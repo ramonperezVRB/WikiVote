@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2371-115",
+         "bill_slug": "hr2371",
+         "congress": "115",
+         "bill": "H.R.2371",
+         "bill_type": "hr",
+         "number": "H.R.2371",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2371.json",
+         "title": "Western Area Power Administration Transparency Act",
+         "short_title": "Western Area Power Administration Transparency Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Paul Gosar",
+         "sponsor_id": "G000565",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000565.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2371rh/pdf/BILLS-115hr2371rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2371",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2371",
+         "introduced_date": "2017-05-04",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII13"],
+         "latest_major_action_date": "2017-08-29",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 202.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-08-29",
+           "description": "Placed on the Union Calendar, Calendar No. 202."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-08-29",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-282."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Subcommittee Hearings Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-10",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-04",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres66-115",
+         "bill_slug": "sres66",
+         "congress": "115",
+         "bill": "S.RES.66",
+         "bill_type": "sres",
+         "number": "S.RES.66",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres66.json",
+         "title": "A resolution supporting the goals and ideals of Career and Technical Education Month.",
+         "short_title": "A resolution supporting the goals and ideals of Career and Technical Education Month.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Tim Kaine",
+         "sponsor_id": "K000384",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000384.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres66ats/pdf/BILLS-115sres66ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/66",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres66",
+         "introduced_date": "2017-02-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 30,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Labor and Employment",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-17",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1398-1399)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 2017 as Career and Technical Education Month. Expresses support for the goals and ideals of such month. Honors the 100th anniversary of the Smith-Hughes Vocational Education Act of 1917. Recognizes the importance of career and technical education in preparing a well-educated and skilled workforce. Encourages educators, counselors, and administrators to promote career and technical education as an option for students.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates February 2017 as Career and Technical Education Month. Expresses support for the goals and ideals of such month. Honors the 100th anniversary of the Smith-Hughes Vocational Education Act of 1917. Recognizes the importance of career and technical education in preparing a well-educated and skilled workforce. Encourages educators, counselors, and administrators to promote career ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1398-1399)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

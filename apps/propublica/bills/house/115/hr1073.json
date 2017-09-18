@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1073-115",
+         "bill_slug": "hr1073",
+         "congress": "115",
+         "bill": "H.R.1073",
+         "bill_type": "hr",
+         "number": "H.R.1073",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1073.json",
+         "title": "To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes.",
+         "short_title": "To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Donald Beyer",
+         "sponsor_id": "B001292",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001292.json",
+         "sponsor_party": "D",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1073rfs/pdf/BILLS-115hr1073rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1073",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1073",
+         "introduced_date": "2017-02-15",
+         "active": true,
+         "house_passage": "2017-06-26",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-06-28",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-26",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 2) This bill authorizes the Department of the Interior to construct on the Arlington Ridge tract in the area of the U.S. Marine Corps War Memorial in Arlington County, Virginia, a structure for visitor services, including a public restroom facility. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) (Sec. 2) This bill authorizes the Department of the Interior to construct on the Arlington Ridge tract in the area of the U.S. Marine Corps War Memorial in Arlington County, Virginia, a structure for visitor services, including a public restroom facility. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-28",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5206)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1073."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Considered under suspension of the rules. (consideration: CR H5206-5207)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Mr. Cook moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-11",
+           "description": "Placed on the Union Calendar, Calendar No. 67."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-113."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Federal Lands Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-24",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-15",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

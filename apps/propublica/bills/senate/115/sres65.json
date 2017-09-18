@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres65-115",
+         "bill_slug": "sres65",
+         "congress": "115",
+         "bill": "S.RES.65",
+         "bill_type": "sres",
+         "number": "S.RES.65",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres65.json",
+         "title": "A resolution designating March 3, 2017, as \"National Speech and Debate Education Day\".",
+         "short_title": "A resolution designating March 3, 2017, as \"National Speech and Debate Education Day\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Charles E. Grassley",
+         "sponsor_id": "G000386",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000386.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres65ats/pdf/BILLS-115sres65ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/65",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres65",
+         "introduced_date": "2017-02-17",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-17",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1398)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 3, 2017, as National Speech and Debate Education Day.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 3, 2017, as National Speech and Debate Education Day.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1416; text of measure as passed: CR S1398)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

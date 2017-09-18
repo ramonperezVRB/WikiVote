@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1715-115",
+         "bill_slug": "hr1715",
+         "congress": "115",
+         "bill": "H.R.1715",
+         "bill_type": "hr",
+         "number": "H.R.1715",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1715.json",
+         "title": "Medgar Evers House Study Act",
+         "short_title": "Medgar Evers House Study Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bennie Thompson",
+         "sponsor_id": "T000193",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000193.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1715rh/pdf/BILLS-115hr1715rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1715",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1715",
+         "introduced_date": "2017-03-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-05-16",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 76.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Medgar Evers House Study Act  (Sec. 2) This bill directs the Department of the Interior to conduct a special resource study of the home of the late civil rights activist Medgar Evers, located at 2332 Margaret Walker Alexander Drive in Jackson, Mississippi.   Interior shall: (1) evaluate the national significance of the site; (2) determine the suitability and feasibility of designating the site as a unit of the National Park System (NPS); (3) determine the effect of the site's designation on existing commercial and recreational uses and on state and local government management of those activities; and (4) identify any authorities, including condemnation, that will compel or permit Interior to influence or participate in local land use decisions or place restrictions on nonfederal land if the site is designated as an NPS unit. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Medgar Evers House Study Act  (Sec. 2) This bill directs the Department of the Interior to conduct a special resource study of the home of the late civil rights activist Medgar Evers, located at 2332 Margaret Walker Alexander Drive in Jackson, Mississippi.   Interior shall: (1) evaluate the national significance of the site; (2) determine the suitability and feasi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-16",
+           "description": "Placed on the Union Calendar, Calendar No. 76."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-16",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-123."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Federal Lands Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-23",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

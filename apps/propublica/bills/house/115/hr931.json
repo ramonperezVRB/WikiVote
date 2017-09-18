@@ -1,0 +1,108 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr931-115",
+         "bill_slug": "hr931",
+         "congress": "115",
+         "bill": "H.R.931",
+         "bill_type": "hr",
+         "number": "H.R.931",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr931.json",
+         "title": "Firefighter Cancer Registry Act of 2017",
+         "short_title": "Firefighter Cancer Registry Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Chris Collins",
+         "sponsor_id": "C001092",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001092.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr931ih/pdf/BILLS-115hr931ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/931",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr931",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 188,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "House Energy and Commerce Committee",
+         "committee_codes": ["HSIF"],
+         "subcommittee_codes": ["HSIF14"],
+         "latest_major_action_date": "2017-09-08",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 215.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Firefighter Cancer Registry Act of 2017 This bill requires the Centers for Disease Control and Prevention (CDC) to develop and maintain a voluntary registry of firefighters to collect history and occupational information that can be linked to existing data in state cancer registries. The registry must be used to improve monitoring of cancer among firefighters and to collect and publish epidemiological information regarding cancer among firefighters. The CDC should seek to include specified information in the registry, including the number and type of fire incidents attended by an individual. To collect information for the registry, the CDC may incorporate questions into existing public health surveys, questionnaires, and other databases. The CDC must: (1) develop a strategy to maximize participation in the registry; (2) develop guidance for states and firefighting agencies regarding the registry; (3) encourage inclusion in the registry of data on minority, female, and volunteer firefighters; and (4) seek feedback on the registry from nonfederal experts. The CDC must develop a process for making registry data available for research without a fee if findings or publications from the research are made public or available to stakeholders.",
+         "summary_short": "Firefighter Cancer Registry Act of 2017 This bill requires the Centers for Disease Control and Prevention (CDC) to develop and maintain a voluntary registry of firefighters to collect history and occupational information that can be linked to existing data in state cancer registries. The registry must be used to improve monitoring of cancer among firefighters and to collect and publish epidemiological information regarding cancer among firefighters. The CDC should seek to include specified in...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-08",
+           "description": "Placed on the Union Calendar, Calendar No. 215."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-08",
+           "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 115-301."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-29",
+           "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-29",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

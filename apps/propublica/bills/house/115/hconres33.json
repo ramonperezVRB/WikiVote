@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hconres33-115",
+         "bill_slug": "hconres33",
+         "congress": "115",
+         "bill": "H.CON.RES.33",
+         "bill_type": "hconres",
+         "number": "H.CON.RES.33",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hconres33.json",
+         "title": "Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library.",
+         "short_title": "Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Robert W. Goodlatte",
+         "sponsor_id": "G000289",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000289.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hconres33rfs/pdf/BILLS-115hconres33rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/33",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hconres33",
+         "introduced_date": "2017-03-15",
+         "active": true,
+         "house_passage": "2017-06-06",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 10,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Arts, Culture, Religion",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSED"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-08",
+         "latest_major_action": "Received in the Senate and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-06",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Designates the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the \"National George C. Marshall Museum and Library.\" ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Designates the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the \"National George C. Marshall Museum and Library.\" ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-08",
+           "description": "Received in the Senate and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4674-4675)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 33."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "Considered under suspension of the rules. (consideration: CR H4674-4676)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-07",
+           "description": "Mr. Brat moved to suspend the rules and agree to the resolution."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-15",
+           "description": "Referred to the House Committee on Education and the Workforce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

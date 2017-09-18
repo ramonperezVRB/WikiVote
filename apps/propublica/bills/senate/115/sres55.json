@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres55-115",
+         "bill_slug": "sres55",
+         "congress": "115",
+         "bill": "S.RES.55",
+         "bill_type": "sres",
+         "number": "S.RES.55",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres55.json",
+         "title": "A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.",
+         "short_title": "A resolution recognizing February 26, 2017, as the 100th anniversary of the establishment of Denali National Park and Preserve in the State of Alaska.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres55ats/pdf/BILLS-115sres55ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/55",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres55",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-17",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the centennial anniversary of the establishment of Denali National Park and Preserve, Alaska.  Designates February 26, 2017, as Denali National Park and Preserve Day",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Recognizes the centennial anniversary of the establishment of Denali National Park and Preserve, Alaska.  Designates February 26, 2017, as Denali National Park and Preserve Day",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-17",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1416)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S870-871)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

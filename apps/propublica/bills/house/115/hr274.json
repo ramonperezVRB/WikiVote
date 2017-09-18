@@ -1,0 +1,157 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr274-115",
+         "bill_slug": "hr274",
+         "congress": "115",
+         "bill": "H.R.274",
+         "bill_type": "hr",
+         "number": "H.R.274",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr274.json",
+         "title": "Modernizing Government Travel Act",
+         "short_title": "Modernizing Government Travel Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Seth Moulton",
+         "sponsor_id": "M001196",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001196.json",
+         "sponsor_party": "D",
+         "sponsor_state": "MA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr274rfs/pdf/BILLS-115hr274rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/274",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr274",
+         "introduced_date": "2017-01-04",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": "2017-05-01",
+         "enacted": "2017-05-03",
+         "vetoed": null,
+         "cosponsors": 10,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-16",
+         "latest_major_action": "Became Public Law No: 115-34.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": "2017-05-01",
+         "summary": "(This measure has not been amended since it was passed by the House on January 10, 2017. The summary of that version is repeated here.) Modernizing Government Travel Act (Sec. 2) This bill requires the General Services Administration (GSA) to prescribe regulations to provide for the reimbursement of federal employees traveling on official business for the use of a transportation network company (e.g., Uber or Lyft) or an innovative mobility technology. The Administrative Office of the United States Courts shall prescribe such regulations with respect to judicial branch employees.  An \"innovative mobility technology company\" is an entity that applies technology to expand and enhance available transportation choices, better manages demand for transportation services, or provides alternatives to driving alone. A \"transportation network company\" is an entity that uses a digital network to connect riders to drivers in order for a driver to transport the rider to a point chosen by the rider. This does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.  (Sec. 3) The bill revises the reporting requirements regarding payments pertaining to official travel. Each agency must annually submit to the GSA data on agency payments for travel and relocation and an analysis of transportation costs.  The GSA shall make the data submitted publicly available upon receipt. The GSA shall annually submit to the Office of Management and Budget and to specified congressional committees an analysis of the data submitted for specified agencies and a description of any new regulations or changes to existing regulations. ",
+         "summary_short": "(This measure has not been amended since it was passed by the House on January 10, 2017. The summary of that version is repeated here.) Modernizing Government Travel Act (Sec. 2) This bill requires the General Services Administration (GSA) to prescribe regulations to provide for the reimbursement of federal employees traveling on official business for the use of a transportation network company (e.g., Uber or Lyft) or an innovative mobility technology. The Administrative Office of the United ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-05-16",
+           "description": "Became Public Law No: 115-34."
+         },
+                  {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-05-16",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-04",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S2683)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-04-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 40."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-31."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H279)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 274."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under suspension of the rules. (consideration: CR H279-280)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mr. Chaffetz moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-04",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

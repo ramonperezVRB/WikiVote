@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres111-115",
+         "bill_slug": "hres111",
+         "congress": "115",
+         "bill": "H.RES.111",
+         "bill_type": "hres",
+         "number": "H.RES.111",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres111.json",
+         "title": "Of inquiry directing the Attorney General to transmit certain documents to the House of Representatives relating to the financial practices of the President.",
+         "short_title": "Of inquiry directing the Attorney General to transmit certain documents to the House of Representatives relating to the financial practices of the President.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jerrold Nadler",
+         "sponsor_id": "N000002",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000002.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres111rh/pdf/BILLS-115hres111rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/111",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres111",
+         "introduced_date": "2017-02-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 143,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Judiciary Committee",
+         "committee_codes": ["HSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-08",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 18.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill directs the Department of Justice to transmit to the House of Representatives copies of any of its documents, records, memos, correspondence, or other communications that refer or relate to: (1) any criminal or counterintelligence investigation targeting President Donald J. Trump, National Security Advisor Michael Flynn, Paul Manafort, Carter Page, Roger Stone, or any employee of the Executive Office of the President (EOP); (2) any investment by any foreign government or agent of a foreign government in any entity owned in whole or in part by President Trump; (3) President Trump's proposal to maintain an interest in his business holdings, while turning over day-to-day operations of those interests to his sons; (4) President Trump's plan to donate the profits of any foreign government's use of his hotels to the Treasury; (5) the Foreign Emoluments Clause in the U.S. Constitution as it may pertain to President Trump or any EOP employee; and (6) select federal statutes governing conflicts of interest as they may pertain to President Trump or any EOP employee.",
+         "summary_short": "This bill directs the Department of Justice to transmit to the House of Representatives copies of any of its documents, records, memos, correspondence, or other communications that refer or relate to: (1) any criminal or counterintelligence investigation targeting President Donald J. Trump, National Security Advisor Michael Flynn, Paul Manafort, Carter Page, Roger Stone, or any employee of the Executive Office of the President (EOP); (2) any investment by any foreign government or agent of a ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-08",
+           "description": "Placed on the House Calendar, Calendar No. 18."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 115-28."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Ordered to be Reported Unfavorably (Amended) by the Yeas and Nays: 18 - 16."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-09",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

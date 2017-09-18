@@ -1,0 +1,202 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1101-115",
+         "bill_slug": "hr1101",
+         "congress": "115",
+         "bill": "H.R.1101",
+         "bill_type": "hr",
+         "number": "H.R.1101",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1101.json",
+         "title": "Small Business Health Fairness Act of 2017",
+         "short_title": "Small Business Health Fairness Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Sam Johnson",
+         "sponsor_id": "J000174",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000174.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1101rfs/pdf/BILLS-115hr1101rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1101",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1101",
+         "introduced_date": "2017-02-16",
+         "active": true,
+         "house_passage": "2017-03-21",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 37,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Health, Education, Labor, and Pensions Committee",
+         "committee_codes": ["SSHR","HSED"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-23",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+         "last_vote_date": "2017-03-22",
+         "house_passage_vote": "2017-03-21",
+         "senate_passage_vote": null,
+         "summary": "Small Business Health Fairness Act of 2017  This bill amends the Employee Retirement Income Security Act of 1974 (ERISA) to provide for the establishment and governance of association health plans (AHPs), which are group health plans sponsored by business associations. The bill establishes requirements for AHPs relating to certification, sponsors and boards of trustees, participation and coverage, nondiscrimination, contribution rates, and voluntary termination. AHPs offering benefits that are not health insurance must: (1) establish and maintain sufficient reserves and stop-loss insurance to cover those benefits, and (2) make annual payments to a fund to be used to pay for stop-loss insurance for such AHPs for which there is a reasonable expectation that claims would not be satisfied without such insurance. AHPs that fail to meet these requirements are subject to termination. The Department of Labor must establish a Solvency Standards Working Group. States may tax contributions to AHPs, with certain conditions. The bill preempts state laws that preclude health insurers from: (1) offering health insurance in connection with a certified AHP; or (2) offering health insurance of the same policy type to other employers in the state that are eligible for coverage under AHPs. The bill establishes criminal penalties for willfully making false representations regarding an AHP.",
+         "summary_short": "Small Business Health Fairness Act of 2017  This bill amends the Employee Retirement Income Security Act of 1974 (ERISA) to provide for the establishment and governance of association health plans (AHPs), which are group health plans sponsored by business associations. The bill establishes requirements for AHPs relating to certification, sponsors and boards of trustees, participation and coverage, nondiscrimination, contribution rates, and voluntary termination. AHPs offering benefits that ar...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-23",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "On passage Passed by recorded vote: 236 - 175 (Roll no. 186)."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 179 - 233 (Roll no. 185)."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "DEBATE - The House proceeded with 10 minuted of debate on the Shea-Porter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require plans to provide coverage for substance use disorder treatments, including treatment for opioid use."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Ms. Shea-Porter moved to recommit with instructions to the Committee on Education and the Workforce. (text: CR H2328)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 210, the House proceeded with 10 minutes of debate on the Herrera Beutler amendment No. 1."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1101."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendment is in order."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-22",
+           "description": "Considered under the provisions of rule H. Res. 210. (consideration: CR H2312-2330; text of measure as reported in House: CR H2312-2318)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-21",
+           "description": "Rule H. Res. 210 passed House."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-20",
+           "description": "Rules Committee Resolution H. Res. 210 Reported to House. Rule provides for consideration of H.R. 1101 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-17",
+           "description": "Placed on the Union Calendar, Calendar No. 23."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-17",
+           "description": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-43."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 17."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-08",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-16",
+           "description": "Referred to the House Committee on Education and the Workforce."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-22",
+             "time": "15:39:00",
+             "roll_call": "186",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 236,
+             "total_no": 175,
+             "total_not_voting": 18,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/186.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-22",
+             "time": "15:30:00",
+             "roll_call": "185",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 179,
+             "total_no": 233,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/185.json"
+           }
+         ]
+
+      }
+   ]
+}

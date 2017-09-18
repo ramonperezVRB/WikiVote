@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s12-115",
+         "bill_slug": "s12",
+         "congress": "115",
+         "bill": "S.12",
+         "bill_type": "s",
+         "number": "S.12",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s12.json",
+         "title": "Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017",
+         "short_title": "Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Jerry Moran",
+         "sponsor_id": "M000934",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000934.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s12is/pdf/BILLS-115s12is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/12",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s12",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-24",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Veterans' Affairs Committee",
+         "committee_codes": ["HSVR","SSVA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-26",
+         "latest_major_action": "Referred to the House Committee on Veterans&#39; Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-24",
+         "summary": "Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017  This bill requires the reduction of the federal annuities of individuals removed from the Department of Veterans Affairs (VA) Senior Executive Service (SES) if they are convicted of a felony that was related to their performance while employed in such position.  The VA may order the reduction of the federal annuities of individuals who were convicted of such a felony and were subject to removal or transfer from the SES, but who left the VA before final action was taken.   Such annuities are reduced by excluding the covered service performed after the activity that subjects such an individual to transfer or removal.   Any individual whose annuity is reduced may appeal to the Office of Personnel Management.   The VA shall conduct an annual performance plan for each political appointee that is similar to the plan conducted for career appointee SES employees.  Evaluation of VA managers shall include actions taken to address employee performance.  The supervisor of a probationary VA employee shall determine during the 30-day period ending on the date on which the probationary period ends whether the employee has demonstrated successful performance and should continue past the probationary period. Such supervisor's performance plan shall include feedback on his or her actions during an employee's probationary period. Before terminating VA employment an official who has participated personally and substantially during the past year in a VA acquisition that exceeds $10 million shall obtain a written opinion from a VA ethics counselor regarding any restrictions on activities that the official may undertake on behalf of a contractor during the two-year period after the official terminates VA employment.  A contractor may not knowingly provide compensation to such an individual during the two-year period unless the contractor determines that the individual has obtained or requested such written opinion. ",
+         "summary_short": "Increasing the Department of Veterans Affairs Accountability to Veterans Act of 2017  This bill requires the reduction of the federal annuities of individuals removed from the Department of Veterans Affairs (VA) Senior Executive Service (SES) if they are convicted of a felony that was related to their performance while employed in such position.  The VA may order the reduction of the federal annuities of individuals who were convicted of such a felony and were subject to removal or transfer f...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-26",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-26",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S3189-3190)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S3189-3190)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-05-25",
+           "description": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Read twice and referred to the Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

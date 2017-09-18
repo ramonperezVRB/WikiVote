@@ -1,0 +1,1189 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2810-115",
+         "bill_slug": "hr2810",
+         "congress": "115",
+         "bill": "H.R.2810",
+         "bill_type": "hr",
+         "number": "H.R.2810",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2810.json",
+         "title": "National Defense Authorization Act for Fiscal Year 2018",
+         "short_title": "National Defense Authorization Act for Fiscal Year 2018",
+         "sponsor_title": "Rep.",
+         "sponsor": "William M. Thornberry",
+         "sponsor_id": "T000238",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000238.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2810pcs/pdf/BILLS-115hr2810pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2810",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2810",
+         "introduced_date": "2017-06-07",
+         "active": true,
+         "house_passage": "2017-07-13",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Armed Services Committee",
+         "committee_codes": ["HSAS"],
+         "subcommittee_codes": ["HSAS03","HSAS02","HSAS26","HSAS25","HSAS28","HSAS29"],
+         "latest_major_action_date": "2017-09-07",
+         "latest_major_action": "Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5038)",
+         "last_vote_date": "2017-07-14",
+         "house_passage_vote": "2017-07-13",
+         "senate_passage_vote": null,
+         "summary": "National Defense Authorization Act for Fiscal Year 2018 This bill authorizes FY2018 appropriations and sets forth policies for Department of Defense (DOD) programs and activities, including military personnel strengths. It does not provide budget authority, which is provided in subsequent appropriations legislation.  The bill authorizes appropriations to DOD for: (1) Procurement, including aircraft, missiles, weapons and tracked combat vehicles, ammunition, shipbuilding and conversion, space procurement, and other procurement; (2) Research, Development, Test, and Evaluation; (3) Operation and Maintenance; (4) Working Capital Funds; (5) the Joint Urgent Operational Needs Fund; (6) Chemical Agents and Munitions Destruction; (7) Drug Interdiction and Counter-Drug Activities; (8) the Defense Inspector General; (9) the Defense Health Program; (10) the Armed Forces Retirement Home; (11) Overseas Contingency Operations; and (12) Military Construction.  The bill also authorizes the FY2018 personnel strength for active duty and reserve forces and sets forth policies regarding compensation and other personnel benefits, the Ready Reserve Force and Military Sealift Command surge fleet, and matters relating to foreign nations. ",
+         "summary_short": "National Defense Authorization Act for Fiscal Year 2018 This bill authorizes FY2018 appropriations and sets forth policies for Department of Defense (DOD) programs and activities, including military personnel strengths. It does not provide budget authority, which is provided in subsequent appropriations legislation.  The bill authorizes appropriations to DOD for: (1) Procurement, including aircraft, missiles, weapons and tracked combat vehicles, ammunition, shipbuilding and conversion, space ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 123,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5038)"
+         },
+                  {
+           "id": 122,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Motion to proceed to consideration of measure made in Senate. (consideration: CR S5038)"
+         },
+                  {
+           "id": 121,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Cloture motion on the motion to proceed to the measure presented in Senate."
+         },
+                  {
+           "id": 120,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Motion to proceed to consideration of measure made in Senate."
+         },
+                  {
+           "id": 119,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Motion to proceed to consideration of measure made in Senate. (CR S4165)"
+         },
+                  {
+           "id": 118,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-25",
+           "description": "Motion to proceed to consideration of measure made in Senate."
+         },
+                  {
+           "id": 117,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to proceed to consideration of measure made in Senate. (CR S4130)"
+         },
+                  {
+           "id": 116,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to proceed to consideration of measure made in Senate. (consideration: CR S4130-4134, S4139-4163)"
+         },
+                  {
+           "id": 115,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to proceed to consideration of measure made in Senate."
+         },
+                  {
+           "id": 114,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-18",
+           "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 175."
+         },
+                  {
+           "id": 113,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "Ms. Lujan Grisham, M. moved to recommit with instructions to the Committee on Armed Services. (text: CR H5865)"
+         },
+                  {
+           "id": 112,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "Considered as unfinished business. (consideration: CR H5836-5868)"
+         },
+                  {
+           "id": 111,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2810."
+         },
+                  {
+           "id": 110,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The title of the measure was amended. Agreed to without objection."
+         },
+                  {
+           "id": 109,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 108,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "On passage Passed by recorded vote: 344 - 81 (Roll no. 378)."
+         },
+                  {
+           "id": 107,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 190 - 235 (Roll no. 377)."
+         },
+                  {
+           "id": 106,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 105,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Lujan Grisham (NM) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to add a new section to prohibit any funds authorized to be appropriated in the underlying bill from being used to plan, develop, or construct any barriers, including walls or fences, along the international border of the United States."
+         },
+                  {
+           "id": 104,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "Ms. Lujan Grisham, M. moved to recommit with instructions to the Committee on Armed Services."
+         },
+                  {
+           "id": 103,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 102,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 101,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2810."
+         },
+                  {
+           "id": 100,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 122."
+         },
+                  {
+           "id": 99,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 6."
+         },
+                  {
+           "id": 98,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 5."
+         },
+                  {
+           "id": 97,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 4."
+         },
+                  {
+           "id": 96,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 3."
+         },
+                  {
+           "id": 95,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment No. 43, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 94,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the McGovern amendment No. 43."
+         },
+                  {
+           "id": 93,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunter amendment No. 18, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Nadler demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 92,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Hunter amendment No. 18."
+         },
+                  {
+           "id": 91,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment No. 17, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Courtney demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 90,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment No. 17."
+         },
+                  {
+           "id": 89,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 88,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-14",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 87,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business."
+         },
+                  {
+           "id": 86,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "On motion that the committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 85,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Mr. Thornberry moved that the committee rise."
+         },
+                  {
+           "id": 84,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 2."
+         },
+                  {
+           "id": 83,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 1."
+         },
+                  {
+           "id": 82,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Lamborn amendment No. 15, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cooper demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 81,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Lamborn amendment No. 15."
+         },
+                  {
+           "id": 80,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Cheney amendment No. 14."
+         },
+                  {
+           "id": 79,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Franks(AZ) amendment No. 13, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Gallego demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 78,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Franks (AZ) amendment No. 13."
+         },
+                  {
+           "id": 77,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 30 minutes of debate on the Cole amendment No. 12."
+         },
+                  {
+           "id": 76,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments to H.R. 2810 which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 75,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 74,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Considered as unfinished business."
+         },
+                  {
+           "id": 73,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hartzler amendment No. 10, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 72,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Hartzler amendment No. 10."
+         },
+                  {
+           "id": 71,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Keating amendment No. 7."
+         },
+                  {
+           "id": 70,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Thomas J. Rooney (FL) amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Thomas J. Rooney (FL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 69,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Thomas J. Rooney (FL) amendment No. 6."
+         },
+                  {
+           "id": 68,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Norcross demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 67,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 5."
+         },
+                  {
+           "id": 66,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Perry amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 65,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment No. 4."
+         },
+                  {
+           "id": 64,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Buck amendment No. 3, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Langevin demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 63,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Buck amendment No. 3."
+         },
+                  {
+           "id": 62,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 61,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 440, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment No. 1."
+         },
+                  {
+           "id": 60,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Rule H. Res. 440 passed House."
+         },
+                  {
+           "id": 59,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Considered as unfinished business. (consideration: CR H5801-5823)"
+         },
+                  {
+           "id": 58,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Considered as unfinished business. (consideration: CR H5790-5801)"
+         },
+                  {
+           "id": 57,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Considered as unfinished business. (consideration: CR H5783-5790)"
+         },
+                  {
+           "id": 56,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-13",
+           "description": "Rules Committee Resolution H. Res. 440 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule provides for further consideration of H.R. 2810 under a structured rule."
+         },
+                  {
+           "id": 55,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Considered under the provisions of rule H. Res. 431. (consideration: CR H5534-5756)"
+         },
+                  {
+           "id": 54,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 2810 as unfinished business."
+         },
+                  {
+           "id": 53,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "On motion that the Committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 52,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Mr. Thornberry moved that the Committee rise."
+         },
+                  {
+           "id": 51,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 4, as modified."
+         },
+                  {
+           "id": 50,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 3."
+         },
+                  {
+           "id": 49,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 2."
+         },
+                  {
+           "id": 48,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 431, the Committee of the Whole proceeded with 20 minutes of debate on the Thornberry en bloc amendment No. 1."
+         },
+                  {
+           "id": 47,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Rogers (AL) amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Rogers (AL) demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 46,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) Part B Amendment No. 88."
+         },
+                  {
+           "id": 45,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 44,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock Part B Amendment No. 14."
+         },
+                  {
+           "id": 43,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 42,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B Amendment No. 13."
+         },
+                  {
+           "id": 41,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Garamendi amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 40,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi Part B Amendment No. 12."
+         },
+                  {
+           "id": 39,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Aguilar amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Aguilar demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 38,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Aguilar Part B Amendment No. 10."
+         },
+                  {
+           "id": 37,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (SC) Part B Amendment No. 9."
+         },
+                  {
+           "id": 36,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer Part B Amendment No. 8."
+         },
+                  {
+           "id": 35,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler Part B Amendment No. 7."
+         },
+                  {
+           "id": 34,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Nadler amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Nadler demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Nadler Part B Amendment No. 6."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jayapal amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Ms. Jayapal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Jayapal Part B Amendment No. 5."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Polis amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Polis demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Polis Part B Amendment No. 4."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Conaway amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Conaway Part B Amendment No. 2."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Thornberry Part B Amendment No. 1."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2810."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The Speaker designated the Honorable Paul Mitchell to act as Chairman of the Committee."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 431 and Rule XVIII."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Considered under the provisions of rule H. Res. 431."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "ORDER OF BUSINESS - Mr. Thornberry asked unanimous consent that during consideration of H.R. 2810, pursuant to H.Res. 431, amendment No. 88 printed in Part B of House Report 115-212 may be considered out of sequence. Agreed to without objection."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Supplemental report filed by the Committee on Armed Services, H. Rept. 115-200, Part II."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "SUPPLEMENTAL FILING AUTHORITY - Mr. Thornberry asked unanimous consent that the Committee on Armed Services be authorized to file a supplemental report on the bill, H.R. 2810. Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Rules Committee Resolution H. Res. 431 Reported to House. The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-06",
+           "description": "Placed on the Union Calendar, Calendar No. 137."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-06",
+           "description": "Reported (Amended) by the Committee on Armed Services. H. Rept. 115-200."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Ordered to be Reported by the Yeas and Nays: 60 - 1."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote ."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-22",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Forwarded by Subcommittee to Full Committee by Voice Vote ."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-21",
+           "description": "Subcommittee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Tactical Air and Land Forces."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Seapower and Projection Forces."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Military Personnel."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Strategic Forces."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Emerging Threats and Capabilities."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-08",
+           "description": "Referred to the Subcommittee on Readiness."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-07",
+           "description": "Referred to the House Committee on Armed Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:39:00",
+             "roll_call": "378",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 344,
+             "total_no": 81,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/378.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:32:00",
+             "roll_call": "377",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 190,
+             "total_no": 235,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/377.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:12:00",
+             "roll_call": "376",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 424,
+             "total_no": 0,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/376.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:08:00",
+             "roll_call": "375",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 234,
+             "total_no": 190,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/375.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:05:00",
+             "roll_call": "374",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 244,
+             "total_no": 181,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/374.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "11:01:00",
+             "roll_call": "373",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 235,
+             "total_no": 189,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/373.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-14",
+             "time": "10:57:00",
+             "roll_call": "372",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 208,
+             "total_no": 217,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/372.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:50:00",
+             "roll_call": "371",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 107,
+             "total_no": 318,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/371.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:45:00",
+             "roll_call": "370",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 183,
+             "total_no": 242,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/370.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:41:00",
+             "roll_call": "369",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 209,
+             "total_no": 214,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/369.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:38:00",
+             "roll_call": "368",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 185,
+             "total_no": 234,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/368.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:34:00",
+             "roll_call": "367",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 203,
+             "total_no": 218,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/367.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "17:29:00",
+             "roll_call": "366",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 198,
+             "total_no": 220,
+             "total_not_voting": 15,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/366.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "15:22:00",
+             "roll_call": "365",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 175,
+             "total_no": 248,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/365.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "15:17:00",
+             "roll_call": "364",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 169,
+             "total_no": 254,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/364.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "15:13:00",
+             "roll_call": "363",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 192,
+             "total_no": 232,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/363.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "15:09:00",
+             "roll_call": "362",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 253,
+             "total_no": 172,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/362.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "15:04:00",
+             "roll_call": "361",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 188,
+             "total_no": 235,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/361.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "14:59:00",
+             "roll_call": "360",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 173,
+             "total_no": 249,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/360.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "14:56:00",
+             "roll_call": "359",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 167,
+             "total_no": 257,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/359.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "14:52:00",
+             "roll_call": "358",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 179,
+             "total_no": 245,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/358.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "14:47:00",
+             "roll_call": "357",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 73,
+             "total_no": 351,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/357.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-13",
+             "time": "14:41:00",
+             "roll_call": "356",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 198,
+             "total_no": 225,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/356.json"
+           }
+         ]
+
+      }
+   ]
+}

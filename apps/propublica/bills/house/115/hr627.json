@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr627-115",
+         "bill_slug": "hr627",
+         "congress": "115",
+         "bill": "H.R.627",
+         "bill_type": "hr",
+         "number": "H.R.627",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr627.json",
+         "title": "Streamlining Energy Efficiency for Schools Act of 2017",
+         "short_title": "Streamlining Energy Efficiency for Schools Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Matt Cartwright",
+         "sponsor_id": "C001090",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001090.json",
+         "sponsor_party": "D",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr627rfs/pdf/BILLS-115hr627rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/627",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr627",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-06-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 50,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSIF"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-11",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 2) This bill amends the Energy Policy and Conservation Act by directing the Department of Energy's Office of Energy and Renewable Energy to establish a clearinghouse for disseminating information regarding available programs and financing mechanisms that may be used to help initiate, develop, and finance energy efficiency, distributed generation, and energy retrofitting projects for schools.  The office must: (1) consult with appropriate agencies to develop a list of programs and financing mechanisms that are, or may be, used for the projects; and (2) coordinate with appropriate agencies to develop a collaborative education and outreach effort to streamline communications and promote the programs and financing mechanisms.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 2) This bill amends the Energy Policy and Conservation Act by directing the Department of Energy's Office of Energy and Renewable Energy to establish a clearinghouse for disseminating information regarding available programs and financing mechanisms that may be used to help initiate, develop, and finance energy efficiency, distributed generation, and energy ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4825)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 627."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Considered under suspension of the rules. (consideration: CR H4825-4826)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Mr. Upton moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the Union Calendar, Calendar No. 115."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported by the Committee on Energy and Commerce. H. Rept. 115-171."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-07",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Energy and Commerce."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

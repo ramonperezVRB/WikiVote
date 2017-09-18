@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s576-115",
+         "bill_slug": "s576",
+         "congress": "115",
+         "bill": "S.576",
+         "bill_type": "s",
+         "number": "S.576",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s576.json",
+         "title": "Follow the Rules Act",
+         "short_title": "Follow the Rules Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ron Johnson",
+         "sponsor_id": "J000293",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000293.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s576rs/pdf/BILLS-115s576rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/576",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s576",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-24",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-04-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 39."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-30."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,178 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr366-115",
+         "bill_slug": "hr366",
+         "congress": "115",
+         "bill": "H.R.366",
+         "bill_type": "hr",
+         "number": "H.R.366",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr366.json",
+         "title": "DHS SAVE Act",
+         "short_title": "DHS SAVE Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Scott Perry",
+         "sponsor_id": "P000605",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000605.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr366ih/pdf/BILLS-115hr366ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/366",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr366",
+         "introduced_date": "2017-01-06",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": "2017-05-01",
+         "enacted": "2017-05-24",
+         "vetoed": null,
+         "cosponsors": 2,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-06",
+         "latest_major_action": "Became Public Law No: 115-38.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": "2017-05-01",
+         "summary": "(This measure has not been amended since it was reported to the Senate on April 24, 2017. The summary of that version is repeated here.) DHS Stop Asset and Vehicle Excess Act or the DHS SAVE Act  (Sec. 2) This bill amends the Homeland Security Act of 2002 to make the Under Secretary for Management of the Department of Homeland Security (DHS) responsible for overseeing and managing vehicle fleets throughout DHS, including:  ensuring that DHS components are in compliance with federal law, executive branch guidance, and DHS policy regarding fleet management and use of vehicles from home to work; developing and distributing a standardized vehicle allocation methodology and fleet management plan; ensuring that components formally document fleet management decisions; and  approving component fleet management plans, vehicle leases, and vehicle acquisitions.  The bill lists responsibilities of component heads regarding vehicle fleets, including developing and annually submitting to the Under Secretary a vehicle allocation tool and fleet management plan. The Under Secretary shall:   collect, on a quarterly basis, information regarding component vehicle fleets;  seek to achieve a capability to collect automated information regarding component vehicle fleets;   track and monitor component information, and review each component's vehicle allocation tool and fleet management plan, to ensure that component vehicle fleets are the optimal size and are cost effective;  provide guidance on how component heads may achieve optimal fleet size; and  as part of the annual budget process, review and make determinations regarding annual component requests for vehicle fleet funding.  Beginning with FY2019, the Under Secretary and component heads may not approve a vehicle lease, acquisition, or replacement request, no DHS official with vehicle fleet management responsibilities may receive annual performance compensation in pay, and no senior executive service official of DHS whose office has a vehicle fleet may receive access to a car service, if such officials did not comply with vehicle allocation tool and fleet management plan requirements in the prior fiscal year. The Under Secretary may determine the feasibility of operating a vehicle motor pool to permit components to share vehicles to reduce the number of excess DHS vehicles. (Sec. 3) The Inspector General of DHS shall: (1) conduct a review of implementation of vehicle allocation tool and fleet management plan requirements for FY2019, which shall include analysis of the effectiveness of such requirements with respect to cost avoidance, savings realized, and component operations; and (2) upon request, provide to specified congressional committees information regarding such review.",
+         "summary_short": "(This measure has not been amended since it was reported to the Senate on April 24, 2017. The summary of that version is repeated here.) DHS Stop Asset and Vehicle Excess Act or the DHS SAVE Act  (Sec. 2) This bill amends the Homeland Security Act of 2002 to make the Under Secretary for Management of the Department of Homeland Security (DHS) responsible for overseeing and managing vehicle fleets throughout DHS, including:  ensuring that DHS components are in compliance with federal law, execu...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 18,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-06-06",
+           "description": "Became Public Law No: 115-38."
+         },
+                  {
+           "id": 17,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-06-06",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-05-23",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-05-23",
+           "description": "On motion that the House agree to the Senate amendments Agreed to without objection. (text as House agreed to Senate Amendment: CR H4480)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-05-23",
+           "description": "Mr. McCaul asked unanimous consent to take from Speaker's Table and agree to the Senate amendments. (consideration: CR H4480)"
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-03",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-02",
+           "description": "Passed Senate with amendments by Unanimous Consent. (consideration: CR S2683-2684; text: CR S2683-2684)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-04-24",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 41."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-32."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-15",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H788-789)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 366."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H788-789)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Perry moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-06",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s269-115",
+         "bill_slug": "s269",
+         "congress": "115",
+         "bill": "S.269",
+         "bill_type": "s",
+         "number": "S.269",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s269.json",
+         "title": "A bill to provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, and to the Bristol Bay Area Health Corporation located in Dillingham, Alaska, and for other purposes.",
+         "short_title": "A bill to provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, and to the Bristol Bay Area Health Corporation located in Dillingham, Alaska, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Lisa Murkowski",
+         "sponsor_id": "M001153",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001153.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s269rs/pdf/BILLS-115s269rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/269",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s269",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-27",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill directs the Department of Health and Human Services (HHS) to convey to the Tanana Tribal Council in Tanana, Alaska, all interest of the United States in and to certain property (including all land, improvements, and appurtenances) containing 11.25 acres, in the village of Tanana for use in connection with health and social services programs.   (Sec. 2) HHS shall convey to the Bristol Bay Area Health Corporation in Dillingham, Alaska, all interest of the United States in and to certain property included in the Dental Annex Subdivision containing 1.474 acres more or less, also for use in connection with health and social services programs.  Such conveyances by warranty deed: (1) shall supersede and render of no future effect any quitclaim deed to the property executed by HHS and the Council or Corporation; and (2) shall not require any consideration from the Council or Corporation for the property, impose any obligation, term, or condition on the Council or Corporation, or allow for any U.S. reversionary interest in the property.  The Council or Corporation shall not be liable for soil, surface water, groundwater, or other contamination resulting from the disposal, release, or presence of environmental contamination.  HHS shall: (1) be accorded any easement or access to the conveyed property as may be necessary to satisfy any retained obligations and liability; and (2) comply with requirements under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 for certain deeds for the transfer of U.S.-owned real property on which any hazardous substance was stored for one year or more, disposed of, or known to have been released. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) (Sec. 1) This bill directs the Department of Health and Human Services (HHS) to convey to the Tanana Tribal Council in Tanana, Alaska, all interest of the United States in and to certain property (including all land, improvements, and appurtenances) containing 11.25 acres, in the village of Tanana for use in connection with health and social services programs.   (...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-27",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 24."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-27",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-11."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-08",
+           "description": "Committee on Indian Affairs. Ordered to be reported favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Read twice and referred to the Committee on Indian Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

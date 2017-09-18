@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3202-115",
+         "bill_slug": "hr3202",
+         "congress": "115",
+         "bill": "H.R.3202",
+         "bill_type": "hr",
+         "number": "H.R.3202",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3202.json",
+         "title": "Cyber Vulnerability Disclosure Reporting Act",
+         "short_title": "Cyber Vulnerability Disclosure Reporting Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Sheila Jackson Lee",
+         "sponsor_id": "J000032",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000032.json",
+         "sponsor_party": "D",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3202ih/pdf/BILLS-115hr3202ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3202",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3202",
+         "introduced_date": "2017-07-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Homeland Security Committee",
+         "committee_codes": ["HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-01",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 203.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-01",
+           "description": "Placed on the Union Calendar, Calendar No. 203."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-01",
+           "description": "Reported by the Committee on Homeland Security. H. Rept. 115-283."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

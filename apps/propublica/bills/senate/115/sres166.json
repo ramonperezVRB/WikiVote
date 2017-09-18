@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres166-115",
+         "bill_slug": "sres166",
+         "congress": "115",
+         "bill": "S.RES.166",
+         "bill_type": "sres",
+         "number": "S.RES.166",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres166.json",
+         "title": "A resolution supporting the goals and ideals of National Nurses Week, to be observed from May 6 through May 12, 2017.",
+         "short_title": "A resolution supporting the goals and ideals of National Nurses Week, to be observed from May 6 through May 12, 2017.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Roger Wicker",
+         "sponsor_id": "W000437",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000437.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres166ats/pdf/BILLS-115sres166ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/166",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres166",
+         "introduced_date": "2017-05-16",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": "2017-05-15",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-16",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2968-2969; text as passed Senate: CR S2968-2969)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": "2017-05-15",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Expresses support for the goals and ideals of National Nurses Week. Recognizes the contributions of nurses to the U.S. health care system.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.)  Expresses support for the goals and ideals of National Nurses Week. Recognizes the contributions of nurses to the U.S. health care system.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-16",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2968-2969; text as passed Senate: CR S2968-2969)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

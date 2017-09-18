@@ -1,0 +1,164 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1677-115",
+         "bill_slug": "hr1677",
+         "congress": "115",
+         "bill": "H.R.1677",
+         "bill_type": "hr",
+         "number": "H.R.1677",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1677.json",
+         "title": "Caesar Syria Civilian Protection Act of 2017",
+         "short_title": "Caesar Syria Civilian Protection Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Eliot L. Engel",
+         "sponsor_id": "E000179",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/E000179.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1677rfs/pdf/BILLS-115hr1677rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1677",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1677",
+         "introduced_date": "2017-03-22",
+         "active": true,
+         "house_passage": "2017-05-16",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 108,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR","HSJU","HSBA","HSFA"],
+         "subcommittee_codes": ["HSJU01"],
+         "latest_major_action_date": "2017-05-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-05-16",
+         "senate_passage_vote": null,
+         "summary": "Caesar Syria Civilian Protection Act of 2017 This bill declares that it is U.S. policy to use all diplomatic and economic means to compel the government of Bashar al Assad to halt the slaughter of the Syrian people and work toward a democratic government. The President shall prohibit, or impose conditions on, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf of the Central Bank of Syria that is of primary money laundering concern.  The bill directs the President to impose specified entry and U.S.-based property sanctions against a foreign person that knowingly: (1) provided significant financial or material support to Syria, the Central Bank of Syria, or to a foreign person subject to specified sanctions; (2) supported Syria's domestic production of natural gas or petroleum; (3) sold or provided civilian aircraft or spare parts or other significant goods or services to a foreign person operating in Syria's shipping, transportation, or telecommunications sectors; or (4) financed money laundering activities.   The President shall impose specified entry and U.S.-based property sanctions against a foreign person that has knowingly provided support to Syria to acquire or develop ballistic missiles, chemical, biological or nuclear weapons, or advanced conventional weapons.  The Syria Human Rights Accountability Act of 2012 is amended to direct the President to impose entry and U.S.-based property sanctions against persons responsible for: (1) committing serious human rights abuses against Syrian citizens or their family members, or (2) transferring to Syria certain military items or goods or technologies that may be used to commit human rights abuses.  The President shall submit and update a list of, and impose entry and U.S.-based property sanctions against, persons responsible for hindering access to humanitarian relief activities in Syria.  The President shall report with respect to whether each of specified Syrian persons, including Bashar al Assad, meets the requirements for inclusion on the list of persons who are responsible for certain human rights abuses against Syrian citizens.   The President may: (1) provide assistance to advance a comprehensive relief and recovery strategy in Syria, and (2) suspend sanctions against Syria under specified conditions.",
+         "summary_short": "Caesar Syria Civilian Protection Act of 2017 This bill declares that it is U.S. policy to use all diplomatic and economic means to compel the government of Bashar al Assad to halt the slaughter of the Syrian people and work toward a democratic government. The President shall prohibit, or impose conditions on, the opening or maintaining in the United States of a correspondent account or payable-through account by any domestic financial institution or domestic financial agency for or on behalf ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4281-4286)"
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1677."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Considered under suspension of the rules. (consideration: CR H4281-4291)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-17",
+           "description": "Mr. Royce (CA) moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-11",
+           "description": "Placed on the Union Calendar, Calendar No. 68."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-11",
+           "description": "Committee on the Judiciary discharged."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-05-11",
+           "description": "Committee on Financial Services discharged."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 115-115, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-06",
+           "description": "Referred to the Subcommittee on Immigration and Border Security."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to House Judiciary"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to House Financial Services"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-22",
+           "description": "Referred to House Foreign Affairs"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

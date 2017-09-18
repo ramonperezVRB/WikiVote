@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s772-115",
+         "bill_slug": "s772",
+         "congress": "115",
+         "bill": "S.772",
+         "bill_type": "s",
+         "number": "S.772",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s772.json",
+         "title": "AMBER Alert in Indian Country Act of 2017",
+         "short_title": "AMBER Alert in Indian Country Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "John McCain",
+         "sponsor_id": "M000303",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000303.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s772rs/pdf/BILLS-115s772rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/772",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s772",
+         "introduced_date": "2017-03-29",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Crime and Law Enforcement",
+         "committees": "Senate Indian Affairs Committee",
+         "committee_codes": ["SLIA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-05",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-09-05",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 209."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-09-05",
+           "description": "Committee on Indian Affairs. Reported by Senator Hoeven without amendment. With written report No. 115-147."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-13",
+           "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-29",
+           "description": "Read twice and referred to the Committee on Indian Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

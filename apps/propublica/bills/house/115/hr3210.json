@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3210-115",
+         "bill_slug": "hr3210",
+         "congress": "115",
+         "bill": "H.R.3210",
+         "bill_type": "hr",
+         "number": "H.R.3210",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3210.json",
+         "title": "SECRET Act of 2017",
+         "short_title": "SECRET Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steve Knight",
+         "sponsor_id": "K000387",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000387.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3210eh/pdf/BILLS-115hr3210eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3210",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3210",
+         "introduced_date": "2017-07-12",
+         "active": true,
+         "house_passage": "2017-07-25",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-27",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-25",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on July 25, 2017. The summary of that version is repeated here.) Securely Expediting Clearances Through Reporting Transparency Act of 2017 or the SECRET Act of 2017 (Sec. 2) This bill requires the Office of Personnel Management's National Background Investigations Bureau (NBIB) to report on the backlog of security clearance investigations.  (Sec. 3) Additionally, the NBIB must report on the process for conducting and adjudicating security clearance investigations for personnel in the Executive Office of the President. (Sec. 4) Finally, the NBIB must report on the duplicative costs of implementing a plan for the Defense Security Service to conduct, after October 1, 2017, security investigations for Department of Defense (DOD) personnel whose investigations are adjudicated by DOD's Consolidated Adjudication Facility. ",
+         "summary_short": "(This measure has not been amended since it was reported to the House on July 25, 2017. The summary of that version is repeated here.) Securely Expediting Clearances Through Reporting Transparency Act of 2017 or the SECRET Act of 2017 (Sec. 2) This bill requires the Office of Personnel Management's National Background Investigations Bureau (NBIB) to report on the backlog of security clearance investigations.  (Sec. 3) Additionally, the NBIB must report on the process for conducting and adjudi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-27",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6327)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules. (consideration: CR H6327-6328)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3210."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-26",
+           "description": "Mr. Mitchell moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-25",
+           "description": "Placed on the Union Calendar, Calendar No. 188."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 115-258."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-19",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

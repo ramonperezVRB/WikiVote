@@ -1,0 +1,209 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2581-115",
+         "bill_slug": "hr2581",
+         "congress": "115",
+         "bill": "H.R.2581",
+         "bill_type": "hr",
+         "number": "H.R.2581",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2581.json",
+         "title": "Verify First Act",
+         "short_title": "Verify First Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lou Barletta",
+         "sponsor_id": "B001269",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001269.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2581rfs/pdf/BILLS-115hr2581rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2581",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2581",
+         "introduced_date": "2017-05-22",
+         "active": true,
+         "house_passage": "2017-06-12",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 14,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Taxation",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI","HSWM","HSIF"],
+         "subcommittee_codes": ["HSIF14"],
+         "latest_major_action_date": "2017-06-14",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+         "last_vote_date": "2017-06-13",
+         "house_passage_vote": "2017-06-12",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on June 2, 2017. The summary of that version is repeated here.) Verify First Act  (Sec. 2) This bill amends the Internal Revenue Code to prohibit advance payments of the premium assistance tax credit from being made to an individual unless the Department of the Treasury has received confirmation from the Department of Health and Human Services that the Social Security Administration or the Department of Homeland Security has verified the individual's status as a citizen or national of the United States or an alien lawfully present in the United States.  The verification process must include the appropriate use of information related to citizenship or immigration status, such as Social Security numbers (but not individual taxpayer identification numbers).  The bill also amends the Public Health Service Act and the Patient Protection and Affordable Care Act to permit adjustments to certain health insurance coverage dates for an individual whose eligibility for advance payments is delayed due to the verification requirements.  The bill is contingent on the enactment of the American Health Care Act of 2017 (AHCA). If the AHCA is enacted, the bill applies to: (1) the existing tax credit after December 31, 2017; and (2) the tax credit, as modified by the AHCA, after December 31, 2019. ",
+         "summary_short": "(This measure has not been amended since it was reported to the House on June 2, 2017. The summary of that version is repeated here.) Verify First Act  (Sec. 2) This bill amends the Internal Revenue Code to prohibit advance payments of the premium assistance tax credit from being made to an individual unless the Department of the Treasury has received confirmation from the Department of Health and Human Services that the Social Security Administration or the Department of Homeland Security ha...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 19,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-14",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Finance."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "On passage Passed by recorded vote: 238 - 184 (Roll no. 306). (text: CR H4875)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 231 (Roll no. 305). (text: CR H4883)"
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Considered as unfinished business. (consideration: CR H4896-4898)"
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Sanchez motion to recommit with instructions, Chair put the question on adoption of the motion to recommit and by voice vote announced that the noes had prevailed. Ms. Sanchez demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption of the motion to recommit with instructions until later in the later legislative day."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4883)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the Sanchez motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add an exemption to the underlying bill for newborn children who are less than one year of age."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Ms. Sanchez moved to recommit with instructions to the Committee on Ways and Means. (text: CR H4883)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2581."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Considered under the provisions of rule H. Res. 378. (consideration: CR H4875-4883)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-12",
+           "description": "Rules Committee Resolution H. Res. 378 Reported to House. Rule provides for consideration of H.R. 2581 and S. 1094. Rule provides for consideration of H.R. 2581 and S. 1094, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on H.R. 2581, and a motion to commit on S. 1094. Both measures will be considered read and are closed to amendments."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-02",
+           "description": "Placed on the Union Calendar, Calendar No. 108."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-06-02",
+           "description": "Committee on Energy and Commerce discharged."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-02",
+           "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 115-161, Part I."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-26",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-22",
+           "description": "Referred to House Energy and Commerce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-22",
+           "description": "Referred to House Ways and Means"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-13",
+             "time": "16:10:00",
+             "roll_call": "306",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 238,
+             "total_no": 184,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/306.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-13",
+             "time": "16:03:00",
+             "roll_call": "305",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 193,
+             "total_no": 231,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/305.json"
+           }
+         ]
+
+      }
+   ]
+}

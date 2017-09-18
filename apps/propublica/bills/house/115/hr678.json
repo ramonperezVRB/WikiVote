@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr678-115",
+         "bill_slug": "hr678",
+         "congress": "115",
+         "bill": "H.R.678",
+         "bill_type": "hr",
+         "number": "H.R.678",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr678.json",
+         "title": "Department of Homeland Security Support to Fusion Centers Act of 2017",
+         "short_title": "Department of Homeland Security Support to Fusion Centers Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Martha McSally",
+         "sponsor_id": "M001197",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001197.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr678rfs/pdf/BILLS-115hr678rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/678",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr678",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Department of Homeland Security Support to Fusion Centers Act of 2017 (Sec. 2) This bill directs the Comptroller General to conduct an assessment of Department of Homeland Security (DHS) personnel assigned to fusion centers established under the Homeland Security Act of 2002. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.) The assessment must include information on:   the current deployment of such personnel to each fusion center; the roles and responsibilities of DHS's Office of Intelligence and Analysis intelligence officers and analysts, reports officers, and regional directors deployed to such centers;   federal resources provided to each center; an analysis of the optimal number of personnel the Office of Intelligence and Analysis should deploy to such centers, including a cost-benefit analysis comparing deployed personnel with technological solutions to support information sharing; fusion centers located in jurisdictions along land and maritime borders of the United States and the degree to which deploying personnel from the U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and the Coast Guard to such centers would enhance the integrity and security at such borders; and  fusion centers located in jurisdictions with large and medium hub airports and the degree to which deploying personnel from the Transportation Security Administration to such centers would enhance aviation security.  (Sec. 3) The bill expresses the sense of Congress that any program established by DHS's Under Secretary for Intelligence and Analysis to provide eligibility for access to information classified as Top Secret for state, local, tribal, and territorial analysts located in fusion centers shall be consistent with the need-to-know requirements pursuant to Executive Order No. 13526. The Under Secretary must submit to specified congressional committees a report on:  the process by which the Under Secretary determines a need to know to sponsor Top Secret clearances for appropriate state, local, tribal, and territorial analysts located in fusion centers; the effects of such Top Secret clearances on enhancing information sharing with state, local, tribal, and territorial partners; the cost for providing such Top Secret clearances for such analysts, including training and background investigations; and the operational security protocols, training, management, and risks associated with providing such Top Secret clearances.  (Sec. 4) The Under Secretary, in collaboration with the Chief Information Officer of DHS and representatives from the National Network of Fusion Centers, shall conduct an assessment of information systems used to share homeland security information between DHS and fusion centers in the Network and make appropriate upgrades to such systems. Such assessment shall include:  an evaluation of the accessibility and ease of use of such systems by Network fusion centers; a review to determine how to establish improved interoperability of departmental information systems with existing information systems used by Network fusion centers; and an evaluation of participation levels of departmental components and offices of information systems used to share homeland security information with Network fusion centers.   (Sec. 5) The Under Secretary shall enter into a memorandum of understanding with each Network fusion center regarding the type of information fusion centers will provide to DHS and whether such information may be subject to public disclosure. (Sec. 6) The Homeland Security Act of 2002 is amended to require fusion centers to assist, review information from, and disseminate information to territorial governments.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Department of Homeland Security Support to Fusion Centers Act of 2017 (Sec. 2) This bill directs the Comptroller General to conduct an assessment of Department of Homeland Security (DHS) personnel assigned to fusion centers established under the Homeland Security Act of 2002. (A fusion center serves as a focal point within the state and local environment for the r...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H786-787)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 678."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H786-787)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Ms. McSally moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

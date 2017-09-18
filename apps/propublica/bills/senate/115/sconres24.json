@@ -1,0 +1,115 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sconres24-115",
+         "bill_slug": "sconres24",
+         "congress": "115",
+         "bill": "S.CON.RES.24",
+         "bill_type": "sconres",
+         "number": "S.CON.RES.24",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres24.json",
+         "title": "Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017",
+         "short_title": "Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Mitch McConnell",
+         "sponsor_id": "M000355",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M000355.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/24",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sconres24",
+         "introduced_date": "2017-09-07",
+         "active": true,
+         "house_passage": "2017-09-07",
+         "senate_passage": "2017-09-06",
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-08",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-09-07",
+         "senate_passage_vote": "2017-09-06",
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "On agreeing to the resolution Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Considered by unanimous consent."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-08",
+           "description": "Mr. Calvert asked unanimous consent to take from the Speaker's table and consider."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Held at the desk."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Received in the House."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5077; text as passed Senate: CR S5061-5062)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s692-115",
+         "bill_slug": "s692",
+         "congress": "115",
+         "bill": "S.692",
+         "bill_type": "s",
+         "number": "S.692",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s692.json",
+         "title": "Water Infrastructure Flexibility Act",
+         "short_title": "Water Infrastructure Flexibility Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "Deb Fischer",
+         "sponsor_id": "F000463",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000463.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s692rs/pdf/BILLS-115s692rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/692",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s692",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 9,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV"],
+         "subcommittee_codes": ["SSEV15"],
+         "latest_major_action_date": "2017-05-25",
+         "latest_major_action": "An errata sheet on written report No. 115-87 was printed. (text: 115S.Rept.87 errata)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "An errata sheet on written report No. 115-87 was printed."
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-25",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 109."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Environment and Public Works. Reported by Senator Barrasso with an amendment in the nature of a substitute. With written report No. 115-87."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-25",
+           "description": "An errata sheet on written report No. 115-87 was printed. (text: <a href='https://www.gpo.gov/fdsys/pkg/CRPT-115srpt87/pdf/CRPT-115srpt87-ERRATA.pdf'>115S.Rept.87 errata</a>)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-04-05",
+           "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Committee on Environment and Public Works Subcommittee on Fisheries, Water, and Wildlife. Hearings held. With printed Hearing: S.Hrg. 115-12."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Read twice and referred to the Committee on Environment and Public Works."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr369-115",
+         "bill_slug": "hr369",
+         "congress": "115",
+         "bill": "H.R.369",
+         "bill_type": "hr",
+         "number": "H.R.369",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr369.json",
+         "title": "To eliminate the sunset of the Veterans Choice Program, and for other purposes.",
+         "short_title": "To eliminate the sunset of the Veterans Choice Program, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Phil Roe",
+         "sponsor_id": "R000582",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000582.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr369ih/pdf/BILLS-115hr369ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/369",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr369",
+         "introduced_date": "2017-01-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Veterans' Affairs Committee",
+         "committee_codes": ["HSVR"],
+         "subcommittee_codes": ["HSVR03"],
+         "latest_major_action_date": "2017-03-29",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 36.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": " (Sec. 1) This bill amends the Veterans Access, Choice, and Accountability Act of 2014 to eliminate the August 7, 2017, sunset date for the Veterans Choice Program, which would allow the program to operate until all of the money in the Veterans Choice Fund is expended.  (Sec. 2) The bill makes the Department of Veterans Affairs (VA) the primary payer (the VA is currently the secondary payer) for medical care relating to non-service connected disabilities and recovery of costs from third parties for certain care under the program.  (Sec. 3) The VA may share medical information with a non-VA entity (including private entities and other federal agencies) that provides veterans with hospital care or medical services. Such entity may not redisclose or use such information for a purpose other than that for which the disclosure was made.",
+         "summary_short": " (Sec. 1) This bill amends the Veterans Access, Choice, and Accountability Act of 2014 to eliminate the August 7, 2017, sunset date for the Veterans Choice Program, which would allow the program to operate until all of the money in the Veterans Choice Fund is expended.  (Sec. 2) The bill makes the Department of Veterans Affairs (VA) the primary payer (the VA is currently the secondary payer) for medical care relating to non-service connected disabilities and recovery of costs from third parti...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-29",
+           "description": "Placed on the Union Calendar, Calendar No. 36."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 115-65."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-09",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-09",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

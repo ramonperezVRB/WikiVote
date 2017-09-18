@@ -1,0 +1,143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1404-115",
+         "bill_slug": "hr1404",
+         "congress": "115",
+         "bill": "H.R.1404",
+         "bill_type": "hr",
+         "number": "H.R.1404",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1404.json",
+         "title": "Pascua Yaqui Tribe Land Conveyance Act",
+         "short_title": "Pascua Yaqui Tribe Land Conveyance Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Raúl M. Grijalva",
+         "sponsor_id": "G000551",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000551.json",
+         "sponsor_party": "D",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1404rfs/pdf/BILLS-115hr1404rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1404",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1404",
+         "introduced_date": "2017-03-07",
+         "active": true,
+         "house_passage": "2017-07-10",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Native Americans",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII24","HSII10"],
+         "latest_major_action_date": "2017-07-12",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-10",
+         "senate_passage_vote": null,
+         "summary": "Pascua Yaqui Tribe Land Conveyance Act This bill declares that 39.65 acres of land are to be held in trust by the United States for the benefit of the Pascua Yaqui Tribe of Arizona, effective the day after the Tuscon Unified School District No. 1 relinquishes its interest in the land. The United States must convey to the school district 13.24 acres of federal land in exchange for payment of the fair market value of the land and the cost of conveyance. The school district may acquire the federal reversionary interest in 27.5 acres of district land by paying the appraised value, plus the costs of appraisal and conveyance, to the Department of the Interior. Gaming is prohibited on the land taken into trust pursuant to this bill. There are no federal reserved water rights for the land taken into trust. The tribe retains state water rights for this land. Water rights for this land may not be forfeited or abandoned.",
+         "summary_short": "Pascua Yaqui Tribe Land Conveyance Act This bill declares that 39.65 acres of land are to be held in trust by the United States for the benefit of the Pascua Yaqui Tribe of Arizona, effective the day after the Tuscon Unified School District No. 1 relinquishes its interest in the land. The United States must convey to the school district 13.24 acres of federal land in exchange for payment of the fair market value of the land and the cost of conveyance. The school district may acquire the feder...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 13,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5405-5406)"
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1404."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Considered under suspension of the rules. (consideration: CR H5405-5407)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Mr. LaHood moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on the Union Calendar, Calendar No. 142."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-205."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by Voice Vote."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-16",
+           "description": "Referred to the Subcommittee on Indian, Insular and Alaska Native Affairs."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-16",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-07",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

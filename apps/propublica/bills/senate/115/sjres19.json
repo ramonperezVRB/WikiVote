@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sjres19-115",
+         "bill_slug": "sjres19",
+         "congress": "115",
+         "bill": "S.J.RES.19",
+         "bill_type": "sjres",
+         "number": "S.J.RES.19",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sjres19.json",
+         "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to prepaid accounts under the Electronic Fund Transfer Act and the Truth in Lending Act.",
+         "short_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to prepaid accounts under the Electronic Fund Transfer Act and the Tru",
+         "sponsor_title": "Sen.",
+         "sponsor": "David Perdue",
+         "sponsor_id": "P000612",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000612.json",
+         "sponsor_party": "R",
+         "sponsor_state": "GA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sjres19pcs/pdf/BILLS-115sjres19pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/19",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sjres19",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This joint resolution nullifies the rule finalized by the Consumer Financial Protection Bureau on November 22, 2016, relating to prepaid accounts under the Electronic Fund Transfer Act and the Truth in Lending Act. The rule establishes various consumer protections with respect to prepaid accounts.",
+         "summary_short": "This joint resolution nullifies the rule finalized by the Consumer Financial Protection Bureau on November 22, 2016, relating to prepaid accounts under the Electronic Fund Transfer Act and the Truth in Lending Act. The rule establishes various consumer protections with respect to prepaid accounts.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 28."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-03-30",
+           "description": "Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c). (consideration: CR S2149; text: CR2149)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

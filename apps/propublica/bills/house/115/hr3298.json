@@ -1,0 +1,206 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3298-115",
+         "bill_slug": "hr3298",
+         "congress": "115",
+         "bill": "H.R.3298",
+         "bill_type": "hr",
+         "number": "H.R.3298",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3298.json",
+         "title": "Wounded Officers Recovery Act of 2017",
+         "short_title": "Wounded Officers Recovery Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Joe L. Barton",
+         "sponsor_id": "B000213",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B000213.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3298enr/pdf/BILLS-115hr3298enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3298",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3298",
+         "introduced_date": "2017-07-19",
+         "active": true,
+         "house_passage": "2017-07-26",
+         "senate_passage": "2017-07-26",
+         "enacted": "2017-07-26",
+         "vetoed": null,
+         "cosponsors": 128,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "Senate Rules and Administration Committee",
+         "committee_codes": ["SSRA","HSHA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-04",
+         "latest_major_action": "Became Public Law No: 115-45.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-26",
+         "senate_passage_vote": "2017-07-26",
+         "summary": "(This measure has not been amended since it was passed by the Senate on July 27, 2017. The summary of that version is repeated here.) Wounded Officers Recovery Act of 2017 (Sec. 2) This bill authorizes the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to: (1) families of employees of the U.S Capitol Police who were killed in the line of duty, or (2) employees of the U.S. Capitol Police who have sustained serious line-of-duty injuries. The board is required to issue specific regulations governing the fund's use for making such payments, including regulations ensuring that the payments are in addition to, and do not otherwise affect, other forms of compensation payable to such family or employee, including worker's compensation benefits. The bill requires amounts received by the board in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017, to be deposited into the fund.",
+         "summary_short": "(This measure has not been amended since it was passed by the Senate on July 27, 2017. The summary of that version is repeated here.) Wounded Officers Recovery Act of 2017 (Sec. 2) This bill authorizes the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to: (1) families of employees of the U.S Capitol Police who were killed in the line of duty, or (2) employees of the U.S. Capitol Police who have sustained serious line-of-duty injuries. The board is r...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 22,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-08-04",
+           "description": "Became Public Law No: 115-45."
+         },
+                  {
+           "id": 21,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-08-04",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-07-27",
+           "description": "On motion that the House agree to the Senate amendment Agreed to without objection."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Mr. Harper asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment."
+         },
+                  {
+           "id": 18,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Measure laid before Senate by unanimous consent."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-07-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 16,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Passed Senate with an amendment by Unanimous Consent."
+         },
+                  {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-07-27",
+           "description": "Senate Committee on Rules and Administration discharged by Unanimous Consent."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "ResolvingDifferences",
+           "datetime": "2017-07-27",
+           "description": "On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6512)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Mr. Harper asked unanimous consent to take from the Speaker's Table and agree to the Senate amendment. (consideration: CR H6512)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-07-27",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4361-4362)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6183)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Considered under suspension of the rules. (consideration: CR H6183-6187)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3298."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-24",
+           "description": "Mr. Davis, Rodney moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-24",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Rules and Administration."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-19",
+           "description": "Referred to the House Committee on House Administration."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

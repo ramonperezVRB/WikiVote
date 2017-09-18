@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr625-115",
+         "bill_slug": "hr625",
+         "congress": "115",
+         "bill": "H.R.625",
+         "bill_type": "hr",
+         "number": "H.R.625",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr625.json",
+         "title": "REPORT Act",
+         "short_title": "REPORT Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Pete Aguilar",
+         "sponsor_id": "A000371",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/A000371.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr625rfs/pdf/BILLS-115hr625rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/625",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr625",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": "2017-06-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 25,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Emergency Management",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": ["HSHM05"],
+         "latest_major_action_date": "2017-06-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-19",
+         "senate_passage_vote": null,
+         "summary": "Reporting Efficiently to Proper Officials in Response to Terrorism Act of 2017 or the REPORT Act (Sec. 2) This bill requires the Department of Homeland Security (DHS), the Department of Justice (DOJ), the Federal Bureau of Investigation (FBI), and, as appropriate, the National Counterterrorism Center (NCC), to submit to Congress an unclassified report on an act of terrorism in the United States within one year after the primary government agency completes an investigation of such act. Such requirement shall not apply in instances in which DHS, DOJ, the FBI, or the NCC determines that the information required to be reported could jeopardize an ongoing investigation or prosecution, in which case DHS shall notify Congress prior to the first anniversary of the completion of the investigation. Such a report shall: (1) identify any gaps in national security that could be addressed to prevent future acts of terrorism, and (2) include any recommendations for additional measures that could be taken to improve homeland security.",
+         "summary_short": "Reporting Efficiently to Proper Officials in Response to Terrorism Act of 2017 or the REPORT Act (Sec. 2) This bill requires the Department of Homeland Security (DHS), the Department of Justice (DOJ), the Federal Bureau of Investigation (FBI), and, as appropriate, the National Counterterrorism Center (NCC), to submit to Congress an unclassified report on an act of terrorism in the United States within one year after the primary government agency completes an investigation of such act. Such re...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4976-4977)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 625."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Considered under suspension of the rules. (consideration: CR H4976-4978)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Mr. Katko moved to suspend the rules and pass the bill, as amended."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-15",
+           "description": "Placed on the Union Calendar, Calendar No. 123."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 115-182."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Ordered to be Reported (Amended) by Voice Vote."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-03",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-07",
+           "description": "Referred to the Subcommittee on Counterterrorism and Intelligence."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

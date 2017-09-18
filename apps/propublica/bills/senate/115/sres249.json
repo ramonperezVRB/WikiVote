@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres249-115",
+         "bill_slug": "sres249",
+         "congress": "115",
+         "bill": "S.RES.249",
+         "bill_type": "sres",
+         "number": "S.RES.249",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres249.json",
+         "title": "A resolution designating September 2017 as \"National Child Awareness Month\" to promote awareness of charities that benefit children and youth-serving organizations throughout the United States and recognizing the efforts made by those charities and organizations on behalf of children and youth as critical contributions to the future of the United States.",
+         "short_title": "A resolution designating September 2017 as \"National Child Awareness Month\" to promote awareness of charities that benefit children and youth-serving organizations throughout the United States and recognizing the efforts made by those charities and organi",
+         "sponsor_title": "Sen.",
+         "sponsor": "Dianne Feinstein",
+         "sponsor_id": "F000062",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000062.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/249",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres249",
+         "introduced_date": "2017-08-03",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Families",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882-4883, S4894; text: CR S4882-4883)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates September 2017 as National Child Awareness Month to: (1) promote awareness of youth-serving charities and organizations throughout the United States, and (2) recognize the efforts made by those charities and organizations as critical contributions to the future of the United States.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates September 2017 as National Child Awareness Month to: (1) promote awareness of youth-serving charities and organizations throughout the United States, and (2) recognize the efforts made by those charities and organizations as critical contributions to the future of the United States.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4882-4883, S4894; text: CR S4882-4883)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

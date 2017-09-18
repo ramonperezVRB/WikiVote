@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1393-115",
+         "bill_slug": "hr1393",
+         "congress": "115",
+         "bill": "H.R.1393",
+         "bill_type": "hr",
+         "number": "H.R.1393",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1393.json",
+         "title": "Mobile Workforce State Income Tax Simplification Act of 2017",
+         "short_title": "Mobile Workforce State Income Tax Simplification Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Bishop",
+         "sponsor_id": "B001293",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001293.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1393rfs/pdf/BILLS-115hr1393rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1393",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1393",
+         "introduced_date": "2017-03-07",
+         "active": true,
+         "house_passage": "2017-06-19",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 57,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Taxation",
+         "committees": "Senate Finance Committee",
+         "committee_codes": ["SSFI","HSJU"],
+         "subcommittee_codes": ["HSJU05"],
+         "latest_major_action_date": "2017-06-21",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-06-19",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was reported to the House on June 15, 2017. The summary of that version is repeated here.) Mobile Workforce State Income Tax Simplification Act of 2017 (Sec. 2) This bill prohibits the wages or other remuneration earned by an employee who performs employment duties in more than one state from being subject to income tax in any state other than: (1) the state of the employee's residence, and (2) the state within which the employee is present and performing employment duties for more than 30 days during the calendar year in which the wages or other remuneration is earned.  The bill exempts employers from state income tax withholding and information reporting requirements for employees not subject to income tax in the state under this bill. For the purposes of determining penalties related to an employer's state income tax withholding or reporting requirements, an employer may rely on an employee's annual determination of the time expected to be spent working in a state in the absence of fraud or collusion by such employee. For the purposes of this bill, the term \"employee\" excludes: professional athletes; professional entertainers; production employees who perform services in connection with certain film, television, or other commercial video productions; and public figures who are persons of prominence who perform services for wages or other remuneration on a per-event basis.  (Sec. 3) The bill takes effect on January 1 of the second calendar year that begins after the enactment of this bill. The bill does not apply to any tax obligation that accrues before the effective date.",
+         "summary_short": "(This measure has not been amended since it was reported to the House on June 15, 2017. The summary of that version is repeated here.) Mobile Workforce State Income Tax Simplification Act of 2017 (Sec. 2) This bill prohibits the wages or other remuneration earned by an employee who performs employment duties in more than one state from being subject to income tax in any state other than: (1) the state of the employee's residence, and (2) the state within which the employee is present and perf...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-21",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Finance."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4947)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1393."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Considered under suspension of the rules. (consideration: CR H4947-4951)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Mr. Goodlatte moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-15",
+           "description": "Placed on the Union Calendar, Calendar No. 121."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-15",
+           "description": "Reported by the Committee on Judiciary. H. Rept. 115-180."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Ordered to be Reported by the Yeas and Nays: 19 - 2."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-17",
+           "description": "Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-07",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

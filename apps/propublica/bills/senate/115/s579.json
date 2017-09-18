@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s579-115",
+         "bill_slug": "s579",
+         "congress": "115",
+         "bill": "S.579",
+         "bill_type": "s",
+         "number": "S.579",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s579.json",
+         "title": "Early Participation in Regulations Act of 2017",
+         "short_title": "Early Participation in Regulations Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "James Lankford",
+         "sponsor_id": "L000575",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/L000575.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OK",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s579rs/pdf/BILLS-115s579rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/579",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s579",
+         "introduced_date": "2017-03-08",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-28",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Early Participation in Regulations Act of 2017 This bill directs agencies to publish advance notice of a proposed rulemaking not later than 90 days before publishing a notice of proposed rulemaking for a major rule that the Office of Information and Regulatory Affairs (OIRA) determines is likely to impose: (1) an annual effect on the economy of $100 million or more; (2) a major increase in costs or prices for consumers, individual industries, government agencies, or geographic regions; or (3) significant adverse effects on competition, employment, investment, productivity, innovation, or the ability of U.S. enterprises to compete with foreign-based enterprises. The advance notice shall:  include a written statement identifying the nature and significance of the problem to be addressed, a general description of regulatory alternatives, the legal authority under which the rule is proposed, and an achievable objective for the rule and metrics by which the agency expects to measure progress toward that objective; and  solicit and provide a period of at least 60 days for submission of written data, views, and argument from interested persons.  Any deviation between policies set forth in such statement and any final agency action shall not be considered arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the Administrative Procedure Act. The bill is inapplicable to a major rule:   for which the proposing agency is not required to publish a notice of proposed rulemaking,  if OIRA determines that complying with the requirements described in this bill would not serve the public interest or would be unduly burdensome and duplicative of processes required by specific statutory requirements as rigorous as those prescribed in this bill, or  if the agency proposing the major rule is otherwise specifically exempted by law from notice and comment rule making procedures.  Such a determination made by OIRA shall not be subject to judicial review.",
+         "summary_short": "Early Participation in Regulations Act of 2017 This bill directs agencies to publish advance notice of a proposed rulemaking not later than 90 days before publishing a notice of proposed rulemaking for a major rule that the Office of Information and Regulatory Affairs (OIRA) determines is likely to impose: (1) an annual effect on the economy of $100 million or more; (2) a major increase in costs or prices for consumers, individual industries, government agencies, or geographic regions; or (3)...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-28",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 158."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-28",
+           "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson with amendments. With written report No. 115-121."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-17",
+           "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-08",
+           "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

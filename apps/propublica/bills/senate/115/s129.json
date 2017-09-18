@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s129-115",
+         "bill_slug": "s129",
+         "congress": "115",
+         "bill": "S.129",
+         "bill_type": "s",
+         "number": "S.129",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s129.json",
+         "title": "National Sea Grant College Program Amendments Act of 2017",
+         "short_title": "National Sea Grant College Program Amendments Act of 2017",
+         "sponsor_title": "Sen.",
+         "sponsor": "Roger Wicker",
+         "sponsor_id": "W000437",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000437.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MS",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s129rs/pdf/BILLS-115s129rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/129",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s129",
+         "introduced_date": "2017-01-12",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "An errata sheet on written report No. 115-15 was printed. (text: 115S.Rept.15 errata)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "National Sea Grant College Program Amendments Act of 2017  This bill amends the National Sea Grant College Program Act to reauthorize through FY2022 the National Sea Grant College Program. The bill requires the National Oceanic and Atmospheric Administration (NOAA) to award Dean John A. Knauss Marine Policy Fellowships. Currently, NOAA has discretion in awarding such fellowships. Those fellowships support the placement of graduate students in fields related to ocean, coastal, and Great Lakes resources in positions with the executive and legislative branches. NOAA must establish priorities for the use of donations given for the National Sea Grant Program.  An agency may appoint a recipient of a Dean John A. Knauss Marine Policy Fellowship to a federal position within two years after such recipient successfully completes a fellowship. The bill authorizes through FY2022 grants for university research on: (1) the biology, prevention, and control of aquatic nonnative species; (2) oyster diseases, oyster restoration, and oyster-related human health risks; (3) the biology, prevention, and forecasting of harmful algal blooms; and (4) sustainable aquaculture techniques and technologies. The bill also authorizes through FY2022 grants for: (1) fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance existing core program funding; and (2) priority issues identified in the National Sea Grant Program's strategic plan.",
+         "summary_short": "National Sea Grant College Program Amendments Act of 2017  This bill amends the National Sea Grant College Program Act to reauthorize through FY2022 the National Sea Grant College Program. The bill requires the National Oceanic and Atmospheric Administration (NOAA) to award Dean John A. Knauss Marine Policy Fellowships. Currently, NOAA has discretion in awarding such fellowships. Those fellowships support the placement of graduate students in fields related to ocean, coastal, and Great Lakes ...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "An errata sheet on written report No. 115-15 was printed. (text of <a href='https://www.gpo.gov/fdsys/pkg/CRPT-115srpt15/pdf/CRPT-115srpt15-ERRATA.pdf'>115S.Rept.15 errata</a>)"
+         },
+                  {
+           "id": 6,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "An errata sheet on written report No. 115-15 was printed."
+         },
+                  {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 26."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-15."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-03-30",
+           "description": "An errata sheet on written report No. 115-15 was printed. (text: <a href='https://www.gpo.gov/fdsys/pkg/CRPT-115srpt15/pdf/CRPT-115srpt15-ERRATA.pdf'>115S.Rept.15 errata</a>)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-12",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

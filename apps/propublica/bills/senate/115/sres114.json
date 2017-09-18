@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres114-115",
+         "bill_slug": "sres114",
+         "congress": "115",
+         "bill": "S.RES.114",
+         "bill_type": "sres",
+         "number": "S.RES.114",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres114.json",
+         "title": "A resolution expressing the sense of the Senate on humanitarian crises in Nigeria, Somalia, South Sudan, and Yemen.",
+         "short_title": "A resolution expressing the sense of the Senate on humanitarian crises in Nigeria, Somalia, South Sudan, and Yemen.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Todd Young",
+         "sponsor_id": "Y000064",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/Y000064.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IN",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres114rs/pdf/BILLS-115sres114rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/114",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres114",
+         "introduced_date": "2017-04-05",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-05",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 115.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Expresses the sense of the Senate that:  the United States should lead an international diplomatic effort to address obstacles in Nigeria, Somalia, South Sudan, and Yemen that are preventing delivery of humanitarian aid;   the President should encourage other governments to join the United States in providing the resources necessary to meet the United Nations Office for the Coordination of Humanitarian Affairs appeal to address the humanitarian crises in those countries; and   the President should work with international partners to document violations of international humanitarian law in those countries and bring perpetrators to justice.  Urges the President to:  persuade the government of South Sudan to stop blocking aid;   notify Congress if that government does not immediately respect international humanitarian law;  press the government of Nigeria to ensure accountability for security forces that violate human rights and fail to cooperate with international aid efforts;   send a high level representative to the United Kingdom's Ministerial Conference on Somalia and publicly announce a contribution to the humanitarian assistance efforts; and   work with stakeholders to persuade parties to conflict in Yemen to permit humanitarian groups increased access to Red Sea ports to deliver much-needed assistance.    ",
+         "summary_short": "Expresses the sense of the Senate that:  the United States should lead an international diplomatic effort to address obstacles in Nigeria, Somalia, South Sudan, and Yemen that are preventing delivery of humanitarian aid;   the President should encourage other governments to join the United States in providing the resources necessary to meet the United Nations Office for the Coordination of Humanitarian Affairs appeal to address the humanitarian crises in those countries; and   the President s...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-05",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 115."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-05",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported with amendments favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-05",
+           "description": "Referred to the Committee on Foreign Relations. (text as introduced in Senate: CR S2368-2369)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

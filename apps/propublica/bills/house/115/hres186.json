@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres186-115",
+         "bill_slug": "hres186",
+         "congress": "115",
+         "bill": "H.RES.186",
+         "bill_type": "hres",
+         "number": "H.RES.186",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres186.json",
+         "title": "Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax returns and other specified financial information of President Donald J. Trump.",
+         "short_title": "Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax returns and other specified financial information of President Donald J. Trump.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bill Pascrell Jr.",
+         "sponsor_id": "P000096",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000096.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres186rh/pdf/BILLS-115hres186rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/186",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres186",
+         "introduced_date": "2017-03-09",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 92,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSWM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-30",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 30.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Department of the Treasury to provide to the House of Representatives the full tax returns of President Donald J. Trump for tax years 2006-2015, financial documentation, and any information in its possession that specifies President Trump's:  debts held by foreign governments and foreign companies;  investments in foreign countries and foreign enterprises; and  use of any tax shelters, corporate structures, tax avoidance maneuvers, abatements, or other loopholes to reduce or eliminate tax liability. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Directs the Department of the Treasury to provide to the House of Representatives the full tax returns of President Donald J. Trump for tax years 2006-2015, financial documentation, and any information in its possession that specifies President Trump's:  debts held by foreign governments and foreign companies;  investments in foreign countries and foreign enterprises; and  use of any tax...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-30",
+           "description": "Placed on the House Calendar, Calendar No. 30."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Reported adversely by the Committee on Ways and Means. H. Rept. 115-73."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Ordered to be Reported Unfavorably by the Yeas and Nays: 24 - 16."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-09",
+           "description": "Referred to the House Committee on Ways and Means."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,162 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1219-115",
+         "bill_slug": "hr1219",
+         "congress": "115",
+         "bill": "H.R.1219",
+         "bill_type": "hr",
+         "number": "H.R.1219",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1219.json",
+         "title": "Supporting America's Innovators Act of 2017",
+         "short_title": "Supporting America's Innovators Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Patrick T. McHenry",
+         "sponsor_id": "M001156",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001156.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1219eh/pdf/BILLS-115hr1219eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1219",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1219",
+         "introduced_date": "2017-02-27",
+         "active": true,
+         "house_passage": "2017-04-05",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 4,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Finance and Financial Sector",
+         "committees": "Senate Banking, Housing, and Urban Affairs Committee",
+         "committee_codes": ["SSBK","HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-06",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+         "last_vote_date": "2017-04-06",
+         "house_passage_vote": "2017-04-05",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Supporting America's Innovators Act of 2017 (Sec. 2) This bill amends the Investment Company Act of 1940 to exempt from the definition of an \"investment company,\" for purposes of specified limitations applicable to such a company under the Act, a qualifying venture capital fund that has no more than 250 investors. Specifically, the bill applies to a venture capital fund that has less than $10 million in aggregate capital contributions and uncalled committed capital. Under current law, a venture capital fund is considered to be an investment company if it has more than 100 investors.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Supporting America's Innovators Act of 2017 (Sec. 2) This bill amends the Investment Company Act of 1940 to exempt from the definition of an \"investment company,\" for purposes of specified limitations applicable to such a company under the Act, a qualifying venture capital fund that has no more than 250 investors. Specifically, the bill applies to a venture capital...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "On passage Passed by the Yeas and Nays: 417 - 3 (Roll no. 221). (text: CR H2759)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1219."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Rule provides for consideration of H.R. 1219 with 1 hour of general debate. The resolution provides for one motion to recommit; and providing for proceedings during the period from April 7, 2017 through April 24, 2017"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-06",
+           "description": "Considered under the provisions of rule H. Res. 242. (consideration: CR H2759-2767)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-05",
+           "description": "Rule H. Res. 242 passed House."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-04-03",
+           "description": "Rules Committee Resolution H. Res. 242 Reported to House. Rule provides for consideration of H.R. 1219 with 1 hour of general debate. The resolution provides for one motion to recommit; and providing for proceedings during the period from April 7, 2017 through April 24, 2017"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-29",
+           "description": "Placed on the Union Calendar, Calendar No. 41."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-29",
+           "description": "Reported by the Committee on Financial Services. H. Rept. 115-70."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Ordered to be Reported by the Yeas and Nays: 54 - 2."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-09",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-27",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-04-06",
+             "time": "10:31:00",
+             "roll_call": "221",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 417,
+             "total_no": 3,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/221.json"
+           }
+         ]
+
+      }
+   ]
+}

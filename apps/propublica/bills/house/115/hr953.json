@@ -1,0 +1,289 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr953-115",
+         "bill_slug": "hr953",
+         "congress": "115",
+         "bill": "H.R.953",
+         "bill_type": "hr",
+         "number": "H.R.953",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr953.json",
+         "title": "Reducing Regulatory Burdens Act of 2017",
+         "short_title": "Reducing Regulatory Burdens Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bob Gibbs",
+         "sponsor_id": "G000563",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000563.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr953rfs/pdf/BILLS-115hr953rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/953",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr953",
+         "introduced_date": "2017-02-07",
+         "active": true,
+         "house_passage": "2017-05-23",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 47,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Environment and Public Works Committee",
+         "committee_codes": ["SSEV","HSPW","HSAG"],
+         "subcommittee_codes": ["HSPW02"],
+         "latest_major_action_date": "2017-05-25",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+         "last_vote_date": "2017-05-24",
+         "house_passage_vote": "2017-05-23",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reducing Regulatory Burdens Act of 2017 (Sec. 2) This bill amends the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to prohibit the Environmental Protection Agency or a state from requiring a permit under the National Pollutant Discharge Elimination System (NPDES) for a discharge of a pesticide from a point source into navigable waters if the discharge is approved under FIFRA. Point source pollution is waste discharged from a distinct place, such as a pipe, channel, or tunnel.  (Sec. 3) NPDES permits are required for: (1) a discharge resulting from the application of a pesticide in violation of FIFRA that is relevant to protecting water quality, if the discharge would not have occurred but for the violation or the amount of pesticide or pesticide residue contained in the discharge is greater than would have occurred without the violation; (2) stormwater discharges regulated under the National Pollutant Discharge Elimination System (NPDES); and (3) discharges regulated under NPDES of manufacturing or industrial effluent or treatment works effluent and discharges incidental to the normal operation of a vessel, including a discharge resulting from operations concerning ballast water held in ships to increase stability or vessel biofouling prevention. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) Reducing Regulatory Burdens Act of 2017 (Sec. 2) This bill amends the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to prohibit the Environmental Protection Agency or a state from requiring a permit under the National Pollutant Discharge Elimination System (NPDES) for...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 27,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-05-25",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "On passage Passed by recorded vote: 256 - 165 (Roll no. 282). (text: CR H4545)"
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 183 - 230 (Roll no. 281)."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to prohibit the Act, including any amendments from applying to the discharge of a pesticide if the manufacturer or distributor of the pesticide has made a political contribution to the President or to any Federal official charged with registration, regulation, or approval of the use of the pesticide."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Mr. McGovern moved to recommit with instructions to the Committee on Transportation and Infrastructure."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 953."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments, which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Huffman amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Mr. Huffman demanded a recorded vote, and the Chair postponed further proceedings on passage of the bill until later in the legislative day."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 348, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Esty (CT) amendment, the Chair put the question on agreeing to the amendment and by voice vote, announced that the noes had prevailed. Ms. Esty (CT) demanded a recorded vote, and the Chair postponed further proceedings on passage of the bill until later in the legislative day."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 348, the Committee of the Whole proceeded with 10 minutes of debate on the Esty (CT) amendment."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 953."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "The Speaker designated the Honorable Jeff Duncan to act as Chairman of the Committee."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 348 and Rule XVIII."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Rule provides for consideration of H.R. 953 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-21."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-24",
+           "description": "Considered under the provisions of rule H. Res. 348. (consideration: CR H4535-4553)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-23",
+           "description": "Rule H. Res. 348 passed House."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-05-22",
+           "description": "Rules Committee Resolution H. Res. 348 Reported to House. Rule provides for consideration of H.R. 953 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-21."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Reported by the Committee on Agriculture. H. Rept. 115-131, Part I."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Ordered to be Reported."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-16",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-08",
+           "description": "Referred to the Subcommittee on Water Resources and Environment."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to House Agriculture"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-07",
+           "description": "Referred to House Transportation and Infrastructure"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-05-24",
+             "time": "17:10:00",
+             "roll_call": "282",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 256,
+             "total_no": 165,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/282.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-05-24",
+             "time": "17:03:00",
+             "roll_call": "281",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 183,
+             "total_no": 230,
+             "total_not_voting": 17,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/281.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-05-24",
+             "time": "16:45:00",
+             "roll_call": "280",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 230,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/280.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-05-24",
+             "time": "16:37:00",
+             "roll_call": "279",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 229,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/279.json"
+           }
+         ]
+
+      }
+   ]
+}

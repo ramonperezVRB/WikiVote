@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres94-115",
+         "bill_slug": "sres94",
+         "congress": "115",
+         "bill": "S.RES.94",
+         "bill_type": "sres",
+         "number": "S.RES.94",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres94.json",
+         "title": "A resolution designating March 2017 as \"National Read Aloud Month\".",
+         "short_title": "A resolution designating March 2017 as \"National Read Aloud Month\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Rob Portman",
+         "sponsor_id": "P000449",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000449.json",
+         "sponsor_party": "R",
+         "sponsor_state": "OH",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres94ats/pdf/BILLS-115sres94ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/94",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres94",
+         "introduced_date": "2017-03-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Education",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-04-04",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 2017 as National Read Aloud Month. Encourages parents and guardians to read to their children for 15 minutes every day because of the developmental benefits that activity has for children.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates March 2017 as National Read Aloud Month. Encourages parents and guardians to read to their children for 15 minutes every day because of the developmental benefits that activity has for children.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-04-04",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-04-04",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2220)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-23",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1978)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

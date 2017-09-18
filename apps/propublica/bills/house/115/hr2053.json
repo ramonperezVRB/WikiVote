@@ -1,0 +1,94 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr2053-115",
+         "bill_slug": "hr2053",
+         "congress": "115",
+         "bill": "H.R.2053",
+         "bill_type": "hr",
+         "number": "H.R.2053",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr2053.json",
+         "title": "Mining Schools Enhancement Act",
+         "short_title": "Mining School Enhancement Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Martha McSally",
+         "sponsor_id": "M001197",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001197.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AZ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr2053rh/pdf/BILLS-115hr2053rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2053",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr2053",
+         "introduced_date": "2017-04-06",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 10,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": ["HSII06"],
+         "latest_major_action_date": "2017-07-25",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 186.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-25",
+           "description": "Placed on the Union Calendar, Calendar No. 186."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-256."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported (Amended) by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-24",
+           "description": "Referred to the Subcommittee on Energy and Mineral Resources."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-06",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

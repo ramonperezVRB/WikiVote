@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres479-115",
+         "bill_slug": "hres479",
+         "congress": "115",
+         "bill": "H.RES.479",
+         "bill_type": "hres",
+         "number": "H.RES.479",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres479.json",
+         "title": "Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e.",
+         "short_title": "Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Governme",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bill Pascrell Jr.",
+         "sponsor_id": "P000096",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000096.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres479ih/pdf/BILLS-115hres479ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/479",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres479",
+         "introduced_date": "2017-07-27",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Congress",
+         "committees": "House Ways and Means Committee",
+         "committee_codes": ["HSWM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-14",
+         "latest_major_action": "Placed on the House Calendar, Calendar No. 84.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-14",
+           "description": "Placed on the House Calendar, Calendar No. 84."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-14",
+           "description": "Reported adversely by the Committee on Ways and Means. H. Rept. 115-309."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-27",
+           "description": "Referred to the House Committee on Ways and Means."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,169 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1500-115",
+         "bill_slug": "hr1500",
+         "congress": "115",
+         "bill": "H.R.1500",
+         "bill_type": "hr",
+         "number": "H.R.1500",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1500.json",
+         "title": "Robert Emmet Park Act of 2017",
+         "short_title": "Robert Emmet Park Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Joseph Crowley",
+         "sponsor_id": "C001038",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001038.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1500rfs/pdf/BILLS-115hr1500rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1500",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1500",
+         "introduced_date": "2017-03-10",
+         "active": true,
+         "house_passage": "2017-06-27",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 9,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-06-29",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-06-28",
+         "house_passage_vote": "2017-06-27",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Robert Emmet Park Act of 2017 (Sec. 3) This bill redesignates as \"Robert Emmet Park\" the small triangular property located at the corner of 24th Street and Massachusetts Avenue NW in Washington, DC, and designated by the National Park Service as reservation 302.  The Department of the Interior may post signs on or near the park, including one or more on: (1) information about Robert Emmet, his contribution to Irish Independence, and his respect for the United States and the American Revolution; and (2) information about the history of the statue of Robert Emmet located in the park.  ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Robert Emmet Park Act of 2017 (Sec. 3) This bill redesignates as \"Robert Emmet Park\" the small triangular property located at the corner of 24th Street and Massachusetts Avenue NW in Washington, DC, and designated by the National Park Service as reservation 302.  The Department of the Interior may post signs on or near the park, including one or more on: (1) inform...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-29",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 338). (text: CR 6/27/2017 H5205)"
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Considered as unfinished business. (consideration: CR H5287)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1500."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Considered under suspension of the rules. (consideration: CR H5205-5206)"
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Mr. Cook moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-05-11",
+           "description": "Placed on the House Calendar, Calendar No. 47."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-05-11",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-114."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Federal Lands Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-21",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-10",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-28",
+             "time": "17:27:00",
+             "roll_call": "338",
+             "question": "On Motion to Suspend the Rules and Pass",
+             "result": "Passed",
+             "total_yes": 423,
+             "total_no": 0,
+             "total_not_voting": 10,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/338.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1603-115",
+         "bill_slug": "s1603",
+         "congress": "115",
+         "bill": "S.1603",
+         "bill_type": "s",
+         "number": "S.1603",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1603.json",
+         "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018",
+         "short_title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Hoeven",
+         "sponsor_id": "H001061",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/H001061.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ND",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1603pcs/pdf/BILLS-115s1603pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1603",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1603",
+         "introduced_date": "2017-07-20",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Economics and Public Finance",
+         "committees": "Senate Appropriations Committee",
+         "committee_codes": ["SSAP"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-07-20",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 Provides FY2018 appropriations for the Department of Agriculture (USDA), the Food and Drug Administration, and Related Agencies.  Provides appropriations to USDA for Agricultural Programs, including:    the Office of the Secretary;  Executive Operations;  the Office of the Chief Information Officer;  the Office of the Chief Financial Officer;  the Office of Civil Rights;  Agriculture Buildings and Facilities;  Hazardous Materials Management;  the Office of Inspector General;  the Office of the General Counsel; the Office of Ethics;  the Economic Research Service;  the National Agricultural Statistics Service; the Agricultural Research Service;  the National Institute of Food and Agriculture;  the Animal and Plant Health Inspection Service;  the Agricultural Marketing Service;  the Grain Inspection, Packers and Stockyards Administration; and the Food Safety and Inspection Service.  Provides appropriations to USDA for Farm Production and Conservation, including:  the Farm Service Agency,  the Risk Management Agency,   the Natural Resources Conservation Service,  the Federal Crop Insurance Corporation Fund, and  the Commodity Credit Corporation Fund.  Provides appropriations to USDA for Rural Development Programs, including:  Rural Development Salaries and Expenses,  the Rural Housing Service,  the Rural Business-Cooperative Service, and the Rural Utilities Service.  Provides appropriations to USDA for the Food and Nutrition Service, including:    Child Nutrition Programs;  the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC);  the Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program);  the Commodity Assistance Program; and  Nutrition Programs Administration.   Provides appropriations to USDA for the Foreign Agricultural Service, including Food for Peace Title II Grants and McGovern-Dole International Food for Education and Child Nutrition Program Grants.  Provides appropriations for the Food and Drug Administration and the Farm Credit Administration.  Rescinds specified unobligated balances from prior appropriations. Sets forth permissible, restricted, and prohibited uses for funds provided by this and other appropriations Acts. ",
+         "summary_short": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 Provides FY2018 appropriations for the Department of Agriculture (USDA), the Food and Drug Administration, and Related Agencies.  Provides appropriations to USDA for Agricultural Programs, including:    the Office of the Secretary;  Executive Operations;  the Office of the Chief Information Officer;  the Office of the Chief Financial Officer;  the Office of Civil Rights;  Agriculture Bu...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-07-20",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 177."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-20",
+           "description": "Committee on Appropriations. Original measure reported to Senate by Senator Hoeven. With written report No. 115-131."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

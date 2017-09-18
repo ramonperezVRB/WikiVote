@@ -1,0 +1,298 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr23-115",
+         "bill_slug": "hr23",
+         "congress": "115",
+         "bill": "H.R.23",
+         "bill_type": "hr",
+         "number": "H.R.23",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr23.json",
+         "title": "Gaining Responsibility on Water Act of 2017",
+         "short_title": "Gaining Responsibility on Water Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "David Valadao",
+         "sponsor_id": "V000129",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/V000129.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr23rfs/pdf/BILLS-115hr23rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/23",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr23",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-07-11",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 14,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Water Resources Development",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII","HSAG"],
+         "subcommittee_codes": ["HSII13"],
+         "latest_major_action_date": "2017-07-18",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-07-12",
+         "house_passage_vote": "2017-07-11",
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 30,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-18",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Mr. Carbajal moved to recommit with instructions to the Committee on Natural Resources."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Considered under the provisions of rule H. Res. 431."
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "On passage Passed by recorded vote: 230 - 190 (Roll no. 352)."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 189 - 230 (Roll no. 351)."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Mr. Carbajal moved to recommit with instructions to the Committee on Natural Resources. (text: CR H5531)"
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Considered under the provisions of rule H. Res. 431. (consideration: CR H5503-5533; text of amendment in the nature of a substitute: CR H5511-5524)"
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Carbajal motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that there is an adequate supply of water to fight wildfires, utilizing water from reservoirs or other surface waters."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 23."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment No. 6."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the DeSaulnier amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. DeSaulnier demanded a recorded vote and the Chair postponed further proceedings until a time to be announced."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the DeSaulnier amendment No. 5."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Denham amendment No. 4."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment No. 3."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the Costa amendment No. 2."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 431, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 1."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 23."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The Speaker designated the Honorable Scott Perry to act as Chairman of the Committee."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 431 and Rule XVIII."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-12",
+           "description": "Rule H. Res. 431 passed House."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Rules Committee Resolution H. Res. 431 Reported to House. The resolution provides for one hour of debate on both H.R. 2810 and H.R. 23. Both bills are considered under structured rules."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-10",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to House Agriculture"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to House Natural Resources"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-07-12",
+             "time": "19:16:00",
+             "roll_call": "352",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 230,
+             "total_no": 190,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/352.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-12",
+             "time": "19:09:00",
+             "roll_call": "351",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 230,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/351.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-07-12",
+             "time": "18:52:00",
+             "roll_call": "350",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 201,
+             "total_no": 221,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/350.json"
+           }
+         ]
+
+      }
+   ]
+}

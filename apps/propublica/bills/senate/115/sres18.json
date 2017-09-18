@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres18-115",
+         "bill_slug": "sres18",
+         "congress": "115",
+         "bill": "S.RES.18",
+         "bill_type": "sres",
+         "number": "S.RES.18",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres18.json",
+         "title": "A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.",
+         "short_title": "A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Christopher A. Coons",
+         "sponsor_id": "C001088",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001088.json",
+         "sponsor_party": "D",
+         "sponsor_state": "DE",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres18rs/pdf/BILLS-115sres18rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/18",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres18",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 6,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-05",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Declares that the Senate:   upholds its commitment to the partnership between the United States and Argentina and reaffirms that Argentina is a major U.S. ally;  encourages the Department of State to coordinate an interagency strategy to increase cooperation with the government of Argentina on areas of bilateral, regional, and global concern;  commends President Mauricio Macri and his Administration for making far-reaching economic reforms;  encourages efforts to promote inclusive economic growth and reduce inequality;  encourages such government to continue to investigate and prosecute those responsible for the 1994 bombing of the Argentine-Israeli Mutual Association (AMIA) in Buenos Aires and the death of AMIA special prosecutor Alberto Nisman;   expresses its desire that the growing partnership between the United States and Argentina will result in greater cooperation at multilateral institutions; and   supports the continuing implementation of the United States Trade and Investment Framework Agreement with Argentina and Argentina's efforts toward greater integration with the global economy.  ",
+         "summary_short": "Declares that the Senate:   upholds its commitment to the partnership between the United States and Argentina and reaffirms that Argentina is a major U.S. ally;  encourages the Department of State to coordinate an interagency strategy to increase cooperation with the government of Argentina on areas of bilateral, regional, and global concern;  commends President Mauricio Macri and his Administration for making far-reaching economic reforms;  encourages efforts to promote inclusive economic gr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-06-05",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 114."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-06-05",
+           "description": "Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-25",
+           "description": "Committee on Foreign Relations. Ordered to be reported with amendments favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S404)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,338 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1215-115",
+         "bill_slug": "hr1215",
+         "congress": "115",
+         "bill": "H.R.1215",
+         "bill_type": "hr",
+         "number": "H.R.1215",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1215.json",
+         "title": "Protecting Access to Care Act of 2017",
+         "short_title": "Protecting Access to Care Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Steve King",
+         "sponsor_id": "K000362",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000362.json",
+         "sponsor_party": "R",
+         "sponsor_state": "IA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1215rfs/pdf/BILLS-115hr1215rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1215",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1215",
+         "introduced_date": "2017-02-24",
+         "active": true,
+         "house_passage": "2017-06-27",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Health",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU","HSIF"],
+         "subcommittee_codes": ["HSIF14","HSJU10"],
+         "latest_major_action_date": "2017-06-29",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": "2017-06-28",
+         "house_passage_vote": "2017-06-27",
+         "senate_passage_vote": null,
+         "summary": "Protecting Access to Care Act of 2017 This bill establishes provisions governing health care lawsuits where coverage for the care was provided or subsidized by the federal government, including through a subsidy or tax benefit. (Sec. 2) The statute of limitations is three years after the injury or one year after the claimant discovers the injury, whichever occurs first. For a minor, the statute of limitations is three years after the injury, except for a minor under six years old, for whom it is three years after the injury, one year after discovery of the injury, or the minor's eighth birthday, whichever occurs later. These limitations are tolled under certain circumstances. These provisions do not preempt certain state laws. (Sec. 3) Noneconomic damages are limited to $250,000, before accounting for reductions in damages required by law. Juries may not be informed of this limitation. Parties are liable for the amount of damages directly proportional to their responsibility. These provisions do not preempt state laws that specify a particular monetary amount of damages. (Sec. 4) Courts must supervise the payment of damages and may restrict attorney contingent fees. The bill sets limits on contingent fees. The bill does not preempt state laws that specify a lesser percentage or value of damages that may be claimed by an attorney representing a claimant. (Sec. 5) The bill provides for periodic payment of future damage awards. The bill does not preempt state laws that mandate periodic payments. (Sec. 6) A health care provider who prescribes, or dispenses pursuant to a prescription, a medical product approved by the Food and Drug Administration may not be a party to a product liability lawsuit or a class action lawsuit regarding the medical product. (Sec. 8) The bill does not preempt federal vaccine injury laws. (Sec. 9) The bill preempts federal tort laws that provide for greater amounts of damages or contingent fees, a longer statute of limitations, or reduced applicability or scope of periodic payment of future damages. (Sec. 10) The bill applies to health care lawsuits initiated after enactment. Lawsuits are governed by the statue of limitations applicable at the time of injury.",
+         "summary_short": "Protecting Access to Care Act of 2017 This bill establishes provisions governing health care lawsuits where coverage for the care was provided or subsidized by the federal government, including through a subsidy or tax benefit. (Sec. 2) The statute of limitations is three years after the injury or one year after the claimant discovers the injury, whichever occurs first. For a minor, the statute of limitations is three years after the injury, except for a minor under six years old, for whom it...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 34,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-29",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 33,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 32,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "On passage Passed by recorded vote: 218 - 210 (Roll no. 337)."
+         },
+                  {
+           "id": 31,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 191 - 235 (Roll no. 336)."
+         },
+                  {
+           "id": 30,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kuster motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add an exemption to the underlying bill for any claim or action that pertains to the negligent prescription of opioids."
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Ms. Kuster (NH) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H5275)"
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1215."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Barr amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Barr demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 5."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cohen demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 4."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Roe (TN) amendment No. 3."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No. 2."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No. 1."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1215."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 382 and Rule XVIII."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Rule provides for consideration of H.R. 1215 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-10. The resolution makes in order only those amendments printed in the report."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-28",
+           "description": "Considered under the provisions of rule H. Res. 382. (consideration: CR H5263-5287; text of amendment in the nature of a substitute: CR H5273-5275)"
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Rule H. Res. 382 passed House."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-13",
+           "description": "Rules Committee Resolution H. Res. 382 Reported to House. Rule provides for consideration of H.R. 1215 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-10. The resolution makes in order only those amendments printed in the report."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-03-22",
+           "description": "Placed on the Union Calendar, Calendar No. 31."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Discharge",
+           "datetime": "2017-03-22",
+           "description": "Committee on Energy and Commerce discharged."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-22",
+           "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 115-55, Part I."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-03",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 17."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-28",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-24",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-24",
+           "description": "Referred to House Energy and Commerce"
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-24",
+           "description": "Referred to House Judiciary"
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-28",
+             "time": "17:19:00",
+             "roll_call": "337",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 218,
+             "total_no": 210,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/337.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-28",
+             "time": "17:12:00",
+             "roll_call": "336",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 191,
+             "total_no": 235,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/336.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-28",
+             "time": "16:53:00",
+             "roll_call": "335",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 116,
+             "total_no": 310,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/335.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-28",
+             "time": "16:46:00",
+             "roll_call": "334",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 222,
+             "total_no": 197,
+             "total_not_voting": 14,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/334.json"
+           }
+         ]
+
+      }
+   ]
+}

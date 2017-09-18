@@ -1,0 +1,73 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1761-115",
+         "bill_slug": "s1761",
+         "congress": "115",
+         "bill": "S.1761",
+         "bill_type": "s",
+         "number": "S.1761",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1761.json",
+         "title": "Intelligence Authorization Act for Fiscal Year 2018",
+         "short_title": "Intelligence Authorization Act for Fiscal Year 2018",
+         "sponsor_title": "Sen.",
+         "sponsor": "Richard M. Burr",
+         "sponsor_id": "B001135",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001135.json",
+         "sponsor_party": "R",
+         "sponsor_state": "NC",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s1761pcs/pdf/BILLS-115s1761pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1761",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1761",
+         "introduced_date": "2017-08-18",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Intelligence Committee",
+         "committee_codes": ["SLIN"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-07",
+         "latest_major_action": "By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-07",
+           "description": "By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-08-18",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 207."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-08-18",
+           "description": "Select Committee on Intelligence. Original measure reported to Senate by Senator Burr under authority of the order of the Senate of 08/03/2017. Without written report."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

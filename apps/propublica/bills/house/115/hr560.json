@@ -1,0 +1,129 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr560-115",
+         "bill_slug": "hr560",
+         "congress": "115",
+         "bill": "H.R.560",
+         "bill_type": "hr",
+         "number": "H.R.560",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr560.json",
+         "title": "To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes.",
+         "short_title": "To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom Marino",
+         "sponsor_id": "M001179",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001179.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr560rs/pdf/BILLS-115hr560rs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/560",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr560",
+         "introduced_date": "2017-01-13",
+         "active": true,
+         "house_passage": "2017-01-29",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-09",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-29",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) (Sec. 1) This bill amends the Delaware Water Gap National Recreation Area Improvement Act with respect to the prohibition against the use of Highway 209, a federally owned road within the boundaries of the Delaware Water Gap National Recreation Area in Pennsylvania, by certain commercial vehicles except as they serve businesses located within or in the vicinity of the recreation area.  The local business use exception to the prohibition is revised to permit, until September 30, 2021, the use of commercial vehicles with four or fewer axles that are: (1) owned and operated by a business located in the recreation area or one or more adjacent municipalities, or (2) necessary to provide services to businesses or persons located in the recreation area or one or more such municipalities.  The adjacent municipalities referred to are Delaware Township, Dingman Township, Lehman Township, Matamoras Borough, Middle Smithfield Township, Milford Borough, Milford Township, Smithfield Township, and Westfall Township in Pennsylvania.  The Department of the Interior shall establish a fee and permit program for the use of Highway 209 by commercial vehicles, including an annual fee of up to $200 per vehicle. All fees received shall be set aside in a special account and be available for the administration and enforcement of the program, including registering vehicles, issuing permits and vehicle identification stickers, and personnel costs.  The following vehicles may use Highway 209 without a fee or permit requirement:  local school buses; fire, ambulance, and other safety and emergency vehicles; and commercial vehicles along specified segments of the highway.  ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) (Sec. 1) This bill amends the Delaware Water Gap National Recreation Area Improvement Act with respect to the prohibition against the use of Highway 209, a federally owned road within the boundaries of the Delaware Water Gap National Recreation Area in Pennsylvania, by certain commercial vehicles except as they serve businesses located within or in the vicinity of th...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-05-09",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 64."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-09",
+           "description": "Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-51."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-03-30",
+           "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-07",
+           "description": "Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-31",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H717-718)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 560."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Considered under suspension of the rules. (consideration: CR H717-718)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-30",
+           "description": "Mr. McClintock moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-13",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

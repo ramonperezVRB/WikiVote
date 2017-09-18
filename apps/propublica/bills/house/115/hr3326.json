@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr3326-115",
+         "bill_slug": "hr3326",
+         "congress": "115",
+         "bill": "H.R.3326",
+         "bill_type": "hr",
+         "number": "H.R.3326",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr3326.json",
+         "title": "World Bank Accountability Act of 2017",
+         "short_title": "World Bank Accountability Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Andy Barr",
+         "sponsor_id": "B001282",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001282.json",
+         "sponsor_party": "R",
+         "sponsor_state": "KY",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr3326rh/pdf/BILLS-115hr3326rh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3326",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr3326",
+         "introduced_date": "2017-07-20",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Financial Services Committee",
+         "committee_codes": ["HSBA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-07",
+         "latest_major_action": "Placed on the Union Calendar, Calendar No. 214.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-09-07",
+           "description": "Placed on the Union Calendar, Calendar No. 214."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-09-07",
+           "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 115-298."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-25",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-20",
+           "description": "Referred to the House Committee on Financial Services."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

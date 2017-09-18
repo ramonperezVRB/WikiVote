@@ -1,0 +1,230 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1654-115",
+         "bill_slug": "hr1654",
+         "congress": "115",
+         "bill": "H.R.1654",
+         "bill_type": "hr",
+         "number": "H.R.1654",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1654.json",
+         "title": "Water Supply Permitting Coordination Act",
+         "short_title": "Water Supply Permitting Coordination Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tom McClintock",
+         "sponsor_id": "M001177",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/M001177.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1654rfs/pdf/BILLS-115hr1654rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1654",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1654",
+         "introduced_date": "2017-03-21",
+         "active": true,
+         "house_passage": "2017-06-21",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Water Resources Development",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII13"],
+         "latest_major_action_date": "2017-06-26",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": "2017-06-22",
+         "house_passage_vote": "2017-06-21",
+         "senate_passage_vote": null,
+         "summary": "Water Supply Permitting Coordination Act  (Sec. 3) This bill establishes the Bureau of Reclamation as the lead agency for purposes of coordinating all reviews, permits, licenses, or other approvals or decisions (reviews) required under federal law to construct new surface water storage projects in the states covered under the Reclamation Act on lands administered by the Department of the Interior or the Department of Agriculture, including state-led projects, exclusive of any easement, right-of-way, lease, or any private holding, unless the project applicant elects not to participate in the process authorized by this bill (qualifying projects). The Bureau: (1) upon receipt of an application for a qualifying project, shall identify any federal agency that may have jurisdiction over a required review; and (2) shall notify such agency that it has been designated as a cooperating agency unless specified conditions apply.  A state in which a qualifying project is being considered may choose to: (1) participate as a cooperating agency; and (2) make subject to the processes of this bill all state agencies that have jurisdiction over the project, are required to conduct or issue a review, or are required to make a determination on issuing a permit, license, or approval for the qualifying project. (Sec. 4) The principal responsibilities of the Bureau are to: (1) serve as the point of contact for applicants, state agencies, Indian tribes, and others regarding qualifying projects; (2) coordinate preparation of unified environmental documentation that will serve as the basis for all federal decisions necessary to authorize the use of federal lands for qualifying projects; and (3) coordinate all federal agency reviews necessary for the development and construction of qualifying projects. The Bureau shall notify cooperating agencies of proposed qualifying projects by 30 days after receipt of a proposal and facilitate a pre-application meeting for prospective applicants, relevant federal and state agencies, and Indian tribes to: (1) explain applicable processes, data requirements, and applicant submissions necessary to complete the required federal agency reviews within the time frame established; and (2) establish the schedule for the qualifying project. The Bureau shall work with the qualifying project applicant and cooperating agencies to establish a project schedule. In establishing the schedule, it shall consider:  the responsibilities of cooperating agencies under applicable laws and regulations; the resources available to such agencies and the non-federal qualifying project sponsor; the overall size, complexity, schedule for, and cost of the qualifying project; and the sensitivity of the natural and historic resources that may be affected.  The Bureau must:  prepare a unified environmental review document on which all cooperating agencies shall base project approval decisions; help ensure that cooperating agencies make necessary decisions regarding environmental compliance in accordance with specified time lines; maintain a consolidated administrative record of the information assembled and used by the cooperating agencies as the basis for agency decisions; ensure that all project data is submitted and maintained in generally accessible electronic format and make such project data available to cooperating agencies, the qualifying project applicant, and the public; and appoint a project manager for each qualifying project.  (Sec. 5) Each cooperating agency must submit to the Bureau: (1) a time frame for completing the agency's authorizing responsibilities, (2) all environmental review material produced in the course of carrying out activities required under federal law, consistent with the project schedule, and (3) all relevant project data in a generally accessible electronic format. (Sec. 6) The Department of the Interior, after public notice, may accept and expend funds contributed by a non-federal public entity to expedite the evaluation of a permit of that entity related to a qualifying project. Interior must ensure that all final permit decisions are made available to the public, including on the Internet.",
+         "summary_short": "Water Supply Permitting Coordination Act  (Sec. 3) This bill establishes the Bureau of Reclamation as the lead agency for purposes of coordinating all reviews, permits, licenses, or other approvals or decisions (reviews) required under federal law to construct new surface water storage projects in the states covered under the Reclamation Act on lands administered by the Department of the Interior or the Department of Agriculture, including state-led projects, exclusive of any easement, right-...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 22,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-26",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "On passage Passed by recorded vote: 233 - 180 (Roll no. 319)."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text of amendment in the nature of a substitute: CR H5087-5088)"
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1654."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the Lowenthal amendment No. 2."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 392, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment No. 1."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1654."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "The Speaker designated the Honorable Ted Poe to act as Chairman of the Committee."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 392 and Rule XVIII."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-22",
+           "description": "Considered under the provisions of rule H. Res. 392. (consideration: CR H5082-5095)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-21",
+           "description": "Rule H. Res. 392 passed House."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-20",
+           "description": "Rules Committee Resolution H. Res. 392 Reported to House. Rule provides for consideration of H.R. 1873 and 1654, with 1 hour of general debate for each bill. Previous question shall be considered as ordered without intervening motions except a motion to recommit with or without instructions on each bill. Both measures will be considered read and have specified amendments."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-06-12",
+           "description": "Placed on the Union Calendar, Calendar No. 111."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-12",
+           "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 115-166."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 16."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-27",
+           "description": "Subcommittee on Water, Power and Oceans Discharged."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-03-27",
+           "description": "Referred to the Subcommittee on Water, Power and Oceans."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-21",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-22",
+             "time": "16:32:00",
+             "roll_call": "319",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 233,
+             "total_no": 180,
+             "total_not_voting": 18,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/319.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-06-22",
+             "time": "16:12:00",
+             "roll_call": "318",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 179,
+             "total_no": 232,
+             "total_not_voting": 20,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/318.json"
+           }
+         ]
+
+      }
+   ]
+}

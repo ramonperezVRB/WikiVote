@@ -1,0 +1,157 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr321-115",
+         "bill_slug": "hr321",
+         "congress": "115",
+         "bill": "H.R.321",
+         "bill_type": "hr",
+         "number": "H.R.321",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr321.json",
+         "title": "Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act",
+         "short_title": "Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Barbara Comstock",
+         "sponsor_id": "C001105",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001105.json",
+         "sponsor_party": "R",
+         "sponsor_state": "VA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr321rfs/pdf/BILLS-115hr321rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/321",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr321",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-01-09",
+         "senate_passage": "2017-02-13",
+         "enacted": "2017-02-15",
+         "vetoed": null,
+         "cosponsors": 68,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM","HSSY"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-28",
+         "latest_major_action": "Became Public Law No: 115-7.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-09",
+         "senate_passage_vote": "2017-02-13",
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act (Sec. 3) This bill directs the National Aeronautics and Space Administration (NASA) to encourage women and girls to study science, technology, engineering, and mathematics (STEM), pursue careers in aerospace, and further advance the nation's space science and exploration efforts through support of the following initiatives:   NASA GIRLS and NASA BOYS; Aspire to Inspire; and  Summer Institute in Science, Technology, Engineering, and Research.   (Sec. 4) NASA shall submit to Congress a specified plan on how NASA can best facilitate and support both current and retired astronauts, scientists, engineers, and innovators, including early career female astronauts, scientists, engineers, and innovators, to engage with K-12 female STEM students and inspire the next generation of women to consider participating in STEM fields and to pursue careers in aerospace. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House passed version is repeated here.) Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act (Sec. 3) This bill directs the National Aeronautics and Space Administration (NASA) to encourage women and girls to study science, technology, engineering, and mathematics (STEM), pursue careers in aerospace, and further advance the nation's space science and exploration eff...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 15,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Became Public Law No: 115-7."
+         },
+                  {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-02-28",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-16",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-15",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-14",
+           "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S1163)"
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-02-01",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-02-01",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. Without written report."
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-01-24",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-11",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H270)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 321."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Considered under suspension of the rules. (consideration: CR H270-273)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-10",
+           "description": "Mrs. Comstock moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to the House Committee on Science, Space, and Technology."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

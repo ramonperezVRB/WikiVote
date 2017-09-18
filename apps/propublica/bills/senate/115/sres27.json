@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres27-115",
+         "bill_slug": "sres27",
+         "congress": "115",
+         "bill": "S.RES.27",
+         "bill_type": "sres",
+         "number": "S.RES.27",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres27.json",
+         "title": "A resolution honoring the life and achievements of Eugene A. \"Gene\" Cernan.",
+         "short_title": "A resolution honoring the life and achievements of Eugene A. \"Gene\" Cernan.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Ted Cruz",
+         "sponsor_id": "C001098",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001098.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres27ats/pdf/BILLS-115sres27ats.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/27",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres27",
+         "introduced_date": "2017-01-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 11,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Science, Technology, Communications",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-02",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S661)",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the life of Gene Cernan who was a Navy aviator, fighter pilot, electrical engineer, and the last astronaut to walk on the Moon. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Honors the life of Gene Cernan who was a Navy aviator, fighter pilot, electrical engineer, and the last astronaut to walk on the Moon. ",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S661)"
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-02",
+           "description": "Measure laid before Senate by unanimous consent. (consideration: CR S660-661)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-02",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-24",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S455)"
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

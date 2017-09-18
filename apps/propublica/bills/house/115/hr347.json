@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr347-115",
+         "bill_slug": "hr347",
+         "congress": "115",
+         "bill": "H.R.347",
+         "bill_type": "hr",
+         "number": "H.R.347",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr347.json",
+         "title": "DHS Acquisition Documentation Integrity Act of 2017",
+         "short_title": "DHS Acquisition Documentation Integrity Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Bonnie Watson Coleman",
+         "sponsor_id": "W000822",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000822.json",
+         "sponsor_party": "D",
+         "sponsor_state": "NJ",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr347ih/pdf/BILLS-115hr347ih.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/347",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr347",
+         "introduced_date": "2017-01-05",
+         "active": true,
+         "house_passage": "2017-01-30",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSHM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-01",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-01-30",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) DHS Acquisition Documentation Integrity Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to require the head of a relevant component or office to:   maintain acquisition documentation that is complete, accurate, timely, and valid and that includes operational requirements that are validated consistent with DHS policy, a complete lifecycle cost estimate, verification of such estimate against independent cost estimates, a cost-benefit analysis, and a schedule;  prepare cost estimates and schedules for major acquisition programs in a manner consistent with best practices as identified by the Government Accountability Office; and   submit certain acquisition documentation to DHS to produce an annual comprehensive report on the status of DHS acquisitions for submission to Congress.    DHS may waive such submission requirement for such a program for a fiscal year if the program: (1) has not entered the full rate production phase in the acquisition lifecycle, had a reasonable cost estimate established, and had a system configuration defined fully; or (2) does not meet the definition of capital asset, as defined by the Office of Management and Budget.  DHS shall make available to Congress, at the same time the President's budget is submitted for a fiscal year, information on the requirements of this Act in the prior fiscal year, including the following information regarding each program for which DHS has waived the submission requirement:   the grounds for granting a waiver for that program; the projected cost of that program; the proportion of a component's or office's annual acquisition budget attributed to that program; and information on the significance of the program with respect to the component's operations and execution of its mission.   The bill defines a \"major acquisition program\" as one that is estimated to require total expenditures of at least $300 million.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.) DHS Acquisition Documentation Integrity Act of 2017 (Sec. 2) This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security (DHS) to require the head of a relevant component or office to:   maintain acquisition documentation that is complete, accurate, timely, and valid and that includes operational requirements that are validated...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 7,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-01",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H790)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 347."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Considered under suspension of the rules. (consideration: CR H790-791)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Mr. Perry moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-05",
+           "description": "Referred to the House Committee on Homeland Security."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

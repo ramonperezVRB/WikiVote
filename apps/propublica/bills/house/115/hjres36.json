@@ -1,0 +1,153 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hjres36-115",
+         "bill_slug": "hjres36",
+         "congress": "115",
+         "bill": "H.J.RES.36",
+         "bill_type": "hjres",
+         "number": "H.J.RES.36",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres36.json",
+         "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to \"Waste Prevention, Production Subject to Royalties, and Resource Conservation\".",
+         "short_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to \"Waste Prevention, Production Subject to Royalties, and Resource Conservation\".",
+         "sponsor_title": "Rep.",
+         "sponsor": "Rob Bishop",
+         "sponsor_id": "B001250",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001250.json",
+         "sponsor_party": "R",
+         "sponsor_state": "UT",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hjres36rds/pdf/BILLS-115hjres36rds.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/36",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hjres36",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-02-02",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 40,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Energy",
+         "committees": "House Natural Resources Committee",
+         "committee_codes": ["HSII"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-05-10",
+         "latest_major_action": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 125.",
+         "last_vote_date": "2017-02-03",
+         "house_passage_vote": "2017-02-02",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule submitted by the Bureau of Land Management titled \"Waste Prevention, Production Subject to Royalties, and Resource Conservation.\"The rule published in the Federal Register on November 18, 2016, addresses waste generated during oil and gas production.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This joint resolution nullifies the rule submitted by the Bureau of Land Management titled \"Waste Prevention, Production Subject to Royalties, and Resource Conservation.\"The rule published in the Federal Register on November 18, 2016, addresses waste generated during oil and gas production.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-10",
+           "description": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 125."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-05-10",
+           "description": "Motion to proceed to consideration of measure made in Senate. (CR S2851)"
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-03",
+           "description": "Received in the Senate."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "On passage Passed by the Yeas and Nays: 221 - 191 (Roll no. 78). (text of measure as passed: CR H951)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 36."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "Both resolutions are closed to amendments. Rule provides for one hour of general debate on each resolution, and provides for one motion to recommit on each resolution."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-03",
+           "description": "Considered under the provisions of rule H. Res. 74. (consideration: CR H951-958)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-31",
+           "description": "Rules Committee Resolution H. Res. 74 Reported to House. Both resolutions are closed to amendments. Both resolutions provides for one hour of general debate, and provide for one motion to recommit."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-02-03",
+             "time": "10:34:00",
+             "roll_call": "78",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 221,
+             "total_no": 191,
+             "total_not_voting": 20,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/78.json"
+           },
+           {
+             "chamber": "Senate",
+             "date": "2017-05-10",
+             "time": "09:50:00",
+             "roll_call": "125",
+             "question": "On the Motion to Proceed",
+             "result": "Motion to Proceed Rejected",
+             "total_yes": 49,
+             "total_no": 51,
+             "total_not_voting": 0,
+             "api_url": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/125.json"
+           }
+         ]
+
+      }
+   ]
+}

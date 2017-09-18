@@ -1,0 +1,310 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr725-115",
+         "bill_slug": "hr725",
+         "congress": "115",
+         "bill": "H.R.725",
+         "bill_type": "hr",
+         "number": "H.R.725",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+         "title": "Innocent Party Protection Act",
+         "short_title": "Innocent Party Protection Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Ken Buck",
+         "sponsor_id": "B001297",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001297.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CO",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr725rfs/pdf/BILLS-115hr725rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/725",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr725",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-03-08",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 5,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Law",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU"],
+         "subcommittee_codes": ["HSJU10"],
+         "latest_major_action_date": "2017-03-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": "2017-03-09",
+         "house_passage_vote": "2017-03-08",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Innocent Party Protection Act (Sec. 2) This bill amends procedures under which federal courts determine whether a case that was removed from a state court to a federal court on the basis of a diversity of citizenship among the parties may be remanded back to state court upon a motion opposed on fraudulent joinder grounds that: (1) one or more defendants are citizens of the same state as one or more plaintiffs, or (2) one or more defendants properly joined and served are citizens of the state in which the action was brought. Joinder of such a defendant is fraudulent if the court finds:   actual fraud in the pleading of jurisdictional facts with respect to that defendant,    state law would not plausibly impose liability on that defendant,    state or federal law bars all claims in the complaint against that defendant, or     no good faith intention to prosecute the action against that defendant or to seek a joint judgment including that defendant.  In determining whether to grant or deny such a motion for remand, the court: (1) may permit pleadings to be amended; and (2) must consider the pleadings, affidavits, and other evidence submitted by the parties. A federal court finding that all such defendants have been fraudulently joined must: (1) dismiss without prejudice the claims against those defendants, and (2) deny the motion for remand. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Innocent Party Protection Act (Sec. 2) This bill amends procedures under which federal courts determine whether a case that was removed from a state court to a federal court on the basis of a diversity of citizenship among the parties may be remanded back to state court upon a motion opposed on fraudulent joinder grounds that: (1) one or more defendants are citizen...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 30,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 29,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule providing for consideration of H.R. 725"
+         },
+                  {
+           "id": 28,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Considered under the provisions of rule H. Res. 175. (consideration: CR H1968-1974; text of measure as reported in House: CR H1972)"
+         },
+                  {
+           "id": 27,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "On passage Passed by recorded vote: 224 - 194 (Roll no. 152)."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 187 - 233 (Roll no. 151)."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kuster (NH) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to add an exemption for any civil action brought forward that pertains to ethics in government."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Ms. Kuster (NH) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H2002)"
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 725."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "The House resolved into Committee of the Whole House on the state of the Union for further consideration."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Considered as unfinished business. (consideration: CR H2000-2004)"
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Committee of the Whole House on the state of the Union rises leaving H.R. 725 as unfinished business."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "On motion that the committee rise Agreed to by voice vote."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "Mr. Farenthold moved that the committee rise."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Cartwright amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Cartwright demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 175, the Committee of the Whole proceeded with 10 minutes of debate on the Cartwright amendment No. 2."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Soto amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Raskin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 175, the Committee of the Whole proceeded with 10 minutes of debate on the Soto amendment No. 1."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 725."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "The Speaker designated the Honorable Jody B. Hice to act as Chairman of the Committee."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-09",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 175 and Rule XVIII."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-08",
+           "description": "Rule H. Res. 175 passed House."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-07",
+           "description": "Rules Committee Resolution H. Res. 175 Reported to House. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Rule providing for consideration of H.R. 725"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-02-24",
+           "description": "Placed on the Union Calendar, Calendar No. 5."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-24",
+           "description": "Reported by the Committee on Judiciary. H. Rept. 115-17."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-31",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-09",
+             "time": "19:19:00",
+             "roll_call": "152",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 224,
+             "total_no": 194,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/152.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-09",
+             "time": "19:14:00",
+             "roll_call": "151",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 187,
+             "total_no": 233,
+             "total_not_voting": 9,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/151.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-09",
+             "time": "19:02:00",
+             "roll_call": "150",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 187,
+             "total_no": 229,
+             "total_not_voting": 13,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/150.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-09",
+             "time": "18:59:00",
+             "roll_call": "149",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 233,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/149.json"
+           }
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,150 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr609-115",
+         "bill_slug": "hr609",
+         "congress": "115",
+         "bill": "H.R.609",
+         "bill_type": "hr",
+         "number": "H.R.609",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr609.json",
+         "title": "To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the \"Abie Abraham VA Clinic\".",
+         "short_title": "To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the \"Abie Abraham VA Clinic\".",
+         "sponsor_title": "Rep.",
+         "sponsor": "Mike Kelly",
+         "sponsor_id": "K000376",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/K000376.json",
+         "sponsor_party": "R",
+         "sponsor_state": "PA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr609enr/pdf/BILLS-115hr609enr.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/609",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr609",
+         "introduced_date": "2017-01-23",
+         "active": true,
+         "house_passage": "2017-02-12",
+         "senate_passage": "2017-02-16",
+         "enacted": "2017-02-28",
+         "vetoed": null,
+         "cosponsors": 17,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "Senate Veterans' Affairs Committee",
+         "committee_codes": ["SSVA","HSVR"],
+         "subcommittee_codes": ["HSVR03"],
+         "latest_major_action_date": "2017-03-13",
+         "latest_major_action": "Became Public Law No: 115-9.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-02-12",
+         "senate_passage_vote": "2017-02-16",
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This bill designates the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the \"Abie Abraham VA Clinic.\"",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) This bill designates the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the \"Abie Abraham VA Clinic.\"",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 14,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-13",
+           "description": "Became Public Law No: 115-9."
+         },
+                  {
+           "id": 13,
+           "chamber": null,
+           "action_type": "President",
+           "datetime": "2017-03-13",
+           "description": "Signed by President."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-01",
+           "description": "Presented to President."
+         },
+                  {
+           "id": 11,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Message on Senate action sent to the House."
+         },
+                  {
+           "id": 10,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-02-17",
+           "description": "Passed Senate without amendment by Unanimous Consent."
+         },
+                  {
+           "id": 9,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-17",
+           "description": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S1415)"
+         },
+                  {
+           "id": 8,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-14",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1104-1105)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 609."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Considered under suspension of the rules. (consideration: CR H1104-1106)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-13",
+           "description": "Mr. Roe (TN) moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-03",
+           "description": "Referred to the Subcommittee on Health."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-23",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

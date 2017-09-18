@@ -1,0 +1,120 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres397-115",
+         "bill_slug": "hres397",
+         "congress": "115",
+         "bill": "H.RES.397",
+         "bill_type": "hres",
+         "number": "H.RES.397",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres397.json",
+         "title": "Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization's principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty.",
+         "short_title": "Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization's principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Paul D. Ryan",
+         "sponsor_id": "R000570",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000570.json",
+         "sponsor_party": "R",
+         "sponsor_state": "WI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres397eh/pdf/BILLS-115hres397eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/397",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres397",
+         "introduced_date": "2017-06-21",
+         "active": true,
+         "house_passage": "2017-06-26",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-06-27",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-06-27",
+         "house_passage_vote": "2017-06-26",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Reaffirms the U.S. commitment to the North Atlantic Treaty Organization's (NATO's) principle of collective defense.   Supports the decision at the NATO Wales Summit in 2014 that each member would spend at least 2% of its gross domestic product on defense by 2024.  Condemns any threat to the sovereignty, territorial integrity, freedom, and democracy of any NATO ally.  Welcomes the Republic of Montenegro as the 29th NATO member. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Reaffirms the U.S. commitment to the North Atlantic Treaty Organization's (NATO's) principle of collective defense.   Supports the decision at the NATO Wales Summit in 2014 that each member would spend at least 2% of its gross domestic product on defense by 2024.  Condemns any threat to the sovereignty, territorial integrity, freedom, and democracy of any NATO ally.  Welcomes the Republi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 4 (Roll no. 328). (text: CR H5211)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Considered as unfinished business. (consideration: CR H5217)"
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 397."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Considered under suspension of the rules. (consideration: CR H5211-5214)"
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-06-27",
+           "description": "Mr. Royce (CA) moved to suspend the rules and agree to the resolution."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-06-21",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-06-27",
+             "time": "16:14:00",
+             "roll_call": "328",
+             "question": "On Motion to Suspend the Rules and Agree",
+             "result": "Passed",
+             "total_yes": 423,
+             "total_no": 4,
+             "total_not_voting": 6,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/328.json"
+           }
+         ]
+
+      }
+   ]
+}

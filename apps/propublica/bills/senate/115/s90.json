@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s90-115",
+         "bill_slug": "s90",
+         "congress": "115",
+         "bill": "S.90",
+         "bill_type": "s",
+         "number": "S.90",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s90.json",
+         "title": "Red River Gradient Boundary Survey Act",
+         "short_title": "Red River Gradient Boundary Survey Act",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Cornyn",
+         "sponsor_id": "C001056",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001056.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s90rcs/pdf/BILLS-115s90rcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/90",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s90",
+         "introduced_date": "2017-01-10",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","SSJU"],
+         "subcommittee_codes": ["SSEG03"],
+         "latest_major_action_date": "2017-07-26",
+         "latest_major_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "Red River Gradient Boundary Survey Act This bill directs the Bureau of Land Management (BLM) to commission a survey to identify the South Bank boundary line with respect to land along a specified 116-mile stretch of the Red River in Oklahoma and Texas (the affected area).  The survey shall:  adhere to the gradient boundary survey method; span the length of the affected area; be conducted by surveyors who are licensed and qualified to conduct official gradient boundary surveys, and selected by and operating under the direction of the Texas General Land Office and the Oklahoma Commissioners of the Land Office (the offices); and be completed within two years of enactment of this bill.   The BLM shall submit the survey to the offices for approval and, within 60 days of receiving it, they shall determine whether to approve it.  Surveys of individual parcels in the affected area shall be conducted according to the requirements for the survey of the South Bank boundary line. A survey of such a parcel shall be approved or disapproved by the offices within 60 days of receipt. The survey for identifying the South Bank boundary line and any survey of an individual parcel shall not be submitted to the BLM for approval.  After a survey for an individual parcel has been approved, the offices shall submit to the BLM:   a notice of the approval of such survey, and  a copy of such survey and any field notes related to the parcel.  ",
+         "summary_short": "Red River Gradient Boundary Survey Act This bill directs the Bureau of Land Management (BLM) to commission a survey to identify the South Bank boundary line with respect to land along a specified 116-mile stretch of the Red River in Oklahoma and Texas (the affected area).  The survey shall:  adhere to the gradient boundary survey method; span the length of the affected area; be conducted by surveyors who are licensed and qualified to conduct official gradient boundary surveys, and selected by...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-07-26",
+           "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-28",
+           "description": "Referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-02-28",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-10",
+           "description": "Read twice and referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

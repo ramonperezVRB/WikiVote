@@ -1,0 +1,127 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hres11-115",
+         "bill_slug": "hres11",
+         "congress": "115",
+         "bill": "H.RES.11",
+         "bill_type": "hres",
+         "number": "H.RES.11",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres11.json",
+         "title": "Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.",
+         "short_title": "Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes.",
+         "sponsor_title": "Rep.",
+         "sponsor": "Edward Royce",
+         "sponsor_id": "R000487",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/R000487.json",
+         "sponsor_party": "R",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hres11eh/pdf/BILLS-115hres11eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-resolution/11",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hres11",
+         "introduced_date": "2017-01-03",
+         "active": true,
+         "house_passage": "2017-01-04",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 134,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "International Affairs",
+         "committees": "House Foreign Affairs Committee",
+         "committee_codes": ["HSFA"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-01-05",
+         "latest_major_action": "Motion to reconsider laid on the table Agreed to without objection.",
+         "last_vote_date": "2017-01-05",
+         "house_passage_vote": "2017-01-04",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the House of Representatives that the passage of U.N. Security Council Resolution 2334:  undermined the long-standing U.S. position to oppose and veto Security Council resolutions that seek to impose solutions to final status issues or that are one-sided and anti-Israel;  undermines the prospect of Israelis and Palestinians resuming productive, direct negotiations; and  contributes to the politically motivated acts of boycott, divestment from, and sanctions against Israel and represents a concerted effort to extract concessions from Israel outside of direct negotiations between the Israelis and Palestinians, which must be actively rejected.   Such resolution characterizes Israeli settlements in the West Bank and East Jerusalem as illegal and demands cessation of settlement activities. Declares that:  any future measures taken in international or outside organizations to impose an agreement including the recognition of a Palestinian state will set back the cause of peace, harm the security of Israel, run counter to the enduring bipartisan consensus on strengthening the U.S.-Israel relationship, and weaken support for such organizations;  a sustainable peace agreement between Israel and the Palestinians will come only through direct bilateral negotiations between the parties resulting in a Jewish, democratic state living next to a demilitarized Palestinian state in peace and security;  the United States should work to facilitate direct negotiations between the parties without preconditions toward a peace agreement; and  the U.S. government should oppose and veto future Security Council resolutions that seek to impose solutions to final status issues or that are one-sided and anti-Israel.   Declares that the House opposes Security Council Resolution 2334 and will work to strengthen the U.S.-Israel relationship.  Calls for such resolution to be repealed or fundamentally altered.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Expresses the sense of the House of Representatives that the passage of U.N. Security Council Resolution 2334:  undermined the long-standing U.S. position to oppose and veto Security Council resolutions that seek to impose solutions to final status issues or that are one-sided and anti-Israel;  undermines the prospect of Israelis and Palestinians resuming productive, direct negotiations;...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 342 - 80, 4 Present (Roll no. 11). (text: CR H146-147)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 11."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "Considered under the provisions of rule H. Res. 22. (consideration: CR H146-165)"
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-05",
+           "description": "Rule H. Res. 22 passed House."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-01-04",
+           "description": "Rules Committee Resolution H. Res. 22 Reported to House. Both measures shall be considered as read, the previous questions shall be considered as ordered without intervening motion or demand for division of the question except one hour of debate. The rule makes in order a motion to recommit H.R. 26 with or without instructions."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Foreign Affairs."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-01-05",
+             "time": "19:05:00",
+             "roll_call": "11",
+             "question": "On Agreeing to the Resolution",
+             "result": "Passed",
+             "total_yes": 342,
+             "total_no": 80,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/11.json"
+           }
+         ]
+
+      }
+   ]
+}

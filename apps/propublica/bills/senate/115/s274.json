@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s274-115",
+         "bill_slug": "s274",
+         "congress": "115",
+         "bill": "S.274",
+         "bill_type": "s",
+         "number": "S.274",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s274.json",
+         "title": "A bill to nullify the effect of the recent executive order that temporarily restricted individuals from certain countries from entering the United States.",
+         "short_title": "A bill to nullify the effect of the recent executive order that temporarily restricted individuals from certain countries from entering the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Dianne Feinstein",
+         "sponsor_id": "F000062",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/F000062.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s274pcs/pdf/BILLS-115s274pcs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/274",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s274",
+         "introduced_date": "2017-02-01",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 46,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Immigration",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-02-02",
+         "latest_major_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill rescinds the provisions of Executive Order 13769, entitled \"Protecting the Nation from Foreign Terrorist Entry into the United States,\" effective as of January 27, 2017. Among the order's major provisions are restrictions on the entry of immigrants and nonimmigrants from seven countries (Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen) and additional limitations on refugee admissions to the United States.",
+         "summary_short": "This bill rescinds the provisions of Executive Order 13769, entitled \"Protecting the Nation from Foreign Terrorist Entry into the United States,\" effective as of January 27, 2017. Among the order's major provisions are restrictions on the entry of immigrants and nonimmigrants from seven countries (Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen) and additional limitations on refugee admissions to the United States.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-02-02",
+           "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 7."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-02-01",
+           "description": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres230-115",
+         "bill_slug": "sres230",
+         "congress": "115",
+         "bill": "S.RES.230",
+         "bill_type": "sres",
+         "number": "S.RES.230",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres230.json",
+         "title": "A resolution designating the week of September 16 through September 23, 2017, as \"National Estuaries Week\".",
+         "short_title": "A resolution designating the week of September 16 through September 23, 2017, as \"National Estuaries Week\".",
+         "sponsor_title": "Sen.",
+         "sponsor": "Sheldon Whitehouse",
+         "sponsor_id": "W000802",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000802.json",
+         "sponsor_party": "D",
+         "sponsor_state": "RI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres230is/pdf/BILLS-115sres230is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/230",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres230",
+         "introduced_date": "2017-07-24",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 28,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Environmental Protection",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-08-03",
+         "latest_major_action": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of September 16-September 23, 2017, as National Estuaries Week.",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary of that version is repeated here.) Designates the week of September 16-September 23, 2017, as National Estuaries Week.",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 5,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-08-03",
+           "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+         },
+                  {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-03",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Discharge",
+           "datetime": "2017-08-03",
+           "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4894)"
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-24",
+           "description": "Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4139)"
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-24",
+           "description": "Referred to the Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

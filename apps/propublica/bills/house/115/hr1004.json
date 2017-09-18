@@ -1,0 +1,301 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1004-115",
+         "bill_slug": "hr1004",
+         "congress": "115",
+         "bill": "H.R.1004",
+         "bill_type": "hr",
+         "number": "H.R.1004",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+         "title": "Regulatory Integrity Act of 2017",
+         "short_title": "Regulatory Integrity Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Tim Walberg",
+         "sponsor_id": "W000798",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/W000798.json",
+         "sponsor_party": "R",
+         "sponsor_state": "MI",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1004eh/pdf/BILLS-115hr1004eh.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1004",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1004",
+         "introduced_date": "2017-02-13",
+         "active": true,
+         "house_passage": "2017-03-01",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 8,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Government Operations and Politics",
+         "committees": "Senate Homeland Security and Governmental Affairs Committee",
+         "committee_codes": ["SSGA","HSGO"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-03-02",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+         "last_vote_date": "2017-03-02",
+         "house_passage_vote": "2017-03-01",
+         "senate_passage_vote": null,
+         "summary": "Regulatory Integrity Act of 2017 (Sec. 2) This bill directs each executive agency to make publicly available on the agency website or in the rulemaking docket on Regulations.gov a list of pending agency regulatory actions and for each such action:    the date the agency began to develop or consider the action, its status, an estimate of the date it will be final and in effect, a brief description of such action, and a list of any applicable agency regulatory actions issued by the agency, or any other executive agency, that duplicate or overlap with the regulatory action; and   a list of each public communication about the action issued by the agency, including the date of the communication, its intended audience, the method of communication, and a copy of the original communication.   Each agency shall publish the information required within 24 hours after such communication is issued and maintain the public availability of such information for at least five years after the action is finalized. Any public communication issued by an agency that refers to a pending agency regulatory action shall specify whether the agency is considering alternatives and accepting comments and must expressly disclose that the agency is the source of the information to the intended recipients. Except for impartial communications that request comment on or provide information regarding the pending regulatory action, such a public communication referring to a pending action may not: (1) directly advocate, in support of or against the pending action, for the submission of information; (2) appeal to the public, or solicit a third party, to undertake such advocacy; or (3) be for publicity or propaganda purposes unless authorized by law.  An agency that communicated about a pending agency regulatory action during the previous fiscal year shall submit to each congressional committee with jurisdiction over the agency's activities, by January 15 of each year, a report indicating:   the number of pending agency regulatory actions the agency issued public communications about during that fiscal year,  the average number of public communications issued by the agency for each such action, and   the five pending actions with the highest number of public communications issued by the agency in that fiscal year and a copy of each such communication.  The report shall be made publicly available on the agency's website.",
+         "summary_short": "Regulatory Integrity Act of 2017 (Sec. 2) This bill directs each executive agency to make publicly available on the agency website or in the rulemaking docket on Regulations.gov a list of pending agency regulatory actions and for each such action:    the date the agency began to develop or consider the action, its status, an estimate of the date it will be final and in effect, a brief description of such action, and a list of any applicable agency regulatory actions issued by the agency, or a...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 27,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-02",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "On passage Passed by recorded vote: 246 - 176 (Roll no. 126)."
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 189 - 232 (Roll no. 125)."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. Pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments to prevent the President from making public references to businesses in which he has an equity interest. Subsequently, the point of order was withdrawn."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "Ms. Jayapal moved to recommit with instructions to the Committee on Oversight and Government Reform. (text: CR H1481-1482)"
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1004."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 156, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 3."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Farenthold amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Raskin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 156, the Committee of the Whole proceeded with 10 minutes of debate on the Farenthold Part A amendment No. 2."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "DEBATE - Pursuant to the provisions of H. Res. 156, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 1."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1004."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 156 and Rule XVIII."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "Providing for consideration of H.R. 1004 and H.R. 1009."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-02",
+           "description": "Considered under the provisions of rule H. Res. 156. (consideration: CR H1469-1484; text of measure as reported in House: CR H1474)"
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-02-28",
+           "description": "Rules Committee Resolution H. Res. 156 Reported to House. Providing for consideration of H.R. 1004 and H.R. 1009."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-02-21",
+           "description": "Placed on the Union Calendar, Calendar No. 3."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-21",
+           "description": "Reported by the Committee on Oversight and Government Reform. H. Rept. 115-15."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-14",
+           "description": "Ordered to be Reported by the Yeas and Nays: 22 - 16."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-14",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-13",
+           "description": "Referred to the House Committee on Oversight and Government Reform."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-02",
+             "time": "11:14:00",
+             "roll_call": "126",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 246,
+             "total_no": 176,
+             "total_not_voting": 7,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/126.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-02",
+             "time": "11:07:00",
+             "roll_call": "125",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 232,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/125.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-02",
+             "time": "10:50:00",
+             "roll_call": "124",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 232,
+             "total_not_voting": 8,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/124.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-02",
+             "time": "10:43:00",
+             "roll_call": "123",
+             "question": "On Agreeing to the Amendment",
+             "result": "Agreed to",
+             "total_yes": 263,
+             "total_no": 145,
+             "total_not_voting": 21,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/123.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-02",
+             "time": "10:38:00",
+             "roll_call": "122",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 180,
+             "total_no": 234,
+             "total_not_voting": 15,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/122.json"
+           }
+         ]
+
+      }
+   ]
+}

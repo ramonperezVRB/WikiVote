@@ -1,0 +1,136 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr1913-115",
+         "bill_slug": "hr1913",
+         "congress": "115",
+         "bill": "H.R.1913",
+         "bill_type": "hr",
+         "number": "H.R.1913",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1913.json",
+         "title": "Clear Creek National Recreation Area and Conservation Act",
+         "short_title": "Clear Creek National Recreation Area and Conservation Act",
+         "sponsor_title": "Rep.",
+         "sponsor": "Jimmy Panetta",
+         "sponsor_id": "P000613",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000613.json",
+         "sponsor_party": "D",
+         "sponsor_state": "CA",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr1913rfs/pdf/BILLS-115hr1913rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1913",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr1913",
+         "introduced_date": "2017-04-05",
+         "active": true,
+         "house_passage": "2017-07-10",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Energy and Natural Resources Committee",
+         "committee_codes": ["SSEG","HSII"],
+         "subcommittee_codes": ["HSII10"],
+         "latest_major_action_date": "2017-07-12",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+         "last_vote_date": null,
+         "house_passage_vote": "2017-07-10",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)Clear Creek National Recreation Area and Conservation Act  (Sec. 3) This bill establishes the Clear Creek National Recreation Area in California to promote environmentally responsible off-highway vehicle recreation and support other public recreational uses, including hunting, hiking, and rock and gem collecting.  (Sec. 4) The Department of the Interior shall:   prioritize environmentally responsible off-highway vehicle recreation and also facilitate hunting, hiking, gem collecting, and the use of motorized vehicles, mountain bikes, and horses;  issue special recreation permits for motorized and nonmotorized events; and  reopen the Clear Creek Management Area to such uses.   Interior shall use the 2006 Clear Creek Management Area Resource Management Plan Amendment and Route Designation Record of Decision, as modified by this bill or by Interior, to incorporate natural resource protection information unavailable in 2006 as the basis for an interim management plan to govern off-highway vehicle recreation in the recreation area.  Interior shall create a comprehensive management plan for the recreation area, which shall include:   a hazards education program to inform people entering the recreation area of the asbestos-related risks associated with various activities within the recreation area, including off-highway vehicle recreation; and  a user fee program for motorized vehicle use and guidelines for the use of the funds collected for the management and improvement of the recreation area.   Interior may acquire by purchase from willing sellers, donation, or exchange:   lands adjacent to the recreation area, and  lands or interests in land to improve public safety in allowing access to the recreation area.   Landowners must be given adequate access to inholdings within the recreation area. Private land adjacent to the recreation area to which there is no practicable access except through the recreation area shall be managed as an inholding.  Nothing in this bill:   creates a protective perimeter or buffer zone around the recreation area,  constitutes a reservation by the United States of any water or water rights,  limits hunting or fishing, or  affects state authority to manage or regulated fish and resident wildlife.   The use of motorized vehicles on public land in the recreation area shall be permitted only on roads, trails, and areas designated by the management plan.  Livestock grazing shall be allowed to continue in certain parts of the recreation area.  The bill withdraws all federal land within the recreation area from: (1) all forms of entry, appropriations, and disposal under the public land laws; (2) location, entry, and patenting under the mining laws; and (3) operation of the mineral leasing, mineral materials, and geothermal leasing laws.  The National Oil and Hazardous Substances Pollution Contingency Plan shall not apply to Interior's management of asbestos exposure risks faced by the public when recreating within the recreation area.  (Sec. 5) The bill designates approximately 21,000 acres of identified federal lands in Fresno and San Benito Counties, California, as the Joaquin Rocks Wilderness and as a component of the National Wilderness Preservation System.  (Sec. 6) The bill also releases the San Benito Mountain Wilderness Study Area from specified requirements applicable to public lands subject to a wilderness review.  (Sec. 7) No additional funds are authorized to carry out this bill's requirements, and those requirements shall be carried out using amounts otherwise authorized. ",
+         "summary_short": "(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)Clear Creek National Recreation Area and Conservation Act  (Sec. 3) This bill establishes the Clear Creek National Recreation Area in California to promote environmentally responsible off-highway vehicle recreation and support other public recreational uses, including hunting, hiking, and rock and gem collecting.  (Sec. 4) The Department of the Interior shall:   pr...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 12,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-07-12",
+           "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5409-5410)"
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1913."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Considered under suspension of the rules. (consideration: CR H5409-5411)"
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-07-11",
+           "description": "Mr. LaHood moved to suspend the rules and pass the bill."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-07-11",
+           "description": "Placed on the Union Calendar, Calendar No. 146."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-07-11",
+           "description": "Reported by the Committee on Natural Resources. H. Rept. 115-209."
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Ordered to be Reported by Unanimous Consent."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-06-27",
+           "description": "Committee Consideration and Mark-up Session Held."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-04-17",
+           "description": "Referred to the Subcommittee on Federal Lands."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-04-05",
+           "description": "Referred to the House Committee on Natural Resources."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

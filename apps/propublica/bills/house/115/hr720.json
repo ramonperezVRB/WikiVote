@@ -1,0 +1,313 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr720-115",
+         "bill_slug": "hr720",
+         "congress": "115",
+         "bill": "H.R.720",
+         "bill_type": "hr",
+         "number": "H.R.720",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+         "title": "Lawsuit Abuse Reduction Act of 2017",
+         "short_title": "Lawsuit Abuse Reduction Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Lamar Smith",
+         "sponsor_id": "S000583",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/S000583.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115hr720rfs/pdf/BILLS-115hr720rfs.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/720",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr720",
+         "introduced_date": "2017-01-30",
+         "active": true,
+         "house_passage": "2017-03-09",
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 7,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Law",
+         "committees": "Senate Judiciary Committee",
+         "committee_codes": ["SSJU","HSJU"],
+         "subcommittee_codes": ["HSJU10"],
+         "latest_major_action_date": "2017-03-13",
+         "latest_major_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+         "last_vote_date": "2017-03-10",
+         "house_passage_vote": "2017-03-09",
+         "senate_passage_vote": null,
+         "summary": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Lawsuit Abuse Reduction Act of 2017 (Sec. 2) This bill amends the sanctions provisions in Rule 11 of the Federal Rules of Civil Procedure to require the court to impose an appropriate sanction on any attorney, law firm, or party that has violated, or is responsible for the violation of, the rule with regard to representations to the court. Any sanction must compensate parties injured by the conduct in question. The bill removes a provision that prohibits filing a motion for sanctions if the challenged paper, claim, defense, contention, or denial is withdrawn or appropriately corrected within 21 days after service or within another time the court sets.  Courts may impose additional sanctions, including striking the pleadings, dismissing the suit, nonmonetary directives, or penalty payments if warranted for effective deterrence.",
+         "summary_short": "(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) Lawsuit Abuse Reduction Act of 2017 (Sec. 2) This bill amends the sanctions provisions in Rule 11 of the Federal Rules of Civil Procedure to require the court to impose an appropriate sanction on any attorney, law firm, or party that has violated, or is responsible for the violation of, the rule with regard to representations to the court. Any sanction must compens...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 27,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-03-13",
+           "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+         },
+                  {
+           "id": 26,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "Motion to reconsider laid on the table Agreed to without objection."
+         },
+                  {
+           "id": 25,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "On passage Passed by recorded vote: 230 - 188 (Roll no. 158). (text: CR H2030)"
+         },
+                  {
+           "id": 24,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "On motion to recommit with instructions Failed by recorded vote: 186 - 232 (Roll no. 157)."
+         },
+                  {
+           "id": 23,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "The previous question on the motion to recommit with instructions was ordered without objection."
+         },
+                  {
+           "id": 22,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back with an amendment to add a section at the end of the bill prohibiting language to be construed to apply to a civil action that implicates the foreign emoluments clause of the United States Constitution."
+         },
+                  {
+           "id": 21,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "Ms. Lofgren moved to recommit with instructions to the Committee on the Judiciary. (text: CR H2039)"
+         },
+                  {
+           "id": 20,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "The previous question was ordered pursuant to the rule."
+         },
+                  {
+           "id": 19,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 720."
+         },
+                  {
+           "id": 18,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on amendments which had been debated earlier and on which further proceedings had been postponed."
+         },
+                  {
+           "id": 17,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jeffries amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Jeffries demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 16,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 180, the Committee of the Whole proceeded with 10 minutes of debate on the Jeffries Part A amendment No. 4."
+         },
+                  {
+           "id": 15,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Conyers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 14,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 180, the Committee of the Whole proceeded with 10 minutes of debate on the Conyers Part A amendment No. 3."
+         },
+                  {
+           "id": 13,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 12,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 180, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee Part A amendment No. 2."
+         },
+                  {
+           "id": 11,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Soto amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Soto demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced."
+         },
+                  {
+           "id": 10,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "DEBATE - Pursuant to the provisions of H.Res. 180, the Committee of the Whole proceeded with 10 minutes of debate on the Soto Part A amendment No. 1."
+         },
+                  {
+           "id": 9,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 720."
+         },
+                  {
+           "id": 8,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "The Speaker designated the Honorable Evan H. Jenkins to act as Chairman of the Committee."
+         },
+                  {
+           "id": 7,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 180 and Rule XVIII."
+         },
+                  {
+           "id": 6,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "Providing for consideration of the bills H.R. 720 and H.R. 985."
+         },
+                  {
+           "id": 5,
+           "chamber": "House",
+           "action_type": "Floor",
+           "datetime": "2017-03-10",
+           "description": "Considered under the provisions of rule H. Res. 180. (consideration: CR H2025-2041)"
+         },
+                  {
+           "id": 4,
+           "chamber": "House",
+           "action_type": "Calendars",
+           "datetime": "2017-02-24",
+           "description": "Placed on the Union Calendar, Calendar No. 4."
+         },
+                  {
+           "id": 3,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-02-24",
+           "description": "Reported by the Committee on Judiciary. H. Rept. 115-16."
+         },
+                  {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-31",
+           "description": "Referred to the Subcommittee on the Constitution and Civil Justice."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-30",
+           "description": "Referred to the House Committee on the Judiciary."
+         }
+         ],
+         "votes": [
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "11:29:00",
+             "roll_call": "158",
+             "question": "On Passage",
+             "result": "Passed",
+             "total_yes": 230,
+             "total_no": 188,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/158.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "11:18:00",
+             "roll_call": "157",
+             "question": "On Motion to Recommit with Instructions",
+             "result": "Failed",
+             "total_yes": 186,
+             "total_no": 232,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/157.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "11:02:00",
+             "roll_call": "156",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 189,
+             "total_no": 229,
+             "total_not_voting": 11,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/156.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "10:58:00",
+             "roll_call": "155",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 190,
+             "total_no": 227,
+             "total_not_voting": 12,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/155.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "10:53:00",
+             "roll_call": "154",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 185,
+             "total_no": 225,
+             "total_not_voting": 19,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/154.json"
+           },
+           {
+             "chamber": "House",
+             "date": "2017-03-10",
+             "time": "10:49:00",
+             "roll_call": "153",
+             "question": "On Agreeing to the Amendment",
+             "result": "Failed",
+             "total_yes": 181,
+             "total_no": 225,
+             "total_not_voting": 23,
+             "api_url": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/153.json"
+           }
+         ]
+
+      }
+   ]
+}
