@@ -12,6 +12,7 @@
 SESSION=115
 CHAMBER=$1
 TYPE=Active
+MEMBER_PATH=~/apps/propublica/members/$CHAMBER/$SESSION
 LIST_FILE=~/apps/scripts/list.txt
 
 #Build a text file that will ultimately be uploaded to WikiVote
@@ -40,8 +41,14 @@ BILL="$(jq '.results[].bill' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${BILL}"
 TITLE="$(jq '.results[].title' ${FILE} | sed -e 's/\"//g' -e 's/\\//g')"
 #echo "${TITLE}"
-SPONSOR_ID="$(jq '.results[].sposor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+SPONSOR_ID="$(jq '.results[].sponsor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SPONSOR_ID}"
+TITLE="$(jq '.results[].sponsor_title' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+NAME="$(jq '.results[].sponsor_name' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+SPONSOR_NAME="${TITLE} ${NAME}"
+echo "${SPONSOR_NAME}"
+SPONSOR_URL="$(jq '.results[].url' ${MEMBER_PATH}/${SPONSOR_ID} | sed -e 's/^"//' -e 's/"$//')"
+echo "${SPONSOR_URL}"
 
 #Add the bill number and title to a new line in the table
 ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${TITLE} "
