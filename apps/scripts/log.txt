@@ -74,3 +74,5 @@ This script added 0 new senate bills to WikiVote for the 115th Congress on Tue S
 This script added 0 new senate bills to WikiVote for the 115th Congress on Tue Sep 19 03:36:32 UTC 2017
 This script added 0 new house bills to WikiVote for the 115th Congress on Tue Sep 19 03:43:20 UTC 2017
 This script added 0 new senate bills to WikiVote for the 115th Congress on Tue Sep 19 03:45:59 UTC 2017
+This script added 0 new house bills to WikiVote for the 115th Congress on Tue Sep 19 04:06:26 UTC 2017
+This script added 0 new house bills to WikiVote for the 115th Congress on Tue Sep 19 04:17:47 UTC 2017

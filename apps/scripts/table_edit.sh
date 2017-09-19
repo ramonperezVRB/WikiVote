@@ -63,9 +63,9 @@ fi
 ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${SPONSOR} [${URL}] || ${TITLE} "
 #echo "${ADD_TEXT}"
 
-if [ "$BILL" != "null" ]; then
+if [ "$BILL" != "null" ] && [ !-z "$BILL" ]; then
 	if [ -f "$LIST_FILE" ]
-	then 
+	then
     		echo "$ADD_TEXT" >> "$LIST_FILE"
 	fi
 fi

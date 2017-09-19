@@ -8,7 +8,7 @@
 |-
 | [[H.CON.RES.1]] || Rep. Pete Sessions [https://sessions.house.gov/] || Regarding consent to assemble outside the seat of government. 
 |-
-| [[H.CON.RES.23]] || Rep. Michael C. Burgess [www.house.gov] || Providing for a joint session of Congress to receive a message from the President. 
+| [[H.CON.RES.23]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Providing for a joint session of Congress to receive a message from the President. 
 |-
 | [[H.CON.RES.33]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library. 
 |-
@@ -94,7 +94,7 @@
 |-
 | [[H.R.1135]] || Rep. James E. Clyburn [http://clyburn.house.gov/] || To reauthorize the Historically Black Colleges and Universities Historic Preservation program. 
 |-
-| [[H.R.115]] || Rep. Vern Buchanan [www.house.gov] || Thin Blue Line Act 
+| [[H.R.115]] || Rep. Vern Buchanan [https://buchanan.house.gov/] || Thin Blue Line Act 
 |-
 | [[H.R.1162]] || Rep. Steve Knight [https://knight.house.gov/] || No Hero Left Untreated Act 
 |-
@@ -222,7 +222,7 @@
 |-
 | [[H.R.1667]] || Rep. Tom Marino [https://marino.house.gov/] || Financial Institution Bankruptcy Act of 2017 
 |-
-| [[H.R.1677]] || Rep. Eliot L. Engel [https://engel.house.gov/] || Caesar Syria Civilian Protection Act of 2017 
+| [[H.R.1677]] || Rep. Eliot L. Engel [www.house.gov] || Caesar Syria Civilian Protection Act of 2017 
 |-
 | [[H.R.1678]] || Rep. Lois Frankel [https://frankel.house.gov/] || To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes. 
 |-
@@ -512,7 +512,7 @@
 |-
 | [[H.R.3115]] || Rep. Rick Nolan [https://nolan.house.gov/] || Superior National Forest Land Exchange Act of 2017 
 |-
-| [[H.R.315]] || Rep. Michael C. Burgess [www.house.gov] || Improving Access to Maternity Care Act 
+| [[H.R.315]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Improving Access to Maternity Care Act 
 |-
 | [[H.R.3162]] || Rep. Kevin Yoder [https://yoder.house.gov/] || Legislative Branch Appropriations Act, 2018 
 |-
@@ -642,9 +642,9 @@
 |-
 | [[H.R.526]] || Rep. John Katko [https://katko.house.gov/] || Counterterrorism Advisory Board Act of 2017 
 |-
-| [[H.R.534]] || Rep. Tom Emmer [https://emmer.house.gov/] || U.S. Wants to Compete for a World Expo Act 
+| [[H.R.534]] || Rep. Tom Emmer [www.house.gov] || U.S. Wants to Compete for a World Expo Act 
 |-
-| [[H.R.538]] || Rep. Sanford D. Bishop Jr. [www.house.gov] || Ocmulgee Mounds National Historical Park Boundary Revision Act 
+| [[H.R.538]] || Rep. Sanford D. Bishop Jr. [https://bishop.house.gov/] || Ocmulgee Mounds National Historical Park Boundary Revision Act 
 |-
 | [[H.R.549]] || Rep. Daniel M. Donovan [https://donovan.house.gov/] || Transit Security Grant Program Flexibility Act 
 |-
@@ -804,7 +804,7 @@
 |-
 | [[H.RES.11]] || Rep. Edward Royce [https://royce.house.gov/] || Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
 |-
-| [[H.RES.123]] || Rep. Michael C. Burgess [www.house.gov] || Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska; and providing for proceedings during the period from February 17, 2017, through February 24, 2017. 
+| [[H.RES.123]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska; and providing for proceedings during the period from February 17, 2017, through February 24, 2017. 
 |-
 | [[H.RES.127]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
@@ -852,7 +852,7 @@
 |-
 | [[H.RES.22]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
 |-
-| [[H.RES.230]] || Rep. Michael C. Burgess [www.house.gov] || Providing for consideration of the joint resolution (S.J. Res. 34) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
+| [[H.RES.230]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Providing for consideration of the joint resolution (S.J. Res. 34) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
 |-
 | [[H.RES.233]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes. 
 |-
