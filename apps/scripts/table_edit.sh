@@ -50,9 +50,9 @@ SPONSOR_URL="$(jq '.results[].url' ${MEMBER_PATH}/${SPONSOR_ID}.json | sed -e 's
 #echo "${SPONSOR_URL}"
 
 if [ "$SPONSOR_URL" = "null" ]; then
-	URL="www.${CHAMBER}.gov"
+	URL="https://www.${CHAMBER}.gov/"
 elif [ -z "$SPONSOR_URL" ]; then
-	URL="www.${CHAMBER}.gov"
+	URL="https://www.${CHAMBER}.gov/"
 else
 	URL="${SPONSOR_URL}"
 fi
@@ -63,11 +63,19 @@ fi
 ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${SPONSOR} [${URL}] || ${TITLE} "
 #echo "${ADD_TEXT}"
 
-if [ "$BILL" != "null" ] && [ !-z "$BILL" ]; then
-	if [ -f "$LIST_FILE" ]
+if [ "$BILL" != "null" ]
+then
+	if [ -z "$BILL" ]
 	then
-    		echo "$ADD_TEXT" >> "$LIST_FILE"
+		echo "Bill number missing"
+	else
+		if [ -f "$LIST_FILE" ]
+		then
+    			echo "$ADD_TEXT" >> "$LIST_FILE"
+		fi
 	fi
+else
+	echo "Bill number missing"
 fi
 
 #End the loop
