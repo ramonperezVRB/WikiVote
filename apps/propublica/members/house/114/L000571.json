@@ -1,0 +1,209 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000571",
+         
+         "first_name": "Cynthia",
+         "middle_name": "M.",
+         "last_name": "Lummis",
+         "date_of_birth": "1954-09-10",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412294",
+         "cspan_id": "1031365",
+         "votesmart_id": null,
+         "icpsr_id": "20953",
+         "twitter_account": "CynthiaLummis",
+         "facebook_account": "152754318103332",
+         "youtube_account": "CynthiaLummis",
+         "crp_id": null,
+         "google_entity_id": "/m/02qvjv3",
+         "rss_url": "http://lummis.house.gov/news/rss.aspx",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "WY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8WY00148",
+           "seniority": "8",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:wy/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 187,
+           "missed_votes_pct": 2.26,
+           "votes_with_party_pct": 91.89,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSGO.json",
+             "rank_in_party": 12,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 9,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "WY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:wy/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 272,
+           "missed_votes_pct": 3.52,
+           "votes_with_party_pct": 90.35,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSGO.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 15,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "WY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:wy/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 259,
+           "missed_votes_pct": 3.11,
+           "votes_with_party_pct": 89.78,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAP.json",
+             "rank_in_party": 25,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "WY",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:wy/cd:1",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 288,
+           "missed_votes_pct": 1.27,
+           "votes_with_party_pct": 90.93,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAG.json",
+             "rank_in_party": 17,
+             "begin_date": "2009-02-04",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBU.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 18,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

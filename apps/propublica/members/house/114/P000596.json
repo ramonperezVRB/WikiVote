@@ -1,0 +1,225 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "P000596",
+         
+         "first_name": "Pedro",
+         "middle_name": null,
+         "last_name": "Pierluisi",
+         "date_of_birth": "1959-04-26",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412306",
+         "cspan_id": "1031305",
+         "votesmart_id": null,
+         "icpsr_id": null,
+         "twitter_account": "PedroPierluisi",
+         "facebook_account": "pedropierluisi",
+         "youtube_account": "PierluisiCongress",
+         "crp_id": null,
+         "google_entity_id": "/m/02r7csl",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Resident Commissioner",
+           "state": "PR",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8PR00062",
+           "seniority": "8",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:pr/cd:80",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 123,
+           "missed_votes_pct": null,
+           "votes_with_party_pct": null,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSJU.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Resident Commissioner",
+           "state": "PR",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:pr/cd:80",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 163,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSO.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-23",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSJU.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Resident Commissioner",
+           "state": "PR",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:pr/cd:80",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 165,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSO.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-26",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSJU.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSII.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Resident Commissioner",
+           "state": "PR",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "At-Large", "at_large": true,
+           "ocd_id": "ocd-division/country:us/state:pr/cd:80",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 328,
+           "missed_votes_pct": 75.00,
+           "votes_with_party_pct": 100.00,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSED.json",
+             "rank_in_party": 27,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on the Judiciary",
+             "code": "HSJU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSJU.json",
+             "rank_in_party": 14,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 29,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

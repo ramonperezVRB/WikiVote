@@ -1,0 +1,109 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "J000296",
+         
+         "first_name": "David",
+         "middle_name": "W.",
+         "last_name": "Jolly",
+         "date_of_birth": "1972-10-31",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412603",
+         "cspan_id": "73783",
+         "votesmart_id": null,
+         "icpsr_id": "21401",
+         "twitter_account": "USRepDavidJolly",
+         "facebook_account": "repdavidjolly",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/0_8ply4",
+         "rss_url": "http://jolly.house.gov/feed/",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4FL13101",
+           "seniority": "4",
+           "district": "13", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:13",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 31,
+           "bills_cosponsored": 267,
+           "missed_votes_pct": 5.81,
+           "votes_with_party_pct": 87.74,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 27,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "13", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:13",
+           "start_date": "2014-03-13",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 139,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 87.19,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 34,
+             "begin_date": "2014-03-25",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 15,
+             "begin_date": "2014-03-25",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

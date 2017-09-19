@@ -1,0 +1,185 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001188",
+         
+         "first_name": "Marlin",
+         "middle_name": null,
+         "last_name": "Stutzman",
+         "date_of_birth": "1976-08-31",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412392",
+         "cspan_id": "9267685",
+         "votesmart_id": null,
+         "icpsr_id": "21100",
+         "twitter_account": "RepStutzman",
+         "facebook_account": "CongressmanMarlinStutzman",
+         "youtube_account": "repstutzman",
+         "crp_id": null,
+         "google_entity_id": "/m/06zk1_1",
+         "rss_url": "http://stutzman.house.gov/press_releases.rss",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0IN00095",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 105,
+           "missed_votes_pct": 6.87,
+           "votes_with_party_pct": 94.08,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 157,
+           "missed_votes_pct": 2.85,
+           "votes_with_party_pct": 93.78,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 26,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:3",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 192,
+           "missed_votes_pct": 2.62,
+           "votes_with_party_pct": 91.11,
+           "committees": [
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSVR.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IN",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:in/cd:3",
+           "start_date": "2010-11-16",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 0,
+           "bills_cosponsored": 0,
+           "missed_votes_pct": 4.26,
+           "votes_with_party_pct": 92.22,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

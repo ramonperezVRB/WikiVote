@@ -26,7 +26,7 @@ BILL="$(jq '.results[].bill' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 echo "${BILL}"
 TITLE="$(jq '.results[].title' ${FILE} | sed -e 's/\"//g' -e 's/\\//g')"
 #echo "${TITLE}"
-SPONSOR_ID="$(jq '.results[].sposor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+SPONSOR_ID="$(jq '.results[].sponsor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SPONSOR_ID}"
 
 #Once the edit token is retrieved, start editing the page

@@ -1,5 +1,4 @@
 #!/bin/bash
-#PATH=~/apps/scripts/
 
 #This script updates the table of legislation that links to the main page
 
@@ -21,9 +20,9 @@ ADD_TEXT="== ${TYPE} Legislation in the ${SESSION}th Congress =="
 sudo echo "$ADD_TEXT" > "$LIST_FILE"
 
 #Add the template headers to indicate that it is a sortable wikitable"
-ADD_TEXT=$'\n'$'{| class="wikitable sortable"'$'\n'"|-"$'\n'"! Bill !! Title"
+ADD_TEXT=$'\n'$'{| class="wikitable sortable"'$'\n'"|-"$'\n'"! Bill !! Sponsor !! Title "
 #echo "${ADD_TEXT}"
-echo "$ADD_TEXT" >> "$LIST_FILE"
+sudo echo "$ADD_TEXT" >> "$LIST_FILE"
 
 #Identify which page to edit based on the CHAMBER parameter
 if [ "$CHAMBER" == "house" ]; then
@@ -43,15 +42,26 @@ TITLE="$(jq '.results[].title' ${FILE} | sed -e 's/\"//g' -e 's/\\//g')"
 #echo "${TITLE}"
 SPONSOR_ID="$(jq '.results[].sponsor_id' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
 #echo "${SPONSOR_ID}"
-TITLE="$(jq '.results[].sponsor_title' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
-NAME="$(jq '.results[].sponsor_name' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
-SPONSOR_NAME="${TITLE} ${NAME}"
-echo "${SPONSOR_NAME}"
-SPONSOR_URL="$(jq '.results[].url' ${MEMBER_PATH}/${SPONSOR_ID} | sed -e 's/^"//' -e 's/"$//')"
-echo "${SPONSOR_URL}"
+SPONSOR_TITLE="$(jq '.results[].sponsor_title' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+NAME="$(jq '.results[].sponsor' ${FILE} | sed -e 's/^"//' -e 's/"$//')"
+SPONSOR="${SPONSOR_TITLE} ${NAME}"
+#echo "${SPONSOR}"
+SPONSOR_URL="$(jq '.results[].url' ${MEMBER_PATH}/${SPONSOR_ID}.json | sed -e 's/^"//' -e 's/"$//')"
+#echo "${SPONSOR_URL}"
+
+if [ "$SPONSOR_URL" = "null" ]; then
+	URL="www.${CHAMBER}.gov"
+elif [ -z "$SPONSOR_URL" ]; then
+	URL="www.${CHAMBER}.gov"
+else
+	URL="${SPONSOR_URL}"
+fi
+
+#echo "${URL}"
 
 #Add the bill number and title to a new line in the table
-ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${TITLE} "
+ADD_TEXT="|-"$'\n'"| [[${BILL}]] || ${SPONSOR} [${URL}] || ${TITLE} "
+#echo "${ADD_TEXT}"
 
 if [ "$BILL" != "null" ]; then
 	if [ -f "$LIST_FILE" ]

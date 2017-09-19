@@ -1,0 +1,135 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H001060",
+         
+         "first_name": "Robert",
+         "middle_name": null,
+         "last_name": "Hurt",
+         "date_of_birth": "1969-06-16",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412484",
+         "cspan_id": "623558",
+         "votesmart_id": null,
+         "icpsr_id": "21186",
+         "twitter_account": "RepRobertHurt",
+         "facebook_account": "RepRobertHurt",
+         "youtube_account": "RepRobertHurt",
+         "crp_id": null,
+         "google_entity_id": "/m/04ygsqx",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "VA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0VA05095",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:va/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 96,
+           "missed_votes_pct": 3.92,
+           "votes_with_party_pct": 95.52,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 15,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "VA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:va/cd:5",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 108,
+           "missed_votes_pct": 2.60,
+           "votes_with_party_pct": 95.78,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 22,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "VA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:va/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 124,
+           "missed_votes_pct": 1.49,
+           "votes_with_party_pct": 93.99,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 29,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

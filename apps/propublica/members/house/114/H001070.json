@@ -1,0 +1,83 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H001070",
+         
+         "first_name": "Cresent",
+         "middle_name": null,
+         "last_name": "Hardy",
+         "date_of_birth": "1957-06-23",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412645",
+         "cspan_id": "76310",
+         "votesmart_id": null,
+         "icpsr_id": "21534",
+         "twitter_account": "RepHardy",
+         "facebook_account": "RepCresentHardy",
+         "youtube_account": "RepHardy",
+         "crp_id": null,
+         "google_entity_id": "/m/0yp3l3w",
+         "rss_url": "https://hardy.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NV",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4NV04017",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nv/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 129,
+           "missed_votes_pct": 2.19,
+           "votes_with_party_pct": 94.52,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 25,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 26,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSM.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

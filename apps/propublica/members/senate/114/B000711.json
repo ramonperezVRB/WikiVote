@@ -1,0 +1,649 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B000711",
+         
+         "first_name": "Barbara",
+         "middle_name": null,
+         "last_name": "Boxer",
+         "date_of_birth": "1940-11-11",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/b/barbara_boxer/index.html",
+         "times_tag": "Boxer, Barbara (Per)",
+         "govtrack_id": "300011",
+         "cspan_id": "2470",
+         "votesmart_id": null,
+         "icpsr_id": "15011",
+         "twitter_account": "SenatorBoxer",
+         "facebook_account": "senatorboxer",
+         "youtube_account": "SenatorBoxer",
+         "crp_id": null,
+         "google_entity_id": "/m/01c1n5",
+         "rss_url": "https://www.boxer.senate.gov/rss/?p=release",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-10",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "P80003247",
+           "seniority": "23",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 51,
+           "bills_cosponsored": 292,
+           "missed_votes_pct": 13.35,
+           "votes_with_party_pct": 93.56,
+           "committees": [
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSEV.json",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSFR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Committee on Ethics",
+             "code": "SLET",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SLET.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "21",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 66,
+           "bills_cosponsored": 309,
+           "missed_votes_pct": 6.70,
+           "votes_with_party_pct": 98.04,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Select Committee on Ethics",
+             "code": "SLET",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SLET.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSEV.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Aviation Operations, Safety, and Security Subcommittee",
+             "code": "SSCM01",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM01.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Consumer Protection, Product Safety, Insurance, and Data Security",
+             "code": "SSCM20",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM20.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "East Asia, the Pacific, and International Cybersecurity Policy",
+             "code": "SSFR02",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR02.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "International Operations and Organizations, Human Rights, Democracy, and Global Women&#39;s Issues",
+             "code": "SSFR13",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR13.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Near Eastern and South and Central Asian Affairs Subcommittee",
+             "code": "SSFR07",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR07.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women&#39;s Issues",
+             "code": "SSFR06",
+             "parent_committee_id": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSFR/subcommittees/SSFR06.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "19",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 71,
+           "bills_cosponsored": 322,
+           "missed_votes_pct": 8.01,
+           "votes_with_party_pct": 94.42,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "17",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 77,
+           "bills_cosponsored": 359,
+           "missed_votes_pct": 1.48,
+           "votes_with_party_pct": 96.25,
+           "committees": [
+           {
+             "name": "Select Committee on Ethics",
+             "code": "SLET",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SLET.json",
+             "rank_in_party": 1,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSCM.json",
+             "rank_in_party": 5,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSEV.json",
+             "rank_in_party": 1,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSFR.json",
+             "rank_in_party": 4,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "15",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 83,
+           "bills_cosponsored": 558,
+           "missed_votes_pct": 5.63,
+           "votes_with_party_pct": 94.52,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSCM.json",
+             "rank_in_party": 5,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSEV.json",
+             "rank_in_party": 1,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Foreign Relations",
+             "code": "SSFR",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SSFR.json",
+             "rank_in_party": 5,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Select Committee on Ethics",
+             "code": "SLET",
+             "api_uri": "https://api.propublica.org/congress/v1/110/senate/committees/SLET.json",
+             "rank_in_party": 2,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "13",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 47,
+           "bills_cosponsored": 406,
+           "missed_votes_pct": 4.03,
+           "votes_with_party_pct": 92.73,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "11",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 72,
+           "bills_cosponsored": 317,
+           "missed_votes_pct": 3.26,
+           "votes_with_party_pct": 93.87,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "9",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 62,
+           "bills_cosponsored": 264,
+           "missed_votes_pct": 3.79,
+           "votes_with_party_pct": 91.13,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "7",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 50,
+           "bills_cosponsored": 346,
+           "missed_votes_pct": 5.36,
+           "votes_with_party_pct": 93.24,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 51,
+           "bills_cosponsored": 240,
+           "missed_votes_pct": 1.63,
+           "votes_with_party_pct": 90.53,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "104",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "1995-01-04",
+           "end_date": "1997-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 37,
+           "bills_cosponsored": 120,
+           "missed_votes_pct": 1.75,
+           "votes_with_party_pct": 89.44,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "103",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S223",
+           "ocd_id": "ocd-division/country:us/state:ca",
+           "start_date": "1993-01-05",
+           "end_date": "1995-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 228,
+           "missed_votes_pct": 1.65,
+           "votes_with_party_pct": 89.22,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "102",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:6",
+           "start_date": "1991-01-03",
+           "end_date": "1993-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "missed_votes_pct": 33.26,
+           "votes_with_party_pct": 87.94,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "101",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:6",
+           "start_date": "1989-01-03",
+           "end_date": "1991-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "100",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:6",
+           "start_date": "1987-01-06",
+           "end_date": "1989-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "99",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:6",
+           "start_date": "1985-01-03",
+           "end_date": "1987-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "98",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "6", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:6",
+           "start_date": "1983-01-03",
+           "end_date": "1985-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

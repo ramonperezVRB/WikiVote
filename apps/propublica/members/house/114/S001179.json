@@ -1,0 +1,201 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S001179",
+         
+         "first_name": "Aaron",
+         "middle_name": null,
+         "last_name": "Schock",
+         "date_of_birth": "1981-05-28",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412314",
+         "cspan_id": "1030003",
+         "votesmart_id": null,
+         "icpsr_id": "20914",
+         "twitter_account": "AaronSchock",
+         "facebook_account": "RepAaronSchock",
+         "youtube_account": "repaaronschock",
+         "crp_id": null,
+         "google_entity_id": "/m/0h6xzk",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2015-03-26",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "18", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:18",
+           "start_date": "2015-01-06",
+           "end_date": "2015-03-31",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 59,
+           "missed_votes_pct": 11.81,
+           "votes_with_party_pct": 88.19,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "18", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:18",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 343,
+           "missed_votes_pct": 4.95,
+           "votes_with_party_pct": 92.59,
+           "committees": [
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSWM.json",
+             "rank_in_party": 14,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHA.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "18", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:18",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 34,
+           "bills_cosponsored": 346,
+           "missed_votes_pct": 5.17,
+           "votes_with_party_pct": 90.74,
+           "committees": [
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/JSPR.json",
+             "rank_in_party": 3,
+             "begin_date": "2011-01-07",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHA.json",
+             "rank_in_party": 4,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Ways and Means",
+             "code": "HSWM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSWM.json",
+             "rank_in_party": 17,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "18", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:18",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 334,
+           "missed_votes_pct": 4.84,
+           "votes_with_party_pct": 92.43,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSGO.json",
+             "rank_in_party": 14,
+             "begin_date": "2009-01-22",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSPW.json",
+             "rank_in_party": 28,
+             "begin_date": "2009-01-22",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSM.json",
+             "rank_in_party": 10,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

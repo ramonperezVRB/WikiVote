@@ -1,0 +1,273 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "I000057",
+         
+         "first_name": "Steve",
+         "middle_name": null,
+         "last_name": "Israel",
+         "date_of_birth": "1958-05-30",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/i/steve_j_israel/index.html",
+         "times_tag": "Israel, Steve J (Per)",
+         "govtrack_id": "400195",
+         "cspan_id": "87911",
+         "votesmart_id": null,
+         "icpsr_id": "20129",
+         "twitter_account": "RepSteveIsrael",
+         "facebook_account": "RepSteveIsrael",
+         "youtube_account": "repsteveisrael",
+         "crp_id": null,
+         "google_entity_id": "/m/03v3c9",
+         "rss_url": "http://israel.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H0NY02085",
+           "seniority": "16",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 48,
+           "bills_cosponsored": 330,
+           "missed_votes_pct": 3.17,
+           "votes_with_party_pct": 95.71,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAP.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 52,
+           "bills_cosponsored": 411,
+           "missed_votes_pct": 1.51,
+           "votes_with_party_pct": 91.91,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAP.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-03",
+             "end_date": "2013-01-14"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 65,
+           "bills_cosponsored": 305,
+           "missed_votes_pct": 1.62,
+           "votes_with_party_pct": 92.47,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 41,
+           "bills_cosponsored": 497,
+           "missed_votes_pct": 3.45,
+           "votes_with_party_pct": 98.37,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAP.json",
+             "rank_in_party": 29,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 40,
+           "bills_cosponsored": 471,
+           "missed_votes_pct": 2.93,
+           "votes_with_party_pct": 97.42,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAP.json",
+             "rank_in_party": 32,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 390,
+           "missed_votes_pct": 1.81,
+           "votes_with_party_pct": 93.37,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 441,
+           "missed_votes_pct": 3.85,
+           "votes_with_party_pct": 92.93,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NY",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ny/cd:2",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 24,
+           "bills_cosponsored": 354,
+           "missed_votes_pct": 2.41,
+           "votes_with_party_pct": 88.58,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

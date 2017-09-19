@@ -1,0 +1,101 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001102",
+         
+         "first_name": "Curt",
+         "middle_name": "",
+         "last_name": "Clawson",
+         "date_of_birth": "1959-09-28",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412604",
+         "cspan_id": "75516",
+         "votesmart_id": null,
+         "icpsr_id": null,
+         "twitter_account": "RepCurtClawson",
+         "facebook_account": "RepCurtClawson",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/03wphq2",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4FL19074",
+           "seniority": "4",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:19",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 133,
+           "missed_votes_pct": 8.60,
+           "votes_with_party_pct": 91.08,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSFA.json",
+             "rank_in_party": 20,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "19", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:19",
+           "start_date": "2014-06-24",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 37,
+           "missed_votes_pct": 0.48,
+           "votes_with_party_pct": 92.79,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

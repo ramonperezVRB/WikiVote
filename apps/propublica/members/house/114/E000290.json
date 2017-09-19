@@ -1,0 +1,235 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "E000290",
+         
+         "first_name": "Donna",
+         "middle_name": null,
+         "last_name": "Edwards",
+         "date_of_birth": "1958-06-28",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412263",
+         "cspan_id": "38535",
+         "votesmart_id": null,
+         "icpsr_id": "20763",
+         "twitter_account": "RepDonnaEdwards",
+         "facebook_account": "107297211756",
+         "youtube_account": "RepDonnaFEdwards",
+         "crp_id": null,
+         "google_entity_id": "/m/0dr_x8",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6MD04183",
+           "seniority": "10",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:4",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 353,
+           "missed_votes_pct": 3.40,
+           "votes_with_party_pct": 96.95,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 13,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSY.json",
+             "rank_in_party": 4,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:4",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 295,
+           "missed_votes_pct": 3.44,
+           "votes_with_party_pct": 93.05,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSSY.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:4",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 234,
+           "missed_votes_pct": 1.25,
+           "votes_with_party_pct": 92.50,
+           "committees": [
+           {
+             "name": "Committee on Ethics",
+             "code": "HSSO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSO.json",
+             "rank_in_party": 3,
+             "begin_date": "2011-01-26",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 26,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:4",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 12,
+           "bills_cosponsored": 419,
+           "missed_votes_pct": 0.85,
+           "votes_with_party_pct": 96.09,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSY.json",
+             "rank_in_party": 10,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSPW.json",
+             "rank_in_party": 34,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MD",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "4", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:md/cd:4",
+           "start_date": "2008-06-17",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 46,
+           "missed_votes_pct": 1.14,
+           "votes_with_party_pct": 96.92,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

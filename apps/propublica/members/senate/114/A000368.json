@@ -1,0 +1,303 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "A000368",
+         
+         "first_name": "Kelly",
+         "middle_name": null,
+         "last_name": "Ayotte",
+         "date_of_birth": "1968-06-27",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412493",
+         "cspan_id": "95241",
+         "votesmart_id": null,
+         "icpsr_id": "41106",
+         "twitter_account": "KellyAyotte",
+         "facebook_account": "kellyayottenh",
+         "youtube_account": "SenatorAyotte",
+         "crp_id": null,
+         "google_entity_id": "/m/0g9g4r",
+         "rss_url": "http://www.ayotte.senate.gov/rss/",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-10",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "NH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0NH00235",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S340",
+           "ocd_id": "ocd-division/country:us/state:nh",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 41,
+           "bills_cosponsored": 341,
+           "missed_votes_pct": 1.39,
+           "votes_with_party_pct": 79.39,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSCM.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAS.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBU.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSGA.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSSB.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "NH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S340",
+           "ocd_id": "ocd-division/country:us/state:nh",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 35,
+           "bills_cosponsored": 274,
+           "missed_votes_pct": 1.52,
+           "votes_with_party_pct": 81.45,
+           "committees": [
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBU.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSGA.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Communications, Technology, Innovation, and the Internet",
+             "code": "SSCM26",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM26.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Tourism, Competitiveness, and Innovation Subcommittee",
+             "code": "SSCM27",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM27.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Oceans, Atmosphere, Fisheries, and Coast Guard Subcommittee",
+             "code": "SSCM22",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM22.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Space, Science, and Competitiveness Subcommittee",
+             "code": "SSCM24",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM24.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+             "code": "SSCM25",
+             "parent_committee_id": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSCM/subcommittees/SSCM25.json",
+             "rank_in_party": 5,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Personnel Subcommittee",
+             "code": "SSAS17",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS17.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Readiness and Management Support Subcommittee",
+             "code": "SSAS15",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS15.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "SeaPower Subcommittee",
+             "code": "SSAS13",
+             "parent_committee_id": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAS/subcommittees/SSAS13.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "NH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S340",
+           "ocd_id": "ocd-division/country:us/state:nh",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 208,
+           "missed_votes_pct": 0.82,
+           "votes_with_party_pct": 88.82,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "SSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSBU.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-05-11",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SPAG.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-02-04",
+             "end_date": "2011-05-11"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSAS.json",
+             "rank_in_party": 8,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Commerce, Science, and Transportation",
+             "code": "SSCM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSCM.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "api_uri": "https://api.propublica.org/congress/v1/112/senate/committees/SSSB.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-02-04",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

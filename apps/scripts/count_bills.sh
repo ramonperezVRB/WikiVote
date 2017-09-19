@@ -1,4 +1,5 @@
 #!/bin/bash
+source $HOME/.bash_profile
 
 #Some parameters: Session is the session of congress.  Chamber is either House, Senate, or Both.
 #Type is either Introduced, Updated, Active, Passed, Enacted, or Vetoed

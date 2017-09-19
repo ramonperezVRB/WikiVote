@@ -1,0 +1,75 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000575",
+         
+         "first_name": "Gwen",
+         "middle_name": null,
+         "last_name": "Graham",
+         "date_of_birth": "1963-01-31",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412620",
+         "cspan_id": null,
+         "votesmart_id": null,
+         "icpsr_id": "21511",
+         "twitter_account": "RepGwenGraham",
+         "facebook_account": "repgwengraham",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/0wk57s1",
+         "rss_url": "https://graham.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4FL02062",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:2",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 112,
+           "missed_votes_pct": 0.15,
+           "votes_with_party_pct": 86.32,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

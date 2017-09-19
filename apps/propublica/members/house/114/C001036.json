@@ -1,0 +1,365 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "C001036",
+         
+         "first_name": "Lois",
+         "middle_name": null,
+         "last_name": "Capps",
+         "date_of_birth": "1938-01-10",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400062",
+         "cspan_id": "54075",
+         "votesmart_id": null,
+         "icpsr_id": "29774",
+         "twitter_account": "RepLoisCapps",
+         "facebook_account": "loiscapps",
+         "youtube_account": "reploiscapps",
+         "crp_id": null,
+         "google_entity_id": "/m/024tfg",
+         "rss_url": "http://capps.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8CA22089",
+           "seniority": "20",
+           "district": "24", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:24",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 222,
+           "missed_votes_pct": 4.60,
+           "votes_with_party_pct": 96.44,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 16,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "18",
+           "district": "24", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:24",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 28,
+           "bills_cosponsored": 275,
+           "missed_votes_pct": 1.09,
+           "votes_with_party_pct": 95.00,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIF.json",
+             "rank_in_party": 10,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "16",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:23",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 322,
+           "missed_votes_pct": 1.37,
+           "votes_with_party_pct": 95.58,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSIF.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-11",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:23",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 34,
+           "bills_cosponsored": 578,
+           "missed_votes_pct": 3.03,
+           "votes_with_party_pct": 98.56,
+           "committees": [
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSII.json",
+             "rank_in_party": 21,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSIF.json",
+             "rank_in_party": 13,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:23",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 672,
+           "missed_votes_pct": 1.01,
+           "votes_with_party_pct": 97.41,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBU.json",
+             "rank_in_party": 4,
+             "begin_date": "2007-01-18",
+             "end_date": "2007-02-16"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSII.json",
+             "rank_in_party": 21,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSIF.json",
+             "rank_in_party": 15,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:23",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 440,
+           "missed_votes_pct": 2.72,
+           "votes_with_party_pct": 94.58,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "23", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:23",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 17,
+           "bills_cosponsored": 353,
+           "missed_votes_pct": 2.38,
+           "votes_with_party_pct": 94.63,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "22", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:22",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 342,
+           "missed_votes_pct": 1.31,
+           "votes_with_party_pct": 93.49,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "22", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:22",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 361,
+           "missed_votes_pct": 6.26,
+           "votes_with_party_pct": 92.27,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "22", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:22",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 140,
+           "missed_votes_pct": 0.00,
+           "votes_with_party_pct": 0.00,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

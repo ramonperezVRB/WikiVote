@@ -1,0 +1,461 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000360",
+         
+         "first_name": "Mark",
+         "middle_name": "Steven",
+         "last_name": "Kirk",
+         "date_of_birth": "1959-09-15",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/k/mark_steven_kirk/index.html",
+         "times_tag": "Kirk, Mark Steven (Per)",
+         "govtrack_id": "400222",
+         "cspan_id": "85221",
+         "votesmart_id": null,
+         "icpsr_id": "20115",
+         "twitter_account": "SenatorKirk",
+         "facebook_account": "SenatorKirk",
+         "youtube_account": "SenatorKirk",
+         "crp_id": null,
+         "google_entity_id": "/m/0256rr",
+         "rss_url": "https://www.kirk.senate.gov/rss/",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-10",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "S0IL00261",
+           "seniority": "7",
+           "senate_class": "3","state_rank": "","lis_id": "S339",
+           "ocd_id": "ocd-division/country:us/state:il",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 73,
+           "bills_cosponsored": 282,
+           "missed_votes_pct": 6.18,
+           "votes_with_party_pct": 77.07,
+           "committees": [
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SPAG.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSAP.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSBK.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/senate/committees/SSHR.json",
+             "rank_in_party": null,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "5",
+           "senate_class": "3","state_rank": "","lis_id": "S339",
+           "ocd_id": "ocd-division/country:us/state:il",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 47,
+           "bills_cosponsored": 276,
+           "missed_votes_pct": 7.15,
+           "votes_with_party_pct": 82.62,
+           "committees": [
+           {
+             "name": "Committee on Health, Education, Labor, and Pensions",
+             "code": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR.json",
+             "rank_in_party": 9,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Special Committee on Aging",
+             "code": "SPAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SPAG.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Banking, Housing, and Urban Affairs",
+             "code": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Appropriations",
+             "code": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           {
+             "name": "Housing, Transportation, and Community Development",
+             "code": "SSBK09",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK09.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Securities, Insurance, and Investment Subcommittee",
+             "code": "SSBK04",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK04.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "National Security and  International Trade and Finance",
+             "code": "SSBK05",
+             "parent_committee_id": "SSBK",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSBK/subcommittees/SSBK05.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Departments of Labor, Health and Human Services, and Education, and Related Agencies",
+             "code": "SSAP18",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP/subcommittees/SSAP18.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Financial Services and General Government Subcommittee",
+             "code": "SSAP23",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP/subcommittees/SSAP23.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Military Construction and Veterans Affairs, and Related Agencies",
+             "code": "SSAP19",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP/subcommittees/SSAP19.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "State, Foreign Operations, and Related Programs Subcommittee",
+             "code": "SSAP20",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP/subcommittees/SSAP20.json",
+             "rank_in_party": 3,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Transportation, Housing and Urban Development, and Related Agencies",
+             "code": "SSAP24",
+             "parent_committee_id": "SSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSAP/subcommittees/SSAP24.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Children and Families Subcommittee",
+             "code": "SSHR09",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR09.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Employment and Workplace Safety Subcommittee",
+             "code": "SSHR11",
+             "parent_committee_id": "SSHR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/senate/committees/SSHR/subcommittees/SSHR11.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "3",
+           "senate_class": "3","state_rank": "","lis_id": "S339",
+           "ocd_id": "ocd-division/country:us/state:il",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 201,
+           "missed_votes_pct": 54.21,
+           "votes_with_party_pct": 87.44,
+           "committees": [
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 3rd Class",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "1",
+           "senate_class": "3","state_rank": "","lis_id": "S339",
+           "ocd_id": "ocd-division/country:us/state:il",
+           "start_date": "2010-11-29",
+           "end_date": "2011-01-05",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 0,
+           "bills_cosponsored": 0,
+           "missed_votes_pct": 20.00,
+           "votes_with_party_pct": 70.83,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSAS.json",
+             "rank_in_party": 13,
+             "begin_date": "2010-12-07",
+             "end_date": "2011-01-04"
+           },
+           {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSGA.json",
+             "rank_in_party": 8,
+             "begin_date": "2010-12-07",
+             "end_date": "2011-01-04"
+           },
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "SSVA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/senate/committees/SSVA.json",
+             "rank_in_party": 7,
+             "begin_date": "2010-12-07",
+             "end_date": "2011-01-04"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:10",
+           "start_date": "2009-01-06",
+           "end_date": "2010-11-29",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 27,
+           "bills_cosponsored": 343,
+           "missed_votes_pct": 10.65,
+           "votes_with_party_pct": 87.37,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAP.json",
+             "rank_in_party": 15,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:10",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 46,
+           "bills_cosponsored": 382,
+           "missed_votes_pct": 3.31,
+           "votes_with_party_pct": 80.03,
+           "committees": [
+           {
+             "name": "Committee on Appropriations",
+             "code": "HSAP",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAP.json",
+             "rank_in_party": 24,
+             "begin_date": "2007-01-04",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:10",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 31,
+           "bills_cosponsored": 255,
+           "missed_votes_pct": 2.72,
+           "votes_with_party_pct": 86.88,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:10",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 202,
+           "missed_votes_pct": 4.10,
+           "votes_with_party_pct": 91.72,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "IL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:il/cd:10",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 245,
+           "missed_votes_pct": 1.71,
+           "votes_with_party_pct": 92.03,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

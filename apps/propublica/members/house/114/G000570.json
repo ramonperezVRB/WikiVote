@@ -1,0 +1,125 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000570",
+         
+         "first_name": "Frank",
+         "middle_name": null,
+         "last_name": "Guinta",
+         "date_of_birth": "1970-09-26",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412447",
+         "cspan_id": null,
+         "votesmart_id": null,
+         "icpsr_id": "21535",
+         "twitter_account": "RepFrankGuinta",
+         "facebook_account": "repfrankguinta",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/08s8q3",
+         "rss_url": "https://guinta.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0NH01217",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nh/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 161,
+           "missed_votes_pct": 1.74,
+           "votes_with_party_pct": 94.09,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 28,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NH",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nh/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 158,
+           "missed_votes_pct": 2.93,
+           "votes_with_party_pct": 95.13,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 21,
+             "begin_date": "2011-01-25",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSGO.json",
+             "rank_in_party": 21,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 19,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

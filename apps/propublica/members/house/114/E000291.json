@@ -1,0 +1,151 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "E000291",
+         
+         "first_name": "Renee",
+         "middle_name": null,
+         "last_name": "Ellmers",
+         "date_of_birth": "1964-02-09",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412457",
+         "cspan_id": "1033793",
+         "votesmart_id": null,
+         "icpsr_id": "21159",
+         "twitter_account": "RepReneeEllmers",
+         "facebook_account": "reneeellmers",
+         "youtube_account": "repreneeellmers",
+         "crp_id": null,
+         "google_entity_id": "/m/0dsdyjp",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0NC02059",
+           "seniority": "6",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nc/cd:2",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 28,
+           "bills_cosponsored": 228,
+           "missed_votes_pct": 9.96,
+           "votes_with_party_pct": 93.88,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIF.json",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nc/cd:2",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 242,
+           "missed_votes_pct": 1.43,
+           "votes_with_party_pct": 94.47,
+           "committees": [
+           {
+             "name": "Committee on Energy and Commerce",
+             "code": "HSIF",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIF.json",
+             "rank_in_party": 30,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NC",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "2", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nc/cd:2",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 293,
+           "missed_votes_pct": 1.93,
+           "votes_with_party_pct": 95.11,
+           "committees": [
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSFA.json",
+             "rank_in_party": 25,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSM.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAG.json",
+             "rank_in_party": 21,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

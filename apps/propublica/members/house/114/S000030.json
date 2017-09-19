@@ -1,0 +1,397 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "S000030",
+         
+         "first_name": "Loretta",
+         "middle_name": null,
+         "last_name": "Sánchez",
+         "date_of_birth": "1960-01-07",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "http://topics.nytimes.com/top/reference/timestopics/people/s/loretta_sanchez/index.html",
+         "times_tag": "Sanchez, Loretta (Per)",
+         "govtrack_id": "400356",
+         "cspan_id": "45639",
+         "votesmart_id": null,
+         "icpsr_id": "29709",
+         "twitter_account": "LorettaSanchez",
+         "facebook_account": "LorettaSanchez",
+         "youtube_account": "LorettaSanchezLive",
+         "crp_id": null,
+         "google_entity_id": "/m/0jbty",
+         "rss_url": "http://lorettasanchez.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6CA46033",
+           "seniority": "20",
+           "district": "46", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:46",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 163,
+           "missed_votes_pct": 29.28,
+           "votes_with_party_pct": 94.02,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "18",
+           "district": "46", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:46",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 8,
+           "bills_cosponsored": 198,
+           "missed_votes_pct": 6.88,
+           "votes_with_party_pct": 91.26,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/JSEC.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-02-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHM.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAS.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "16",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 212,
+           "missed_votes_pct": 9.53,
+           "votes_with_party_pct": 92.22,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/JSEC.json",
+             "rank_in_party": 3,
+             "begin_date": "2011-03-09",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSAS.json",
+             "rank_in_party": 3,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHM.json",
+             "rank_in_party": 2,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 327,
+           "missed_votes_pct": 7.57,
+           "votes_with_party_pct": 97.45,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSHM.json",
+             "rank_in_party": 2,
+             "begin_date": "2009-01-28",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSAS.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 397,
+           "missed_votes_pct": 5.76,
+           "votes_with_party_pct": 96.77,
+           "committees": [
+           {
+             "name": "Joint Economic Committee",
+             "code": "JSEC",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/JSEC.json",
+             "rank_in_party": 4,
+             "begin_date": "2007-03-27",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSHM.json",
+             "rank_in_party": 2,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAS.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 276,
+           "missed_votes_pct": 5.35,
+           "votes_with_party_pct": 93.47,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "47", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:47",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 16,
+           "bills_cosponsored": 292,
+           "missed_votes_pct": 2.62,
+           "votes_with_party_pct": 94.37,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "46", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:46",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 362,
+           "missed_votes_pct": 6.02,
+           "votes_with_party_pct": 89.64,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "46", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:46",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 239,
+           "missed_votes_pct": 4.04,
+           "votes_with_party_pct": 91.93,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "CA",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "46", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ca/cd:46",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 222,
+           "missed_votes_pct": 3.37,
+           "votes_with_party_pct": 85.27,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

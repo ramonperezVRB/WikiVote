@@ -2,1041 +2,1041 @@
 
 {| class="wikitable sortable"
 |-
-! Bill !! Title
+! Bill !! Sponsor !! Title 
 |-
-| [[H.CON.RES.18]] || Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust. 
+| [[H.CON.RES.18]] || Rep. Pat Meehan [https://meehan.house.gov/] || Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust. 
 |-
-| [[H.CON.RES.1]] || Regarding consent to assemble outside the seat of government. 
+| [[H.CON.RES.1]] || Rep. Pete Sessions [https://sessions.house.gov/] || Regarding consent to assemble outside the seat of government. 
 |-
-| [[H.CON.RES.23]] || Providing for a joint session of Congress to receive a message from the President. 
+| [[H.CON.RES.23]] || Rep. Michael C. Burgess [www.house.gov] || Providing for a joint session of Congress to receive a message from the President. 
 |-
-| [[H.CON.RES.33]] || Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library. 
+| [[H.CON.RES.33]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Designating the George C. Marshall Museum and George C. Marshall Research Library in Lexington, Virginia, as the National George C. Marshall Museum and Library. 
 |-
-| [[H.CON.RES.35]] || Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition. 
+| [[H.CON.RES.35]] || Rep. Lou Barletta [https://barletta.house.gov/] || Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition. 
 |-
-| [[H.CON.RES.36]] || Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby. 
+| [[H.CON.RES.36]] || Rep. Steny H. Hoyer [https://hoyer.house.gov/] || Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby. 
 |-
-| [[H.CON.RES.48]] || Providing for a conditional adjournment of the House of Representatives. 
+| [[H.CON.RES.48]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for a conditional adjournment of the House of Representatives. 
 |-
-| [[H.CON.RES.53]] || Providing for a correction in the enrollment of H.R. 244. 
+| [[H.CON.RES.53]] || Rep. Rodney Frelinghuysen [https://frelinghuysen.house.gov/] || Providing for a correction in the enrollment of H.R. 244. 
 |-
-| [[H.CON.RES.67]] || Urging the Government of the People's Republic of China to unconditionally release Liu Xiaobo, together with his wife Liu Xia, to allow them to freely meet with friends, family, and counsel and seek medical treatment wherever they desire. 
+| [[H.CON.RES.67]] || Rep. Christopher H. Smith [https://chrissmith.house.gov/] || Urging the Government of the People's Republic of China to unconditionally release Liu Xiaobo, together with his wife Liu Xia, to allow them to freely meet with friends, family, and counsel and seek medical treatment wherever they desire. 
 |-
-| [[H.CON.RES.69]] || Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run. 
+| [[H.CON.RES.69]] || Del. Eleanor Holmes Norton [https://norton.house.gov/] || Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run. 
 |-
-| [[H.CON.RES.71]] || Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027. 
+| [[H.CON.RES.71]] || Rep. Diane Black [https://black.house.gov/] || Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027. 
 |-
-| [[H.J.RES.111]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
+| [[H.J.RES.111]] || Rep. Keith Rothfus [https://rothfus.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
 |-
-| [[H.J.RES.36]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation. 
+| [[H.J.RES.36]] || Rep. Rob Bishop [https://robbishop.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation. 
 |-
-| [[H.J.RES.37]] || Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
+| [[H.J.RES.37]] || Rep. Virginia Foxx [https://foxx.house.gov/] || Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
 |-
-| [[H.J.RES.38]] || Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
+| [[H.J.RES.38]] || Rep. Bill Johnson [https://billjohnson.house.gov/] || Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
 |-
-| [[H.J.RES.3]] || Approving the location of a memorial to commemorate and honor the members of the Armed Forces who served on active duty in support of Operation Desert Storm or Operation Desert Shield. 
+| [[H.J.RES.3]] || Rep. Phil Roe [https://roe.house.gov/] || Approving the location of a memorial to commemorate and honor the members of the Armed Forces who served on active duty in support of Operation Desert Storm or Operation Desert Shield. 
 |-
-| [[H.J.RES.40]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
+| [[H.J.RES.40]] || Rep. Sam Johnson [https://samjohnson.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
 |-
-| [[H.J.RES.41]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers. 
+| [[H.J.RES.41]] || Rep. Bill Huizenga [https://huizenga.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers. 
 |-
-| [[H.J.RES.42]] || Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
+| [[H.J.RES.42]] || Rep. Kevin Brady [https://kevinbrady.house.gov/] || Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
 |-
-| [[H.J.RES.43]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients. 
+| [[H.J.RES.43]] || Rep. Diane Black [https://black.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients. 
 |-
-| [[H.J.RES.44]] || Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976. 
+| [[H.J.RES.44]] || Rep. Liz Cheney [https://cheney.house.gov/] || Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976. 
 |-
-| [[H.J.RES.57]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965. 
+| [[H.J.RES.57]] || Rep. Todd Rokita [http://rokita.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965. 
 |-
-| [[H.J.RES.58]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
+| [[H.J.RES.58]] || Rep. Brett Guthrie [https://guthrie.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
 |-
-| [[H.J.RES.66]] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees. 
+| [[H.J.RES.66]] || Rep. Tim Walberg [https://walberg.house.gov/] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees. 
 |-
-| [[H.J.RES.67]] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
+| [[H.J.RES.67]] || Rep. Francis Rooney [https://francisrooney.house.gov/] || Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
 |-
-| [[H.J.RES.69]] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska. 
+| [[H.J.RES.69]] || Rep. Don Young [https://donyoung.house.gov/] || Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska. 
 |-
-| [[H.J.RES.76]] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission. 
+| [[H.J.RES.76]] || Rep. Steny H. Hoyer [https://hoyer.house.gov/] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to enter into a compact relating to the establishment of the Washington Metrorail Safety Commission. 
 |-
-| [[H.J.RES.83]] || Disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
+| [[H.J.RES.83]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
 |-
-| [[H.J.RES.92]] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact. 
+| [[H.J.RES.92]] || Rep. Barbara Comstock [https://comstock.house.gov/] || Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact. 
 |-
-| [[H.J.RES.99]] || Making further continuing appropriations for fiscal year 2017, and for other purposes. 
+| [[H.J.RES.99]] || Rep. Rodney Frelinghuysen [https://frelinghuysen.house.gov/] || Making further continuing appropriations for fiscal year 2017, and for other purposes. 
 |-
-| [[H.R.1003]] || District of Columbia Courts and Public Defender Service Voluntary Separation Incentive Payments Act 
+| [[H.R.1003]] || Del. Eleanor Holmes Norton [https://norton.house.gov/] || District of Columbia Courts and Public Defender Service Voluntary Separation Incentive Payments Act 
 |-
-| [[H.R.1004]] || Regulatory Integrity Act of 2017 
+| [[H.R.1004]] || Rep. Tim Walberg [https://walberg.house.gov/] || Regulatory Integrity Act of 2017 
 |-
-| [[H.R.1005]] || To amend title 38, United States Code, to improve the provision of adult day health care services for veterans. 
+| [[H.R.1005]] || Rep. Lee Zeldin [https://zeldin.house.gov/] || To amend title 38, United States Code, to improve the provision of adult day health care services for veterans. 
 |-
-| [[H.R.1009]] || OIRA Insight, Reform, and Accountability Act 
+| [[H.R.1009]] || Rep. Paul Mitchell [https://mitchell.house.gov/] || OIRA Insight, Reform, and Accountability Act 
 |-
-| [[H.R.1029]] || Pesticide Registration Improvement Extension Act of 2017 
+| [[H.R.1029]] || Rep. Rodney Davis [https://rodneydavis.house.gov/] || Pesticide Registration Improvement Extension Act of 2017 
 |-
-| [[H.R.1033]] || Open Book on Equal Access to Justice Act 
+| [[H.R.1033]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Open Book on Equal Access to Justice Act 
 |-
-| [[H.R.1039]] || Probation Officer Protection Act of 2017 
+| [[H.R.1039]] || Rep. Dave Reichert [https://reichert.house.gov/] || Probation Officer Protection Act of 2017 
 |-
-| [[H.R.1058]] || VA Provider Equity Act 
+| [[H.R.1058]] || Rep. Brad Wenstrup [https://wenstrup.house.gov/] || VA Provider Equity Act 
 |-
-| [[H.R.1073]] || To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes. 
+| [[H.R.1073]] || Rep. Donald Beyer [https://beyer.house.gov/] || To authorize the Secretary of the Interior to establish a structure for visitor services on the Arlington Ridge tract, in the area of the U.S. Marine Corps War Memorial, and for other purposes. 
 |-
-| [[H.R.1074]] || To repeal the Act entitled An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation. 
+| [[H.R.1074]] || Rep. Rod Blum [https://blum.house.gov/] || To repeal the Act entitled An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation. 
 |-
-| [[H.R.10]] || Financial CHOICE Act of 2017 
+| [[H.R.10]] || Rep. Jeb Hensarling [https://hensarling.house.gov/] || Financial CHOICE Act of 2017 
 |-
-| [[H.R.1101]] || Small Business Health Fairness Act of 2017 
+| [[H.R.1101]] || Rep. Sam Johnson [https://samjohnson.house.gov/] || Small Business Health Fairness Act of 2017 
 |-
-| [[H.R.1109]] || To amend section 203 of the Federal Power Act. 
+| [[H.R.1109]] || Rep. Tim Walberg [https://walberg.house.gov/] || To amend section 203 of the Federal Power Act. 
 |-
-| [[H.R.1117]] || To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster. 
+| [[H.R.1117]] || Rep. Vicky Hartzler [https://hartzler.house.gov/] || To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster. 
 |-
-| [[H.R.1135]] || To reauthorize the Historically Black Colleges and Universities Historic Preservation program. 
+| [[H.R.1135]] || Rep. James E. Clyburn [http://clyburn.house.gov/] || To reauthorize the Historically Black Colleges and Universities Historic Preservation program. 
 |-
-| [[H.R.115]] || Thin Blue Line Act 
+| [[H.R.115]] || Rep. Vern Buchanan [www.house.gov] || Thin Blue Line Act 
 |-
-| [[H.R.1162]] || No Hero Left Untreated Act 
+| [[H.R.1162]] || Rep. Steve Knight [https://knight.house.gov/] || No Hero Left Untreated Act 
 |-
-| [[H.R.1174]] || Fairness For Breastfeeding Mothers Act of 2017 
+| [[H.R.1174]] || Del. Eleanor Holmes Norton [https://norton.house.gov/] || Fairness For Breastfeeding Mothers Act of 2017 
 |-
-| [[H.R.1177]] || Removing Outdated Restrictions to Allow for Job Growth Act 
+| [[H.R.1177]] || Rep. Bruce Poliquin [https://poliquin.house.gov/] || Removing Outdated Restrictions to Allow for Job Growth Act 
 |-
-| [[H.R.1180]] || Working Families Flexibility Act of 2017 
+| [[H.R.1180]] || Rep. Martha Roby [https://roby.house.gov/] || Working Families Flexibility Act of 2017 
 |-
-| [[H.R.1181]] || Veterans 2nd Amendment Protection Act 
+| [[H.R.1181]] || Rep. Phil Roe [https://roe.house.gov/] || Veterans 2nd Amendment Protection Act 
 |-
-| [[H.R.1188]] || Adam Walsh Reauthorization Act of 2017 
+| [[H.R.1188]] || Rep. F. James Sensenbrenner [https://sensenbrenner.house.gov/] || Adam Walsh Reauthorization Act of 2017 
 |-
-| [[H.R.1214]] || Disaster SAVE Act 
+| [[H.R.1214]] || Rep. Lou Barletta [https://barletta.house.gov/] || Disaster SAVE Act 
 |-
-| [[H.R.1215]] || Protecting Access to Care Act of 2017 
+| [[H.R.1215]] || Rep. Steve King [https://steveking.house.gov/] || Protecting Access to Care Act of 2017 
 |-
-| [[H.R.1219]] || Supporting America's Innovators Act of 2017 
+| [[H.R.1219]] || Rep. Patrick T. McHenry [https://mchenry.house.gov/] || Supporting America's Innovators Act of 2017 
 |-
-| [[H.R.1228]] || To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes. 
+| [[H.R.1228]] || Rep. Gregg Harper [https://harper.house.gov/] || To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes. 
 |-
-| [[H.R.1238]] || Securing our Agriculture and Food Act 
+| [[H.R.1238]] || Rep. David Young [https://davidyoung.house.gov/] || Securing our Agriculture and Food Act 
 |-
-| [[H.R.1242]] || 400 Years of African-American History Commission Act 
+| [[H.R.1242]] || Rep. Robert C. Scott [https://bobbyscott.house.gov/] || 400 Years of African-American History Commission Act 
 |-
-| [[H.R.1249]] || DHS Multiyear Acquisition Strategy Act of 2017 
+| [[H.R.1249]] || Rep. Brian Fitzpatrick [https://fitzpatrick.house.gov/] || DHS Multiyear Acquisition Strategy Act of 2017 
 |-
-| [[H.R.1252]] || DHS Acquisition Authorities Act of 2017 
+| [[H.R.1252]] || Rep. Clay Higgins [https://clayhiggins.house.gov/] || DHS Acquisition Authorities Act of 2017 
 |-
-| [[H.R.1257]] || Securities and Exchange Commission Overpayment Credit Act 
+| [[H.R.1257]] || Rep. Gregory W. Meeks [https://meeks.house.gov/] || Securities and Exchange Commission Overpayment Credit Act 
 |-
-| [[H.R.1258]] || HSA Technical Corrections Act 
+| [[H.R.1258]] || Rep. Scott Perry [https://perry.house.gov/] || HSA Technical Corrections Act 
 |-
-| [[H.R.1259]] || VA Accountability First Act of 2017 
+| [[H.R.1259]] || Rep. Phil Roe [https://roe.house.gov/] || VA Accountability First Act of 2017 
 |-
-| [[H.R.1282]] || DHS Acquisition Review Board Act of 2017 
+| [[H.R.1282]] || Rep. Thomas Garrett [https://tomgarrett.house.gov/] || DHS Acquisition Review Board Act of 2017 
 |-
-| [[H.R.1293]] || To amend title 5, United States Code, to require that the Office of Personnel Management submit an annual report to Congress relating to the use of official time by Federal employees. 
+| [[H.R.1293]] || Rep. Dennis Ross [https://dennisross.house.gov/] || To amend title 5, United States Code, to require that the Office of Personnel Management submit an annual report to Congress relating to the use of official time by Federal employees. 
 |-
-| [[H.R.1294]] || Reducing DHS Acquisition Cost Growth Act 
+| [[H.R.1294]] || Rep. John Rutherford [https://rutherford.house.gov/] || Reducing DHS Acquisition Cost Growth Act 
 |-
-| [[H.R.1297]] || Quadrennial Homeland Security Review Technical Corrections Act of 2017 
+| [[H.R.1297]] || Rep. Bonnie Watson Coleman [https://watsoncoleman.house.gov/] || Quadrennial Homeland Security Review Technical Corrections Act of 2017 
 |-
-| [[H.R.1301]] || Department of Defense Appropriations Act, 2017 
+| [[H.R.1301]] || Rep. Rodney Frelinghuysen [https://frelinghuysen.house.gov/] || Department of Defense Appropriations Act, 2017 
 |-
-| [[H.R.1302]] || Terrorist and Foreign Fighter Travel Exercise Act of 2017 
+| [[H.R.1302]] || Rep. Martha McSally [https://mcsally.house.gov/] || Terrorist and Foreign Fighter Travel Exercise Act of 2017 
 |-
-| [[H.R.1304]] || Self-Insurance Protection Act 
+| [[H.R.1304]] || Rep. Phil Roe [https://roe.house.gov/] || Self-Insurance Protection Act 
 |-
-| [[H.R.1306]] || Western Oregon Tribal Fairness Act 
+| [[H.R.1306]] || Rep. Peter A. DeFazio [https://defazio.house.gov/] || Western Oregon Tribal Fairness Act 
 |-
-| [[H.R.1309]] || TSA Administrator Modernization Act of 2017 
+| [[H.R.1309]] || Rep. John Katko [https://katko.house.gov/] || TSA Administrator Modernization Act of 2017 
 |-
-| [[H.R.1312]] || Small Business Capital Formation Enhancement Act 
+| [[H.R.1312]] || Rep. Bruce Poliquin [https://poliquin.house.gov/] || Small Business Capital Formation Enhancement Act 
 |-
-| [[H.R.1329]] || Veterans' Compensation Cost-of-Living Adjustment Act of 2017 
+| [[H.R.1329]] || Rep. Mike Bost [https://bost.house.gov/] || Veterans' Compensation Cost-of-Living Adjustment Act of 2017 
 |-
-| [[H.R.132]] || Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017 
+| [[H.R.132]] || Rep. Tom Cole [https://cole.house.gov/] || Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017 
 |-
-| [[H.R.1343]] || Encouraging Employee Ownership Act of 2017 
+| [[H.R.1343]] || Rep. Randy Hultgren [https://hultgren.house.gov/] || Encouraging Employee Ownership Act of 2017 
 |-
-| [[H.R.1346]] || To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled Metropolitan Planning Organization Coordination and Planning Area Reform. 
+| [[H.R.1346]] || Rep. Daniel Lipinski [https://lipinski.house.gov/] || To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled Metropolitan Planning Organization Coordination and Planning Area Reform. 
 |-
-| [[H.R.1351]] || Strengthening Oversight of TSA Employee Misconduct Act 
+| [[H.R.1351]] || Rep. Scott Perry [https://perry.house.gov/] || Strengthening Oversight of TSA Employee Misconduct Act 
 |-
-| [[H.R.1353]] || Transparency in Technological Acquisitions Act of 2017 
+| [[H.R.1353]] || Rep. Kathleen Rice [https://kathleenrice.house.gov/] || Transparency in Technological Acquisitions Act of 2017 
 |-
-| [[H.R.1362]] || To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa'aua'a Hunkin VA Clinic. 
+| [[H.R.1362]] || Del. Amata Coleman Radewagen [https://radewagen.house.gov/] || To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa'aua'a Hunkin VA Clinic. 
 |-
-| [[H.R.1365]] || Department of Homeland Security Acquisition Innovation Act 
+| [[H.R.1365]] || Rep. J. Luis Correa [https://correa.house.gov/] || Department of Homeland Security Acquisition Innovation Act 
 |-
-| [[H.R.1366]] || U.S. Territories Investor Protection Act of 2017 
+| [[H.R.1366]] || Rep. Nydia M. Velázquez [https://velazquez.house.gov/] || U.S. Territories Investor Protection Act of 2017 
 |-
-| [[H.R.1367]] || To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes. 
+| [[H.R.1367]] || Rep. Brad Wenstrup [https://wenstrup.house.gov/] || To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes. 
 |-
-| [[H.R.1370]] || Department of Homeland Security Blue Campaign Authorization Act of 2017 
+| [[H.R.1370]] || Rep. Michael McCaul [https://mccaul.house.gov/] || Department of Homeland Security Blue Campaign Authorization Act of 2017 
 |-
-| [[H.R.1372]] || Homeland Security for Children Act 
+| [[H.R.1372]] || Rep. Donald M. Payne Jr. [https://payne.house.gov/] || Homeland Security for Children Act 
 |-
-| [[H.R.1387]] || SOAR Reauthorization Act 
+| [[H.R.1387]] || Rep. Jason Chaffetz [www.house.gov] || SOAR Reauthorization Act 
 |-
-| [[H.R.1393]] || Mobile Workforce State Income Tax Simplification Act of 2017 
+| [[H.R.1393]] || Rep. Mike Bishop [https://mikebishop.house.gov/] || Mobile Workforce State Income Tax Simplification Act of 2017 
 |-
-| [[H.R.1397]] || To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land, and for other purposes. 
+| [[H.R.1397]] || Rep. Barbara Comstock [https://comstock.house.gov/] || To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land, and for other purposes. 
 |-
-| [[H.R.1404]] || Pascua Yaqui Tribe Land Conveyance Act 
+| [[H.R.1404]] || Rep. Raúl M. Grijalva [https://grijalva.house.gov/] || Pascua Yaqui Tribe Land Conveyance Act 
 |-
-| [[H.R.1422]] || Private Flood Insurance Market Development Act of 2017 
+| [[H.R.1422]] || Rep. Dennis Ross [https://dennisross.house.gov/] || Private Flood Insurance Market Development Act of 2017 
 |-
-| [[H.R.1428]] || American Law Enforcement Heroes Act of 2017 
+| [[H.R.1428]] || Rep. Will Hurd [https://hurd.house.gov/] || American Law Enforcement Heroes Act of 2017 
 |-
-| [[H.R.1430]] || HONEST Act 
+| [[H.R.1430]] || Rep. Lamar Smith [https://lamarsmith.house.gov/] || HONEST Act 
 |-
-| [[H.R.1431]] || EPA Science Advisory Board Reform Act of 2017 
+| [[H.R.1431]] || Rep. Frank D. Lucas [https://lucas.house.gov/] || EPA Science Advisory Board Reform Act of 2017 
 |-
-| [[H.R.1461]] || VET Protection Act of 2017 
+| [[H.R.1461]] || Rep. Jodey Arrington [https://arrington.house.gov/] || VET Protection Act of 2017 
 |-
-| [[H.R.1492]] || Medical Controlled Substances Transportation Act of 2017 
+| [[H.R.1492]] || Rep. Pete Sessions [https://sessions.house.gov/] || Medical Controlled Substances Transportation Act of 2017 
 |-
-| [[H.R.1500]] || Robert Emmet Park Act of 2017 
+| [[H.R.1500]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Robert Emmet Park Act of 2017 
 |-
-| [[H.R.1541]] || To authorize the Secretary of the Interior to acquire certain property related to the Fort Scott National Historic Site in Fort Scott, Kansas, and for other purposes. 
+| [[H.R.1541]] || Rep. Lynn Jenkins [https://lynnjenkins.house.gov/] || To authorize the Secretary of the Interior to acquire certain property related to the Fort Scott National Historic Site in Fort Scott, Kansas, and for other purposes. 
 |-
-| [[H.R.1545]] || VA Prescription Data Accountability Act 2017 
+| [[H.R.1545]] || Rep. Ann McLane Kuster [https://kuster.house.gov/] || VA Prescription Data Accountability Act 2017 
 |-
-| [[H.R.1547]] || Udall Park Land Exchange Completion Act 
+| [[H.R.1547]] || Rep. Martha McSally [https://mcsally.house.gov/] || Udall Park Land Exchange Completion Act 
 |-
-| [[H.R.1551]] || To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities. 
+| [[H.R.1551]] || Rep. Tom Rice [https://rice.house.gov/] || To amend the Internal Revenue Code of 1986 to modify the credit for production from advanced nuclear power facilities. 
 |-
-| [[H.R.1558]] || Repeatedly Flooded Communities Preparation Act 
+| [[H.R.1558]] || Rep. Edward Royce [https://royce.house.gov/] || Repeatedly Flooded Communities Preparation Act 
 |-
-| [[H.R.1616]] || Strengthening State and Local Cyber Crime Fighting Act of 2017 
+| [[H.R.1616]] || Rep. John Ratcliffe [https://ratcliffe.house.gov/] || Strengthening State and Local Cyber Crime Fighting Act of 2017 
 |-
-| [[H.R.1624]] || Municipal Finance Support Act of 2017 
+| [[H.R.1624]] || Rep. Luke Messer [https://messer.house.gov/] || Municipal Finance Support Act of 2017 
 |-
-| [[H.R.1625]] || Targeted Rewards for the Global Eradication of Human Trafficking 
+| [[H.R.1625]] || Rep. Edward Royce [https://royce.house.gov/] || Targeted Rewards for the Global Eradication of Human Trafficking 
 |-
-| [[H.R.1628]] || American Health Care Act of 2017 
+| [[H.R.1628]] || Rep. Diane Black [https://black.house.gov/] || American Health Care Act of 2017 
 |-
-| [[H.R.1644]] || Korean Interdiction and Modernization of Sanctions Act 
+| [[H.R.1644]] || Rep. Edward Royce [https://royce.house.gov/] || Korean Interdiction and Modernization of Sanctions Act 
 |-
-| [[H.R.1654]] || Water Supply Permitting Coordination Act 
+| [[H.R.1654]] || Rep. Tom McClintock [https://mcclintock.house.gov/] || Water Supply Permitting Coordination Act 
 |-
-| [[H.R.1665]] || Disaster Declaration Improvement Act 
+| [[H.R.1665]] || Rep. Rodney Davis [https://rodneydavis.house.gov/] || Disaster Declaration Improvement Act 
 |-
-| [[H.R.1667]] || Financial Institution Bankruptcy Act of 2017 
+| [[H.R.1667]] || Rep. Tom Marino [https://marino.house.gov/] || Financial Institution Bankruptcy Act of 2017 
 |-
-| [[H.R.1677]] || Caesar Syria Civilian Protection Act of 2017 
+| [[H.R.1677]] || Rep. Eliot L. Engel [https://engel.house.gov/] || Caesar Syria Civilian Protection Act of 2017 
 |-
-| [[H.R.1678]] || To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes. 
+| [[H.R.1678]] || Rep. Lois Frankel [https://frankel.house.gov/] || To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes. 
 |-
-| [[H.R.1679]] || FEMA Accountability, Modernization and Transparency Act of 2017 
+| [[H.R.1679]] || Rep. Garret Graves [https://garretgraves.house.gov/] || FEMA Accountability, Modernization and Transparency Act of 2017 
 |-
-| [[H.R.1684]] || Disaster Assistance Support for Communities and Homeowners Act of 2017 
+| [[H.R.1684]] || Rep. Jerrold Nadler [https://nadler.house.gov/] || Disaster Assistance Support for Communities and Homeowners Act of 2017 
 |-
-| [[H.R.1690]] || Department of Veterans Affairs Bonus Transparency Act 
+| [[H.R.1690]] || Rep. Claudia Tenney [https://tenney.house.gov/] || Department of Veterans Affairs Bonus Transparency Act 
 |-
-| [[H.R.1694]] || Fannie and Freddie Open Records Act of 2017 
+| [[H.R.1694]] || Rep. Jason Chaffetz [www.house.gov] || Fannie and Freddie Open Records Act of 2017 
 |-
-| [[H.R.1695]] || Register of Copyrights Selection and Accountability Act of 2017 
+| [[H.R.1695]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Register of Copyrights Selection and Accountability Act of 2017 
 |-
-| [[H.R.1715]] || Medgar Evers House Study Act 
+| [[H.R.1715]] || Rep. Bennie Thompson [https://benniethompson.house.gov/] || Medgar Evers House Study Act 
 |-
-| [[H.R.1719]] || John Muir National Historic Site Expansion Act 
+| [[H.R.1719]] || Rep. Mark DeSaulnier [https://desaulnier.house.gov/] || John Muir National Historic Site Expansion Act 
 |-
-| [[H.R.1725]] || To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary. 
+| [[H.R.1725]] || Rep. Tim Walz [https://walz.house.gov/] || To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary. 
 |-
-| [[H.R.1726]] || Coast Guard Improvement and Reform Act of 2017 
+| [[H.R.1726]] || Rep. Duncan D. Hunter [https://hunter.house.gov/] || Coast Guard Improvement and Reform Act of 2017 
 |-
-| [[H.R.1761]] || Protecting Against Child Exploitation Act of 2017 
+| [[H.R.1761]] || Rep. Mike Johnson [https://mikejohnson.house.gov/] || Protecting Against Child Exploitation Act of 2017 
 |-
-| [[H.R.1807]] || Public Water Supply Invasive Species Compliance Act of 2017 
+| [[H.R.1807]] || Rep. Louie Gohmert [https://gohmert.house.gov/] || Public Water Supply Invasive Species Compliance Act of 2017 
 |-
-| [[H.R.1808]] || Improving Support for Missing and Exploited Children Act of 2017 
+| [[H.R.1808]] || Rep. Brett Guthrie [https://guthrie.house.gov/] || Improving Support for Missing and Exploited Children Act of 2017 
 |-
-| [[H.R.1809]] || Juvenile Justice Reform Act of 2017 
+| [[H.R.1809]] || Rep. Jason Lewis [https://jasonlewis.house.gov/] || Juvenile Justice Reform Act of 2017 
 |-
-| [[H.R.1842]] || Strengthening Children's Safety Act of 2017 
+| [[H.R.1842]] || Rep. John Ratcliffe [https://ratcliffe.house.gov/] || Strengthening Children's Safety Act of 2017 
 |-
-| [[H.R.1843]] || Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act 
+| [[H.R.1843]] || Rep. Peter Roskam [https://roskam.house.gov/] || Restraining Excessive Seizure of Property through the Exploitation of Civil Asset Forfeiture Tools Act 
 |-
-| [[H.R.1848]] || Veterans Affairs Medical Scribe Pilot Act of 2017 
+| [[H.R.1848]] || Rep. Phil Roe [https://roe.house.gov/] || Veterans Affairs Medical Scribe Pilot Act of 2017 
 |-
-| [[H.R.1862]] || Global Child Protection Act of 2017 
+| [[H.R.1862]] || Rep. Martha Roby [https://roby.house.gov/] || Global Child Protection Act of 2017 
 |-
-| [[H.R.1873]] || Electricity Reliability and Forest Protection Act 
+| [[H.R.1873]] || Rep. Doug LaMalfa [https://lamalfa.house.gov/] || Electricity Reliability and Forest Protection Act 
 |-
-| [[H.R.1892]] || Honoring Hometown Heroes Act 
+| [[H.R.1892]] || Rep. John B. Larson [https://larson.house.gov/] || Honoring Hometown Heroes Act 
 |-
-| [[H.R.1913]] || Clear Creek National Recreation Area and Conservation Act 
+| [[H.R.1913]] || Rep. Jimmy Panetta [https://panetta.house.gov/] || Clear Creek National Recreation Area and Conservation Act 
 |-
-| [[H.R.1927]] || African American Civil Rights Network Act of 2017 
+| [[H.R.1927]] || Rep. William Lacy Clay [https://lacyclay.house.gov/] || African American Civil Rights Network Act of 2017 
 |-
-| [[H.R.194]] || Federal Agency Mail Management Act of 2017 
+| [[H.R.194]] || Rep. Steve Russell [https://russell.house.gov/] || Federal Agency Mail Management Act of 2017 
 |-
-| [[H.R.195]] || Federal Register Printing Savings Act of 2017 
+| [[H.R.195]] || Rep. Steve Russell [https://russell.house.gov/] || Federal Register Printing Savings Act of 2017 
 |-
-| [[H.R.1967]] || Bureau of Reclamation Pumped Storage Hydropower Development Act 
+| [[H.R.1967]] || Rep. Doug Lamborn [https://lamborn.house.gov/] || Bureau of Reclamation Pumped Storage Hydropower Development Act 
 |-
-| [[H.R.1973]] || Protecting Young Victims from Sexual Abuse Act of 2017 
+| [[H.R.1973]] || Rep. Susan Brooks [https://susanwbrooks.house.gov/] || Protecting Young Victims from Sexual Abuse Act of 2017 
 |-
-| [[H.R.1988]] || To designate the facility of the United States Postal Service located at 1730 18th Street in Bakersfield, California, as the Merle Haggard Post Office Building. 
+| [[H.R.1988]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || To designate the facility of the United States Postal Service located at 1730 18th Street in Bakersfield, California, as the Merle Haggard Post Office Building. 
 |-
-| [[H.R.2006]] || VA Procurement Efficiency and Transparency Act 
+| [[H.R.2006]] || Rep. Mike Coffman [https://coffman.house.gov/] || VA Procurement Efficiency and Transparency Act 
 |-
-| [[H.R.2052]] || PRIVATE Act 
+| [[H.R.2052]] || Rep. Martha McSally [https://mcsally.house.gov/] || PRIVATE Act 
 |-
-| [[H.R.2053]] || Mining Schools Enhancement Act 
+| [[H.R.2053]] || Rep. Martha McSally [https://mcsally.house.gov/] || Mining Schools Enhancement Act 
 |-
-| [[H.R.2056]] || Microloan Modernization Act of 2017 
+| [[H.R.2056]] || Rep. Stephanie Murphy [https://stephaniemurphy.house.gov/] || Microloan Modernization Act of 2017 
 |-
-| [[H.R.2075]] || Crooked River Ranch Fire Protection Act 
+| [[H.R.2075]] || Rep. Greg Walden [https://walden.house.gov/] || Crooked River Ranch Fire Protection Act 
 |-
-| [[H.R.2083]] || Endangered Salmon and Fisheries Predation Prevention Act 
+| [[H.R.2083]] || Rep. Jaime Herrera Beutler [https://herrerabeutler.house.gov/] || Endangered Salmon and Fisheries Predation Prevention Act 
 |-
-| [[H.R.2122]] || To reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Jennings Randolph Dam. 
+| [[H.R.2122]] || Rep. David McKinley [https://mckinley.house.gov/] || To reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Jennings Randolph Dam. 
 |-
-| [[H.R.2131]] || Fixing Internal Response to Misconduct Act 
+| [[H.R.2131]] || Rep. Clay Higgins [https://clayhiggins.house.gov/] || Fixing Internal Response to Misconduct Act 
 |-
-| [[H.R.2132]] || Traveler Redress Improvement Act of 2017 
+| [[H.R.2132]] || Rep. John Katko [https://katko.house.gov/] || Traveler Redress Improvement Act of 2017 
 |-
-| [[H.R.2154]] || To rename the Red River Valley Agricultural Research Center in Fargo, North Dakota, as the Edward T. Schafer Agricultural Research Center. 
+| [[H.R.2154]] || Rep. Kevin Cramer [https://cramer.house.gov/] || To rename the Red River Valley Agricultural Research Center in Fargo, North Dakota, as the Edward T. Schafer Agricultural Research Center. 
 |-
-| [[H.R.2156]] || Saint Francis Dam Disaster National Memorial Act 
+| [[H.R.2156]] || Rep. Steve Knight [https://knight.house.gov/] || Saint Francis Dam Disaster National Memorial Act 
 |-
-| [[H.R.2169]] || Improving Fusion Centers' Access to Information Act 
+| [[H.R.2169]] || Rep. John Katko [https://katko.house.gov/] || Improving Fusion Centers' Access to Information Act 
 |-
-| [[H.R.2182]] || Plum Island Preservation Act 
+| [[H.R.2182]] || Rep. Lee Zeldin [https://zeldin.house.gov/] || Plum Island Preservation Act 
 |-
-| [[H.R.2188]] || Community Counterterrorism Preparedness Act 
+| [[H.R.2188]] || Rep. Michael McCaul [https://mccaul.house.gov/] || Community Counterterrorism Preparedness Act 
 |-
-| [[H.R.218]] || King Cove Road Land Exchange Act 
+| [[H.R.218]] || Rep. Don Young [https://donyoung.house.gov/] || King Cove Road Land Exchange Act 
 |-
-| [[H.R.2190]] || Streamlining DHS Overhead Act 
+| [[H.R.2190]] || Rep. John Rutherford [https://rutherford.house.gov/] || Streamlining DHS Overhead Act 
 |-
-| [[H.R.2192]] || To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff. 
+| [[H.R.2192]] || Rep. Martha McSally [https://mcsally.house.gov/] || To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff. 
 |-
-| [[H.R.2195]] || OSC Access Act 
+| [[H.R.2195]] || Rep. Rod Blum [https://blum.house.gov/] || OSC Access Act 
 |-
-| [[H.R.21]] || Midnight Rules Relief Act of 2017 
+| [[H.R.21]] || Rep. Darrell Issa [https://issa.house.gov/] || Midnight Rules Relief Act of 2017 
 |-
-| [[H.R.2200]] || Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2017 
+| [[H.R.2200]] || Rep. Christopher H. Smith [https://chrissmith.house.gov/] || Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2017 
 |-
-| [[H.R.220]] || To authorize the expansion of an existing hydroelectric project, and for other purposes. 
+| [[H.R.220]] || Rep. Don Young [https://donyoung.house.gov/] || To authorize the expansion of an existing hydroelectric project, and for other purposes. 
 |-
-| [[H.R.2210]] || To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the Sergeant Joseph George Kusick VA Community Living Center. 
+| [[H.R.2210]] || Rep. Mike Kelly [https://kelly.house.gov/] || To designate the community living center of the Department of Veterans Affairs in Butler Township, Butler County, Pennsylvania, as the Sergeant Joseph George Kusick VA Community Living Center. 
 |-
-| [[H.R.2213]] || Anti-Border Corruption Reauthorization Act of 2017 
+| [[H.R.2213]] || Rep. Martha McSally [https://mcsally.house.gov/] || Anti-Border Corruption Reauthorization Act of 2017 
 |-
-| [[H.R.2227]] || MGT Act 
+| [[H.R.2227]] || Rep. Will Hurd [https://hurd.house.gov/] || MGT Act 
 |-
-| [[H.R.2246]] || Taxpayer Exposure Mitigation Act of 2017 
+| [[H.R.2246]] || Rep. Blaine Luetkemeyer [https://luetkemeyer.house.gov/] || Taxpayer Exposure Mitigation Act of 2017 
 |-
-| [[H.R.2258]] || ADVANCE Act 
+| [[H.R.2258]] || Rep. Pete Aguilar [https://aguilar.house.gov/] || ADVANCE Act 
 |-
-| [[H.R.2266]] || Bankruptcy Judgeship Act of 2017 
+| [[H.R.2266]] || Rep. John Conyers Jr. [https://conyers.house.gov/] || Bankruptcy Judgeship Act of 2017 
 |-
-| [[H.R.2274]] || HYPE Act 
+| [[H.R.2274]] || Rep. Scott Peters [https://scottpeters.house.gov/] || HYPE Act 
 |-
-| [[H.R.2281]] || Border Enforcement Security Task Force Reauthorization Act of 2017 
+| [[H.R.2281]] || Rep. Filemon Vela [https://vela.house.gov/] || Border Enforcement Security Task Force Reauthorization Act of 2017 
 |-
-| [[H.R.2283]] || Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017 
+| [[H.R.2283]] || Rep. Bennie Thompson [https://benniethompson.house.gov/] || Department of Homeland Security Morale, Recognition, Learning and Engagement Act of 2017 
 |-
-| [[H.R.2288]] || Veterans Appeals Improvement and Modernization Act of 2017 
+| [[H.R.2288]] || Rep. Mike Bost [https://bost.house.gov/] || Veterans Appeals Improvement and Modernization Act of 2017 
 |-
-| [[H.R.228]] || Indian Employment, Training and Related Services Consolidation Act of 2017 
+| [[H.R.228]] || Rep. Don Young [https://donyoung.house.gov/] || Indian Employment, Training and Related Services Consolidation Act of 2017 
 |-
-| [[H.R.2292]] || To extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam. 
+| [[H.R.2292]] || Rep. John Faso [https://faso.house.gov/] || To extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam. 
 |-
-| [[H.R.2316]] || Cooperative Management of Mineral Rights Act of 2017 
+| [[H.R.2316]] || Rep. Glenn Thompson [https://thompson.house.gov/] || Cooperative Management of Mineral Rights Act of 2017 
 |-
-| [[H.R.2333]] || Small Business Investment Opportunity Act of 2017 
+| [[H.R.2333]] || Rep. Steve Knight [https://knight.house.gov/] || Small Business Investment Opportunity Act of 2017 
 |-
-| [[H.R.2353]] || Strengthening Career and Technical Education for the 21st Century Act 
+| [[H.R.2353]] || Rep. Glenn Thompson [https://thompson.house.gov/] || Strengthening Career and Technical Education for the 21st Century Act 
 |-
-| [[H.R.2364]] || Small Business Investment Opportunity Act of 2017 
+| [[H.R.2364]] || Rep. Judy Chu [https://chu.house.gov/] || Small Business Investment Opportunity Act of 2017 
 |-
-| [[H.R.2370]] || Escambia County Land Conveyance Act 
+| [[H.R.2370]] || Rep. Matt Gaetz [https://gaetz.house.gov/] || Escambia County Land Conveyance Act 
 |-
-| [[H.R.2371]] || Western Area Power Administration Transparency Act 
+| [[H.R.2371]] || Rep. Paul Gosar [https://gosar.house.gov/] || Western Area Power Administration Transparency Act 
 |-
-| [[H.R.2372]] || VETERAN Act 
+| [[H.R.2372]] || Rep. Sam Johnson [https://samjohnson.house.gov/] || VETERAN Act 
 |-
-| [[H.R.2374]] || Eastern Nevada Economic Development and Land Management Improvement Act 
+| [[H.R.2374]] || Rep. Ruben Kihuen [https://kihuen.house.gov/] || Eastern Nevada Economic Development and Land Management Improvement Act 
 |-
-| [[H.R.238]] || Commodity End-User Relief Act 
+| [[H.R.238]] || Rep. K. Michael Conaway [https://conaway.house.gov/] || Commodity End-User Relief Act 
 |-
-| [[H.R.239]] || Support for Rapid Innovation Act of 2017 
+| [[H.R.239]] || Rep. John Ratcliffe [https://ratcliffe.house.gov/] || Support for Rapid Innovation Act of 2017 
 |-
-| [[H.R.23]] || Gaining Responsibility on Water Act of 2017 
+| [[H.R.23]] || Rep. David Valadao [https://valadao.house.gov/] || Gaining Responsibility on Water Act of 2017 
 |-
-| [[H.R.240]] || Leveraging Emerging Technologies Act of 2017 
+| [[H.R.240]] || Rep. John Ratcliffe [https://ratcliffe.house.gov/] || Leveraging Emerging Technologies Act of 2017 
 |-
-| [[H.R.2423]] || Washington County, Utah, Public Lands Management Implementation Act 
+| [[H.R.2423]] || Rep. Chris Stewart [https://stewart.house.gov/] || Washington County, Utah, Public Lands Management Implementation Act 
 |-
-| [[H.R.2427]] || Pathways to Improving Homeland Security At the Local Level Act 
+| [[H.R.2427]] || Rep. Val Demings [https://demings.house.gov/] || Pathways to Improving Homeland Security At the Local Level Act 
 |-
-| [[H.R.2430]] || FDA Reauthorization Act of 2017 
+| [[H.R.2430]] || Rep. Greg Walden [https://walden.house.gov/] || FDA Reauthorization Act of 2017 
 |-
-| [[H.R.2433]] || Homeland Security Assessment of Terrorists Use of Virtual Currencies Act 
+| [[H.R.2433]] || Rep. Kathleen Rice [https://kathleenrice.house.gov/] || Homeland Security Assessment of Terrorists Use of Virtual Currencies Act 
 |-
-| [[H.R.2442]] || FIRST State and Local Law Enforcement Act 
+| [[H.R.2442]] || Rep. Sheila Jackson Lee [https://jacksonlee.house.gov/] || FIRST State and Local Law Enforcement Act 
 |-
-| [[H.R.2443]] || Department of Homeland Security Classified Facility Inventory Act 
+| [[H.R.2443]] || Rep. Lou Barletta [https://barletta.house.gov/] || Department of Homeland Security Classified Facility Inventory Act 
 |-
-| [[H.R.244]] || Consolidated Appropriations Act, 2017 
+| [[H.R.244]] || Rep. Paul Cook [https://cook.house.gov/] || Consolidated Appropriations Act, 2017 
 |-
-| [[H.R.2453]] || DHS Intelligence Rotational Assignment Program Act of 2017 
+| [[H.R.2453]] || Rep. Mike Gallagher [https://gallagher.house.gov/] || DHS Intelligence Rotational Assignment Program Act of 2017 
 |-
-| [[H.R.2454]] || Department of Homeland Security Data Framework Act of 2017 
+| [[H.R.2454]] || Rep. Will Hurd [https://hurd.house.gov/] || Department of Homeland Security Data Framework Act of 2017 
 |-
-| [[H.R.2457]] || J. Bennett Johnston Waterway Hydropower Extension Act of 2017 
+| [[H.R.2457]] || Rep. Mike Johnson [https://mikejohnson.house.gov/] || J. Bennett Johnston Waterway Hydropower Extension Act of 2017 
 |-
-| [[H.R.2468]] || Unifying DHS Intelligence Enterprise Act 
+| [[H.R.2468]] || Rep. Scott Perry [https://perry.house.gov/] || Unifying DHS Intelligence Enterprise Act 
 |-
-| [[H.R.2470]] || Homeland Threat Assessment Act 
+| [[H.R.2470]] || Rep. Mike D. Rogers [https://mikerogers.house.gov/] || Homeland Threat Assessment Act 
 |-
-| [[H.R.2471]] || TRACER Act 
+| [[H.R.2471]] || Rep. John Rutherford [https://rutherford.house.gov/] || TRACER Act 
 |-
-| [[H.R.2473]] || Put Trafficking Victims First Act of 2017 
+| [[H.R.2473]] || Rep. Ann Wagner [https://wagner.house.gov/] || Put Trafficking Victims First Act of 2017 
 |-
-| [[H.R.2480]] || Empowering Law Enforcement to Fight Sex Trafficking Demand Act 
+| [[H.R.2480]] || Rep. Vicky Hartzler [https://hartzler.house.gov/] || Empowering Law Enforcement to Fight Sex Trafficking Demand Act 
 |-
-| [[H.R.2484]] || Women, Peace, and Security Act of 2017 
+| [[H.R.2484]] || Rep. Kristi Noem [https://noem.house.gov/] || Women, Peace, and Security Act of 2017 
 |-
-| [[H.R.2518]] || Coast Guard Authorization Act of 2017 
+| [[H.R.2518]] || Rep. Duncan D. Hunter [https://hunter.house.gov/] || Coast Guard Authorization Act of 2017 
 |-
-| [[H.R.2547]] || Veterans Expanded Trucking Opportunities Act of 2017 
+| [[H.R.2547]] || Rep. Rob Woodall [https://woodall.house.gov/] || Veterans Expanded Trucking Opportunities Act of 2017 
 |-
-| [[H.R.2548]] || FEMA Reauthorization Act of 2017 
+| [[H.R.2548]] || Rep. Lou Barletta [https://barletta.house.gov/] || FEMA Reauthorization Act of 2017 
 |-
-| [[H.R.255]] || Promoting Women in Entrepreneurship Act 
+| [[H.R.255]] || Rep. Elizabeth Esty [https://esty.house.gov/] || Promoting Women in Entrepreneurship Act 
 |-
-| [[H.R.2565]] || To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes. 
+| [[H.R.2565]] || Rep. Blaine Luetkemeyer [https://luetkemeyer.house.gov/] || To require the use of replacement cost value in determining the premium rates for flood insurance coverage under the National Flood Insurance Act, and for other purposes. 
 |-
-| [[H.R.2579]] || Broader Options for Americans Act 
+| [[H.R.2579]] || Rep. Pat Tiberi [https://tiberi.house.gov/] || Broader Options for Americans Act 
 |-
-| [[H.R.2581]] || Verify First Act 
+| [[H.R.2581]] || Rep. Lou Barletta [https://barletta.house.gov/] || Verify First Act 
 |-
-| [[H.R.2582]] || Confirming State Land Grants for Education Act 
+| [[H.R.2582]] || Rep. Mia Love [https://love.house.gov/] || Confirming State Land Grants for Education Act 
 |-
-| [[H.R.2611]] || Little Rock Central High School National Historic Site Boundary Modification Act 
+| [[H.R.2611]] || Rep. French Hill [https://hill.house.gov/] || Little Rock Central High School National Historic Site Boundary Modification Act 
 |-
-| [[H.R.2615]] || Gulf Islands National Seashore Land Exchange Act of 2017 
+| [[H.R.2615]] || Rep. Steven Palazzo [https://palazzo.house.gov/] || Gulf Islands National Seashore Land Exchange Act of 2017 
 |-
-| [[H.R.2664]] || Enhancing Detection of Human Trafficking Act 
+| [[H.R.2664]] || Rep. Tim Walberg [https://walberg.house.gov/] || Enhancing Detection of Human Trafficking Act 
 |-
-| [[H.R.267]] || Martin Luther King, Jr. National Historical Park Act of 2017 
+| [[H.R.267]] || Rep. John Lewis [https://johnlewis.house.gov/] || Martin Luther King, Jr. National Historical Park Act of 2017 
 |-
-| [[H.R.26]] || Regulations from the Executive in Need of Scrutiny Act of 2017 
+| [[H.R.26]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Regulations from the Executive in Need of Scrutiny Act of 2017 
 |-
-| [[H.R.2742]] || Modernizing the Interstate Placement of Children in Foster Care Act 
+| [[H.R.2742]] || Rep. Jackie Walorski [http://walorski.house.gov/] || Modernizing the Interstate Placement of Children in Foster Care Act 
 |-
-| [[H.R.2749]] || Protecting Business Opportunities for Veterans Act of 2017 
+| [[H.R.2749]] || Rep. Jack Bergman [https://bergman.house.gov/] || Protecting Business Opportunities for Veterans Act of 2017 
 |-
-| [[H.R.274]] || Modernizing Government Travel Act 
+| [[H.R.274]] || Rep. Seth Moulton [http://moulton.house.gov/] || Modernizing Government Travel Act 
 |-
-| [[H.R.2763]] || Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017 
+| [[H.R.2763]] || Rep. Steve Knight [https://knight.house.gov/] || Small Business Innovation Research and Small Business Technology Transfer Improvements Act of 2017 
 |-
-| [[H.R.2768]] || Fowler and Boskoff Peaks Designation Act 
+| [[H.R.2768]] || Rep. Scott Tipton [https://tipton.house.gov/] || Fowler and Boskoff Peaks Designation Act 
 |-
-| [[H.R.276]] || To amend title 49, United States Code, to ensure reliable air service in American Samoa. 
+| [[H.R.276]] || Del. Amata Coleman Radewagen [https://radewagen.house.gov/] || To amend title 49, United States Code, to ensure reliable air service in American Samoa. 
 |-
-| [[H.R.2772]] || SEA Act 
+| [[H.R.2772]] || Rep. Scott Taylor [https://taylor.house.gov/] || SEA Act 
 |-
-| [[H.R.2781]] || Ensuring Veteran Enterprise Participation in Strategic Sourcing Act 
+| [[H.R.2781]] || Rep. Neal Dunn [https://dunn.house.gov/] || Ensuring Veteran Enterprise Participation in Strategic Sourcing Act 
 |-
-| [[H.R.2786]] || To amend the Federal Power Act with respect to the criteria and process to qualify as a qualifying conduit hydropower facility. 
+| [[H.R.2786]] || Rep. Richard Hudson [https://hudson.house.gov/] || To amend the Federal Power Act with respect to the criteria and process to qualify as a qualifying conduit hydropower facility. 
 |-
-| [[H.R.27]] || Ensuring VA Employee Accountability Act 
+| [[H.R.27]] || Rep. Ryan Costello [https://costello.house.gov/] || Ensuring VA Employee Accountability Act 
 |-
-| [[H.R.2805]] || Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017 
+| [[H.R.2805]] || Rep. Kathleen Rice [https://kathleenrice.house.gov/] || Asia-Pacific Economic Cooperation Business Travel Cards Act of 2017 
 |-
-| [[H.R.2810]] || National Defense Authorization Act for Fiscal Year 2018 
+| [[H.R.2810]] || Rep. William M. Thornberry [https://thornberry.house.gov/] || National Defense Authorization Act for Fiscal Year 2018 
 |-
-| [[H.R.2825]] || Department of Homeland Security Authorization Act 
+| [[H.R.2825]] || Rep. Michael McCaul [https://mccaul.house.gov/] || Department of Homeland Security Authorization Act 
 |-
-| [[H.R.2828]] || To extend the deadline for commencement of construction of a hydroelectric project. 
+| [[H.R.2828]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[H.R.282]] || Military Residency Choice Act 
+| [[H.R.282]] || Rep. Elise Stefanik [https://stefanik.house.gov/] || Military Residency Choice Act 
 |-
-| [[H.R.2834]] || Partnership Grants to Strengthen Families Affected by Parental Substance Abuse Act 
+| [[H.R.2834]] || Rep. Danny K. Davis [https://davis.house.gov/] || Partnership Grants to Strengthen Families Affected by Parental Substance Abuse Act 
 |-
-| [[H.R.2842]] || Accelerating Individuals into the Workforce Act 
+| [[H.R.2842]] || Rep. Carlos Curbelo [https://curbelo.house.gov/] || Accelerating Individuals into the Workforce Act 
 |-
-| [[H.R.2847]] || Improving Services for Older Youth in Foster Care Act 
+| [[H.R.2847]] || Rep. John Faso [https://faso.house.gov/] || Improving Services for Older Youth in Foster Care Act 
 |-
-| [[H.R.2857]] || Supporting Families in Substance Abuse Treatment Act 
+| [[H.R.2857]] || Rep. Kristi Noem [https://noem.house.gov/] || Supporting Families in Substance Abuse Treatment Act 
 |-
-| [[H.R.2864]] || Improving Access to Capital Act 
+| [[H.R.2864]] || Rep. Kyrsten Sinema [https://sinema.house.gov/] || Improving Access to Capital Act 
 |-
-| [[H.R.2866]] || Reducing Unnecessary Barriers for Relative Foster Parents Act 
+| [[H.R.2866]] || Rep. Lloyd Smucker [https://smucker.house.gov/] || Reducing Unnecessary Barriers for Relative Foster Parents Act 
 |-
-| [[H.R.2868]] || National Flood Insurance Program Policyholder Protection Act of 2017 
+| [[H.R.2868]] || Rep. Lee Zeldin [https://zeldin.house.gov/] || National Flood Insurance Program Policyholder Protection Act of 2017 
 |-
-| [[H.R.2874]] || 21st Century Flood Reform Act 
+| [[H.R.2874]] || Rep. Sean Duffy [https://duffy.house.gov/] || 21st Century Flood Reform Act 
 |-
-| [[H.R.2875]] || National Flood Insurance Program Administrative Reform Act of 2017 
+| [[H.R.2875]] || Rep. Nydia M. Velázquez [https://velazquez.house.gov/] || National Flood Insurance Program Administrative Reform Act of 2017 
 |-
-| [[H.R.2883]] || Promoting Cross-Border Energy Infrastructure Act 
+| [[H.R.2883]] || Rep. Markwayne Mullin [https://mullin.house.gov/] || Promoting Cross-Border Energy Infrastructure Act 
 |-
-| [[H.R.288]] || Small Business Broadband Deployment Act 
+| [[H.R.288]] || Rep. Greg Walden [https://walden.house.gov/] || Small Business Broadband Deployment Act 
 |-
-| [[H.R.28]] || Biological Implant Tracking and Veteran Safety Act of 2017 
+| [[H.R.28]] || Rep. Phil Roe [https://roe.house.gov/] || Biological Implant Tracking and Veteran Safety Act of 2017 
 |-
-| [[H.R.290]] || Federal Communications Commission Process Reform Act of 2017 
+| [[H.R.290]] || Rep. Greg Walden [https://walden.house.gov/] || Federal Communications Commission Process Reform Act of 2017 
 |-
-| [[H.R.2910]] || Promoting Interagency Coordination for Review of Natural Gas Pipelines Act 
+| [[H.R.2910]] || Rep. Bill Flores [https://flores.house.gov/] || Promoting Interagency Coordination for Review of Natural Gas Pipelines Act 
 |-
-| [[H.R.2937]] || Community Reclamation Partnerships Act 
+| [[H.R.2937]] || Rep. Darin M. LaHood [https://lahood.house.gov/] || Community Reclamation Partnerships Act 
 |-
-| [[H.R.2939]] || Water Rights Protection Act of 2017 
+| [[H.R.2939]] || Rep. Scott Tipton [https://tipton.house.gov/] || Water Rights Protection Act of 2017 
 |-
-| [[H.R.2997]] || 21st Century AIRR Act 
+| [[H.R.2997]] || Rep. Bill Shuster [https://shuster.house.gov/] || 21st Century AIRR Act 
 |-
-| [[H.R.2998]] || Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 
+| [[H.R.2998]] || Rep. Charlie Dent [https://dent.house.gov/] || Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3003]] || No Sanctuary for Criminals Act 
+| [[H.R.3003]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || No Sanctuary for Criminals Act 
 |-
-| [[H.R.3004]] || Kate's Law 
+| [[H.R.3004]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Kate's Law 
 |-
-| [[H.R.302]] || Sports Medicine Licensure Clarity Act of 2017 
+| [[H.R.302]] || Rep. Brett Guthrie [https://guthrie.house.gov/] || Sports Medicine Licensure Clarity Act of 2017 
 |-
-| [[H.R.304]] || Protecting Patient Access to Emergency Medications Act of 2017 
+| [[H.R.304]] || Rep. Richard Hudson [https://hudson.house.gov/] || Protecting Patient Access to Emergency Medications Act of 2017 
 |-
-| [[H.R.3050]] || Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017 
+| [[H.R.3050]] || Rep. Fred Upton [https://upton.house.gov/] || Enhancing State Energy Security Planning and Emergency Preparedness Act of 2017 
 |-
-| [[H.R.305]] || Presidential Tax Transparency Act 
+| [[H.R.305]] || Rep. Anna G. Eshoo [https://eshoo.house.gov/] || Presidential Tax Transparency Act 
 |-
-| [[H.R.306]] || Energy Efficient Government Technology Act 
+| [[H.R.306]] || Rep. Anna G. Eshoo [https://eshoo.house.gov/] || Energy Efficient Government Technology Act 
 |-
-| [[H.R.309]] || National Clinical Care Commission Act 
+| [[H.R.309]] || Rep. Pete Olson [https://olson.house.gov/] || National Clinical Care Commission Act 
 |-
-| [[H.R.3110]] || Financial Stability Oversight Council Insurance Member Continuity Act 
+| [[H.R.3110]] || Rep. Randy Hultgren [https://hultgren.house.gov/] || Financial Stability Oversight Council Insurance Member Continuity Act 
 |-
-| [[H.R.3115]] || Superior National Forest Land Exchange Act of 2017 
+| [[H.R.3115]] || Rep. Rick Nolan [https://nolan.house.gov/] || Superior National Forest Land Exchange Act of 2017 
 |-
-| [[H.R.315]] || Improving Access to Maternity Care Act 
+| [[H.R.315]] || Rep. Michael C. Burgess [www.house.gov] || Improving Access to Maternity Care Act 
 |-
-| [[H.R.3162]] || Legislative Branch Appropriations Act, 2018 
+| [[H.R.3162]] || Rep. Kevin Yoder [https://yoder.house.gov/] || Legislative Branch Appropriations Act, 2018 
 |-
-| [[H.R.3178]] || Medicare Part B Improvement Act of 2017 
+| [[H.R.3178]] || Rep. Kevin Brady [https://kevinbrady.house.gov/] || Medicare Part B Improvement Act of 2017 
 |-
-| [[H.R.3180]] || Intelligence Authorization Act for Fiscal Year 2018 
+| [[H.R.3180]] || Rep. Devin Nunes [https://nunes.house.gov/] || Intelligence Authorization Act for Fiscal Year 2018 
 |-
-| [[H.R.3202]] || Cyber Vulnerability Disclosure Reporting Act 
+| [[H.R.3202]] || Rep. Sheila Jackson Lee [https://jacksonlee.house.gov/] || Cyber Vulnerability Disclosure Reporting Act 
 |-
-| [[H.R.3210]] || SECRET Act of 2017 
+| [[H.R.3210]] || Rep. Steve Knight [https://knight.house.gov/] || SECRET Act of 2017 
 |-
-| [[H.R.3218]] || Harry W. Colmery Veterans Educational Assistance Act of 2017 
+| [[H.R.3218]] || Rep. Phil Roe [https://roe.house.gov/] || Harry W. Colmery Veterans Educational Assistance Act of 2017 
 |-
-| [[H.R.3219]] || Make America Secure Appropriations Act, 2018 
+| [[H.R.3219]] || Rep. Kay Granger [https://kaygranger.house.gov/] || Make America Secure Appropriations Act, 2018 
 |-
-| [[H.R.321]] || Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act 
+| [[H.R.321]] || Rep. Barbara Comstock [https://comstock.house.gov/] || Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act 
 |-
-| [[H.R.3262]] || Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017 
+| [[H.R.3262]] || Rep. Ann McLane Kuster [https://kuster.house.gov/] || Grow Our Own Directive: Physician Assistant Employment and Education Act of 2017 
 |-
-| [[H.R.3266]] || Energy and Water Development and Related Agencies Appropriations Act, 2018 
+| [[H.R.3266]] || Rep. Mike Simpson [https://simpson.house.gov/] || Energy and Water Development and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3267]] || Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018 
+| [[H.R.3267]] || Rep. John Culberson [https://culberson.house.gov/] || Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3268]] || Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 
+| [[H.R.3268]] || Rep. Robert B. Aderholt [https://aderholt.house.gov/] || Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3280]] || Financial Services and General Government Appropriations Act, 2018 
+| [[H.R.3280]] || Rep. Tom Graves [https://tomgraves.house.gov/] || Financial Services and General Government Appropriations Act, 2018 
 |-
-| [[H.R.3284]] || Joint Counterterrorism Awareness Workshop Series Act of 2017 
+| [[H.R.3284]] || Rep. Brian Fitzpatrick [https://fitzpatrick.house.gov/] || Joint Counterterrorism Awareness Workshop Series Act of 2017 
 |-
-| [[H.R.3298]] || Wounded Officers Recovery Act of 2017 
+| [[H.R.3298]] || Rep. Joe L. Barton [https://joebarton.house.gov/] || Wounded Officers Recovery Act of 2017 
 |-
-| [[H.R.3326]] || World Bank Accountability Act of 2017 
+| [[H.R.3326]] || Rep. Andy Barr [https://barr.house.gov/] || World Bank Accountability Act of 2017 
 |-
-| [[H.R.3328]] || Cuban Airport Security Act of 2017 
+| [[H.R.3328]] || Rep. John Katko [https://katko.house.gov/] || Cuban Airport Security Act of 2017 
 |-
-| [[H.R.3353]] || Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018 
+| [[H.R.3353]] || Rep. Mario Diaz-Balart [https://mariodiazbalart.house.gov/] || Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3354]] || Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018 
+| [[H.R.3354]] || Rep. Ken Calvert [https://calvert.house.gov/] || Department of the Interior, Environment, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3355]] || Department of Homeland Security Appropriations Act, 2018 
+| [[H.R.3355]] || Rep. John Carter [https://carter.house.gov/] || Department of Homeland Security Appropriations Act, 2018 
 |-
-| [[H.R.3358]] || Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2018 
+| [[H.R.3358]] || Rep. Tom Cole [https://cole.house.gov/] || Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2018 
 |-
-| [[H.R.3362]] || Department of State, Foreign Operations, and Related Programs Appropriations Act, 2018 
+| [[H.R.3362]] || Rep. Harold Rogers [https://halrogers.house.gov/] || Department of State, Foreign Operations, and Related Programs Appropriations Act, 2018 
 |-
-| [[H.R.3364]] || Countering America's Adversaries Through Sanctions Act 
+| [[H.R.3364]] || Rep. Edward Royce [https://royce.house.gov/] || Countering America's Adversaries Through Sanctions Act 
 |-
-| [[H.R.337]] || Black Hills National Cemetery Boundary Expansion Act 
+| [[H.R.337]] || Rep. Kristi Noem [https://noem.house.gov/] || Black Hills National Cemetery Boundary Expansion Act 
 |-
-| [[H.R.3388]] || SELF DRIVE Act 
+| [[H.R.3388]] || Rep. Robert E. Latta [https://latta.house.gov/] || SELF DRIVE Act 
 |-
-| [[H.R.338]] || To promote a 21st century energy and manufacturing workforce. 
+| [[H.R.338]] || Rep. Bobby L. Rush [https://rush.house.gov/] || To promote a 21st century energy and manufacturing workforce. 
 |-
-| [[H.R.339]] || Northern Mariana Islands Economic Expansion Act 
+| [[H.R.339]] || Del. Gregorio &#39;Kilili&#39; Camacho Sablan [https://sablan.house.gov/] || Northern Mariana Islands Economic Expansion Act 
 |-
-| [[H.R.347]] || DHS Acquisition Documentation Integrity Act of 2017 
+| [[H.R.347]] || Rep. Bonnie Watson Coleman [https://watsoncoleman.house.gov/] || DHS Acquisition Documentation Integrity Act of 2017 
 |-
-| [[H.R.353]] || Weather Research and Forecasting Innovation Act of 2017 
+| [[H.R.353]] || Rep. Frank D. Lucas [https://lucas.house.gov/] || Weather Research and Forecasting Innovation Act of 2017 
 |-
-| [[H.R.356]] || Protecting Our Democracy Act 
+| [[H.R.356]] || Rep. Eric Swalwell [https://swalwell.house.gov/] || Protecting Our Democracy Act 
 |-
-| [[H.R.366]] || DHS SAVE Act 
+| [[H.R.366]] || Rep. Scott Perry [https://perry.house.gov/] || DHS SAVE Act 
 |-
-| [[H.R.3697]] || Criminal Alien Gang Member Removal Act 
+| [[H.R.3697]] || Rep. Barbara Comstock [https://comstock.house.gov/] || Criminal Alien Gang Member Removal Act 
 |-
-| [[H.R.369]] || To eliminate the sunset of the Veterans Choice Program, and for other purposes. 
+| [[H.R.369]] || Rep. Phil Roe [https://roe.house.gov/] || To eliminate the sunset of the Veterans Choice Program, and for other purposes. 
 |-
-| [[H.R.372]] || Competitive Health Insurance Reform Act of 2017 
+| [[H.R.372]] || Rep. Paul Gosar [https://gosar.house.gov/] || Competitive Health Insurance Reform Act of 2017 
 |-
-| [[H.R.3732]] || Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act 
+| [[H.R.3732]] || Rep. Dave Reichert [https://reichert.house.gov/] || Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act 
 |-
-| [[H.R.374]] || To remove the sunset provision of section 203 of Public Law 105-384, and for other purposes. 
+| [[H.R.374]] || Rep. Jaime Herrera Beutler [https://herrerabeutler.house.gov/] || To remove the sunset provision of section 203 of Public Law 105-384, and for other purposes. 
 |-
-| [[H.R.375]] || To designate the Federal building and United States courthouse located at 719 Church Street in Nashville, Tennessee, as the Fred D. Thompson Federal Building and United States Courthouse. 
+| [[H.R.375]] || Rep. Marsha Blackburn [https://blackburn.house.gov/] || To designate the Federal building and United States courthouse located at 719 Church Street in Nashville, Tennessee, as the Fred D. Thompson Federal Building and United States Courthouse. 
 |-
-| [[H.R.381]] || To designate a mountain in the John Muir Wilderness of the Sierra National Forest as Sky Point. 
+| [[H.R.381]] || Rep. Tom McClintock [https://mcclintock.house.gov/] || To designate a mountain in the John Muir Wilderness of the Sierra National Forest as Sky Point. 
 |-
-| [[H.R.382]] || 100 Years of Women in Congress Act 
+| [[H.R.382]] || Rep. Grace Meng [https://meng.house.gov/] || 100 Years of Women in Congress Act 
 |-
-| [[H.R.387]] || Email Privacy Act 
+| [[H.R.387]] || Rep. Kevin Yoder [https://yoder.house.gov/] || Email Privacy Act 
 |-
-| [[H.R.390]] || Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017 
+| [[H.R.390]] || Rep. Christopher H. Smith [https://chrissmith.house.gov/] || Iraq and Syria Genocide Emergency Relief and Accountability Act of 2017 
 |-
-| [[H.R.391]] || Asylum Reform and Border Protection Act of 2017 
+| [[H.R.391]] || Rep. Jason Chaffetz [www.house.gov] || Asylum Reform and Border Protection Act of 2017 
 |-
-| [[H.R.392]] || Fairness for High-Skilled Immigrants Act of 2017 
+| [[H.R.392]] || Rep. Jason Chaffetz [www.house.gov] || Fairness for High-Skilled Immigrants Act of 2017 
 |-
-| [[H.R.393]] || To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
+| [[H.R.393]] || Rep. William M. Thornberry [https://thornberry.house.gov/] || To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
 |-
-| [[H.R.39]] || TALENT Act of 2017 
+| [[H.R.39]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || TALENT Act of 2017 
 |-
-| [[H.R.423]] || Anti-Spoofing Act of 2017 
+| [[H.R.423]] || Rep. Grace Meng [https://meng.house.gov/] || Anti-Spoofing Act of 2017 
 |-
-| [[H.R.428]] || Red River Gradient Boundary Survey Act 
+| [[H.R.428]] || Rep. William M. Thornberry [https://thornberry.house.gov/] || Red River Gradient Boundary Survey Act 
 |-
-| [[H.R.437]] || Medical Preparedness Allowable Use Act 
+| [[H.R.437]] || Rep. Gus Bilirakis [https://bilirakis.house.gov/] || Medical Preparedness Allowable Use Act 
 |-
-| [[H.R.446]] || To extend the deadline for commencement of construction of a hydroelectric project. 
+| [[H.R.446]] || Rep. Morgan Griffith [https://morgangriffith.house.gov/] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[H.R.447]] || To extend the deadline for commencement of construction of a hydroelectric project. 
+| [[H.R.447]] || Rep. Morgan Griffith [https://morgangriffith.house.gov/] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[H.R.455]] || To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the R. Jess Brown United States Courthouse. 
+| [[H.R.455]] || Rep. Bennie Thompson [https://benniethompson.house.gov/] || To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the R. Jess Brown United States Courthouse. 
 |-
-| [[H.R.460]] || Improving Rural Call Quality and Reliability Act of 2017 
+| [[H.R.460]] || Rep. David Young [https://davidyoung.house.gov/] || Improving Rural Call Quality and Reliability Act of 2017 
 |-
-| [[H.R.467]] || VA Scheduling Accountability Act 
+| [[H.R.467]] || Rep. Jackie Walorski [http://walorski.house.gov/] || VA Scheduling Accountability Act 
 |-
-| [[H.R.46]] || Fort Ontario Study Act 
+| [[H.R.46]] || Rep. John Katko [https://katko.house.gov/] || Fort Ontario Study Act 
 |-
-| [[H.R.479]] || North Korea State Sponsor of Terrorism Designation Act of 2017 
+| [[H.R.479]] || Rep. Ted Poe [https://poe.house.gov/] || North Korea State Sponsor of Terrorism Designation Act of 2017 
 |-
-| [[H.R.494]] || Fort Frederica National Monument Boundary Expansion Act 
+| [[H.R.494]] || Rep. Buddy Carter [https://buddycarter.house.gov/] || Fort Frederica National Monument Boundary Expansion Act 
 |-
-| [[H.R.496]] || BRIDGE Act 
+| [[H.R.496]] || Rep. Mike Coffman [https://coffman.house.gov/] || BRIDGE Act 
 |-
-| [[H.R.497]] || Santa Ana River Wash Plan Land Exchange Act 
+| [[H.R.497]] || Rep. Paul Cook [https://cook.house.gov/] || Santa Ana River Wash Plan Land Exchange Act 
 |-
-| [[H.R.505]] || Border Security Technology Accountability Act of 2017 
+| [[H.R.505]] || Rep. Martha McSally [https://mcsally.house.gov/] || Border Security Technology Accountability Act of 2017 
 |-
-| [[H.R.510]] || Rapid DNA Act of 2017 
+| [[H.R.510]] || Rep. F. James Sensenbrenner [https://sensenbrenner.house.gov/] || Rapid DNA Act of 2017 
 |-
-| [[H.R.511]] || Power And Security Systems (PASS) Act 
+| [[H.R.511]] || Rep. Peter Welch [https://welch.house.gov/] || Power And Security Systems (PASS) Act 
 |-
-| [[H.R.512]] || WINGMAN Act 
+| [[H.R.512]] || Rep. Ted Yoho [https://yoho.house.gov/] || WINGMAN Act 
 |-
-| [[H.R.518]] || EPS Improvement Act of 2017 
+| [[H.R.518]] || Rep. Diana DeGette [https://degette.house.gov/] || EPS Improvement Act of 2017 
 |-
-| [[H.R.526]] || Counterterrorism Advisory Board Act of 2017 
+| [[H.R.526]] || Rep. John Katko [https://katko.house.gov/] || Counterterrorism Advisory Board Act of 2017 
 |-
-| [[H.R.534]] || U.S. Wants to Compete for a World Expo Act 
+| [[H.R.534]] || Rep. Tom Emmer [https://emmer.house.gov/] || U.S. Wants to Compete for a World Expo Act 
 |-
-| [[H.R.538]] || Ocmulgee Mounds National Historical Park Boundary Revision Act 
+| [[H.R.538]] || Rep. Sanford D. Bishop Jr. [www.house.gov] || Ocmulgee Mounds National Historical Park Boundary Revision Act 
 |-
-| [[H.R.549]] || Transit Security Grant Program Flexibility Act 
+| [[H.R.549]] || Rep. Daniel M. Donovan [https://donovan.house.gov/] || Transit Security Grant Program Flexibility Act 
 |-
-| [[H.R.555]] || Amateur Radio Parity Act of 2017 
+| [[H.R.555]] || Rep. Adam Kinzinger [https://kinzinger.house.gov/] || Amateur Radio Parity Act of 2017 
 |-
-| [[H.R.558]] || Kennesaw Mountain National Battlefield Park Boundary Adjustment Act 
+| [[H.R.558]] || Rep. Barry Loudermilk [https://loudermilk.house.gov/] || Kennesaw Mountain National Battlefield Park Boundary Adjustment Act 
 |-
-| [[H.R.560]] || To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes. 
+| [[H.R.560]] || Rep. Tom Marino [https://marino.house.gov/] || To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes. 
 |-
-| [[H.R.582]] || Kari's Law Act of 2017 
+| [[H.R.582]] || Rep. Louie Gohmert [https://gohmert.house.gov/] || Kari's Law Act of 2017 
 |-
-| [[H.R.584]] || Cyber Preparedness Act of 2017 
+| [[H.R.584]] || Rep. Daniel M. Donovan [https://donovan.house.gov/] || Cyber Preparedness Act of 2017 
 |-
-| [[H.R.587]] || Fair RATES Act 
+| [[H.R.587]] || Rep. Joseph P. Kennedy III [https://kennedy.house.gov/] || Fair RATES Act 
 |-
-| [[H.R.588]] || Securing Access to Networks in Disasters Act 
+| [[H.R.588]] || Rep. Frank Pallone [https://pallone.house.gov/] || Securing Access to Networks in Disasters Act 
 |-
-| [[H.R.589]] || Department of Energy Research and Innovation Act 
+| [[H.R.589]] || Rep. Lamar Smith [https://lamarsmith.house.gov/] || Department of Energy Research and Innovation Act 
 |-
-| [[H.R.58]] || FRIENDS Act 
+| [[H.R.58]] || Rep. Sheila Jackson Lee [https://jacksonlee.house.gov/] || FRIENDS Act 
 |-
-| [[H.R.590]] || Advanced Nuclear Technology Development Act of 2017 
+| [[H.R.590]] || Rep. Robert E. Latta [https://latta.house.gov/] || Advanced Nuclear Technology Development Act of 2017 
 |-
-| [[H.R.597]] || Lytton Rancheria Homelands Act of 2017 
+| [[H.R.597]] || Rep. Jeffrey Denham [https://denham.house.gov/] || Lytton Rancheria Homelands Act of 2017 
 |-
-| [[H.R.599]] || Federal Communications Commission Consolidated Reporting Act of 2017 
+| [[H.R.599]] || Rep. Steve Scalise [https://scalise.house.gov/] || Federal Communications Commission Consolidated Reporting Act of 2017 
 |-
-| [[H.R.5]] || Regulatory Accountability Act of 2017 
+| [[H.R.5]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Regulatory Accountability Act of 2017 
 |-
-| [[H.R.600]] || Digital GAP Act 
+| [[H.R.600]] || Rep. Edward Royce [https://royce.house.gov/] || Digital GAP Act 
 |-
-| [[H.R.601]] || Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017 
+| [[H.R.601]] || Rep. Nita M. Lowey [https://lowey.house.gov/] || Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017 
 |-
-| [[H.R.609]] || To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the Abie Abraham VA Clinic. 
+| [[H.R.609]] || Rep. Mike Kelly [https://kelly.house.gov/] || To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the Abie Abraham VA Clinic. 
 |-
-| [[H.R.612]] || United States-Israel Cybersecurity Cooperation Enhancement Act of 2017 
+| [[H.R.612]] || Rep. Jim Langevin [https://langevin.house.gov/] || United States-Israel Cybersecurity Cooperation Enhancement Act of 2017 
 |-
-| [[H.R.618]] || Crags, Colorado Land Exchange Act of 2017 
+| [[H.R.618]] || Rep. Doug Lamborn [https://lamborn.house.gov/] || Crags, Colorado Land Exchange Act of 2017 
 |-
-| [[H.R.622]] || Local Enforcement for Local Lands Act 
+| [[H.R.622]] || Rep. Jason Chaffetz [www.house.gov] || Local Enforcement for Local Lands Act 
 |-
-| [[H.R.624]] || Social Security Number Fraud Prevention Act of 2017 
+| [[H.R.624]] || Rep. David Valadao [https://valadao.house.gov/] || Social Security Number Fraud Prevention Act of 2017 
 |-
-| [[H.R.625]] || REPORT Act 
+| [[H.R.625]] || Rep. Pete Aguilar [https://aguilar.house.gov/] || REPORT Act 
 |-
-| [[H.R.627]] || Streamlining Energy Efficiency for Schools Act of 2017 
+| [[H.R.627]] || Rep. Matt Cartwright [https://cartwright.house.gov/] || Streamlining Energy Efficiency for Schools Act of 2017 
 |-
-| [[H.R.642]] || Fusion Center Enhancement Act of 2017 
+| [[H.R.642]] || Rep. Lou Barletta [https://barletta.house.gov/] || Fusion Center Enhancement Act of 2017 
 |-
-| [[H.R.648]] || To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir. 
+| [[H.R.648]] || Rep. Liz Cheney [https://cheney.house.gov/] || To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir. 
 |-
-| [[H.R.653]] || Federal Intern Protection Act of 2017 
+| [[H.R.653]] || Rep. Elijah E. Cummings [https://cummings.house.gov/] || Federal Intern Protection Act of 2017 
 |-
-| [[H.R.654]] || Pacific Northwest Earthquake Preparedness Act of 2017 
+| [[H.R.654]] || Rep. Peter A. DeFazio [https://defazio.house.gov/] || Pacific Northwest Earthquake Preparedness Act of 2017 
 |-
-| [[H.R.655]] || Securing the Cities Act of 2017 
+| [[H.R.655]] || Rep. Daniel M. Donovan [https://donovan.house.gov/] || Securing the Cities Act of 2017 
 |-
-| [[H.R.657]] || Follow the Rules Act 
+| [[H.R.657]] || Rep. Sean Duffy [https://duffy.house.gov/] || Follow the Rules Act 
 |-
-| [[H.R.660]] || Bureau of Reclamation Transparency Act 
+| [[H.R.660]] || Rep. Paul Gosar [https://gosar.house.gov/] || Bureau of Reclamation Transparency Act 
 |-
-| [[H.R.665]] || Airport Perimeter and Access Control Security Act of 2017 
+| [[H.R.665]] || Rep. Bill Keating [https://keating.house.gov/] || Airport Perimeter and Access Control Security Act of 2017 
 |-
-| [[H.R.666]] || Department of Homeland Security Insider Threat and Mitigation Act of 2017 
+| [[H.R.666]] || Rep. Peter T. King [https://peteking.house.gov/] || Department of Homeland Security Insider Threat and Mitigation Act of 2017 
 |-
-| [[H.R.672]] || Combating European Anti-Semitism Act of 2017 
+| [[H.R.672]] || Rep. Nita M. Lowey [https://lowey.house.gov/] || Combating European Anti-Semitism Act of 2017 
 |-
-| [[H.R.677]] || CBRN Intelligence and Information Sharing Act of 2017 
+| [[H.R.677]] || Rep. Martha McSally [https://mcsally.house.gov/] || CBRN Intelligence and Information Sharing Act of 2017 
 |-
-| [[H.R.678]] || Department of Homeland Security Support to Fusion Centers Act of 2017 
+| [[H.R.678]] || Rep. Martha McSally [https://mcsally.house.gov/] || Department of Homeland Security Support to Fusion Centers Act of 2017 
 |-
-| [[H.R.679]] || Construction Consensus Procurement Improvement Act of 2017 
+| [[H.R.679]] || Rep. Mark Meadows [https://meadows.house.gov/] || Construction Consensus Procurement Improvement Act of 2017 
 |-
-| [[H.R.680]] || Eliminating Pornography from Agencies Act 
+| [[H.R.680]] || Rep. Mark Meadows [https://meadows.house.gov/] || Eliminating Pornography from Agencies Act 
 |-
-| [[H.R.687]] || First Responder Access to Innovative Technologies Act 
+| [[H.R.687]] || Rep. Donald M. Payne Jr. [https://payne.house.gov/] || First Responder Access to Innovative Technologies Act 
 |-
-| [[H.R.688]] || Arapaho National Forest Boundary Adjustment Act of 2017 
+| [[H.R.688]] || Rep. Jared Polis [https://polis.house.gov/] || Arapaho National Forest Boundary Adjustment Act of 2017 
 |-
-| [[H.R.689]] || Bolts Ditch Access and Use Act 
+| [[H.R.689]] || Rep. Jared Polis [https://polis.house.gov/] || Bolts Ditch Access and Use Act 
 |-
-| [[H.R.690]] || Gains in Global Nuclear Detection Architecture Act 
+| [[H.R.690]] || Rep. Cedric Richmond [https://richmond.house.gov/] || Gains in Global Nuclear Detection Architecture Act 
 |-
-| [[H.R.695]] || Child Protection Improvements Act of 2017 
+| [[H.R.695]] || Rep. Adam B. Schiff [http://schiff.house.gov/] || Child Protection Improvements Act of 2017 
 |-
-| [[H.R.697]] || Department of Homeland Security Clearance Management and Administration Act 
+| [[H.R.697]] || Rep. Bennie Thompson [https://benniethompson.house.gov/] || Department of Homeland Security Clearance Management and Administration Act 
 |-
-| [[H.R.698]] || Elkhorn Ranch and White River National Forest Conveyance Act of 2017 
+| [[H.R.698]] || Rep. Scott Tipton [https://tipton.house.gov/] || Elkhorn Ranch and White River National Forest Conveyance Act of 2017 
 |-
-| [[H.R.699]] || Mount Hood Cooper Spur Land Exchange Clarification Act 
+| [[H.R.699]] || Rep. Greg Walden [https://walden.house.gov/] || Mount Hood Cooper Spur Land Exchange Clarification Act 
 |-
-| [[H.R.69]] || Thoroughly Investigating Retaliation Against Whistleblowers Act 
+| [[H.R.69]] || Rep. Rod Blum [https://blum.house.gov/] || Thoroughly Investigating Retaliation Against Whistleblowers Act 
 |-
-| [[H.R.702]] || Federal Employee Antidiscrimination Act of 2017 
+| [[H.R.702]] || Rep. Elijah E. Cummings [https://cummings.house.gov/] || Federal Employee Antidiscrimination Act of 2017 
 |-
-| [[H.R.70]] || Federal Advisory Committee Act Amendments of 2017 
+| [[H.R.70]] || Rep. William Lacy Clay [https://lacyclay.house.gov/] || Federal Advisory Committee Act Amendments of 2017 
 |-
-| [[H.R.71]] || Taxpayers Right-To-Know Act 
+| [[H.R.71]] || Rep. Tim Walberg [https://walberg.house.gov/] || Taxpayers Right-To-Know Act 
 |-
-| [[H.R.720]] || Lawsuit Abuse Reduction Act of 2017 
+| [[H.R.720]] || Rep. Lamar Smith [https://lamarsmith.house.gov/] || Lawsuit Abuse Reduction Act of 2017 
 |-
-| [[H.R.725]] || Innocent Party Protection Act 
+| [[H.R.725]] || Rep. Ken Buck [https://buck.house.gov/] || Innocent Party Protection Act 
 |-
-| [[H.R.72]] || GAO Access and Oversight Act of 2017 
+| [[H.R.72]] || Rep. Buddy Carter [https://buddycarter.house.gov/] || GAO Access and Oversight Act of 2017 
 |-
-| [[H.R.732]] || Stop Settlement Slush Funds Act of 2017 
+| [[H.R.732]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Stop Settlement Slush Funds Act of 2017 
 |-
-| [[H.R.73]] || Presidential Library Donation Reform Act of 2017 
+| [[H.R.73]] || Rep. John J. Duncan Jr. [https://duncan.house.gov/] || Presidential Library Donation Reform Act of 2017 
 |-
-| [[H.R.78]] || SEC Regulatory Accountability Act 
+| [[H.R.78]] || Rep. Ann Wagner [https://wagner.house.gov/] || SEC Regulatory Accountability Act 
 |-
-| [[H.R.79]] || HALOS Act 
+| [[H.R.79]] || Rep. Steven J. Chabot [https://chabot.house.gov/] || HALOS Act 
 |-
-| [[H.R.7]] || No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017 
+| [[H.R.7]] || Rep. Christopher H. Smith [https://chrissmith.house.gov/] || No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017 
 |-
-| [[H.R.806]] || Ozone Standards Implementation Act of 2017 
+| [[H.R.806]] || Rep. Pete Olson [https://olson.house.gov/] || Ozone Standards Implementation Act of 2017 
 |-
-| [[H.R.863]] || To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes. 
+| [[H.R.863]] || Rep. John B. Larson [https://larson.house.gov/] || To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes. 
 |-
-| [[H.R.873]] || Global War on Terrorism War Memorial Act 
+| [[H.R.873]] || Rep. Mike Gallagher [https://gallagher.house.gov/] || Global War on Terrorism War Memorial Act 
 |-
-| [[H.R.876]] || Aviation Employee Screening and Security Enhancement Act of 2017 
+| [[H.R.876]] || Rep. John Katko [https://katko.house.gov/] || Aviation Employee Screening and Security Enhancement Act of 2017 
 |-
-| [[H.R.883]] || Targeting Child Predators Act of 2017 
+| [[H.R.883]] || Rep. Ron DeSantis [https://desantis.house.gov/] || Targeting Child Predators Act of 2017 
 |-
-| [[H.R.88]] || Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battlefield Designation Act 
+| [[H.R.88]] || Rep. Marsha Blackburn [https://blackburn.house.gov/] || Shiloh National Military Park Boundary Adjustment and Parker's Crossroads Battlefield Designation Act 
 |-
-| [[H.R.906]] || Furthering Asbestos Claim Transparency (FACT) Act of 2017 
+| [[H.R.906]] || Rep. Blake Farenthold [https://farenthold.house.gov/] || Furthering Asbestos Claim Transparency (FACT) Act of 2017 
 |-
-| [[H.R.910]] || Fair Access to Investment Research Act of 2017 
+| [[H.R.910]] || Rep. French Hill [https://hill.house.gov/] || Fair Access to Investment Research Act of 2017 
 |-
-| [[H.R.91]] || Building Supportive Networks for Women Veterans Act 
+| [[H.R.91]] || Rep. Julia Brownley [https://juliabrownley.house.gov/] || Building Supportive Networks for Women Veterans Act 
 |-
-| [[H.R.931]] || Firefighter Cancer Registry Act of 2017 
+| [[H.R.931]] || Rep. Chris Collins [https://chriscollins.house.gov/] || Firefighter Cancer Registry Act of 2017 
 |-
-| [[H.R.951]] || To extend the deadline for commencement of construction of a hydroelectric project. 
+| [[H.R.951]] || Rep. Virginia Foxx [https://foxx.house.gov/] || To extend the deadline for commencement of construction of a hydroelectric project. 
 |-
-| [[H.R.953]] || Reducing Regulatory Burdens Act of 2017 
+| [[H.R.953]] || Rep. Bob Gibbs [https://gibbs.house.gov/] || Reducing Regulatory Burdens Act of 2017 
 |-
-| [[H.R.954]] || To remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes. 
+| [[H.R.954]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || To remove the use restrictions on certain land transferred to Rockingham County, Virginia, and for other purposes. 
 |-
-| [[H.R.95]] || Veterans' Access to Child Care Act 
+| [[H.R.95]] || Rep. Julia Brownley [https://juliabrownley.house.gov/] || Veterans' Access to Child Care Act 
 |-
-| [[H.R.965]] || Saint-Gaudens National Historical Park Redesignation Act 
+| [[H.R.965]] || Rep. Ann McLane Kuster [https://kuster.house.gov/] || Saint-Gaudens National Historical Park Redesignation Act 
 |-
-| [[H.R.974]] || BRAVE Act 
+| [[H.R.974]] || Rep. Kathleen Rice [https://kathleenrice.house.gov/] || BRAVE Act 
 |-
-| [[H.R.984]] || Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 
+| [[H.R.984]] || Rep. Robert J. Wittman [https://wittman.house.gov/] || Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017 
 |-
-| [[H.R.985]] || Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017 
+| [[H.R.985]] || Rep. Robert W. Goodlatte [https://goodlatte.house.gov/] || Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017 
 |-
-| [[H.R.998]] || SCRUB Act 
+| [[H.R.998]] || Rep. Jason Smith [https://jasonsmith.house.gov/] || SCRUB Act 
 |-
-| [[H.RES.111]] || Of inquiry directing the Attorney General to transmit certain documents to the House of Representatives relating to the financial practices of the President. 
+| [[H.RES.111]] || Rep. Jerrold Nadler [https://nadler.house.gov/] || Of inquiry directing the Attorney General to transmit certain documents to the House of Representatives relating to the financial practices of the President. 
 |-
-| [[H.RES.116]] || Providing for consideration of the joint resolution (H.J. Res. 66) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees, and providing for consideration of the joint resolution (H.J. Res. 67) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
+| [[H.RES.116]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 66) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees, and providing for consideration of the joint resolution (H.J. Res. 67) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees. 
 |-
-| [[H.RES.11]] || Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
+| [[H.RES.11]] || Rep. Edward Royce [https://royce.house.gov/] || Objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
 |-
-| [[H.RES.123]] || Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska; and providing for proceedings during the period from February 17, 2017, through February 24, 2017. 
+| [[H.RES.123]] || Rep. Michael C. Burgess [www.house.gov] || Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska; and providing for proceedings during the period from February 17, 2017, through February 24, 2017. 
 |-
-| [[H.RES.127]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.127]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.131]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.131]] || Rep. Rob Bishop [https://robbishop.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.145]] || Expressing the sense of the House of Representatives regarding the fight against corruption in Central America. 
+| [[H.RES.145]] || Rep. Norma Torres [https://torres.house.gov/] || Expressing the sense of the House of Representatives regarding the fight against corruption in Central America. 
 |-
-| [[H.RES.150]] || Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
+| [[H.RES.150]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness. 
 |-
-| [[H.RES.151]] || Honoring the life of former Minority Leader of the House of Representatives, Robert Henry Bob Michel. 
+| [[H.RES.151]] || Rep. Darin M. LaHood [https://lahood.house.gov/] || Honoring the life of former Minority Leader of the House of Representatives, Robert Henry Bob Michel. 
 |-
-| [[H.RES.154]] || Of inquiry requesting the President of the United States and directing the Secretary of Health and Human Services to transmit certain information to the House of Representatives relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health-related measures of the Health Care and Education Reconciliation Act of 2010. 
+| [[H.RES.154]] || Rep. Joseph P. Kennedy III [https://kennedy.house.gov/] || Of inquiry requesting the President of the United States and directing the Secretary of Health and Human Services to transmit certain information to the House of Representatives relating to plans to repeal or replace the Patient Protection and Affordable Care Act and the health-related measures of the Health Care and Education Reconciliation Act of 2010. 
 |-
-| [[H.RES.156]] || Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes. 
+| [[H.RES.156]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes. 
 |-
-| [[H.RES.173]] || Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress. 
+| [[H.RES.173]] || Rep. Gregg Harper [https://harper.house.gov/] || Providing for the expenses of certain committees of the House of Representatives in the One Hundred Fifteenth Congress. 
 |-
-| [[H.RES.174]] || Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes. 
+| [[H.RES.174]] || Rep. Liz Cheney [https://cheney.house.gov/] || Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes. 
 |-
-| [[H.RES.175]] || Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder. 
+| [[H.RES.175]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder. 
 |-
-| [[H.RES.180]] || Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes. 
+| [[H.RES.180]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes. 
 |-
-| [[H.RES.184]] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to communications with the government of Russia. 
+| [[H.RES.184]] || Rep. Hakeem Jeffries [https://jeffries.house.gov/] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to communications with the government of Russia. 
 |-
-| [[H.RES.186]] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax returns and other specified financial information of President Donald J. Trump. 
+| [[H.RES.186]] || Rep. Bill Pascrell Jr. [https://pascrell.house.gov/] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax returns and other specified financial information of President Donald J. Trump. 
 |-
-| [[H.RES.187]] || Relating to efforts to respond to the famine in South Sudan. 
+| [[H.RES.187]] || Rep. Karen Bass [https://bass.house.gov/] || Relating to efforts to respond to the famine in South Sudan. 
 |-
-| [[H.RES.198]] || Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes. 
+| [[H.RES.198]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes. 
 |-
-| [[H.RES.1]] || Electing officers of the House of Representatives. 
+| [[H.RES.1]] || Rep. Cathy McMorris Rodgers [http://mcmorris.house.gov/] || Electing officers of the House of Representatives. 
 |-
-| [[H.RES.203]] || Of inquiry requesting the President, and directing the Attorney General, to transmit, respectively, certain documents to the House of Representatives relating to certain communications by the President of the United States. 
+| [[H.RES.203]] || Rep. Mike Quigley [https://quigley.house.gov/] || Of inquiry requesting the President, and directing the Attorney General, to transmit, respectively, certain documents to the House of Representatives relating to certain communications by the President of the United States. 
 |-
-| [[H.RES.209]] || Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers. 
+| [[H.RES.209]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers. 
 |-
-| [[H.RES.210]] || Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees. 
+| [[H.RES.210]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees. 
 |-
-| [[H.RES.221]] || Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules. 
+| [[H.RES.221]] || Rep. Pete Sessions [https://sessions.house.gov/] || Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules, and providing for consideration of motions to suspend the rules. 
 |-
-| [[H.RES.228]] || Providing for consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+| [[H.RES.228]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
 |-
-| [[H.RES.229]] || Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible. 
+| [[H.RES.229]] || Rep. Rob Woodall [https://woodall.house.gov/] || Providing for consideration of the bill (H.R. 1430) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible. 
 |-
-| [[H.RES.22]] || Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
+| [[H.RES.22]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 26) to amend chapter 8 of title 5, United States Code, to provide that major rules of the executive branch shall have no force or effect unless a joint resolution of approval is enacted into law, and providing for consideration of the resolution (H. Res. 11) objecting to United Nations Security Council Resolution 2334 as an obstacle to Israeli-Palestinian peace, and for other purposes. 
 |-
-| [[H.RES.230]] || Providing for consideration of the joint resolution (S.J. Res. 34) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
+| [[H.RES.230]] || Rep. Michael C. Burgess [www.house.gov] || Providing for consideration of the joint resolution (S.J. Res. 34) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to Protecting the Privacy of Customers of Broadband and Other Telecommunications Services. 
 |-
-| [[H.RES.233]] || Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes. 
+| [[H.RES.233]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for consideration of the bill (H.R. 1431) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes. 
 |-
-| [[H.RES.235]] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to the Department of Homeland Security's research, integration, and analysis activities relating to Russian Government interference in the elections for Federal office held in 2016. 
+| [[H.RES.235]] || Rep. Bennie Thompson [https://benniethompson.house.gov/] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to the Department of Homeland Security's research, integration, and analysis activities relating to Russian Government interference in the elections for Federal office held in 2016. 
 |-
-| [[H.RES.240]] || Providing for consideration of the bill (H.R. 1343) to direct the Securities and Exchange Commission to revise its rules so as to increase the threshold amount for requiring issuers to provide certain disclosures relating to compensatory benefit plans. 
+| [[H.RES.240]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 1343) to direct the Securities and Exchange Commission to revise its rules so as to increase the threshold amount for requiring issuers to provide certain disclosures relating to compensatory benefit plans. 
 |-
-| [[H.RES.241]] || Providing for consideration of the bill (H.R. 1304) to amend the Employee Retirement Income Security Act of 1974, the Public Health Service Act, and the Internal Revenue Code of 1986 to exclude from the definition of health insurance coverage certain medical stop-loss insurance obtained by certain plan sponsors of group health plans. 
+| [[H.RES.241]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the bill (H.R. 1304) to amend the Employee Retirement Income Security Act of 1974, the Public Health Service Act, and the Internal Revenue Code of 1986 to exclude from the definition of health insurance coverage certain medical stop-loss insurance obtained by certain plan sponsors of group health plans. 
 |-
-| [[H.RES.242]] || Providing for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017. 
+| [[H.RES.242]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 1219) to amend the Investment Company Act of 1940 to expand the investor limitation for qualifying venture capital funds under an exemption from the definition of an investment company, and providing for proceedings during the period from April 7, 2017, through April 24, 2017. 
 |-
-| [[H.RES.254]] || Providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+| [[H.RES.254]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
 |-
-| [[H.RES.25]] || Electing a Member to a certain standing committee of the House of Representatives. 
+| [[H.RES.25]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing a Member to a certain standing committee of the House of Representatives. 
 |-
-| [[H.RES.275]] || Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes. 
+| [[H.RES.275]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 1695) to amend title 17, United States Code, to provide additional responsibilities for the Register of Copyrights, and for other purposes. 
 |-
-| [[H.RES.280]] || Providing for consideration of the bill (H.R. 1694) to require additional entities to be subject to the requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
+| [[H.RES.280]] || Rep. Rob Woodall [https://woodall.house.gov/] || Providing for consideration of the bill (H.R. 1694) to require additional entities to be subject to the requirements of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
 |-
-| [[H.RES.289]] || Providing for consideration of the joint resolution (H.J. Res. 99) making further continuing appropriations for fiscal year 2017, and for other purposes. 
+| [[H.RES.289]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 99) making further continuing appropriations for fiscal year 2017, and for other purposes. 
 |-
-| [[H.RES.299]] || Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for other purposes. 
+| [[H.RES.299]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the bill (H.R. 1180) to amend the Fair Labor Standards Act of 1938 to provide compensatory time for employees in the private sector; providing for proceedings during the period from May 5, 2017, through May 15, 2017; and for other purposes. 
 |-
-| [[H.RES.29]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.29]] || Rep. Jason Smith [https://jasonsmith.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.2]] || To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. 
+| [[H.RES.2]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. 
 |-
-| [[H.RES.303]] || Electing a Member to certain standing committees of the House of Representatives. 
+| [[H.RES.303]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Electing a Member to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.305]] || Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes. 
+| [[H.RES.305]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the Senate amendments to the bill (H.R. 244) to encourage effective, voluntary investments to recruit, employ, and retain men and women who have served in the United States military with annual Federal awards to employers recognizing such efforts, and for other purposes. 
 |-
-| [[H.RES.308]] || Providing for consideration of the bill (H.R. 2192) to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff, and providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+| [[H.RES.308]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 2192) to amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff, and providing for further consideration of the bill (H.R. 1628) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
 |-
-| [[H.RES.317]] || Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran. 
+| [[H.RES.317]] || Rep. Ileana Ros-Lehtinen [https://ros-lehtinen.house.gov/] || Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran. 
 |-
-| [[H.RES.323]] || Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim. 
+| [[H.RES.323]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 115) to amend title 18, United States Code, to provide additional aggravating factors for the imposition of the death penalty based on the status of the victim. 
 |-
-| [[H.RES.324]] || Providing for consideration of the bill (H.R. 1039) to amend section 3606 of title 18, United States Code, to grant probation officers authority to arrest hostile third parties who obstruct or impede a probation officer in the performance of official duties. 
+| [[H.RES.324]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 1039) to amend section 3606 of title 18, United States Code, to grant probation officers authority to arrest hostile third parties who obstruct or impede a probation officer in the performance of official duties. 
 |-
-| [[H.RES.33]] || Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law. 
+| [[H.RES.33]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 5) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents, to clarify the nature of judicial review of agency interpretations, to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 79) to clarify the definition of general solicitation under Federal securities law. 
 |-
-| [[H.RES.348]] || Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes. 
+| [[H.RES.348]] || Rep. Rob Woodall [https://woodall.house.gov/] || Providing for consideration of the bill (H.R. 953) to amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes. 
 |-
-| [[H.RES.34]] || Electing Members to Certain Standing Committees of the House of Representatives. 
+| [[H.RES.34]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to Certain Standing Committees of the House of Representatives. 
 |-
-| [[H.RES.350]] || Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker. 
+| [[H.RES.350]] || Rep. Gregg Harper [https://harper.house.gov/] || Permitting official photographs of the House of Representatives to be taken while the House is in actual session on a date designated by the Speaker. 
 |-
-| [[H.RES.351]] || Condemning the violence and persecution in Chechnya. 
+| [[H.RES.351]] || Rep. Ileana Ros-Lehtinen [https://ros-lehtinen.house.gov/] || Condemning the violence and persecution in Chechnya. 
 |-
-| [[H.RES.352]] || Providing for consideration of the bill (H.R. 1973) to prevent the sexual abuse of minors and amateur athletes by requiring the prompt reporting of sexual abuse to law enforcement authorities, and for other purposes; providing for consideration of the bill (H.R. 1761) to amend title 18, United States Code, to criminalize the knowing consent of the visual depiction, or live transmission, of a minor engaged in sexually explicit conduct, and for other purposes; and providing for proceedings during the period from May 26, 2017, through June 5, 2017. 
+| [[H.RES.352]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 1973) to prevent the sexual abuse of minors and amateur athletes by requiring the prompt reporting of sexual abuse to law enforcement authorities, and for other purposes; providing for consideration of the bill (H.R. 1761) to amend title 18, United States Code, to criminalize the knowing consent of the visual depiction, or live transmission, of a minor engaged in sexually explicit conduct, and for other purposes; and providing for proceedings during the period from May 26, 2017, through June 5, 2017. 
 |-
-| [[H.RES.354]] || Condemning the violence against peaceful protesters outside the Turkish Ambassador's residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future. 
+| [[H.RES.354]] || Rep. Edward Royce [https://royce.house.gov/] || Condemning the violence against peaceful protesters outside the Turkish Ambassador's residence on May 16, 2017, and calling for the perpetrators to be brought to justice and measures to be taken to prevent similar incidents in the future. 
 |-
-| [[H.RES.355]] || Condemning in the strongest terms the terrorist attacks in Manchester, United Kingdom, on May 22, 2017, and in London, United Kingdom, on June 3, 2017, expressing heartfelt condolences, and reaffirming unwavering support for the special relationship between our peoples and nations in the wake of these attacks. 
+| [[H.RES.355]] || Rep. Gregory W. Meeks [https://meeks.house.gov/] || Condemning in the strongest terms the terrorist attacks in Manchester, United Kingdom, on May 22, 2017, and in London, United Kingdom, on June 3, 2017, expressing heartfelt condolences, and reaffirming unwavering support for the special relationship between our peoples and nations in the wake of these attacks. 
 |-
-| [[H.RES.36]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.36]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.374]] || Providing for consideration of the bill (H.R. 2213) to amend the Anti-Border Corruption Act of 2010 to authorize certain polygraph waiver authority, and for other purposes. 
+| [[H.RES.374]] || Rep. Liz Cheney [https://cheney.house.gov/] || Providing for consideration of the bill (H.R. 2213) to amend the Anti-Border Corruption Act of 2010 to authorize certain polygraph waiver authority, and for other purposes. 
 |-
-| [[H.RES.375]] || Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes. 
+| [[H.RES.375]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 10) to create hope and opportunity for investors, consumers, and entrepreneurs by ending bailouts and Too Big to Fail, holding Washington and Wall Street accountable, eliminating red tape to increase access to capital and credit, and repealing the provisions of the Dodd-Frank Act that make America less prosperous, less stable, and less free, and for other purposes. 
 |-
-| [[H.RES.378]] || Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes. 
+| [[H.RES.378]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the bill (H.R. 2581) to amend the Internal Revenue Code of 1986 to require the provision of social security numbers as a condition of receiving the health insurance premium tax credit, and providing for consideration of the bill (S. 1094) to amend title 38, United States Code, to improve the accountability of employees of the Department of Veterans Affairs, and for other purposes. 
 |-
-| [[H.RES.379]] || Providing for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage. 
+| [[H.RES.379]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the bill (H.R. 2372) to amend the Internal Revenue Code of 1986 to clarify the rules relating to veteran health insurance and eligibility for the premium tax credit, and providing for consideration of the bill (H.R. 2579) to amend the Internal Revenue Code of 1986 to allow the premium tax credit with respect to unsubsidized COBRA continuation coverage. 
 |-
-| [[H.RES.37]] || Providing for the attendance of the House at the Inaugural Ceremonies of the President and Vice President of the United States. 
+| [[H.RES.37]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for the attendance of the House at the Inaugural Ceremonies of the President and Vice President of the United States. 
 |-
-| [[H.RES.381]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.381]] || Rep. Ken Buck [https://buck.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.382]] || Providing for consideration of the bill (H.R. 1215) to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system. 
+| [[H.RES.382]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Providing for consideration of the bill (H.R. 1215) to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system. 
 |-
-| [[H.RES.385]] || Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured. 
+| [[H.RES.385]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || Expressing gratitude for the heroic actions of the United States Capitol Police and other first responders in the attack on Members of Congress on June 14, 2017, and expressing hope for a full recovery for the injured. 
 |-
-| [[H.RES.392]] || Providing for consideration of the bill (H.R. 1873) to amend the Federal Land Policy and Management Act of 1976 to enhance the reliability of the electricity grid and reduce the threat of wildfires to and from electric transmission and distribution facilities on Federal lands by facilitating vegetation management on such lands, and providing for consideration of the bill (H.R. 1654) to authorize the Secretary of the Interior to coordinate Federal and State permitting processes related to the construction of new surface water storage projects on lands under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture and to designate the Bureau of Reclamation as the lead agency for permit processing, and for other purposes. 
+| [[H.RES.392]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for consideration of the bill (H.R. 1873) to amend the Federal Land Policy and Management Act of 1976 to enhance the reliability of the electricity grid and reduce the threat of wildfires to and from electric transmission and distribution facilities on Federal lands by facilitating vegetation management on such lands, and providing for consideration of the bill (H.R. 1654) to authorize the Secretary of the Interior to coordinate Federal and State permitting processes related to the construction of new surface water storage projects on lands under the jurisdiction of the Secretary of the Interior and the Secretary of Agriculture and to designate the Bureau of Reclamation as the lead agency for permit processing, and for other purposes. 
 |-
-| [[H.RES.396]] || Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules. 
+| [[H.RES.396]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the bill (H.R. 2842) to provide for the conduct of demonstration projects to test the effectiveness of subsidized employment for TANF recipients, and providing for consideration of motions to suspend the rules. 
 |-
-| [[H.RES.397]] || Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization's principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty. 
+| [[H.RES.397]] || Rep. Paul D. Ryan [https://paulryan.house.gov/] || Solemnly reaffirming the commitment of the United States to the North Atlantic Treaty Organization's principle of collective defense as enumerated in Article 5 of the North Atlantic Treaty. 
 |-
-| [[H.RES.39]] || Electing a Member to a certain standing Committee of the House of Representatives. 
+| [[H.RES.39]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing a Member to a certain standing Committee of the House of Representatives. 
 |-
-| [[H.RES.3]] || Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. 
+| [[H.RES.3]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. 
 |-
-| [[H.RES.40]] || Providing for consideration of the bill (H.R. 78) to improve the consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and orders; providing for consideration of the bill (H.R. 238) to reauthorize the Commodity Futures Trading Commission, to better protect futures customers, to provide end-users with market certainty, to make basic reforms to ensure transparency and accountability at the Commission, to help farmers, ranchers, and end-users manage risks, to help keep consumer costs low, and for other purposes; and for other purposes. 
+| [[H.RES.40]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for consideration of the bill (H.R. 78) to improve the consideration by the Securities and Exchange Commission of the costs and benefits of its regulations and orders; providing for consideration of the bill (H.R. 238) to reauthorize the Commodity Futures Trading Commission, to better protect futures customers, to provide end-users with market certainty, to make basic reforms to ensure transparency and accountability at the Commission, to help farmers, ranchers, and end-users manage risks, to help keep consumer costs low, and for other purposes; and for other purposes. 
 |-
-| [[H.RES.410]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.410]] || Rep. Ken Buck [https://buck.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.411]] || Adjusting the amount of the Members' Representational Allowance. 
+| [[H.RES.411]] || Rep. Gregg Harper [https://harper.house.gov/] || Adjusting the amount of the Members' Representational Allowance. 
 |-
-| [[H.RES.412]] || Electing a Member to a certain standing committee of the House of Representatives. 
+| [[H.RES.412]] || Rep. Linda T. Sánchez [https://lindasanchez.house.gov/] || Electing a Member to a certain standing committee of the House of Representatives. 
 |-
-| [[H.RES.414]] || Providing for consideration of the bill (H.R. 3003) to amend the Immigration and Nationality Act to modify provisions relating to assistance by States, and political subdivision of States, in the enforcement of Federal immigration laws, and for other purposes. 
+| [[H.RES.414]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 3003) to amend the Immigration and Nationality Act to modify provisions relating to assistance by States, and political subdivision of States, in the enforcement of Federal immigration laws, and for other purposes. 
 |-
-| [[H.RES.415]] || Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017. 
+| [[H.RES.415]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for consideration of the bill (H.R. 3004) to amend section 276 of the Immigration and Nationality Act relating to reentry of removed aliens, and providing for proceedings during the period from July 3, 2017, through July 10, 2017. 
 |-
-| [[H.RES.431]] || Providing for consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes, and providing for consideration of the bill (H.R. 23) to provide drought relief in the State of California, and for other purposes. 
+| [[H.RES.431]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes, and providing for consideration of the bill (H.R. 23) to provide drought relief in the State of California, and for other purposes. 
 |-
-| [[H.RES.437]] || Of inquiry requesting the President to provide certain documents in the President's possession. 
+| [[H.RES.437]] || Rep. Peter A. DeFazio [https://defazio.house.gov/] || Of inquiry requesting the President to provide certain documents in the President's possession. 
 |-
-| [[H.RES.439]] || Electing a Member to a certain standing committee of the House of Representatives. 
+| [[H.RES.439]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing a Member to a certain standing committee of the House of Representatives. 
 |-
-| [[H.RES.440]] || Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes. 
+| [[H.RES.440]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for further consideration of the bill (H.R. 2810) to authorize appropriations for fiscal year 2018 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes. 
 |-
-| [[H.RES.442]] || Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to President Trump's financial connections to Russia, certain illegal financial schemes, and related information. 
+| [[H.RES.442]] || Rep. Maxine Waters [https://waters.house.gov/] || Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to President Trump's financial connections to Russia, certain illegal financial schemes, and related information. 
 |-
-| [[H.RES.446]] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey. 
+| [[H.RES.446]] || Rep. Pramila Jayapal [https://jayapal.house.gov/] || Of inquiry requesting the President and directing the Attorney General to transmit, respectively, certain documents to the House of Representatives relating to the removal of former Federal Bureau of Investigation Director James Comey. 
 |-
-| [[H.RES.447]] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump. 
+| [[H.RES.447]] || Rep. Bonnie Watson Coleman [https://watsoncoleman.house.gov/] || Directing the Secretary of Homeland Security to transmit certain documents to the House of Representatives relating to Department of Homeland Security policies and activities relating to businesses owned or controlled by President Donald J. Trump. 
 |-
-| [[H.RES.451]] || Providing for consideration of the bill (H.R. 806) to facilitate efficient State implementation of ground-level ozone standards, and for other purposes. 
+| [[H.RES.451]] || Rep. Michael C. Burgess [https://burgess.house.gov/] || Providing for consideration of the bill (H.R. 806) to facilitate efficient State implementation of ground-level ozone standards, and for other purposes. 
 |-
-| [[H.RES.453]] || Electing a Member to certain standing committees of the House of Representatives. 
+| [[H.RES.453]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing a Member to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.454]] || Providing for consideration of the bill (H.R. 2910) to provide for Federal and State agency coordination in the approval of certain authorizations under the Natural Gas Act, and for other purposes; providing for consideration of the bill (H.R. 2883) to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity; providing for consideration of the bill (H.R. 218) to provide for the exchange of Federal land and non-Federal land in the State of Alaska for the construction of a road between King Cove and Cold Bay; and for other purposes. 
+| [[H.RES.454]] || Rep. Liz Cheney [https://cheney.house.gov/] || Providing for consideration of the bill (H.R. 2910) to provide for Federal and State agency coordination in the approval of certain authorizations under the Natural Gas Act, and for other purposes; providing for consideration of the bill (H.R. 2883) to establish a more uniform, transparent, and modern process to authorize the construction, connection, operation, and maintenance of international border-crossing facilities for the import and export of oil and natural gas and the transmission of electricity; providing for consideration of the bill (H.R. 218) to provide for the exchange of Federal land and non-Federal land in the State of Alaska for the construction of a road between King Cove and Cold Bay; and for other purposes. 
 |-
-| [[H.RES.458]] || Providing for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
+| [[H.RES.458]] || Rep. Thomas Garrett [https://tomgarrett.house.gov/] || Providing for consideration of the bill (H.R. 1436) to provide for reconciliation pursuant to title II of the concurrent resolution on the budget for fiscal year 2017. 
 |-
-| [[H.RES.45]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.45]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.468]] || Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
+| [[H.RES.468]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 111) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to Arbitration Agreements. 
 |-
-| [[H.RES.469]] || Requesting the Senate to return to the House of Representatives House Joint Resolution 76. 
+| [[H.RES.469]] || Rep. Ken Buck [https://buck.house.gov/] || Requesting the Senate to return to the House of Representatives House Joint Resolution 76. 
 |-
-| [[H.RES.473]] || Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes. 
+| [[H.RES.473]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes. 
 |-
-| [[H.RES.478]] || Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules. 
+| [[H.RES.478]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for further consideration of the bill (H.R. 3219) making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes, and providing for consideration of motions to suspend the rules. 
 |-
-| [[H.RES.479]] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e. 
+| [[H.RES.479]] || Rep. Bill Pascrell Jr. [https://pascrell.house.gov/] || Of inquiry directing the Secretary of the Treasury to provide to the House of Representatives the tax return information of President Donald J. Trump as well as the tax returns of each business entity disclosed by Donald J. Trump on his Office of Government Ethics Form 278e. 
 |-
-| [[H.RES.480]] || Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs. 
+| [[H.RES.480]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (S. 114) to amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit an annual report regarding performance awards and bonuses awarded to certain high-level employees of the Department of Veterans Affairs. 
 |-
-| [[H.RES.481]] || Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017. 
+| [[H.RES.481]] || Rep. Liz Cheney [https://cheney.house.gov/] || Providing for consideration of the bill (H.R. 3180) to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes; waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules; and providing for proceedings during the period from July 31, 2017, through September 4, 2017. 
 |-
-| [[H.RES.48]] || Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
+| [[H.RES.48]] || Rep. Rob Woodall [https://woodall.house.gov/] || Providing for consideration of the concurrent resolution (S. Con. Res. 3) setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026, and providing for consideration of the bill (S. 84) to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces. 
 |-
-| [[H.RES.4]] || Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk. 
+| [[H.RES.4]] || Rep. John Conyers Jr. [https://conyers.house.gov/] || Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk. 
 |-
-| [[H.RES.500]] || Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
+| [[H.RES.500]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes; providing for consideration of motions to suspend the rules; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. 
 |-
-| [[H.RES.502]] || Providing for the concurrence by the House in the Senate amendments to H.R. 601, with an amendment. 
+| [[H.RES.502]] || Rep. Rodney Frelinghuysen [https://frelinghuysen.house.gov/] || Providing for the concurrence by the House in the Senate amendments to H.R. 601, with an amendment. 
 |-
-| [[H.RES.504]] || Providing for further consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes. 
+| [[H.RES.504]] || Rep. Rob Woodall [https://woodall.house.gov/] || Providing for further consideration of the bill (H.R. 3354) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes. 
 |-
-| [[H.RES.509]] || Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 601) to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes. 
+| [[H.RES.509]] || Rep. Pete Sessions [https://sessions.house.gov/] || Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 601) to enhance the transparency and accelerate the impact of assistance provided under the Foreign Assistance Act of 1961 to promote quality basic education in developing countries, to better enable such countries to achieve universal access to quality basic education and improved learning outcomes, to eliminate duplication and waste, and for other purposes. 
 |-
-| [[H.RES.513]] || Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017. 
+| [[H.RES.513]] || Rep. Doug Collins [https://dougcollins.house.gov/] || Providing for consideration of the bill (H.R. 3697) to amend the Immigration and Nationality Act with respect to aliens associated with criminal gangs, and for other purposes, and providing for proceedings during the period from September 15, 2017, through September 22, 2017. 
 |-
-| [[H.RES.51]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.51]] || Rep. Cathy McMorris Rodgers [http://mcmorris.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.52]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.52]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.54]] || Reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms. 
+| [[H.RES.54]] || Rep. Albio Sires [https://sires.house.gov/] || Reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms. 
 |-
-| [[H.RES.55]] || Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions. 
+| [[H.RES.55]] || Rep. Liz Cheney [https://cheney.house.gov/] || Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions. 
 |-
-| [[H.RES.56]] || Electing Members to a certain standing committee of the House of Representatives. 
+| [[H.RES.56]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to a certain standing committee of the House of Representatives. 
 |-
-| [[H.RES.59]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.59]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.5]] || Adopting rules for the One Hundred Fifteenth Congress. 
+| [[H.RES.5]] || Rep. Kevin McCarthy [https://kevinmccarthy.house.gov/] || Adopting rules for the One Hundred Fifteenth Congress. 
 |-
-| [[H.RES.6]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.6]] || Rep. Cathy McMorris Rodgers [http://mcmorris.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.70]] || Providing for consideration of the joint resolution (H.J. Res. 38) disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
+| [[H.RES.70]] || Rep. Dan Newhouse [https://newhouse.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 38) disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule. 
 |-
-| [[H.RES.71]] || Providing for consideration of the joint resolution (H.J. Res. 41) providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers, and providing for consideration of the joint resolution (H.J. Res. 40) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
+| [[H.RES.71]] || Rep. Ken Buck [https://buck.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 41) providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to Disclosure of Payments by Resource Extraction Issuers, and providing for consideration of the joint resolution (H.J. Res. 40) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007. 
 |-
-| [[H.RES.74]] || Providing for consideration of the joint resolution (H.J. Res. 36) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation, and providing for consideration of the joint resolution (H.J. Res. 37) disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
+| [[H.RES.74]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 36) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to Waste Prevention, Production Subject to Royalties, and Resource Conservation, and providing for consideration of the joint resolution (H.J. Res. 37) disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation. 
 |-
-| [[H.RES.7]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.7]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.82]] || Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing. 
+| [[H.RES.82]] || Rep. Gregg Harper [https://harper.house.gov/] || Electing Members to the Joint Committee of Congress on the Library and the Joint Committee on Printing. 
 |-
-| [[H.RES.8]] || Providing for the designation of certain minority employees. 
+| [[H.RES.8]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Providing for the designation of certain minority employees. 
 |-
-| [[H.RES.91]] || Providing for consideration of the joint resolution (H.J. Res. 44) disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976; providing for consideration of the joint resolution (H.J. Res. 57) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965; and providing for consideration of the joint resolution (H.J. Res. 58) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
+| [[H.RES.91]] || Rep. Bradley Byrne [https://byrne.house.gov/] || Providing for consideration of the joint resolution (H.J. Res. 44) disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976; providing for consideration of the joint resolution (H.J. Res. 57) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965; and providing for consideration of the joint resolution (H.J. Res. 58) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues. 
 |-
-| [[H.RES.92]] || Condemning North Korea's development of multiple intercontinental ballistic missiles, and for other purposes. 
+| [[H.RES.92]] || Rep. Joe Wilson [https://joewilson.house.gov/] || Condemning North Korea's development of multiple intercontinental ballistic missiles, and for other purposes. 
 |-
-| [[H.RES.95]] || Electing Members to certain standing committees of the House of Representatives. 
+| [[H.RES.95]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Electing Members to certain standing committees of the House of Representatives. 
 |-
-| [[H.RES.98]] || Ranking a certain Member of a certain standing committee of the House of Representatives. 
+| [[H.RES.98]] || Rep. Joseph Crowley [https://crowley.house.gov/] || Ranking a certain Member of a certain standing committee of the House of Representatives. 
 |-
-| [[H.RES.99]] || Providing for consideration of the bill (H.R. 428) to survey the gradient boundary along the Red River in the States of Oklahoma and Texas, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 42) disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
+| [[H.RES.99]] || Rep. Tom Cole [https://cole.house.gov/] || Providing for consideration of the bill (H.R. 428) to survey the gradient boundary along the Red River in the States of Oklahoma and Texas, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 42) disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants. 
 |-
-| [[H.RES.9]] || Fixing the daily hour of meeting of the First Session of the One Hundred Fifteenth Congress. 
+| [[H.RES.9]] || Rep. Pete Sessions [https://sessions.house.gov/] || Fixing the daily hour of meeting of the First Session of the One Hundred Fifteenth Congress. 
 |}

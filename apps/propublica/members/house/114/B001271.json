@@ -1,0 +1,183 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001271",
+         
+         "first_name": "Dan",
+         "middle_name": null,
+         "last_name": "Benishek",
+         "date_of_birth": "1952-04-20",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412436",
+         "cspan_id": "61860",
+         "votesmart_id": null,
+         "icpsr_id": "21141",
+         "twitter_account": "CongressmanDan",
+         "facebook_account": "CongressmanDan",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/0bmf7qt",
+         "rss_url": "http://benishek.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0MI01088",
+           "seniority": "6",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 212,
+           "missed_votes_pct": 0.30,
+           "votes_with_party_pct": 92.13,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSII.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSVR.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 18,
+           "bills_cosponsored": 294,
+           "missed_votes_pct": 2.94,
+           "votes_with_party_pct": 90.32,
+           "committees": [
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSII.json",
+             "rank_in_party": 12,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAG.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:1",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 255,
+           "missed_votes_pct": 0.81,
+           "votes_with_party_pct": 89.64,
+           "committees": [
+           {
+             "name": "Committee on Science, Space, and Technology",
+             "code": "HSSY",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSSY.json",
+             "rank_in_party": 22,
+             "begin_date": "2011-02-09",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Natural Resources",
+             "code": "HSII",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSII.json",
+             "rank_in_party": 14,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSVR.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

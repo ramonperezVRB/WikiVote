@@ -1,0 +1,167 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "N000185",
+         
+         "first_name": "Richard",
+         "middle_name": null,
+         "last_name": "Nugent",
+         "date_of_birth": "1951-05-26",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412409",
+         "cspan_id": "1033683",
+         "votesmart_id": null,
+         "icpsr_id": "21115",
+         "twitter_account": "RepRichNugent",
+         "facebook_account": "RepRichNugent",
+         "youtube_account": "RepRichNugent",
+         "crp_id": null,
+         "google_entity_id": "/m/0czc10m",
+         "rss_url": "https://nugent.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H0FL05139",
+           "seniority": "6",
+           "district": "11", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:11",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 187,
+           "missed_votes_pct": 13.58,
+           "votes_with_party_pct": 92.75,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 24,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHA.json",
+             "rank_in_party": 3,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "11", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:11",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 261,
+           "missed_votes_pct": 2.85,
+           "votes_with_party_pct": 92.92,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSAS.json",
+             "rank_in_party": 29,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHA.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSRU.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "FL",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:fl/cd:5",
+           "start_date": "2011-01-05",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 236,
+           "missed_votes_pct": 0.68,
+           "votes_with_party_pct": 93.86,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHA.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Rules",
+             "code": "HSRU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSRU.json",
+             "rank_in_party": 6,
+             "begin_date": "2011-01-05",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

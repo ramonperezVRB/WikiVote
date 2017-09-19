@@ -1,0 +1,335 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "M001150",
+         
+         "first_name": "Candice",
+         "middle_name": "S.",
+         "last_name": "Miller",
+         "date_of_birth": "1954-05-07",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400276",
+         "cspan_id": "1003594",
+         "votesmart_id": null,
+         "icpsr_id": "20331",
+         "twitter_account": "CandiceMiller",
+         "facebook_account": "CongresswomanCandiceMiller",
+         "youtube_account": "candicemi10",
+         "crp_id": null,
+         "google_entity_id": "/m/03tl30",
+         "rss_url": "http://candicemiller.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H6MI12181",
+           "seniority": "14",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2015-01-06",
+           "end_date": "2016-12-31",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 160,
+           "missed_votes_pct": 7.17,
+           "votes_with_party_pct": 94.63,
+           "committees": [
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHA.json",
+             "rank_in_party": 1,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSHM.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Joint Committee on the Library",
+             "code": "JSLC",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/JSLC.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Joint Committee on Printing",
+             "code": "JSPR",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/JSPR.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 210,
+           "missed_votes_pct": 0.17,
+           "votes_with_party_pct": 95.55,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHM.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 11,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on House Administration",
+             "code": "HSHA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSHA.json",
+             "rank_in_party": 1,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 227,
+           "missed_votes_pct": 0.37,
+           "votes_with_party_pct": 91.81,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSHM.json",
+             "rank_in_party": 8,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSPW.json",
+             "rank_in_party": 13,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 5,
+           "bills_cosponsored": 325,
+           "missed_votes_pct": 0.42,
+           "votes_with_party_pct": 90.33,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSPW.json",
+             "rank_in_party": 23,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSHM.json",
+             "rank_in_party": 9,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 7,
+           "bills_cosponsored": 239,
+           "missed_votes_pct": 0.59,
+           "votes_with_party_pct": 87.98,
+           "committees": [
+           {
+             "name": "Committee on Energy (Ad Hoc)",
+             "code": "HHAH",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HHAH.json",
+             "rank_in_party": 6,
+             "begin_date": "2007-03-09",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSAS.json",
+             "rank_in_party": 18,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSPW.json",
+             "rank_in_party": 31,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 195,
+           "missed_votes_pct": 4.20,
+           "votes_with_party_pct": 92.52,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "MI",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "10", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:mi/cd:10",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 6,
+           "bills_cosponsored": 191,
+           "missed_votes_pct": 2.05,
+           "votes_with_party_pct": 96.32,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

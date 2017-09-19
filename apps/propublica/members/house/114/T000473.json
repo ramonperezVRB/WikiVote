@@ -1,0 +1,75 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "T000473",
+         
+         "first_name": "Mark",
+         "middle_name": null,
+         "last_name": "Takai",
+         "date_of_birth": "1967-07-01",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412626",
+         "cspan_id": null,
+         "votesmart_id": null,
+         "icpsr_id": "21517",
+         "twitter_account": "RepMarkTakai",
+         "facebook_account": "repmarktakai",
+         "youtube_account": null,
+         "crp_id": null,
+         "google_entity_id": "/m/0yp0gs4",
+         "rss_url": "https://takai.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-07-14",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "HI",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H4HI01134",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:hi/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2016-07-20",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 263,
+           "missed_votes_pct": 35.65,
+           "votes_with_party_pct": 95.79,
+           "committees": [
+           {
+             "name": "Committee on Armed Services",
+             "code": "HSAS",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAS.json",
+             "rank_in_party": 23,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSSM.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

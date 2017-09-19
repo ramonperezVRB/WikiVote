@@ -1,0 +1,161 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "F000451",
+         
+         "first_name": "Michael",
+         "middle_name": "G.",
+         "last_name": "Fitzpatrick",
+         "date_of_birth": "1963-06-28",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400646",
+         "cspan_id": "33378",
+         "votesmart_id": null,
+         "icpsr_id": "20524",
+         "twitter_account": "RepFitzpatrick",
+         "facebook_account": "RepFitzpatrick",
+         "youtube_account": "RepFitzpatrickPA8",
+         "crp_id": null,
+         "google_entity_id": "/m/04bbg5",
+         "rss_url": null,
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4PA08074",
+           "seniority": "6",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:8",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 22,
+           "bills_cosponsored": 261,
+           "missed_votes_pct": 4.08,
+           "votes_with_party_pct": 83.95,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 10,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:8",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 34,
+           "bills_cosponsored": 296,
+           "missed_votes_pct": 1.93,
+           "votes_with_party_pct": 84.17,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 16,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:8",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 29,
+           "bills_cosponsored": 249,
+           "missed_votes_pct": 0.25,
+           "votes_with_party_pct": 80.34,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 22,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "PA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:pa/cd:8",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 26,
+           "bills_cosponsored": 305,
+           "missed_votes_pct": 2.22,
+           "votes_with_party_pct": 82.48,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

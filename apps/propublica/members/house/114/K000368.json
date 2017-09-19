@@ -1,0 +1,167 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "K000368",
+         
+         "first_name": "Ann",
+         "middle_name": null,
+         "last_name": "Kirkpatrick",
+         "date_of_birth": "1950-03-24",
+         "gender": "F",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "412286",
+         "cspan_id": "1031338",
+         "votesmart_id": null,
+         "icpsr_id": "20902",
+         "twitter_account": "RepKirkpatrick",
+         "facebook_account": "RepKirkpatrick",
+         "youtube_account": "repannkirkpatrick",
+         "crp_id": null,
+         "google_entity_id": "/m/02qtczp",
+         "rss_url": "http://kirkpatrick.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "AZ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H8AZ01104",
+           "seniority": "4",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:1",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 11,
+           "bills_cosponsored": 334,
+           "missed_votes_pct": 10.49,
+           "votes_with_party_pct": 88.45,
+           "committees": [
+           {
+             "name": "Committee on Agriculture",
+             "code": "HSAG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSAG.json",
+             "rank_in_party": 14,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSPW.json",
+             "rank_in_party": 18,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "AZ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:1",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 284,
+           "missed_votes_pct": 7.47,
+           "votes_with_party_pct": 86.85,
+           "committees": [
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSVR.json",
+             "rank_in_party": 6,
+             "begin_date": "2013-01-14",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSPW.json",
+             "rank_in_party": 22,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "AZ",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "1", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:az/cd:1",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 31,
+           "bills_cosponsored": 190,
+           "missed_votes_pct": 3.45,
+           "votes_with_party_pct": 85.71,
+           "committees": [
+           {
+             "name": "Committee on Homeland Security",
+             "code": "HSHM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSHM.json",
+             "rank_in_party": 12,
+             "begin_date": "2009-01-28",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Veterans&#39; Affairs",
+             "code": "HSVR",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSVR.json",
+             "rank_in_party": 17,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSSM.json",
+             "rank_in_party": 6,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         }
+       ]
+        }
+    ]
+}

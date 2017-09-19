@@ -1,0 +1,295 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "G000548",
+         
+         "first_name": "Scott",
+         "middle_name": null,
+         "last_name": "Garrett",
+         "date_of_birth": "1959-07-09",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400145",
+         "cspan_id": "1003601",
+         "votesmart_id": null,
+         "icpsr_id": "20336",
+         "twitter_account": "RepGarrett",
+         "facebook_account": "repscottgarrett",
+         "youtube_account": "repscottgarrett",
+         "crp_id": null,
+         "google_entity_id": "/m/033f6x",
+         "rss_url": "http://garrett.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H8NJ05052",
+           "seniority": "14",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 24,
+           "bills_cosponsored": 74,
+           "missed_votes_pct": 2.19,
+           "votes_with_party_pct": 91.67,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 5,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBU.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 132,
+           "missed_votes_pct": 1.43,
+           "votes_with_party_pct": 91.40,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBU.json",
+             "rank_in_party": 2,
+             "begin_date": "2013-02-05",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 21,
+           "bills_cosponsored": 203,
+           "missed_votes_pct": 1.62,
+           "votes_with_party_pct": 89.56,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBU.json",
+             "rank_in_party": 2,
+             "begin_date": "2011-01-18",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 12,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 25,
+           "bills_cosponsored": 314,
+           "missed_votes_pct": 2.12,
+           "votes_with_party_pct": 91.28,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBU.json",
+             "rank_in_party": 2,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBA.json",
+             "rank_in_party": 13,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 32,
+           "bills_cosponsored": 341,
+           "missed_votes_pct": 1.60,
+           "votes_with_party_pct": 89.11,
+           "committees": [
+           {
+             "name": "Committee on the Budget",
+             "code": "HSBU",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBU.json",
+             "rank_in_party": 3,
+             "begin_date": "2007-01-18",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBA.json",
+             "rank_in_party": 19,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 24,
+           "bills_cosponsored": 354,
+           "missed_votes_pct": 1.57,
+           "votes_with_party_pct": 87.87,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "NJ",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "5", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:nj/cd:5",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 14,
+           "bills_cosponsored": 268,
+           "missed_votes_pct": 1.15,
+           "votes_with_party_pct": 92.87,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

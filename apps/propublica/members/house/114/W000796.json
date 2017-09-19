@@ -1,0 +1,293 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "W000796",
+         
+         "first_name": "Lynn",
+         "middle_name": null,
+         "last_name": "Westmoreland",
+         "date_of_birth": "1950-04-02",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400627",
+         "cspan_id": "1013045",
+         "votesmart_id": null,
+         "icpsr_id": "20506",
+         "twitter_account": "RepWestmoreland",
+         "facebook_account": "71389451419",
+         "youtube_account": "RepLynnWestmoreland",
+         "crp_id": null,
+         "google_entity_id": "/m/04cmw9",
+         "rss_url": "https://westmoreland.house.gov/rss/press-releases.xml",
+         "in_office": false,
+         "current_party": "R",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "H4GA08067",
+           "seniority": "12",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:3",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 9,
+           "bills_cosponsored": 175,
+           "missed_votes_pct": 17.51,
+           "votes_with_party_pct": 93.05,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 11,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSIG.json",
+             "rank_in_party": 6,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Select Committee on Benghazi",
+             "code": "HSBG",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBG.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:3",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 407,
+           "missed_votes_pct": 6.04,
+           "votes_with_party_pct": 93.30,
+           "committees": [
+           {
+             "name": "Select Committee on Benghazi",
+             "code": "HSBG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBG.json",
+             "rank_in_party": 2,
+             "begin_date": "2014-05-09",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSIG.json",
+             "rank_in_party": 8,
+             "begin_date": "2013-02-08",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 17,
+             "begin_date": "2013-01-04",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:3",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 433,
+           "missed_votes_pct": 1.43,
+           "votes_with_party_pct": 93.30,
+           "committees": [
+           {
+             "name": "Permanent Select Committee on Intelligence",
+             "code": "HSIG",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSIG.json",
+             "rank_in_party": 9,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 23,
+             "begin_date": "2011-01-12",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:3",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 0,
+           "bills_cosponsored": 313,
+           "missed_votes_pct": 6.84,
+           "votes_with_party_pct": 91.88,
+           "committees": [
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSPW.json",
+             "rank_in_party": 21,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSGO.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-09",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "3", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:3",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 4,
+           "bills_cosponsored": 299,
+           "missed_votes_pct": 8.11,
+           "votes_with_party_pct": 88.86,
+           "committees": [
+           {
+             "name": "Committee on Oversight and Government Reform",
+             "code": "HSGO",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSGO.json",
+             "rank_in_party": 13,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Transportation and Infrastructure",
+             "code": "HSPW",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSPW.json",
+             "rank_in_party": 28,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Small Business",
+             "code": "HSSM",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSSM.json",
+             "rank_in_party": 9,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "GA",
+           "party": "R",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "8", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:ga/cd:8",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 1,
+           "bills_cosponsored": 211,
+           "missed_votes_pct": 4.86,
+           "votes_with_party_pct": 89.26,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}

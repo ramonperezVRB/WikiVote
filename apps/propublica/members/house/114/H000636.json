@@ -1,0 +1,381 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "H000636",
+         
+         "first_name": "Rubén",
+         "middle_name": null,
+         "last_name": "Hinojosa",
+         "date_of_birth": "1940-08-20",
+         "gender": "M",
+         "url": null,
+         "times_topics_url": "",
+         "times_tag": "",
+         "govtrack_id": "400179",
+         "cspan_id": "45743",
+         "votesmart_id": null,
+         "icpsr_id": "29763",
+         "twitter_account": "USRepRHinojosa",
+         "facebook_account": "CongressmanRubenHinojosa",
+         "youtube_account": "RepRubenHinojosa",
+         "crp_id": null,
+         "google_entity_id": "/m/03fvy5",
+         "rss_url": "http://hinojosa.house.gov/rss.xml",
+         "in_office": false,
+         "current_party": "D",
+         "most_recent_vote": "2016-12-08",
+         "roles": [
+ {
+           "congress": "114",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "H6TX15055",
+           "seniority": "20",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2015-01-06",
+           "end_date": "2017-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 239,
+           "missed_votes_pct": 22.79,
+           "votes_with_party_pct": 94.53,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSBA.json",
+             "rank_in_party": 7,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/114/house/committees/HSED.json",
+             "rank_in_party": 2,
+             "begin_date": "",
+             "end_date": "2017-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "113",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "18",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2013-01-03",
+           "end_date": "2015-01-02",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 325,
+           "missed_votes_pct": 13.00,
+           "votes_with_party_pct": 91.61,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSBA.json",
+             "rank_in_party": 7,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/113/house/committees/HSED.json",
+             "rank_in_party": 4,
+             "begin_date": "2013-01-03",
+             "end_date": "2015-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "112",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "16",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2011-01-04",
+           "end_date": "2013-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 10,
+           "bills_cosponsored": 250,
+           "missed_votes_pct": 9.28,
+           "votes_with_party_pct": 89.50,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSED.json",
+             "rank_in_party": 7,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/112/house/committees/HSBA.json",
+             "rank_in_party": 11,
+             "begin_date": "2011-01-19",
+             "end_date": "2013-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "111",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "14",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 357,
+           "missed_votes_pct": 11.86,
+           "votes_with_party_pct": 98.56,
+           "committees": [
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSED.json",
+             "rank_in_party": 7,
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/111/house/committees/HSBA.json",
+             "rank_in_party": 13,
+             "begin_date": "2009-01-07",
+             "end_date": "2011-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "110",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "12",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 19,
+           "bills_cosponsored": 661,
+           "missed_votes_pct": 11.79,
+           "votes_with_party_pct": 96.92,
+           "committees": [
+           {
+             "name": "Committee on Financial Services",
+             "code": "HSBA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSBA.json",
+             "rank_in_party": 14,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Foreign Affairs",
+             "code": "HSFA",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSFA.json",
+             "rank_in_party": 17,
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },
+           {
+             "name": "Committee on Education and the Workforce",
+             "code": "HSED",
+             "api_uri": "https://api.propublica.org/congress/v1/110/house/committees/HSED.json",
+             "rank_in_party": 7,
+             "begin_date": "2007-01-10",
+             "end_date": "2009-01-03"
+           }
+           ],
+           "subcommittees": [
+           ]
+         },
+        {
+           "congress": "109",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "10",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2005-01-04",
+           "end_date": "2007-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 15,
+           "bills_cosponsored": 357,
+           "missed_votes_pct": 11.86,
+           "votes_with_party_pct": 88.88,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "108",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "8",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2003-01-07",
+           "end_date": "2005-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 13,
+           "bills_cosponsored": 336,
+           "missed_votes_pct": 7.94,
+           "votes_with_party_pct": 91.10,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "107",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "6",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "2001-01-03",
+           "end_date": "2003-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 221,
+           "missed_votes_pct": 7.83,
+           "votes_with_party_pct": 92.81,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "106",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "4",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "1999-01-06",
+           "end_date": "2001-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 231,
+           "missed_votes_pct": 9.47,
+           "votes_with_party_pct": 94.63,
+           "committees": [
+],
+           "subcommittees": [
+]
+         },
+        {
+           "congress": "105",
+           "chamber": "House",
+           "title": "Representative",
+           "state": "TX",
+           "party": "D",
+           "leadership_role": null,
+           "fec_candidate_id": "",
+           "seniority": "2",
+           "district": "15", "at_large": false,
+           "ocd_id": "ocd-division/country:us/state:tx/cd:15",
+           "start_date": "1997-01-07",
+           "end_date": "1999-01-03",
+           "office": null,
+           "phone": null,
+           "fax": null,
+           "contact_form": null,
+           "bills_sponsored": 2,
+           "bills_cosponsored": 160,
+           "missed_votes_pct": 3.29,
+           "votes_with_party_pct": 88.68,
+           "committees": [
+],
+           "subcommittees": [
+]
+         }
+       ]
+        }
+    ]
+}
