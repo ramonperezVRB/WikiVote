@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres262-115",
+         "bill_slug": "sres262",
+         "congress": "115",
+         "bill": "S.RES.262",
+         "bill_type": "sres",
+         "number": "S.RES.262",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres262.json",
+         "title": "A resolution commemorating the 70th anniversary of the establishment of the Air Force as an independent military service and celebrating the Air Force for 70 years of serving and defending the United States.",
+         "short_title": "A resolution commemorating the 70th anniversary of the establishment of the Air Force as an independent military service and celebrating the Air Force for 70 years of serving and defending the United States.",
+         "sponsor_title": "Sen.",
+         "sponsor": "John Boozman",
+         "sponsor_id": "B001236",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/B001236.json",
+         "sponsor_party": "R",
+         "sponsor_state": "AR",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/262",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres262",
+         "introduced_date": "2017-09-18",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 13,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-18",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-18",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s1848-115",
+         "bill_slug": "s1848",
+         "congress": "115",
+         "bill": "S.1848",
+         "bill_type": "s",
+         "number": "S.1848",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s1848.json",
+         "title": "An original bill to amend the Trafficking Victims Protection Act of 2000 to modify the criteria for determining whether countries are meeting the minimum standards for the elimination of human trafficking, and for other purposes.",
+         "short_title": "An original bill to amend the Trafficking Victims Protection Act of 2000 to modify the criteria for determining whether countries are meeting the minimum standards for the elimination of human trafficking, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bob Corker",
+         "sponsor_id": "C001071",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001071.json",
+         "sponsor_party": "R",
+         "sponsor_state": "TN",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1848",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s1848",
+         "introduced_date": "2017-09-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 0,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "Senate Foreign Relations Committee",
+         "committee_codes": ["SSFR"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-19",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-09-19",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 225."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-09-19",
+           "description": "Committee on Foreign Relations. Original measure reported to Senate by Senator Corker. Without written report."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

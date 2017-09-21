@@ -1,0 +1,80 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "s396-115",
+         "bill_slug": "s396",
+         "congress": "115",
+         "bill": "S.396",
+         "bill_type": "s",
+         "number": "S.396",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s396.json",
+         "title": "A bill to make technical amendments to certain marine fish conservation statutes, and for other purposes.",
+         "short_title": "A bill to make technical amendments to certain marine fish conservation statutes, and for other purposes.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Bill Nelson",
+         "sponsor_id": "N000032",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000032.json",
+         "sponsor_party": "D",
+         "sponsor_state": "FL",
+         "gpo_pdf_uri": "https://www.gpo.gov/fdsys/pkg/BILLS-115s396is/pdf/BILLS-115s396is.pdf",
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/396",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/s396",
+         "introduced_date": "2017-02-15",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 3,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Public Lands and Natural Resources",
+         "committees": "Senate Commerce, Science, and Transportation Committee",
+         "committee_codes": ["SSCM"],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-19",
+         "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "This bill amends the Billfish Conservation Act of 2012 to limit the sale of billfish caught by U.S. fishing vessels.  Under current law, billfish caught by U.S. vessels that land (number or poundage of fish unloaded onshore by commercial fisherman) in Hawaii or Pacific Insular Areas (American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, the Northern Mariana Islands, Palmyra Atoll, and Wake Island) may be sold and exported to non-U.S. markets or transported to other U.S. markets. This bill requires billfish caught by U.S. vessels that land in Hawaii or Pacific Insular Areas to be retained for sale in those areas. ",
+         "summary_short": "This bill amends the Billfish Conservation Act of 2012 to limit the sale of billfish caught by U.S. fishing vessels.  Under current law, billfish caught by U.S. vessels that land (number or poundage of fish unloaded onshore by commercial fisherman) in Hawaii or Pacific Insular Areas (American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, the Northern Mariana Islands, Palmyra Atoll, and Wake Island) may be sold and exported to non-U.S. m...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 4,
+           "chamber": "Senate",
+           "action_type": "Calendars",
+           "datetime": "2017-09-19",
+           "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 224."
+         },
+                  {
+           "id": 3,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-09-19",
+           "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-160."
+         },
+                  {
+           "id": 2,
+           "chamber": "Senate",
+           "action_type": "Committee",
+           "datetime": "2017-05-18",
+           "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably."
+         },
+                  {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "IntroReferral",
+           "datetime": "2017-02-15",
+           "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "sres265-115",
+         "bill_slug": "sres265",
+         "congress": "115",
+         "bill": "S.RES.265",
+         "bill_type": "sres",
+         "number": "S.RES.265",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sres265.json",
+         "title": "A resolution designating September 22, 2017, as \"National Falls Prevention Awareness Day\" to raise awareness and encourage the prevention of falls among older adults.",
+         "short_title": "A resolution designating September 22, 2017, as \"National Falls Prevention Awareness Day\" to raise awareness and encourage the prevention of falls among older adults.",
+         "sponsor_title": "Sen.",
+         "sponsor": "Susan Collins",
+         "sponsor_id": "C001035",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/C001035.json",
+         "sponsor_party": "R",
+         "sponsor_state": "ME",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/265",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/sres265",
+         "introduced_date": "2017-09-19",
+         "active": true,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 1,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "",
+         "committees": "",
+         "committee_codes": [],
+         "subcommittee_codes": [],
+         "latest_major_action_date": "2017-09-19",
+         "latest_major_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": "",
+         "summary_short": "",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 1,
+           "chamber": "Senate",
+           "action_type": "Floor",
+           "datetime": "2017-09-19",
+           "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}
